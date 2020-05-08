@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-08 17:10:04",
+  "time":"2020-05-08 17:14:18",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"人类噪音对海洋生物行为的有害影响：变得更具攻击性",
+      "url":"https://www.cnbeta.com/articles/science/976521.htm"
+    },
     {
       "name":"库克最新毕业演讲：解放自己而后拯救国家",
       "url":"https://www.cnbeta.com/articles/tech/976519.htm"
@@ -237,10 +241,6 @@
     {
       "name":"惠普ENVY15笔记本发布：4K AMOLED屏 多合一超级键盘",
       "url":"https://www.cnbeta.com/articles/tech/976403.htm"
-    },
-    {
-      "name":"Intel新一代傲腾SSD/内存条年内推出：容量翻番、采用PCIe 4.0",
-      "url":"https://www.cnbeta.com/articles/tech/976401.htm"
     }
   ]
 }
