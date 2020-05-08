@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-08 17:26:59",
+  "time":"2020-05-08 17:31:12",
   "title":"贴吧热度榜单",
   "data":[
     {
@@ -51,6 +51,10 @@
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277589&topic_name=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%85%AC%E5%8F%B8%E5%BC%80%E5%8F%91%E6%A3%BA%E6%9D%90%E7%89%88%E7%97%85%E5%BA%8A"
     },
     {
+      "name":"西安翻译学院学生正式返校。为做好疫情防控，学校决定投入400万元，为全校学生、教职员工免费做核酸检测。",
+      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277558&topic_name=%E9%AB%98%E6%A0%A1%E6%8E%8F400%E4%B8%87%E4%B8%BA%E5%B8%88%E7%94%9F%E5%81%9A%E6%A3%80%E6%9F%A5"
+    },
+    {
       "name":"韩国冬奥冠军林孝俊上演的脱裤事件依然没有画上句号，法院在本周对林孝俊开出罚单，并要求其进行40小时的强制治疗。",
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277579&topic_name=%E9%9F%A9%E5%9B%BD%E7%9F%AD%E9%81%93%E8%84%B1%E8%A3%A4%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%A2%AB%E7%BD%9A"
     },
@@ -75,8 +79,8 @@
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277575&topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%B4%E8%BA%AB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%A1%AE%E8%AF%8A"
     },
     {
-      "name":"西安翻译学院学生正式返校。为做好疫情防控，学校决定投入400万元，为全校学生、教职员工免费做核酸检测。",
-      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277558&topic_name=%E9%AB%98%E6%A0%A1%E6%8E%8F400%E4%B8%87%E4%B8%BA%E5%B8%88%E7%94%9F%E5%81%9A%E6%A3%80%E6%9F%A5"
+      "name":"近日有网文作者控诉阅文集团强推霸王条款：付费阅读变成免费，新作者合同IP全部归属平台。阅文新团队回应质疑：对于合同不合理的条款会做出相应修改。",
+      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277452&topic_name=%E9%98%85%E6%96%87%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E9%9C%B8%E7%8E%8B%E6%9D%A1%E6%AC%BE"
     },
     {
       "name":"近日南昌的张先生双耳突然失聪，就医检查后被诊断为突发性耳聋。医生表示：张先生的突发性耳聋与其长期戴耳机、耳麦玩手机游戏的不良用耳习惯有直接关系。",
@@ -117,10 +121,6 @@
     {
       "name":"受疫情影响苹果手机销量削减，富士康订单减少，传言称部分员工被强制放假4个月，对此富士康回应称，目前各厂区运作正常，并无大规模裁员及休假情况。",
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277570&topic_name=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%9B%9E%E5%BA%94%E6%94%BE%E5%81%87%E4%BC%A0%E9%97%BB"
-    },
-    {
-      "name":"近日有网文作者控诉阅文集团强推霸王条款：付费阅读变成免费，新作者合同IP全部归属平台。阅文新团队回应质疑：对于合同不合理的条款会做出相应修改。",
-      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277452&topic_name=%E9%98%85%E6%96%87%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E9%9C%B8%E7%8E%8B%E6%9D%A1%E6%AC%BE"
     }
   ]
 }
