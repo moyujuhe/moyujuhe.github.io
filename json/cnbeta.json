@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-08 15:00:48",
+  "time":"2020-05-08 15:05:08",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软终于为Surface耳机提供了配套App",
+      "url":"https://www.cnbeta.com/articles/tech/976463.htm"
+    },
     {
       "name":"《动物之森》魅力有多大？美最年轻国会女议员AOC也深陷其中",
       "url":"https://hot.cnbeta.com/articles/game/976461.htm"
@@ -237,10 +241,6 @@
     {
       "name":"令人失望：XSX第三方游戏展示 IGN读者评分出来了",
       "url":"https://hot.cnbeta.com/articles/game/976343.htm"
-    },
-    {
-      "name":"中国团队自然刊文：新冠病毒或由来自蝙蝠穿山甲冠状病毒重组",
-      "url":"https://www.cnbeta.com/articles/science/976341.htm"
     }
   ]
 }
