@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-08 19:21:35",
+  "time":"2020-05-08 19:25:45",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"苹果将于5月11日在德国重开Apple Store",
+      "url":"https://www.cnbeta.com/articles/tech/976541.htm"
+    },
     {
       "name":"新西兰放宽防疫条例 《阿凡达》《指环王》等将复拍",
       "url":"https://hot.cnbeta.com/articles/movie/976539.htm"
@@ -237,10 +241,6 @@
     {
       "name":"LG化学成全球最大锂电池企业  宁德时代退居第三",
       "url":"https://www.cnbeta.com/articles/tech/976423.htm"
-    },
-    {
-      "name":"长沙一台理想ONE起火 官方回应称电池系统没有出现问题",
-      "url":"https://www.cnbeta.com/articles/tech/976421.htm"
     }
   ]
 }

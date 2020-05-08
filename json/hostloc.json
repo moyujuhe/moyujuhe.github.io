@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-08 19:21:38",
+  "time":"2020-05-08 19:25:50",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"道歉信",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686473&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"震惊: vir圣何塞SJKVM9节点北京电信竟然崛起了, 不用吃灰啦!",
@@ -109,10 +113,6 @@
     {
       "name":"现在搭建onedrive目录用什么程序都失效了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686447&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"paypal账号能不能买",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686446&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
