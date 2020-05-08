@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-08 15:18:14",
+  "time":"2020-05-08 15:22:36",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"科学家首次发现新冠病毒可能还潜伏在精液中",
+      "url":"https://www.cnbeta.com/articles/tech/976475.htm"
+    },
+    {
+      "name":"官方公布首批登陆 Xbox Series X 的第三方游戏",
+      "url":"https://hot.cnbeta.com/articles/game/976473.htm"
+    },
     {
       "name":"特斯拉上海超级工厂Model Y厂房钢结构已基本完成",
       "url":"https://www.cnbeta.com/articles/tech/976471.htm"
@@ -233,14 +241,6 @@
     {
       "name":"Zoom和纽约总检察长就平台安全改善问题达成协议",
       "url":"https://www.cnbeta.com/articles/tech/976355.htm"
-    },
-    {
-      "name":"澳洲公司开发的新系统可允许水池中容纳更多冲浪者",
-      "url":"https://www.cnbeta.com/articles/tech/976353.htm"
-    },
-    {
-      "name":"谷歌推出Read Along应用 帮助孩子提升阅读能力",
-      "url":"https://www.cnbeta.com/articles/tech/976351.htm"
     }
   ]
 }
