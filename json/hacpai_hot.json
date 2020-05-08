@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-08 16:27:20",
+  "time":"2020-05-08 16:31:30",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -45,10 +45,6 @@
     {
       "name":"20200410 TGIF",
       "url":"https://hacpai.com/article/1586481241024"
-    },
-    {
-      "name":"用 flutter 写了一个黑客派的第三方 app",
-      "url":"https://hacpai.com/article/1586333437792"
     },
     {
       "name":"Vditor 在 NPM 上的下载量已经超过 Editor.md 了",
@@ -241,6 +237,10 @@
     {
       "name":"Symphony 404",
       "url":"https://hacpai.com/article/1587427833055"
+    },
+    {
+      "name":"最励志的程序员转型案例",
+      "url":"https://hacpai.com/article/1587354368287"
     }
   ]
 }

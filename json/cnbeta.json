@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-08 16:27:18",
+  "time":"2020-05-08 16:31:29",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"前漫威高层加盟《龙与地下城》电影 负责过多部大片",
+      "url":"https://hot.cnbeta.com/articles/movie/976501.htm"
+    },
     {
       "name":"兰博基尼发布Huracan EVO RWD Spyder：领略敞篷漂移之美",
       "url":"https://www.cnbeta.com/articles/tech/976499.htm"
@@ -143,7 +147,7 @@
       "url":"https://www.cnbeta.com/articles/science/976431.htm"
     },
     {
-      "name":"拯救者2020春季新品发布会举行 联想发布新款显示器和键鼠外设",
+      "name":"拯救者2020春季新品发布会举行 联想发布新款显示器和游戏键盘",
       "url":"https://www.cnbeta.com/articles/tech/976429.htm"
     },
     {
@@ -237,10 +241,6 @@
     {
       "name":"英伟达GeForce Now云游戏平台新增十余款游戏",
       "url":"https://hot.cnbeta.com/articles/game/976381.htm"
-    },
-    {
-      "name":"Tinder尝试在滑动配对界面引入动态视频",
-      "url":"https://www.cnbeta.com/articles/tech/976379.htm"
     }
   ]
 }
