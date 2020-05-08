@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-09 01:18:14",
+  "time":"2020-05-09 01:22:28",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"阿里云试用开机失败",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686621&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"求组 看看是被cc了吗",
@@ -109,10 +113,6 @@
     {
       "name":"其实我是有些搞不懂digitalocean的策略",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686593&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"大佬们能不能推荐个硬盘装机的软件",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686592&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
