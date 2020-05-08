@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 07:20:59",
+  "time":"2020-05-09 07:25:12",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"谷歌预计大部分员工在2021年之前都将居家办公",
+      "url":"https://www.cnbeta.com/articles/tech/976609.htm"
+    },
     {
       "name":"金山云上市首日 收盘股价暴涨40.24%",
       "url":"https://www.cnbeta.com/articles/tech/976607.htm"
@@ -237,10 +241,6 @@
     {
       "name":"比特大陆内斗升级到“抢营业执照”，吴忌寒：就是干，不要怂",
       "url":"https://www.cnbeta.com/articles/tech/976491.htm"
-    },
-    {
-      "name":"被炒员工谈亚马逊工作体验：贝佐斯已脱离“群众”",
-      "url":"https://www.cnbeta.com/articles/tech/976489.htm"
     }
   ]
 }
