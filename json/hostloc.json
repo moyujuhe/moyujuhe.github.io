@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-08 23:26:41",
+  "time":"2020-05-08 23:31:25",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"还有半个小时，能上万吗？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686591&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"用twrp五清了，安装ROM提示：updater过程结束 错误7",
@@ -109,10 +113,6 @@
     {
       "name":"[原来是到期了]天翼云api列表翻车了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686565&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"hetzner+cf+hk这样能行不？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686563&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
