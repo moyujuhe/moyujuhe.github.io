@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 04:49:00",
+  "time":"2020-05-09 06:30:45",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"谷歌预计大部分员工在2021年之前都将居家办公",
+      "url":"https://tech.sina.com.cn/i/2020-05-09/doc-iircuyvi2084711.shtml"
+    },
     {
       "name":"电商血拼上海滩 “五五购物节”谁是赢家",
       "url":"https://tech.sina.com.cn/i/2020-05-09/doc-iirczymk0613722.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"梨视频App在App Store及安卓应用商店均已下架",
       "url":"https://tech.sina.com.cn/i/2020-05-08/doc-iirczymk0533626.shtml"
-    },
-    {
-      "name":"特斯拉预计首批电动卡车2021年交付",
-      "url":"https://tech.sina.com.cn/roll/2020-05-08/doc-iirczymk0533925.shtml"
     }
   ]
 }
