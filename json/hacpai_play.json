@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-05-07 17:44:36",
+  "time":"2020-05-08 14:07:50",
   "data":[
+    {
+      "name":"20200508 TGIF",
+      "url":"https://hacpai.com/article/1588899788533"
+    },
     {
       "name":"第二个轮子来了——使用 Vue + Markdown 完成的一个在线 Markdown 简历项目——1024 RESUME",
       "url":"https://hacpai.com/article/1588544633003"
@@ -177,10 +181,6 @@
     {
       "name":"每周电影 EP14《横道世之介》",
       "url":"https://hacpai.com/article/1584803784929"
-    },
-    {
-      "name":"20200320 TGIF",
-      "url":"https://hacpai.com/article/1584669593614"
     },
     {
       "name":"开发者福利：免费获取 JetBrains 全家桶",

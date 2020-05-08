@@ -1,7 +1,35 @@
 {
-  "time":"2020-05-07 17:44:36",
+  "time":"2020-05-08 14:07:51",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"美国考虑对中国采取更激进的行动",
+      "url":"https://www.solidot.org/story?sid=64293"
+    },
+    {
+      "name":"Facebook 用 15 亿 Reddit 帖子创造聊天机器人",
+      "url":"https://www.solidot.org/story?sid=64294"
+    },
+    {
+      "name":"伦敦帝国学院的新冠模型代码存在严重 bug",
+      "url":"https://www.solidot.org/story?sid=64292"
+    },
+    {
+      "name":"微软为其 Linux 系统开出 10 万美元赏金",
+      "url":"https://www.solidot.org/story?sid=64291"
+    },
+    {
+      "name":"Tails Linux 4.6 发布",
+      "url":"https://www.solidot.org/story?sid=64290"
+    },
+    {
+      "name":"最近的黑洞距离地球只有一千光年",
+      "url":"https://www.solidot.org/story?sid=64289"
+    },
+    {
+      "name":"DVDscr 将成为历史",
+      "url":"https://www.solidot.org/story?sid=64288"
+    },
     {
       "name":"三星继承人为腐败和反工会丑闻公开道歉",
       "url":"https://www.solidot.org/story?sid=64287"
@@ -53,34 +81,6 @@
     {
       "name":"健康码如何影响人们出行",
       "url":"https://www.solidot.org/story?sid=64275"
-    },
-    {
-      "name":"法国去年底就出现新冠病例",
-      "url":"https://www.solidot.org/story?sid=64274"
-    },
-    {
-      "name":"中国使用长征五号B火箭成功发射新载人飞船试验船",
-      "url":"https://www.solidot.org/story?sid=64273"
-    },
-    {
-      "name":"黑客贿赂游戏公司雇员访问客户数据",
-      "url":"https://www.solidot.org/story?sid=64272"
-    },
-    {
-      "name":"科学家在实验室里创造能挫败新冠的抗体",
-      "url":"https://www.solidot.org/story?sid=64271"
-    },
-    {
-      "name":"Inkscape 1.0 发布",
-      "url":"https://www.solidot.org/story?sid=64270"
-    },
-    {
-      "name":"LineageOS、Ghost 和 DigiCert 服务器遭黑客入侵",
-      "url":"https://www.solidot.org/story?sid=64269"
-    },
-    {
-      "name":"Popcorn 开源项目因 DMCA 通知被 GitHub 关闭",
-      "url":"https://www.solidot.org/story?sid=64268"
     }
   ]
 }
