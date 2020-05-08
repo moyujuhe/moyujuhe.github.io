@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-08 21:33:11",
+  "time":"2020-05-08 21:37:25",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"Google Drive团队盘咨询",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686534&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"天翼云恢复了，你们翻车了吗？",
@@ -109,10 +113,6 @@
     {
       "name":"【我透】ION洛杉矶到部分电信的TCP变成GIA了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686506&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"T楼送个Azure100$",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686505&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
