@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-08 21:28:33",
+  "time":"2020-05-08 21:33:07",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软将在意大利投资15亿美元 新数据中心区域即将落户米兰",
+      "url":"https://www.cnbeta.com/articles/tech/976553.htm"
+    },
     {
       "name":"粉丝完美移植《超级马里奥64》PC版不到一周：遭任天堂全网封杀",
       "url":"https://hot.cnbeta.com/articles/game/976551.htm"
@@ -237,10 +241,6 @@
     {
       "name":"科学家解开了蜜蜂孤雌生殖的基因之谜",
       "url":"https://www.cnbeta.com/articles/science/976435.htm"
-    },
-    {
-      "name":"SpaceX飞船载人飞行测试临近 NASA拟继续购买俄飞船座位",
-      "url":"https://www.cnbeta.com/articles/science/976433.htm"
     }
   ]
 }
