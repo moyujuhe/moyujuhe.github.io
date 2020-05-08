@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-09 07:29:32",
+  "time":"2020-05-09 07:33:50",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"美国失业率飙升 硅谷公司仍在发布招聘信息",
+      "url":"https://www.cnbeta.com/articles/tech/976617.htm"
+    },
+    {
+      "name":"《Apex英雄》第五赛季首个实机宣传片发布 中文字幕",
+      "url":"https://hot.cnbeta.com/articles/game/976615.htm"
+    },
     {
       "name":"传《生化危机8》将是系列最黑暗和最可怕一作",
       "url":"https://hot.cnbeta.com/articles/game/976613.htm"
@@ -233,14 +241,6 @@
     {
       "name":"兰博基尼发布Huracan EVO RWD Spyder：领略敞篷漂移之美",
       "url":"https://www.cnbeta.com/articles/tech/976499.htm"
-    },
-    {
-      "name":"微软推出Android版必应壁纸应用",
-      "url":"https://www.cnbeta.com/articles/tech/976497.htm"
-    },
-    {
-      "name":"雷军资本版图一览：身家109亿美元 内地第十九大富豪",
-      "url":"https://www.cnbeta.com/articles/tech/976495.htm"
     }
   ]
 }
