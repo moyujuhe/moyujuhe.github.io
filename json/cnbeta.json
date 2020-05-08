@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-08 17:05:50",
+  "time":"2020-05-08 17:10:04",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"库克最新毕业演讲：解放自己而后拯救国家",
+      "url":"https://www.cnbeta.com/articles/tech/976519.htm"
+    },
+    {
+      "name":"“中国天眼”再提速 让FAST更FAST的秘诀何在？",
+      "url":"https://www.cnbeta.com/articles/science/976517.htm"
+    },
     {
       "name":"《封神三部曲》发杨戬海报 此沙获评撞脸金城武",
       "url":"https://hot.cnbeta.com/articles/movie/976515.htm"
@@ -233,14 +241,6 @@
     {
       "name":"Intel新一代傲腾SSD/内存条年内推出：容量翻番、采用PCIe 4.0",
       "url":"https://www.cnbeta.com/articles/tech/976401.htm"
-    },
-    {
-      "name":"补贴最高40万元！上汽氢燃料MPV亮相：加氢5分钟续航550公里",
-      "url":"https://www.cnbeta.com/articles/tech/976399.htm"
-    },
-    {
-      "name":"5s破百 能拖动36吨货物：特斯拉Semi跳票至2021年交付",
-      "url":"https://www.cnbeta.com/articles/tech/976397.htm"
     }
   ]
 }
