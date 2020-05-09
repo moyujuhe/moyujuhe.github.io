@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 19:01:28",
+  "time":"2020-05-09 19:05:39",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Google 整合消息服务团队",
+      "url":"https://www.solidot.org/story?sid=64310"
+    },
     {
       "name":"科学家解释北磁极漂移原因",
       "url":"https://www.solidot.org/story?sid=64309"
@@ -77,10 +81,6 @@
     {
       "name":"微软为其 Linux 系统开出 10 万美元赏金",
       "url":"https://www.solidot.org/story?sid=64291"
-    },
-    {
-      "name":"Tails Linux 4.6 发布",
-      "url":"https://www.solidot.org/story?sid=64290"
     }
   ]
 }
