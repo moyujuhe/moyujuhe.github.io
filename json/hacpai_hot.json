@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-09 16:08:25",
+  "time":"2020-05-09 16:12:50",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -231,16 +231,16 @@
       "url":"https://hacpai.com/article/1586446482506"
     },
     {
+      "name":"问下网上有很多后端的低代码开发平台，想学习一下这些平台是怎么架构的，java 方面的，有没有类似的开源的",
+      "url":"https://hacpai.com/article/1588940256874"
+    },
+    {
       "name":"八卦 - 六爻",
       "url":"https://hacpai.com/article/1588496739624"
     },
     {
       "name":"一款生成在线数据库文档的小工具（Golang）",
       "url":"https://hacpai.com/article/1587970215919"
-    },
-    {
-      "name":"图片欣赏",
-      "url":"https://hacpai.com/article/1587950802819"
     }
   ]
 }
