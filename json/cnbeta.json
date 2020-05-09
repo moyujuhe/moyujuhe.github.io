@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 14:53:40",
+  "time":"2020-05-09 14:57:55",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"火箭民企首次轨姿控发动机高空模拟热试车成功",
+      "url":"https://www.cnbeta.com/articles/science/976913.htm"
+    },
     {
       "name":"圣地亚哥动漫展2020确认夏季举办 采用线上形式",
       "url":"https://hot.cnbeta.com/articles/comic/976911.htm"
@@ -237,10 +241,6 @@
     {
       "name":"长知识：人民日报2020珠峰高程测量硬核科普",
       "url":"https://www.cnbeta.com/articles/science/976799.htm"
-    },
-    {
-      "name":"McAfee：疫情期间52%中国用户RDP被远程攻击 原因是密码太简单",
-      "url":"https://www.cnbeta.com/articles/tech/976795.htm"
     }
   ]
 }
