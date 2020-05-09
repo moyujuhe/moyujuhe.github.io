@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-09 12:15:42",
+  "time":"2020-05-09 12:19:57",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"cf官方泛解析不能隐藏ip吗？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686769&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"有天津联通的NAT吗",
@@ -109,10 +113,6 @@
     {
       "name":"收不能买A3的A1全局，不需要A3",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686732&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"还有哪里有free-az",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686731&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
