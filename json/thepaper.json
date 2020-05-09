@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 23:48:50",
+  "time":"2020-05-09 23:53:33",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"新疆阿克苏地区柯坪县发生5.2级地震，震源深度15千米",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7321597"
+    },
     {
       "name":"武汉昨新增无症状感染者12人，全市核酸检测60881人次",
       "url":"https://www.thepaper.cn/newsDetail_forward_7319163"
@@ -77,10 +81,6 @@
     {
       "name":"同济大学首批学生返校，高科技系统保安全",
       "url":"https://www.thepaper.cn/newsDetail_forward_7312688"
-    },
-    {
-      "name":"刘胡兰烈士胞妹刘爱兰逝世，曾多次饰演刘胡兰",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7316334"
     }
   ]
 }
