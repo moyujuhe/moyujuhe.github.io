@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-09 17:26:27",
+  "time":"2020-05-09 17:30:39",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"收ggc、gigs家的日本小鸡",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686941&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"nginx禁止某些User Agent抓取网站",
@@ -109,10 +113,6 @@
     {
       "name":"Zcloudme 母鸡看起来不错，老板求 PY",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686910&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"Ruvds 支付问题",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686909&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
