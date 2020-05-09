@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-09 16:29:58",
+  "time":"2020-05-09 16:34:12",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -155,10 +155,6 @@
       "url":"https://hacpai.com/article/1586743401423"
     },
     {
-      "name":"博客平台 Pipe v2.0.0 发布，全面实现 B3log 分布式社区博客端节点",
-      "url":"https://hacpai.com/article/1586420920630"
-    },
-    {
       "name":"插朋友的队算不算插队？",
       "url":"https://hacpai.com/article/1588922324036"
     },
@@ -241,6 +237,10 @@
     {
       "name":"一款生成在线数据库文档的小工具（Golang）",
       "url":"https://hacpai.com/article/1587970215919"
+    },
+    {
+      "name":"图片欣赏",
+      "url":"https://hacpai.com/article/1587950802819"
     }
   ]
 }
