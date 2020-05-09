@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-09 09:09:38",
+  "time":"2020-05-09 09:13:58",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"CF的worker能拿来挂oneindex么？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686671&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"现在大佬们都用什么脚本测鸡的性能",
@@ -109,10 +113,6 @@
     {
       "name":"关于AFF与商家",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686639&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"硬盘100TB以上机器还有比HZ更便宜的吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686638&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
