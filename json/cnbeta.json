@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 09:18:10",
+  "time":"2020-05-09 09:22:37",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"ESA：宇航员尿液或能成为3D打印月球基地关键材料",
+      "url":"https://www.cnbeta.com/articles/tech/976705.htm"
+    },
     {
       "name":"研究人员认为雄激素阻断治疗可能会保护男性免受新冠毒的侵害",
       "url":"https://www.cnbeta.com/articles/science/976703.htm"
@@ -237,10 +241,6 @@
     {
       "name":"7nm Zen2最后一块拼图：新桌面锐龙APU浮出水面",
       "url":"https://www.cnbeta.com/articles/tech/976587.htm"
-    },
-    {
-      "name":"令人着迷的木星影像揭示了巨大风暴的秘密",
-      "url":"https://www.cnbeta.com/articles/science/976585.htm"
     }
   ]
 }
