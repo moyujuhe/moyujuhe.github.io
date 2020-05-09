@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-10 01:31:27",
+  "time":"2020-05-10 01:36:04",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"求助！关于PayPal汇率的",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687133&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"问问各位大佬！做站要发外连的吗？",
@@ -109,10 +113,6 @@
     {
       "name":"良心云的十年 xyz ，好像可以转移了？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687105&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"【已出】 CFPlesk",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687104&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
