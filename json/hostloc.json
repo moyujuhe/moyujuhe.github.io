@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-10 00:24:32",
+  "time":"2020-05-10 00:28:57",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"话说这个软路由确实很牛啊……",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687111&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"30出352余额新伯力",
@@ -109,10 +113,6 @@
     {
       "name":"原来CF真有电信线路晚高峰不丢包的节点, 真是实践出真知啊!",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687081&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"Loc cc是不是误封太严重了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687080&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
