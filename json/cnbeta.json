@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-09 23:13:57",
+  "time":"2020-05-09 23:18:16",
   "title":"cnBeta",
   "data":[
     {
       "name":"优酷VIP会员5折优惠：年卡仅99元",
       "url":"http://tb.g2h3.com/3G4qE"
+    },
+    {
+      "name":"调查显示 Go 是最受开发者青睐的编程语言",
+      "url":"https://www.cnbeta.com/articles/tech/977055.htm"
     },
     {
       "name":"微软新版Edge确认将随Windows 10 2020年5月更新一同推出",
@@ -237,10 +241,6 @@
     {
       "name":"理想冒烟，李想“烤火”",
       "url":"https://www.cnbeta.com/articles/tech/976939.htm"
-    },
-    {
-      "name":"涨价160% 比特币第三次区块奖励减半即将到来 谷歌搜索暴涨",
-      "url":"https://www.cnbeta.com/articles/tech/976937.htm"
     }
   ]
 }
