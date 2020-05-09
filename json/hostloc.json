@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-09 21:07:38",
+  "time":"2020-05-09 21:12:19",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"A3翻车统计",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687026&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"原价出企鹅小屋99年付建站机",
@@ -109,10 +113,6 @@
     {
       "name":"求个nginx反代源码。你们是怎么样配置",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687000&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"不懂就问系列：CFP的Railguns好像没啥效果",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686997&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
