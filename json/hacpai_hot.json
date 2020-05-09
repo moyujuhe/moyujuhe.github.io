@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-09 21:25:22",
+  "time":"2020-05-09 21:30:08",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -135,10 +135,6 @@
       "url":"https://hacpai.com/article/1586593905907"
     },
     {
-      "name":"各位编程的书籍是一遍精读还是多遍泛读效果好呢？",
-      "url":"https://hacpai.com/article/1586439156973"
-    },
-    {
       "name":"20200501 TGIF",
       "url":"https://hacpai.com/article/1588298809995"
     },
@@ -241,6 +237,10 @@
     {
       "name":"一款生成在线数据库文档的小工具（Golang）",
       "url":"https://hacpai.com/article/1587970215919"
+    },
+    {
+      "name":"图片欣赏",
+      "url":"https://hacpai.com/article/1587950802819"
     }
   ]
 }
