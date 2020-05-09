@@ -1,7 +1,31 @@
 {
-  "time":"2020-05-09 16:03:57",
+  "time":"2020-05-09 16:08:25",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"欧洲最大私人医院运营商遭勒索软件攻击",
+      "url":"https://www.solidot.org/story?sid=64308"
+    },
+    {
+      "name":"英特尔雇员指控公司优化考虑芯片生产而不是安全",
+      "url":"https://www.solidot.org/story?sid=64307"
+    },
+    {
+      "name":"WHO 称武汉华南海鲜市场肯定与疫情有关联",
+      "url":"https://www.solidot.org/story?sid=64306"
+    },
+    {
+      "name":"GCC 10.1 发布",
+      "url":"https://www.solidot.org/story?sid=64305"
+    },
+    {
+      "name":"可口可乐中国发布“在乎体”",
+      "url":"https://www.solidot.org/story?sid=64304"
+    },
+    {
+      "name":"自由硬件工具链：OpenROAD",
+      "url":"https://www.solidot.org/story?sid=64303"
+    },
     {
       "name":"中国新载人飞船试验船成功返回",
       "url":"https://www.solidot.org/story?sid=64302"
@@ -57,30 +81,6 @@
     {
       "name":"最近的黑洞距离地球只有一千光年",
       "url":"https://www.solidot.org/story?sid=64289"
-    },
-    {
-      "name":"DVDscr 将成为历史",
-      "url":"https://www.solidot.org/story?sid=64288"
-    },
-    {
-      "name":"三星继承人为腐败和反工会丑闻公开道歉",
-      "url":"https://www.solidot.org/story?sid=64287"
-    },
-    {
-      "name":"蛇也有社交圈",
-      "url":"https://www.solidot.org/story?sid=64286"
-    },
-    {
-      "name":"Facebook iOS SDK 导致众多应用崩溃",
-      "url":"https://www.solidot.org/story?sid=64285"
-    },
-    {
-      "name":"成人网站泄露 108 亿条数据",
-      "url":"https://www.solidot.org/story?sid=64284"
-    },
-    {
-      "name":"AI 接近具备常识推理",
-      "url":"https://www.solidot.org/story?sid=64283"
     }
   ]
 }

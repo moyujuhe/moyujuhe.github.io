@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-09 16:03:56",
+  "time":"2020-05-09 16:08:25",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -199,6 +199,10 @@
       "url":"https://hacpai.com/article/1586575020321"
     },
     {
+      "name":"Solo 的 Meta 资源引用异常，建议禁用",
+      "url":"https://hacpai.com/article/1588990747021"
+    },
+    {
       "name":"知道 nodejs 吗？和 web 端 js 区别和共性?",
       "url":"https://hacpai.com/article/1588770968154"
     },
@@ -237,10 +241,6 @@
     {
       "name":"图片欣赏",
       "url":"https://hacpai.com/article/1587950802819"
-    },
-    {
-      "name":"大家五一放多少天假？",
-      "url":"https://hacpai.com/article/1587873565645"
     }
   ]
 }
