@@ -1,34 +1,46 @@
 {
-  "time":"2020-05-09 11:02:23",
+  "time":"2020-05-09 11:06:38",
   "title":"cnBeta",
   "data":[
     {
+      "name":"电竞剧《你微笑时很美》惹怒电竞圈 抄袭加抹黑选手",
+      "url":"https://hot.cnbeta.com/articles/movie/976811.htm"
+    },
+    {
+      "name":"最高支持144Hz刷新率 联发科天玑1000+为何有三个版本？",
+      "url":"https://www.cnbeta.com/articles/tech/976809.htm"
+    },
+    {
+      "name":"破产方案获债权人支持，贾跃亭会回国吗？",
+      "url":"https://www.cnbeta.com/articles/tech/976807.htm"
+    },
+    {
       "name":"为何要给珠峰再测身高？",
-      "url":"http://www.cnbeta.com/articles/tech/976805.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976805.htm"
     },
     {
       "name":"TikTok在荷兰将面临儿童隐私数据的调查",
-      "url":"http://www.cnbeta.com/articles/tech/976803.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976803.htm"
     },
     {
       "name":"上交所追问到底，寒武纪220页答疑“离开华为怎么办”",
-      "url":"http://www.cnbeta.com/articles/tech/976801.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976801.htm"
     },
     {
       "name":"长知识：人民日报2020珠峰高程测量硬核科普",
-      "url":"http://www.cnbeta.com/articles/science/976799.htm"
+      "url":"https://www.cnbeta.com/articles/science/976799.htm"
     },
     {
       "name":"维珍银河将与NASA合作开发安全高效的高速航空飞行器",
-      "url":"http://www.cnbeta.com/articles/science/976797.htm"
+      "url":"https://www.cnbeta.com/articles/science/976797.htm"
     },
     {
       "name":"McAfee：疫情期间52%中国用户RDP被远程攻击 原因是密码太简单",
-      "url":"http://www.cnbeta.com/articles/tech/976795.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976795.htm"
     },
     {
       "name":"比H.265更先进！MPEG-5编码标准落地：华为、高通、三星首批支持",
-      "url":"http://www.cnbeta.com/articles/tech/976793.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976793.htm"
     },
     {
       "name":"《永劫无间》官博透露：ChinaJoy再次确认正常举办",
@@ -40,7 +52,7 @@
     },
     {
       "name":"realme X3 SuperZoom 60倍变焦样张曝光：还能拍银河",
-      "url":"http://www.cnbeta.com/articles/tech/976787.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976787.htm"
     },
     {
       "name":"漫威剧集《旺达·幻视》杀青 《猎鹰与冬兵》复工",
@@ -48,55 +60,55 @@
     },
     {
       "name":"这才是“前浪”们打开 B 站的正确姿势？",
-      "url":"http://www.cnbeta.com/articles/tech/976783.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976783.htm"
     },
     {
       "name":"三星Galaxy S21曝光：搭载骁龙875或Exynos 1000 5G Soc",
-      "url":"http://www.cnbeta.com/articles/tech/976781.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976781.htm"
     },
     {
       "name":"Ubuntu 20.04 LTS对树莓派进行认证 以提供全面支持",
-      "url":"http://www.cnbeta.com/articles/tech/976779.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976779.htm"
     },
     {
       "name":"盘点后悔剁手的苹果产品 iPhone SE是下一款吗？",
-      "url":"http://www.cnbeta.com/articles/tech/976777.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976777.htm"
     },
     {
       "name":"医生警告：新冠病毒的副作用可能会导致长期性脑损伤",
-      "url":"http://www.cnbeta.com/articles/science/976775.htm"
+      "url":"https://www.cnbeta.com/articles/science/976775.htm"
     },
     {
       "name":"威刚推出SU720系列SATA固态硬盘新品",
-      "url":"http://www.cnbeta.com/articles/tech/976773.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976773.htm"
     },
     {
       "name":"中国版劳斯莱斯！红旗E115实车曝光：零百不到4秒 续航超600KM",
-      "url":"http://www.cnbeta.com/articles/tech/976771.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976771.htm"
     },
     {
       "name":"澎湃S2曝光：小米自研手机处理器，2018年夭折",
-      "url":"http://www.cnbeta.com/articles/tech/976769.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976769.htm"
     },
     {
       "name":"金山云赴美IPO 首日股价大涨40% 雷军身家1天内增百亿",
-      "url":"http://www.cnbeta.com/articles/tech/976767.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976767.htm"
     },
     {
       "name":"Redmi K30 5G极速版官宣：将首发高通骁龙768G移动平台",
-      "url":"http://www.cnbeta.com/articles/tech/976765.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976765.htm"
     },
     {
       "name":"LG Display预计OLED电视面板二季度需求下滑10%",
-      "url":"http://www.cnbeta.com/articles/tech/976763.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976763.htm"
     },
     {
       "name":"拼多多股价创历史新高 市值再度逼近京东",
-      "url":"http://www.cnbeta.com/articles/tech/976761.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976761.htm"
     },
     {
       "name":"国家邮政局：预计5月快递业务量同比增速超过30%",
-      "url":"http://www.cnbeta.com/articles/tech/976759.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976759.htm"
     },
     {
       "name":"吓人！女子直播时手机被盗，看回放时出现一张陌生的脸",
@@ -104,31 +116,31 @@
     },
     {
       "name":"美新研究发现羟基氯喹对新冠肺炎患者并无帮助",
-      "url":"http://www.cnbeta.com/articles/science/976755.htm"
+      "url":"https://www.cnbeta.com/articles/science/976755.htm"
     },
     {
       "name":"福特公司用合成鸟粪来保证真实世界的油漆安全",
-      "url":"http://www.cnbeta.com/articles/tech/976753.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976753.htm"
     },
     {
       "name":"AMD桌面版Renoir APU现身测试数据库， 8核16线程，3.95GHz主频",
-      "url":"http://www.cnbeta.com/articles/tech/976751.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976751.htm"
     },
     {
       "name":"VitalPatch获FDA紧急批准：可用于监测新冠引发的心脏问题",
-      "url":"http://www.cnbeta.com/articles/tech/976749.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976749.htm"
     },
     {
       "name":"全新COVID-19家中唾液采样检测获FDA批准",
-      "url":"http://www.cnbeta.com/articles/science/976747.htm"
+      "url":"https://www.cnbeta.com/articles/science/976747.htm"
     },
     {
       "name":"爆料称新款Apple TV 4K机顶盒发布在即",
-      "url":"http://www.cnbeta.com/articles/tech/976745.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976745.htm"
     },
     {
       "name":"华为Mate 40 Pro概念渲染图曝光：瀑布全面屏加持 首发屏下摄像头技术？",
-      "url":"http://www.cnbeta.com/articles/tech/976743.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976743.htm"
     },
     {
       "name":"2020全球游戏业收入将达1590亿美元 疫情/新主机推动明显",
@@ -136,15 +148,15 @@
     },
     {
       "name":"中国散裂中子源用户实验成果首次在Science发表",
-      "url":"http://www.cnbeta.com/articles/science/976739.htm"
+      "url":"https://www.cnbeta.com/articles/science/976739.htm"
     },
     {
       "name":"从未有一个黑洞，如此接近地球",
-      "url":"http://www.cnbeta.com/articles/science/976737.htm"
+      "url":"https://www.cnbeta.com/articles/science/976737.htm"
     },
     {
       "name":"Ubuntu 20.04 LTS 对树莓派进行认证，以提供全面支持",
-      "url":"http://www.cnbeta.com/articles/tech/976735.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976735.htm"
     },
     {
       "name":"拳头《Valorant》疑似国内版权登记完成 或将很快上线",
@@ -156,7 +168,7 @@
     },
     {
       "name":"Waymo开始逐步恢复自动驾驶车队：率先重返凤凰城",
-      "url":"http://www.cnbeta.com/articles/tech/976729.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976729.htm"
     },
     {
       "name":"小岛工作室发推文 庆祝《死亡搁浅》发售半年",
@@ -164,7 +176,7 @@
     },
     {
       "name":"亚马逊与微软互相指责对方“耍阴招”  以获取JEDI合同",
-      "url":"http://www.cnbeta.com/articles/tech/976725.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976725.htm"
     },
     {
       "name":"《犬夜叉》后续篇《半妖的夜叉姬》宣布动画化",
@@ -172,75 +184,63 @@
     },
     {
       "name":"[图]每秒2.7个体长 科学家以猎豹为灵感打造最快软体机器人",
-      "url":"http://www.cnbeta.com/articles/science/976721.htm"
+      "url":"https://www.cnbeta.com/articles/science/976721.htm"
     },
     {
       "name":"FCA 5月18日重启北美工厂：将成为美国首家复工汽车制造商",
-      "url":"http://www.cnbeta.com/articles/tech/976719.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976719.htm"
     },
     {
       "name":"微软表示每月有1.5亿用户在体验免密登录",
-      "url":"http://www.cnbeta.com/articles/tech/976717.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976717.htm"
     },
     {
       "name":"[图]微软公布Build 2020会议日程安排 纳德拉主持开幕演讲",
-      "url":"http://www.cnbeta.com/articles/tech/976715.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976715.htm"
     },
     {
       "name":"梅赛德斯正努力让MBUX人工智能系统变得更加主动",
-      "url":"http://www.cnbeta.com/articles/tech/976713.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976713.htm"
     },
     {
       "name":"NASA展示如何为毅力号火星漫游车的“单程旅行打包”",
-      "url":"http://www.cnbeta.com/articles/science/976711.htm"
+      "url":"https://www.cnbeta.com/articles/science/976711.htm"
     },
     {
       "name":"[图]传watchOS 7将依靠Apple Watch血氧传感器提供心理健康功能",
-      "url":"http://www.cnbeta.com/articles/tech/976709.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976709.htm"
     },
     {
       "name":"多家智能手机制造商已恢复印度工厂的运转",
-      "url":"http://www.cnbeta.com/articles/tech/976707.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976707.htm"
     },
     {
       "name":"ESA：宇航员尿液或能成为3D打印月球基地关键材料",
-      "url":"http://www.cnbeta.com/articles/tech/976705.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976705.htm"
     },
     {
       "name":"研究人员认为雄激素阻断治疗可能会保护男性免受新冠毒的侵害",
-      "url":"http://www.cnbeta.com/articles/science/976703.htm"
+      "url":"https://www.cnbeta.com/articles/science/976703.htm"
     },
     {
       "name":"9000元！超个性12寸模块化笔记本上架：轨迹球+机械键盘",
-      "url":"http://www.cnbeta.com/articles/tech/976701.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976701.htm"
     },
     {
       "name":"2019 年 Python 开发者调查结果发布：Linux 最受欢迎",
-      "url":"http://www.cnbeta.com/articles/tech/976699.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976699.htm"
     },
     {
       "name":"直播吃猫粮的罗永浩透露大计划：正在装修大型演播室",
-      "url":"http://www.cnbeta.com/articles/tech/976697.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976697.htm"
     },
     {
       "name":"Facebook正式推出新版默认主页",
-      "url":"http://www.cnbeta.com/articles/tech/976695.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976695.htm"
     },
     {
       "name":"开发者被 GitHub 要求下架开源项目仓库，因为其上游项目未“开源”",
-      "url":"http://www.cnbeta.com/articles/tech/976693.htm"
-    },
-    {
-      "name":"[图]索尼PS5有望6月首周开启预购 11月20日发售",
-      "url":"https://hot.cnbeta.com/articles/game/976691.htm"
-    },
-    {
-      "name":"黑客对俄亥俄州新冠大流行期间辞职员工上报工具发起攻击",
-      "url":"http://www.cnbeta.com/articles/tech/976689.htm"
-    },
-    {
-      "name":"Stack Overflow以新冠为由裁员15%",
-      "url":"http://www.cnbeta.com/articles/tech/976687.htm"
+      "url":"https://www.cnbeta.com/articles/tech/976693.htm"
     }
   ]
 }
