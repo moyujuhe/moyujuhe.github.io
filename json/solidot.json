@@ -1,7 +1,31 @@
 {
-  "time":"2020-05-09 08:34:22",
+  "time":"2020-05-09 08:38:39",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"中国新载人飞船试验船成功返回",
+      "url":"https://www.solidot.org/story?sid=64302"
+    },
+    {
+      "name":"黑客操纵一个僵尸网络只为下载日本动漫",
+      "url":"https://www.solidot.org/story?sid=64301"
+    },
+    {
+      "name":"人脑在睡眠时回放清醒时的经历",
+      "url":"https://www.solidot.org/story?sid=64300"
+    },
+    {
+      "name":"日本批准瑞德西韦作为新冠治疗药物",
+      "url":"https://www.solidot.org/story?sid=64299"
+    },
+    {
+      "name":"Stack Overflow 以新冠为由裁员 15%",
+      "url":"https://www.solidot.org/story?sid=64298"
+    },
+    {
+      "name":"Matrix 默认私聊启用端对端加密",
+      "url":"https://www.solidot.org/story?sid=64297"
+    },
     {
       "name":"中国黑客组织攻击西澳洲政府",
       "url":"https://www.solidot.org/story?sid=64296"
@@ -57,30 +81,6 @@
     {
       "name":"AI 接近具备常识推理",
       "url":"https://www.solidot.org/story?sid=64283"
-    },
-    {
-      "name":"Airbnb 裁员四分之一",
-      "url":"https://www.solidot.org/story?sid=64282"
-    },
-    {
-      "name":"长五 B 任务柔性充气式货物返回舱可能失利",
-      "url":"https://www.solidot.org/story?sid=64281"
-    },
-    {
-      "name":"算法对戴口罩人脸的识别究竟有多好？",
-      "url":"https://www.solidot.org/story?sid=64280"
-    },
-    {
-      "name":"Firefox 76.0 发布",
-      "url":"https://www.solidot.org/story?sid=64279"
-    },
-    {
-      "name":"北极最大臭氧洞修复",
-      "url":"https://www.solidot.org/story?sid=64278"
-    },
-    {
-      "name":"科学家发现能防止蚊子感染疟疾的微生物",
-      "url":"https://www.solidot.org/story?sid=64277"
     }
   ]
 }
