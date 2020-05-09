@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 17:30:36",
+  "time":"2020-05-09 17:34:57",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"科学家解释北磁极漂移原因",
+      "url":"https://www.solidot.org/story?sid=64309"
+    },
     {
       "name":"欧洲最大私人医院运营商遭勒索软件攻击",
       "url":"https://www.solidot.org/story?sid=64308"
@@ -77,10 +81,6 @@
     {
       "name":"Tails Linux 4.6 发布",
       "url":"https://www.solidot.org/story?sid=64290"
-    },
-    {
-      "name":"最近的黑洞距离地球只有一千光年",
-      "url":"https://www.solidot.org/story?sid=64289"
     }
   ]
 }
