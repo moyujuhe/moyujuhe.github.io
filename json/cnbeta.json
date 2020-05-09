@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-09 14:49:18",
+  "time":"2020-05-09 14:53:40",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"圣地亚哥动漫展2020确认夏季举办 采用线上形式",
+      "url":"https://hot.cnbeta.com/articles/comic/976911.htm"
+    },
+    {
+      "name":"Facebook与用户达成隐私纠纷和解 赔偿5.5亿美元",
+      "url":"https://www.cnbeta.com/articles/tech/976909.htm"
+    },
+    {
+      "name":"疑似《暗黑破坏神4》加密版本被上传至CDN 暴雪尚未回应",
+      "url":"https://hot.cnbeta.com/articles/game/976907.htm"
+    },
     {
       "name":"华为高性能笔记本首曝：7nm 8核心锐龙7 4800H、无独显",
       "url":"https://www.cnbeta.com/articles/tech/976905.htm"
@@ -229,18 +241,6 @@
     {
       "name":"McAfee：疫情期间52%中国用户RDP被远程攻击 原因是密码太简单",
       "url":"https://www.cnbeta.com/articles/tech/976795.htm"
-    },
-    {
-      "name":"比H.265更先进！MPEG-5编码标准落地：华为、高通、三星首批支持",
-      "url":"https://www.cnbeta.com/articles/tech/976793.htm"
-    },
-    {
-      "name":"《永劫无间》官博透露：ChinaJoy再次确认正常举办",
-      "url":"https://hot.cnbeta.com/articles/game/976791.htm"
-    },
-    {
-      "name":"《外星也难民》IGN6分：有趣但比不上瑞克与莫蒂",
-      "url":"https://hot.cnbeta.com/articles/comic/976789.htm"
     }
   ]
 }
