@@ -1,7 +1,23 @@
 {
-  "time":"2020-05-09 09:05:18",
+  "time":"2020-05-09 09:09:35",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"2019 年 Python 开发者调查结果发布：Linux 最受欢迎",
+      "url":"https://www.cnbeta.com/articles/tech/976699.htm"
+    },
+    {
+      "name":"直播吃猫粮的罗永浩透露大计划：正在装修大型演播室",
+      "url":"https://www.cnbeta.com/articles/tech/976697.htm"
+    },
+    {
+      "name":"Facebook正式推出新版默认主页",
+      "url":"https://www.cnbeta.com/articles/tech/976695.htm"
+    },
+    {
+      "name":"开发者被 GitHub 要求下架开源项目仓库，因为其上游项目未“开源”",
+      "url":"https://www.cnbeta.com/articles/tech/976693.htm"
+    },
     {
       "name":"[图]索尼PS5有望6月首周开启预购 11月20日发售",
       "url":"https://hot.cnbeta.com/articles/game/976691.htm"
@@ -225,22 +241,6 @@
     {
       "name":"销量不是太多 任天堂谈Switch在中国内地的表现",
       "url":"https://hot.cnbeta.com/articles/game/976581.htm"
-    },
-    {
-      "name":"雷军祝贺金山云上市:迎新里程碑 对未来充满信心",
-      "url":"https://www.cnbeta.com/articles/tech/976579.htm"
-    },
-    {
-      "name":"博通完成出售旗下赛门铁克网络安全服务业务",
-      "url":"https://www.cnbeta.com/articles/tech/976577.htm"
-    },
-    {
-      "name":"研究表明眼睛可能是新冠病毒重要感染途径",
-      "url":"https://www.cnbeta.com/articles/tech/976575.htm"
-    },
-    {
-      "name":"调查显示超过51％员工使用远程工作设备观看色情内容",
-      "url":"https://www.cnbeta.com/articles/tech/976573.htm"
     }
   ]
 }
