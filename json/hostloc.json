@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-09 13:08:14",
+  "time":"2020-05-09 13:12:26",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"CFP给的Anycast IP，跟1.0.0.1的区别还是有点大",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686793&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"loc上有多少上了Zcloudme 的车的？谈下感受",
@@ -105,10 +109,6 @@
     {
       "name":"收ZCLOUDME的香港T楼独服",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686759&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"明盘220出个ion20刀，送账号里一个年付60刀的洛杉矶vps",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686757&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }

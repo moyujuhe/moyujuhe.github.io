@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 13:08:12",
+  "time":"2020-05-09 13:12:23",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"2020一季度数据：三星智能机在印度市场销量下滑16%",
+      "url":"https://www.cnbeta.com/articles/tech/976851.htm"
+    },
     {
       "name":"IDC分享2020一季度数据：iPhone 11占印度超高端智能机市场份额的68%",
       "url":"https://www.cnbeta.com/articles/tech/976849.htm"
@@ -237,10 +241,6 @@
     {
       "name":"ESA：宇航员尿液或能成为3D打印月球基地关键材料",
       "url":"https://www.cnbeta.com/articles/tech/976705.htm"
-    },
-    {
-      "name":"梅赛德斯正努力让MBUX人工智能系统变得更加主动",
-      "url":"https://www.cnbeta.com/articles/tech/976713.htm"
     }
   ]
 }
