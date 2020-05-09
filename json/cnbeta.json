@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-09 10:19:00",
+  "time":"2020-05-09 10:23:14",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"AMD桌面版Renoir APU现身测试数据库， 8核16线程，3.95GHz主频",
+      "url":"https://www.cnbeta.com/articles/tech/976751.htm"
+    },
+    {
+      "name":"VitalPatch获FDA紧急批准：可用于监测新冠引发的心脏问题",
+      "url":"https://www.cnbeta.com/articles/tech/976749.htm"
+    },
+    {
+      "name":"全新COVID-19家中唾液采样检测获FDA批准",
+      "url":"https://www.cnbeta.com/articles/science/976747.htm"
+    },
     {
       "name":"爆料称新款Apple TV 4K机顶盒发布在即",
       "url":"https://www.cnbeta.com/articles/tech/976745.htm"
@@ -229,18 +241,6 @@
     {
       "name":"苹果公司少数美国门店下周将开始恢复营业",
       "url":"https://www.cnbeta.com/articles/tech/976633.htm"
-    },
-    {
-      "name":"特斯拉上海工厂获5.65亿美元贷款 用于生产相关支出",
-      "url":"https://www.cnbeta.com/articles/tech/976631.htm"
-    },
-    {
-      "name":"世卫组织建议各国缓慢重启经济",
-      "url":"https://www.cnbeta.com/articles/tech/976629.htm"
-    },
-    {
-      "name":"疑遭华为砍单 寒武纪IP授权业务收入断崖式下跌",
-      "url":"https://www.cnbeta.com/articles/tech/976627.htm"
     }
   ]
 }
