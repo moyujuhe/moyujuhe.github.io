@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 10:01:33",
+  "time":"2020-05-09 10:05:50",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Ubuntu 20.04 LTS 对树莓派进行认证，以提供全面支持",
+      "url":"https://www.cnbeta.com/articles/tech/976735.htm"
+    },
     {
       "name":"拳头《Valorant》疑似国内版权登记完成 或将很快上线",
       "url":"https://hot.cnbeta.com/articles/game/976733.htm"
@@ -237,10 +241,6 @@
     {
       "name":"美国失业率飙升 硅谷公司仍在发布招聘信息",
       "url":"https://www.cnbeta.com/articles/tech/976617.htm"
-    },
-    {
-      "name":"《Apex英雄》第五赛季首个实机宣传片发布 中文字幕",
-      "url":"https://hot.cnbeta.com/articles/game/976615.htm"
     }
   ]
 }
