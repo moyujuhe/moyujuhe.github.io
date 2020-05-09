@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-09 16:51:20",
+  "time":"2020-05-09 16:55:41",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -227,6 +227,10 @@
       "url":"https://hacpai.com/article/1586446482506"
     },
     {
+      "name":"别人眼中的程序员 VS 实际中的程序员",
+      "url":"https://hacpai.com/article/1588948174026"
+    },
+    {
       "name":"问下网上有很多后端的低代码开发平台，想学习一下这些平台是怎么架构的，java 方面的，有没有类似的开源的",
       "url":"https://hacpai.com/article/1588940256874"
     },
@@ -237,10 +241,6 @@
     {
       "name":"一款生成在线数据库文档的小工具（Golang）",
       "url":"https://hacpai.com/article/1587970215919"
-    },
-    {
-      "name":"图片欣赏",
-      "url":"https://hacpai.com/article/1587950802819"
     }
   ]
 }
