@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-09 16:25:30",
+  "time":"2020-05-09 16:29:57",
   "title":"cnBeta",
   "data":[
     {
       "name":"优酷VIP会员5折优惠：年卡仅99元",
       "url":"http://tb.g2h3.com/3G4qE"
+    },
+    {
+      "name":"自由硬件工具链：OpenROAD",
+      "url":"https://www.cnbeta.com/articles/tech/976953.htm"
+    },
+    {
+      "name":"欧洲最大私人医院运营商遭勒索软件攻击",
+      "url":"https://www.cnbeta.com/articles/tech/976951.htm"
     },
     {
       "name":"爆料：PS4游戏可免费解锁PS5版 也不用购买两次",
@@ -233,14 +241,6 @@
     {
       "name":"苹果计划下周起陆续恢复美国零售门店的营业",
       "url":"https://www.cnbeta.com/articles/tech/976835.htm"
-    },
-    {
-      "name":"科学家发现导致南非海角蜂无性繁殖的基因",
-      "url":"https://www.cnbeta.com/articles/science/976833.htm"
-    },
-    {
-      "name":"“中国版Space X”拟上科创板 曾在淘宝直播卖4000万元火箭",
-      "url":"https://www.cnbeta.com/articles/science/976831.htm"
     }
   ]
 }
