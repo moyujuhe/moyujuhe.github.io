@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 09:48:44",
+  "time":"2020-05-09 09:53:01",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]每秒2.7个体长 科学家以猎豹为灵感打造最快软体机器人",
+      "url":"https://www.cnbeta.com/articles/science/976721.htm"
+    },
     {
       "name":"FCA 5月18日重启北美工厂：将成为美国首家复工汽车制造商",
       "url":"https://www.cnbeta.com/articles/tech/976719.htm"
@@ -237,10 +241,6 @@
     {
       "name":"微软高管表示60FPS将是Xbox Series X的“标准输出”",
       "url":"https://hot.cnbeta.com/articles/game/976603.htm"
-    },
-    {
-      "name":"高质量飞行体验 《微软飞行模拟》新截图分享",
-      "url":"https://hot.cnbeta.com/articles/game/976601.htm"
     }
   ]
 }
