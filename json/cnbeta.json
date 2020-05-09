@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 09:40:01",
+  "time":"2020-05-09 09:44:24",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软表示每月有1.5亿用户在体验免密登录",
+      "url":"https://www.cnbeta.com/articles/tech/976717.htm"
+    },
     {
       "name":"[图]微软公布Build 2020会议日程安排 纳德拉主持开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/976715.htm"
@@ -237,10 +241,6 @@
     {
       "name":"微软定价依旧保持灵活 XSX设计时考虑到了特定价格",
       "url":"https://hot.cnbeta.com/articles/game/976599.htm"
-    },
-    {
-      "name":"白宫：如果新冠疫情出现第二轮爆发 美国经济无需再次停摆",
-      "url":"https://www.cnbeta.com/articles/tech/976597.htm"
     }
   ]
 }
