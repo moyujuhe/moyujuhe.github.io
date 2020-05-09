@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 08:56:26",
+  "time":"2020-05-09 09:00:39",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Stack Overflow以新冠为由裁员15%",
+      "url":"https://www.cnbeta.com/articles/tech/976687.htm"
+    },
     {
       "name":"美国国税局希望民众退还错发给他们已故家属的经济刺激支票",
       "url":"https://www.cnbeta.com/articles/tech/976685.htm"
@@ -237,10 +241,6 @@
     {
       "name":"Xbox市场主管推特回复：抱歉给大家设定了错误的期望",
       "url":"https://hot.cnbeta.com/articles/game/976569.htm"
-    },
-    {
-      "name":"Xbox Series X部分首发游戏阵容公开 《刺客信条：英灵殿》在内",
-      "url":"https://hot.cnbeta.com/articles/game/976567.htm"
     }
   ]
 }
