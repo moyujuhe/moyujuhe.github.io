@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-09 14:40:07",
+  "time":"2020-05-09 14:44:16",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"华为高性能笔记本首曝：7nm 8核心锐龙7 4800H、无独显",
+      "url":"https://www.cnbeta.com/articles/tech/976905.htm"
+    },
+    {
+      "name":"车主自曝一根特斯拉韭菜的惊魂时刻：Model 3电机故障失速骤停",
+      "url":"https://www.cnbeta.com/articles/tech/976903.htm"
+    },
+    {
+      "name":"嫦娥四号探测数据揭示古老月壳的矿物组成",
+      "url":"https://www.cnbeta.com/articles/science/976901.htm"
+    },
     {
       "name":"特斯拉市值重回1500亿美元 弗里蒙特工厂复工后有望创新高",
       "url":"https://www.cnbeta.com/articles/tech/976899.htm"
@@ -229,18 +241,6 @@
     {
       "name":"《外星也难民》IGN6分：有趣但比不上瑞克与莫蒂",
       "url":"https://hot.cnbeta.com/articles/comic/976789.htm"
-    },
-    {
-      "name":"realme X3 SuperZoom 60倍变焦样张曝光：还能拍银河",
-      "url":"https://www.cnbeta.com/articles/tech/976787.htm"
-    },
-    {
-      "name":"漫威剧集《旺达·幻视》杀青 《猎鹰与冬兵》复工",
-      "url":"https://hot.cnbeta.com/articles/movie/976785.htm"
-    },
-    {
-      "name":"美新研究发现羟基氯喹对新冠肺炎患者并无帮助",
-      "url":"https://www.cnbeta.com/articles/science/976755.htm"
     }
   ]
 }
