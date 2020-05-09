@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-10 02:32:20",
+  "time":"2020-05-10 02:36:32",
   "title":"cnBeta",
   "data":[
     {
       "name":"优酷VIP会员5折优惠：年卡仅99元",
       "url":"http://tb.g2h3.com/3G4qE"
+    },
+    {
+      "name":"解封后如何出行？英国政府提议多骑车、多走路",
+      "url":"https://www.cnbeta.com/articles/tech/977071.htm"
+    },
+    {
+      "name":"马斯克：特斯拉将把总部和未来的项目转移至德州或内华达州",
+      "url":"https://www.cnbeta.com/articles/tech/977069.htm"
     },
     {
       "name":"FDA授权Quidel进行COVID-19抗原快速检测",
@@ -233,14 +241,6 @@
     {
       "name":"英特尔被指控“芯片生产高于员工安全” 未隔离新冠阳性患者",
       "url":"https://www.cnbeta.com/articles/tech/976955.htm"
-    },
-    {
-      "name":"自由硬件工具链：OpenROAD",
-      "url":"https://www.cnbeta.com/articles/tech/976953.htm"
-    },
-    {
-      "name":"欧洲最大私人医院运营商遭勒索软件攻击",
-      "url":"https://www.cnbeta.com/articles/tech/976951.htm"
     }
   ]
 }
