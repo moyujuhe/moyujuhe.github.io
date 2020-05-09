@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 09:22:37",
+  "time":"2020-05-09 09:27:11",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"多家智能手机制造商已恢复印度工厂的运转",
+      "url":"https://www.cnbeta.com/articles/tech/976707.htm"
+    },
     {
       "name":"ESA：宇航员尿液或能成为3D打印月球基地关键材料",
       "url":"https://www.cnbeta.com/articles/tech/976705.htm"
@@ -237,10 +241,6 @@
     {
       "name":"丧心病狂or形势所迫？谈谈Android奇葩的“链式启动”",
       "url":"https://www.cnbeta.com/articles/tech/976589.htm"
-    },
-    {
-      "name":"7nm Zen2最后一块拼图：新桌面锐龙APU浮出水面",
-      "url":"https://www.cnbeta.com/articles/tech/976587.htm"
     }
   ]
 }
