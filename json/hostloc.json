@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-09 19:49:24",
+  "time":"2020-05-09 19:53:34",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"大家说伯力用paypal付款需要手续费，一般是多少啊",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686987&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"cloudcone的cdn，现在还能用吗",
@@ -109,10 +113,6 @@
     {
       "name":"明盘出个米 bmyun.com",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686958&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"购买E3 Sy 提示你没有资格购买 这项订阅",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=686957&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
