@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 10:10:06",
+  "time":"2020-05-09 10:14:44",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"2020全球游戏业收入将达1590亿美元 疫情/新主机推动明显",
+      "url":"https://hot.cnbeta.com/articles/game/976741.htm"
+    },
     {
       "name":"中国散裂中子源用户实验成果首次在Science发表",
       "url":"https://www.cnbeta.com/articles/science/976739.htm"
@@ -237,10 +241,6 @@
     {
       "name":"iPhone大减价背后：持续承压的供应链和“狂奔”的业绩黑马",
       "url":"https://www.cnbeta.com/articles/tech/976623.htm"
-    },
-    {
-      "name":"[图]16655名开发者调查：2020年最抢手的编程语言是谷歌的Go",
-      "url":"https://www.cnbeta.com/articles/tech/976621.htm"
     }
   ]
 }
