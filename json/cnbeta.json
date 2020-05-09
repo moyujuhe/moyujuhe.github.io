@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-09 10:05:50",
+  "time":"2020-05-09 10:10:06",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"中国散裂中子源用户实验成果首次在Science发表",
+      "url":"https://www.cnbeta.com/articles/science/976739.htm"
+    },
+    {
+      "name":"从未有一个黑洞，如此接近地球",
+      "url":"https://www.cnbeta.com/articles/science/976737.htm"
+    },
     {
       "name":"Ubuntu 20.04 LTS 对树莓派进行认证，以提供全面支持",
       "url":"https://www.cnbeta.com/articles/tech/976735.htm"
@@ -233,14 +241,6 @@
     {
       "name":"[图]16655名开发者调查：2020年最抢手的编程语言是谷歌的Go",
       "url":"https://www.cnbeta.com/articles/tech/976621.htm"
-    },
-    {
-      "name":"多个因素推动美股收高 金山云挂牌首日大涨逾40%",
-      "url":"https://www.cnbeta.com/articles/tech/976619.htm"
-    },
-    {
-      "name":"美国失业率飙升 硅谷公司仍在发布招聘信息",
-      "url":"https://www.cnbeta.com/articles/tech/976617.htm"
     }
   ]
 }
