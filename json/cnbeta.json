@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 08:21:28",
+  "time":"2020-05-09 08:25:46",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[视频]Google Duo现支持群组视频聊天 未来几周部署到Chrome",
+      "url":"https://www.cnbeta.com/articles/tech/976659.htm"
+    },
     {
       "name":"水果废料新用途：帮助从甲壳类动物壳中提取更优质聚合物",
       "url":"https://www.cnbeta.com/articles/science/976657.htm"
@@ -237,10 +241,6 @@
     {
       "name":"苹果将于5月11日在德国重开Apple Store",
       "url":"https://www.cnbeta.com/articles/tech/976541.htm"
-    },
-    {
-      "name":"新西兰放宽防疫条例 《阿凡达》《指环王》等将复拍",
-      "url":"https://hot.cnbeta.com/articles/movie/976539.htm"
     }
   ]
 }
