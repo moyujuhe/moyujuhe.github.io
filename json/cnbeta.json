@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 09:35:49",
+  "time":"2020-05-09 09:40:01",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]微软公布Build 2020会议日程安排 纳德拉主持开幕演讲",
+      "url":"https://www.cnbeta.com/articles/tech/976715.htm"
+    },
     {
       "name":"梅赛德斯正努力让MBUX人工智能系统变得更加主动",
       "url":"https://www.cnbeta.com/articles/tech/976713.htm"
@@ -237,10 +241,6 @@
     {
       "name":"白宫：如果新冠疫情出现第二轮爆发 美国经济无需再次停摆",
       "url":"https://www.cnbeta.com/articles/tech/976597.htm"
-    },
-    {
-      "name":"新加坡公园机器狗安保上线 提醒游客保持社交距离",
-      "url":"https://www.cnbeta.com/articles/tech/976595.htm"
     }
   ]
 }
