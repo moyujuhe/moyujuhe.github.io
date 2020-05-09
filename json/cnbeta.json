@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 09:27:11",
+  "time":"2020-05-09 09:31:25",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]传watchOS 7将依靠Apple Watch血氧传感器提供心理健康功能",
+      "url":"https://www.cnbeta.com/articles/tech/976709.htm"
+    },
     {
       "name":"多家智能手机制造商已恢复印度工厂的运转",
       "url":"https://www.cnbeta.com/articles/tech/976707.htm"
@@ -237,10 +241,6 @@
     {
       "name":"金山云“云上市”：开盘价20.37美元 市值超43亿",
       "url":"https://www.cnbeta.com/articles/tech/976591.htm"
-    },
-    {
-      "name":"丧心病狂or形势所迫？谈谈Android奇葩的“链式启动”",
-      "url":"https://www.cnbeta.com/articles/tech/976589.htm"
     }
   ]
 }
