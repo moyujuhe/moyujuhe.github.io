@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-09 10:31:45",
+  "time":"2020-05-09 10:36:10",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"福特公司用合成鸟粪来保证真实世界的油漆安全",
+      "url":"https://www.cnbeta.com/articles/tech/976753.htm"
+    },
     {
       "name":"AMD桌面版Renoir APU现身测试数据库， 8核16线程，3.95GHz主频",
       "url":"https://www.cnbeta.com/articles/tech/976751.htm"
@@ -237,10 +241,6 @@
     {
       "name":"骁龙865弹出全面屏 小米POCO F2 Pro 5月12日印度发布",
       "url":"https://www.cnbeta.com/articles/tech/976635.htm"
-    },
-    {
-      "name":"苹果公司少数美国门店下周将开始恢复营业",
-      "url":"https://www.cnbeta.com/articles/tech/976633.htm"
     }
   ]
 }
