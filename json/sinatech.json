@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-10 10:05:05",
+  "time":"2020-05-10 10:23:05",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"柳叶刀：大幅缩短新冠患者排毒时间的疗法出现了！",
+      "url":"https://tech.sina.com.cn/d/f/2020-05-10/doc-iircuyvi2288912.shtml"
+    },
     {
       "name":"AI也有偏见，我们该如何信任它们？",
       "url":"https://tech.sina.com.cn/d/i/2020-05-10/doc-iircuyvi2285827.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"银保监会：商业银行互联网贷款不得用于购房等投资",
       "url":"https://tech.sina.com.cn/i/2020-05-09/doc-iirczymk0718797.shtml"
-    },
-    {
-      "name":"悲凉魅族 落地无声",
-      "url":"http://tech.sina.com.cn/csj/2020-05-09/doc-iircuyvi2184372.shtml"
     }
   ]
 }
