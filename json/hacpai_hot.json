@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-10 17:54:53",
+  "time":"2020-05-10 17:59:04",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -91,6 +91,10 @@
       "url":"https://hacpai.com/article/1587372338459"
     },
     {
+      "name":"Solo 的 Meta 资源引用异常，建议禁用",
+      "url":"https://hacpai.com/article/1588990747021"
+    },
+    {
       "name":"哈士奇社区用 django 写了仿 A 岛手机版的匿名论坛",
       "url":"https://hacpai.com/article/1588512107958"
     },
@@ -129,10 +133,6 @@
     {
       "name":"如何看待 OSCHINA 2020 Q1 开源软件趋势榜？",
       "url":"https://hacpai.com/article/1586593905907"
-    },
-    {
-      "name":"Solo 的 Meta 资源引用异常，建议禁用",
-      "url":"https://hacpai.com/article/1588990747021"
     },
     {
       "name":"20200501 TGIF",
