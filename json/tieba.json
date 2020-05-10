@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-10 10:31:13",
+  "time":"2020-05-10 10:35:29",
   "title":"贴吧热度榜单",
   "data":[
     {
@@ -23,8 +23,8 @@
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277601&topic_name=%E7%8A%AC%E5%A4%9C%E5%8F%89%E7%BB%AD%E4%BD%9C%E5%8A%A8%E7%94%BB%E5%8C%96"
     },
     {
-      "name":"5月8日晚，金山云在美国纳斯达克上市，受益于金山云上市，小米在5月8日股价大涨8.1%，雷军身家暴增超百亿元。",
-      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277608&topic_name=%E9%9B%B7%E5%86%9B%E8%BA%AB%E4%BB%B7%E6%9A%B4%E6%B6%A8"
+      "name":"5月9日，全国31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例14例。吉林舒兰调整疫情风险等级为高风险。",
+      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277618&topic_name=%E6%98%A8%E6%97%A5%E6%96%B0%E5%A2%9E14%E4%BE%8B%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E"
     },
     {
       "name":"广西钦州10岁女童被强奸遇害案二审判罚结果引发热议。受害者家长表示，要求死刑立即执行。",
@@ -95,6 +95,10 @@
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277555&topic_name=%E5%B0%8F%E5%8C%BA%E5%9B%A0%E8%B6%85%E6%97%B6%E8%B4%B9%E5%81%9C%E7%94%A8%E4%B8%B0%E5%B7%A2"
     },
     {
+      "name":"受疫情影响苹果手机销量削减，富士康订单减少，传言称部分员工被强制放假4个月，对此富士康回应称，目前各厂区运作正常，并无大规模裁员及休假情况。",
+      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277570&topic_name=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%9B%9E%E5%BA%94%E6%94%BE%E5%81%87%E4%BC%A0%E9%97%BB"
+    },
+    {
       "name":"吧友热议：盘点影视剧中那些人设不讨喜，让观众忍不住想吐槽的角色。",
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277590&topic_name=%E5%BD%B1%E8%A7%86%E5%89%A7%E4%B8%AD%E6%97%A0%E5%8A%9B%E5%90%90%E6%A7%BD%E7%9A%84%E8%A7%92%E8%89%B2"
     },
@@ -117,10 +121,6 @@
     {
       "name":"吧友分享大阪爱情故事：我很孤僻，跟她在一起后我觉得世界上多少有点期待。",
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277562&topic_name=%E5%BD%93%E4%BD%A0%E6%9C%89%E4%B8%80%E4%B8%AA%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%9C%8B%E5%8F%8B"
-    },
-    {
-      "name":"受疫情影响苹果手机销量削减，富士康订单减少，传言称部分员工被强制放假4个月，对此富士康回应称，目前各厂区运作正常，并无大规模裁员及休假情况。",
-      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=277570&topic_name=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%9B%9E%E5%BA%94%E6%94%BE%E5%81%87%E4%BC%A0%E9%97%BB"
     }
   ]
 }
