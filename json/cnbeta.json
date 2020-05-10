@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-10 11:35:53",
+  "time":"2020-05-10 11:40:12",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"NASA表示毅力号火星车仍定于今夏发射",
       "url":"https://www.cnbeta.com/articles/science/977165.htm"
+    },
+    {
+      "name":"爆料称Eric Schmidt已于卸任2月辞去谷歌母公司Alphabet的技术顾问",
+      "url":"https://www.cnbeta.com/articles/tech/977179.htm"
     },
     {
       "name":"Uber将实现盈利的时间点从今年Q4推迟至明年",
@@ -237,10 +241,6 @@
     {
       "name":"瑞士所有Apple Store门店5月12日重新开张",
       "url":"https://www.cnbeta.com/articles/tech/977063.htm"
-    },
-    {
-      "name":"8核心冲上5.3GHz：Intel至强W-10885M创移动工作站之最",
-      "url":"https://www.cnbeta.com/articles/tech/977061.htm"
     }
   ]
 }
