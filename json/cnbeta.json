@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-10 15:47:42",
+  "time":"2020-05-10 15:52:08",
   "title":"cnBeta",
   "data":[
     {
       "name":"优酷VIP会员5折优惠：年卡仅99元",
       "url":"http://tb.g2h3.com/3G4qE"
+    },
+    {
+      "name":"28nm GPU老兵不死 GTX 970超频到1865MHz 提升58%",
+      "url":"https://www.cnbeta.com/articles/tech/977269.htm"
     },
     {
       "name":"Canonical宣布Ubuntu 20.04 LTS在第一时间获得了树莓派认证",
@@ -237,10 +241,6 @@
     {
       "name":"中国移动谈“5G上珠峰”：单站成本超200万元",
       "url":"https://www.cnbeta.com/articles/tech/977157.htm"
-    },
-    {
-      "name":"英国大规模分析患者记录的新研究 揭示了COVID-19死亡的危险因素",
-      "url":"https://www.cnbeta.com/articles/science/977117.htm"
     }
   ]
 }
