@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-10 16:58:26",
+  "time":"2020-05-10 17:02:35",
   "title":"cnBeta",
   "data":[
     {
       "name":"优酷VIP会员5折优惠：年卡仅99元",
       "url":"http://tb.g2h3.com/3G4qE"
+    },
+    {
+      "name":"测试发现2020款MacBook Air会在使用Windows时提升30%的亮度",
+      "url":"https://www.cnbeta.com/articles/tech/977287.htm"
     },
     {
       "name":"FDA常客再下一城：Aidoc AI新冠肺炎影像判读产品获准",
@@ -237,10 +241,6 @@
     {
       "name":"Facebook Messenger测试版更新 关闭Win10系统托盘图标不代表默认退出",
       "url":"https://www.cnbeta.com/articles/soft/977135.htm"
-    },
-    {
-      "name":"分析师：Xbox Series X零售价可能定于400美元左右",
-      "url":"https://hot.cnbeta.com/articles/game/977173.htm"
     }
   ]
 }
