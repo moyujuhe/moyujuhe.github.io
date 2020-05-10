@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 06:46:25",
+  "time":"2020-05-11 06:51:55",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"5G登上珠穆朗玛峰",
+      "url":"https://tech.sina.com.cn/5g/i/2020-05-11/doc-iirczymk0931925.shtml"
+    },
     {
       "name":"机票退款从现金变为代金券 旅客该接受吗？",
       "url":"https://tech.sina.com.cn/i/2020-05-11/doc-iircuyvi2402496.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"上海停用小区致函丰巢：你们不是弱者 单柜利润超2倍",
       "url":"https://tech.sina.com.cn/roll/2020-05-10/doc-iirczymk0817375.shtml"
-    },
-    {
-      "name":"丰巢超时收费，人民日报发声",
-      "url":"https://tech.sina.com.cn/i/2020-05-10/doc-iircuyvi2292831.shtml"
     }
   ]
 }
