@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-10 21:37:40",
+  "time":"2020-05-10 21:42:18",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -79,6 +79,10 @@
       "url":"https://hacpai.com/article/1588136257448"
     },
     {
+      "name":"Solo 的 Meta 资源引用异常，建议禁用",
+      "url":"https://hacpai.com/article/1588990747021"
+    },
+    {
       "name":"毕竟 Too Young Too Naive",
       "url":"https://hacpai.com/article/1587828066988"
     },
@@ -89,10 +93,6 @@
     {
       "name":"安装了个 Sym 论坛社区版，注册邮件收不到",
       "url":"https://hacpai.com/article/1587372338459"
-    },
-    {
-      "name":"Solo 的 Meta 资源引用异常，建议禁用",
-      "url":"https://hacpai.com/article/1588990747021"
     },
     {
       "name":"哈士奇社区用 django 写了仿 A 岛手机版的匿名论坛",
