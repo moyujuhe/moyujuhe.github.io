@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-10 09:26:41",
+  "time":"2020-05-10 09:30:51",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -41,10 +41,6 @@
     {
       "name":"关于一份 java 讲师工作",
       "url":"https://hacpai.com/article/1588062008746"
-    },
-    {
-      "name":"20200410 TGIF",
-      "url":"https://hacpai.com/article/1586481241024"
     },
     {
       "name":"Vditor 在 NPM 上的下载量已经超过 Editor.md 了",
@@ -241,6 +237,10 @@
     {
       "name":"大家五一放多少天假？",
       "url":"https://hacpai.com/article/1587873565645"
+    },
+    {
+      "name":"Symphony 404",
+      "url":"https://hacpai.com/article/1587427833055"
     }
   ]
 }

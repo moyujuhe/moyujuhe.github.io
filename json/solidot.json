@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-10 09:26:41",
+  "time":"2020-05-10 09:30:51",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"新冠表面的多聚糖可能提供疫苗的线索",
+      "url":"https://www.solidot.org/story?sid=64314"
+    },
     {
       "name":"调查显示 Go 是最受开发者青睐的编程语言",
       "url":"https://www.solidot.org/story?sid=64313"
@@ -77,10 +81,6 @@
     {
       "name":"微信监视所有用户的内容",
       "url":"https://www.solidot.org/story?sid=64295"
-    },
-    {
-      "name":"美国考虑对中国采取更激进的行动",
-      "url":"https://www.solidot.org/story?sid=64293"
     }
   ]
 }
