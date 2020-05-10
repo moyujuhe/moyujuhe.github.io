@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-10 13:24:42",
+  "time":"2020-05-10 13:42:24",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"特斯拉重启生产被拒，马斯克起诉政府",
+      "url":"https://tech.sina.com.cn/it/2020-05-10/doc-iircuyvi2323026.shtml"
+    },
     {
       "name":"董明珠遇到巨大困惑 听她一句话后“浑身轻松了”",
       "url":"https://tech.sina.com.cn/it/2020-05-10/doc-iircuyvi2322383.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"多地明确快递入柜需经收件人同意",
       "url":"https://tech.sina.com.cn/i/2020-05-09/doc-iircuyvi2228476.shtml"
-    },
-    {
-      "name":"车好多宣布人事变动：CTO张小沛卸任集团职务",
-      "url":"https://tech.sina.com.cn/it/2020-05-09/doc-iirczymk0754501.shtml"
     }
   ]
 }
