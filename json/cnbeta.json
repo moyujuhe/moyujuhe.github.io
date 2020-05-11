@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-11 12:00:26",
+  "time":"2020-05-11 12:04:35",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"新版《蝙蝠侠》新细节曝光 将成最黑暗蝙蝠侠电影",
+      "url":"https://hot.cnbeta.com/articles/movie/977513.htm"
+    },
+    {
+      "name":"BepiColombo飞越地球：谱写出“宇宙之声”",
+      "url":"https://www.cnbeta.com/articles/science/977511.htm"
+    },
     {
       "name":"深度观察：独家揭秘中国空间站",
       "url":"https://www.cnbeta.com/articles/science/977509.htm"
@@ -233,14 +241,6 @@
     {
       "name":"微软Outlook Web推出文本预测功能",
       "url":"https://www.cnbeta.com/articles/tech/977393.htm"
-    },
-    {
-      "name":"在新冠大流行期间乘飞机出行是一种怎样的体验？",
-      "url":"https://www.cnbeta.com/articles/tech/977391.htm"
-    },
-    {
-      "name":"被指单柜利润率达240%，丰巢快递柜生意到底是赔是赚？",
-      "url":"https://www.cnbeta.com/articles/tech/977389.htm"
     }
   ]
 }
