@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 20:16:28",
+  "time":"2020-05-11 20:20:39",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"消息称苹果将转移1/5的iPhone产能到印度工厂",
+      "url":"https://www.cnbeta.com/articles/tech/977707.htm"
+    },
     {
       "name":"4月iPhone销量出现急剧下滑：爆降77%",
       "url":"https://www.cnbeta.com/articles/tech/977705.htm"
@@ -237,10 +241,6 @@
     {
       "name":"《办公室》卡司齐聚一堂  参加由John Krasinski主持的Zoom婚礼",
       "url":"https://hot.cnbeta.com/articles/movie/977587.htm"
-    },
-    {
-      "name":"[图]Microsoft Stream现支持最长15分钟的屏幕录制",
-      "url":"https://www.cnbeta.com/articles/tech/977585.htm"
     }
   ]
 }
