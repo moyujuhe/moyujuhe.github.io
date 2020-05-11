@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 17:37:54",
+  "time":"2020-05-11 17:42:06",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"超过四成的人希望疫情之后能继续远程办公",
+      "url":"https://www.solidot.org/story?sid=64326"
+    },
     {
       "name":"让 Emacs 再次流行起来",
       "url":"https://www.solidot.org/story?sid=64325"
@@ -77,10 +81,6 @@
     {
       "name":"英特尔雇员指控公司优先考虑芯片生产而不是安全",
       "url":"https://www.solidot.org/story?sid=64307"
-    },
-    {
-      "name":"WHO 称武汉华南海鲜市场肯定与疫情有关联",
-      "url":"https://www.solidot.org/story?sid=64306"
     }
   ]
 }
