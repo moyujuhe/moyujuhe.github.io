@@ -1,78 +1,98 @@
 {
-  "time":"2020-05-11 14:41:36",
+  "time":"2020-05-11 14:45:46",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]英特尔高端Xe显卡呢？跑分最高规格为3GB+768个着色器",
+      "url":"https://www.cnbeta.com/articles/tech/977543.htm"
+    },
+    {
+      "name":"IBM工程师用乐高积木和树莓派打造高质量显微镜",
+      "url":"https://www.cnbeta.com/articles/tech/977557.htm"
+    },
+    {
+      "name":"与骁龙855同架构 高通骁龙768G登场",
+      "url":"https://www.cnbeta.com/articles/tech/977573.htm"
+    },
+    {
+      "name":"剧版《雪国列车》前导预告 5月25日上线Netflix",
+      "url":"https://hot.cnbeta.com/articles/movie/977571.htm"
+    },
+    {
+      "name":"首发骁龙768G Redmi K30 5G极速版发布 售价1999元",
+      "url":"https://www.cnbeta.com/articles/tech/977569.htm"
+    },
+    {
+      "name":"滴滴公众评议会第十二期：是否支持公示车内性骚扰者",
+      "url":"https://www.cnbeta.com/articles/tech/977567.htm"
+    },
     {
       "name":"猛男另类玩法：在《动物森友会》里打《俄罗斯方块》",
       "url":"https://hot.cnbeta.com/articles/game/977565.htm"
     },
     {
       "name":"涉全国20余城市、欺骗性极强 一网络招工诈骗案告破",
-      "url":"http://www.cnbeta.com/articles/tech/977563.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977563.htm"
     },
     {
       "name":"远程办公没问题！《马里奥》电影新作疫情期间制作顺利",
       "url":"https://hot.cnbeta.com/articles/movie/977561.htm"
     },
     {
+      "name":"BepiColombo飞越地球：谱写出“宇宙之声”",
+      "url":"https://www.cnbeta.com/articles/science/977511.htm"
+    },
+    {
       "name":"剧场版动画《想哭的我戴上猫面具》人物角色图公开",
       "url":"https://hot.cnbeta.com/articles/comic/977559.htm"
     },
     {
-      "name":"IBM工程师用乐高积木和树莓派打造高质量显微镜",
-      "url":"http://www.cnbeta.com/articles/tech/977557.htm"
-    },
-    {
       "name":"中国移动宣布董昕任公司董事、总经理、党组副书记",
-      "url":"http://www.cnbeta.com/articles/tech/977555.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977555.htm"
     },
     {
       "name":"顺丰加入外卖送餐业务 美团点评逆市跌逾3%",
-      "url":"http://www.cnbeta.com/articles/tech/977553.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977553.htm"
     },
     {
       "name":"全时京津门店月底全关 控股公司曾陷P2P挤兑风波",
-      "url":"http://www.cnbeta.com/articles/tech/977551.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977551.htm"
     },
     {
       "name":"央视访珠峰5G基站建设者:珠峰之巅5G如何实现新高度?",
-      "url":"http://www.cnbeta.com/articles/tech/977549.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977549.htm"
     },
     {
       "name":"哈啰出行CEO杨磊遭法院限制消费",
-      "url":"http://www.cnbeta.com/articles/tech/977547.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977547.htm"
     },
     {
       "name":"红米显示器系列产品曝光：23.8寸有望杀至600元以下",
-      "url":"http://www.cnbeta.com/articles/tech/977545.htm"
-    },
-    {
-      "name":"[图]英特尔高端Xe显卡呢？跑分最高规格为3GB+768个着色器",
-      "url":"http://www.cnbeta.com/articles/tech/977543.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977545.htm"
     },
     {
       "name":"苹果加大在台湾投资  锁定 Mini LED 和 Micro LED",
-      "url":"http://www.cnbeta.com/articles/tech/977541.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977541.htm"
     },
     {
       "name":"“超级大陆” 发现新物种完整骨架",
-      "url":"http://www.cnbeta.com/articles/science/977539.htm"
+      "url":"https://www.cnbeta.com/articles/science/977539.htm"
     },
     {
       "name":"4月新能源乘用车销量榜：比亚迪秦EV力压Model 3成销冠",
-      "url":"http://www.cnbeta.com/articles/tech/977537.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977537.htm"
     },
     {
       "name":"Nature Genetics｜棉花基因组研究获重大突破",
-      "url":"http://www.cnbeta.com/articles/science/977535.htm"
+      "url":"https://www.cnbeta.com/articles/science/977535.htm"
     },
     {
       "name":"奥克斯被判恶意侵权 赔偿格力4000万元",
-      "url":"http://www.cnbeta.com/articles/tech/977533.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977533.htm"
     },
     {
       "name":"多国科学家出手 危害六大洲的小菜蛾群体基因组学研究成果发布",
-      "url":"http://www.cnbeta.com/articles/science/977531.htm"
+      "url":"https://www.cnbeta.com/articles/science/977531.htm"
     },
     {
       "name":"消息称新Xbox X定价预计为400美元 微软在等待索尼动向",
@@ -80,19 +100,19 @@
     },
     {
       "name":"为什么美国可以制造精密半导体却产不了口罩？",
-      "url":"http://www.cnbeta.com/articles/tech/977527.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977527.htm"
     },
     {
       "name":"全时便利店北京、天津大规模关门：商品6-7折销售、会员卡退款",
-      "url":"http://www.cnbeta.com/articles/tech/977525.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977525.htm"
     },
     {
       "name":"全球首个特斯拉致死案例：自动驾驶还有很长的路要走",
-      "url":"http://www.cnbeta.com/articles/tech/977523.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977523.htm"
     },
     {
       "name":"阿里副总裁：新冠消费增速降幅是非典8倍 报复性消费难出现",
-      "url":"http://www.cnbeta.com/articles/tech/977521.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977521.htm"
     },
     {
       "name":"《蜘蛛侠：平行宇宙2》官宣定档！三代蜘蛛侠将首次同框",
@@ -111,64 +131,60 @@
       "url":"https://hot.cnbeta.com/articles/movie/977513.htm"
     },
     {
-      "name":"BepiColombo飞越地球：谱写出“宇宙之声”",
-      "url":"http://www.cnbeta.com/articles/science/977511.htm"
-    },
-    {
       "name":"深度观察：独家揭秘中国空间站",
-      "url":"http://www.cnbeta.com/articles/science/977509.htm"
+      "url":"https://www.cnbeta.com/articles/science/977509.htm"
     },
     {
       "name":"罗永浩宣布t.tt域名新用途：曾花重金购买",
-      "url":"http://www.cnbeta.com/articles/tech/977507.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977507.htm"
     },
     {
       "name":"[评论]丰巢决策欠妥 得罪业委会将不利于今后合作",
-      "url":"http://www.cnbeta.com/articles/tech/977505.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977505.htm"
     },
     {
       "name":"首款144Hz屏+联发科天玑1000+旗舰 iQOO Z1宣布",
-      "url":"http://www.cnbeta.com/articles/tech/977503.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977503.htm"
     },
     {
       "name":"小米第二款Wi-Fi6路由官宣：方盒子造型？5月13日见",
-      "url":"http://www.cnbeta.com/articles/tech/977501.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977501.htm"
     },
     {
       "name":"iPhone 12最新爆料汇总：6GB内存、4400mAh电池、120Hz高刷",
-      "url":"http://www.cnbeta.com/articles/tech/977499.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977499.htm"
     },
     {
       "name":"X30直跳X50？vivo X50 Lite曝光：骁龙665加持",
-      "url":"http://www.cnbeta.com/articles/tech/977497.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977497.htm"
     },
     {
       "name":"紫光展锐50亿元融资已到账 注册地将从北京迁回上海",
-      "url":"http://www.cnbeta.com/articles/tech/977495.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977495.htm"
     },
     {
       "name":"途牛的危情时刻：纳斯达克退市警告倒计时",
-      "url":"http://www.cnbeta.com/articles/tech/977493.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977493.htm"
     },
     {
       "name":"董昕任中国移动通信集团有限公司总经理",
-      "url":"http://www.cnbeta.com/articles/tech/977489.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977489.htm"
     },
     {
       "name":"汉莎航空也扛不住了 正式向德国政府申请贷款援助",
-      "url":"http://www.cnbeta.com/articles/tech/977487.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977487.htm"
     },
     {
       "name":"波音CEO：我们有信心本月重启波音737 MAX生产线",
-      "url":"http://www.cnbeta.com/articles/tech/977485.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977485.htm"
     },
     {
       "name":"律师建议阅文作者：若对合约不满意 可协商或拒签",
-      "url":"http://www.cnbeta.com/articles/tech/977483.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977483.htm"
     },
     {
       "name":"实验性基因治疗或可在无需运动及节食的情况下预防肥胖  并建立肌肉",
-      "url":"http://www.cnbeta.com/articles/science/977463.htm"
+      "url":"https://www.cnbeta.com/articles/science/977463.htm"
     },
     {
       "name":"支持中文：建筑模拟新游《房屋设计师》上架Steam",
@@ -184,19 +200,19 @@
     },
     {
       "name":"中国移动回应5G消息App下架：存技术问题 会重新上线",
-      "url":"http://www.cnbeta.com/articles/tech/977475.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977475.htm"
     },
     {
       "name":"WHO发布新冠挑战试验指导方针：虽有争议但却可能加快疫苗研发",
-      "url":"http://www.cnbeta.com/articles/science/977445.htm"
+      "url":"https://www.cnbeta.com/articles/science/977445.htm"
     },
     {
       "name":"中智行发声明：公司、王劲与文远知行达成全面和解",
-      "url":"http://www.cnbeta.com/articles/tech/977473.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977473.htm"
     },
     {
       "name":"研究发现一种可以加快新冠肺炎病人康复的新药物组合",
-      "url":"http://www.cnbeta.com/articles/science/977443.htm"
+      "url":"https://www.cnbeta.com/articles/science/977443.htm"
     },
     {
       "name":"一名加拿大《星战》Coser因携带塑料枪 遭路人报警",
@@ -204,7 +220,7 @@
     },
     {
       "name":"腾讯控股涨逾2.5%创近两年新高 市值近4.1万亿港元",
-      "url":"http://www.cnbeta.com/articles/tech/977469.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977469.htm"
     },
     {
       "name":"《光环2周年纪念版》精确解锁时间公布 士官长传奇继续",
@@ -216,31 +232,15 @@
     },
     {
       "name":"为什么有些人不愿意洗手？",
-      "url":"http://www.cnbeta.com/articles/science/977461.htm"
+      "url":"https://www.cnbeta.com/articles/science/977461.htm"
     },
     {
       "name":"上线仅1天：中国移动5G消息APP已被下架",
-      "url":"http://www.cnbeta.com/articles/tech/977459.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977459.htm"
     },
     {
       "name":"还是中国的钱 特斯拉获40亿贷款：继续扩建上海工厂",
-      "url":"http://www.cnbeta.com/articles/tech/977457.htm"
-    },
-    {
-      "name":"5G上车 威马Maven概念车发布：续航可达800公里",
-      "url":"http://www.cnbeta.com/articles/tech/977455.htm"
-    },
-    {
-      "name":"自家生产的新能源车质量太差！盼达向力帆索赔近8亿元 官方回应",
-      "url":"http://www.cnbeta.com/articles/tech/977453.htm"
-    },
-    {
-      "name":"时隔9年 俄罗斯火箭燃料箱突然在太空爆炸：产生大量碎片",
-      "url":"http://www.cnbeta.com/articles/science/977451.htm"
-    },
-    {
-      "name":"研究报告称：新冠病毒不断突变  更具传染性",
-      "url":"http://www.cnbeta.com/articles/science/977449.htm"
+      "url":"https://www.cnbeta.com/articles/tech/977457.htm"
     }
   ]
 }
