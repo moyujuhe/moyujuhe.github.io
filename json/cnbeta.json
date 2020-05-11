@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 04:31:21",
+  "time":"2020-05-12 04:35:27",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"foobar2000 1.5.4 正式版发布",
+      "url":"https://www.cnbeta.com/articles/soft/977767.htm"
+    },
     {
       "name":"消息称特斯拉加州工厂已恢复生产",
       "url":"https://www.cnbeta.com/articles/tech/977765.htm"
@@ -237,10 +241,6 @@
     {
       "name":"美国伊利诺伊州工人竟给“大超”也戴上了口罩",
       "url":"https://hot.cnbeta.com/articles/movie/977651.htm"
-    },
-    {
-      "name":"网友热议《哆啦A梦》高能哪都能去 YY下次去哪冒险",
-      "url":"https://hot.cnbeta.com/articles/comic/977649.htm"
     }
   ]
 }
