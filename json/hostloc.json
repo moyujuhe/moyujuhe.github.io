@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-11 22:51:46",
+  "time":"2020-05-11 22:56:11",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"HostEnos价格好像还行",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687969&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"Cloudflare-CNAME-Setup这个面板怎么安装到heroku的",
@@ -109,10 +113,6 @@
     {
       "name":"我来分享点不一样的 德国Euserv免费机 V2订阅...",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687939&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"azure翻车后，机机还在是怎么回事",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687938&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
