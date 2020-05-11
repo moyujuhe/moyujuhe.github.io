@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 08:25:49",
+  "time":"2020-05-11 08:29:56",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软正在为Outlook.com开发“智能撰写”功能",
+      "url":"https://www.cnbeta.com/articles/tech/977401.htm"
+    },
     {
       "name":"微软在Chromium中新增对双屏模拟器的支持",
       "url":"https://www.cnbeta.com/articles/tech/977399.htm"
@@ -237,10 +241,6 @@
     {
       "name":"FDA常客再下一城：Aidoc AI新冠肺炎影像判读产品获准",
       "url":"https://www.cnbeta.com/articles/tech/977285.htm"
-    },
-    {
-      "name":"疫情可能导致次美国次世代主机库存短缺",
-      "url":"https://hot.cnbeta.com/articles/game/977283.htm"
     }
   ]
 }
