@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-11 20:12:12",
+  "time":"2020-05-11 20:16:28",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"4月iPhone销量出现急剧下滑：爆降77%",
+      "url":"https://www.cnbeta.com/articles/tech/977705.htm"
+    },
+    {
+      "name":"Steam最新硬件统计：AMD处理器份额升至22%",
+      "url":"https://www.cnbeta.com/articles/tech/977703.htm"
+    },
     {
       "name":"奇安信科创板IPO获受理 拟募资规模约45亿元",
       "url":"https://www.cnbeta.com/articles/tech/977701.htm"
@@ -233,14 +241,6 @@
     {
       "name":"[图]Microsoft Stream现支持最长15分钟的屏幕录制",
       "url":"https://www.cnbeta.com/articles/tech/977585.htm"
-    },
-    {
-      "name":"科学家开发的新技术可制造出合成活细胞   用于去除二氧化碳",
-      "url":"https://www.cnbeta.com/articles/science/977583.htm"
-    },
-    {
-      "name":"[图]英特尔高端Xe显卡呢？跑分最高规格为3GB+768个着色器",
-      "url":"https://www.cnbeta.com/articles/tech/977543.htm"
     }
   ]
 }
