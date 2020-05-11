@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 20:03:11",
+  "time":"2020-05-11 20:07:55",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"奇安信科创板IPO获受理 拟募资规模约45亿元",
+      "url":"https://www.cnbeta.com/articles/tech/977701.htm"
+    },
     {
       "name":"[评论]丰巢涨价 政府不能只做裁判",
       "url":"https://www.cnbeta.com/articles/tech/977699.htm"
@@ -237,10 +241,6 @@
     {
       "name":"[图]英特尔高端Xe显卡呢？跑分最高规格为3GB+768个着色器",
       "url":"https://www.cnbeta.com/articles/tech/977543.htm"
-    },
-    {
-      "name":"[图]适用于iPad的Office套件升级：Word和PowerPoint支持分屏视图",
-      "url":"https://www.cnbeta.com/articles/tech/977581.htm"
     }
   ]
 }
