@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 14:01:55",
+  "time":"2020-05-11 14:06:14",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"奥克斯被判恶意侵权 赔偿格力4000万元",
+      "url":"https://www.cnbeta.com/articles/tech/977533.htm"
+    },
     {
       "name":"多国科学家出手 危害六大洲的小菜蛾群体基因组学研究成果发布",
       "url":"https://www.cnbeta.com/articles/science/977531.htm"
@@ -237,10 +241,6 @@
     {
       "name":"揭秘中国空间站",
       "url":"https://www.cnbeta.com/articles/science/977413.htm"
-    },
-    {
-      "name":"LLVM 10被发现影响Rust性能 导致编译时间变长",
-      "url":"https://www.cnbeta.com/articles/soft/977411.htm"
     }
   ]
 }
