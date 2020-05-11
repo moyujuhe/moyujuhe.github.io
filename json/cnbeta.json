@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-11 08:34:02",
+  "time":"2020-05-11 08:38:11",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"受疫情影响 拉美第二大航空公司申请破产",
+      "url":"https://www.cnbeta.com/articles/tech/977405.htm"
+    },
+    {
+      "name":"坤兴推出18W迷你PD快充充电器：仅苹果5W大小",
+      "url":"https://www.cnbeta.com/articles/tech/977403.htm"
+    },
     {
       "name":"微软正在为Outlook.com开发“智能撰写”功能",
       "url":"https://www.cnbeta.com/articles/tech/977401.htm"
@@ -233,14 +241,6 @@
     {
       "name":"50倍变焦+5G体验：荣耀30系列助力珠峰登顶 献礼首登60周年",
       "url":"https://www.cnbeta.com/articles/tech/977289.htm"
-    },
-    {
-      "name":"测试发现2020款MacBook Air会在使用Windows时提升30%的亮度",
-      "url":"https://www.cnbeta.com/articles/tech/977287.htm"
-    },
-    {
-      "name":"FDA常客再下一城：Aidoc AI新冠肺炎影像判读产品获准",
-      "url":"https://www.cnbeta.com/articles/tech/977285.htm"
     }
   ]
 }
