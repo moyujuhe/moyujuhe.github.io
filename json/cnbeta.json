@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 10:23:05",
+  "time":"2020-05-11 10:27:25",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"WHO发布新冠挑战试验指导方针：虽有争议但却可能加快疫苗研发",
+      "url":"https://www.cnbeta.com/articles/science/977445.htm"
+    },
     {
       "name":"研究发现一种可以加快新冠肺炎病人康复的新药物组合",
       "url":"https://www.cnbeta.com/articles/science/977443.htm"
@@ -237,10 +241,6 @@
     {
       "name":"裁员乌云笼罩硅谷：就业熊市会持续多久？",
       "url":"https://www.cnbeta.com/articles/tech/977329.htm"
-    },
-    {
-      "name":"疫情下日本女仆店防疫：无法亲密接触魅力依然不减",
-      "url":"https://hot.cnbeta.com/articles/comic/977327.htm"
     }
   ]
 }
