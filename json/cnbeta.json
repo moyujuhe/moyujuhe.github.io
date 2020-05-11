@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-11 15:02:53",
+  "time":"2020-05-11 15:07:07",
   "title":"cnBeta",
   "data":[
     {
       "name":"[图]英特尔高端Xe显卡呢？跑分最高规格为3GB+768个着色器",
       "url":"https://www.cnbeta.com/articles/tech/977543.htm"
+    },
+    {
+      "name":"[图]适用于iPad的Office套件升级：Word和PowerPoint支持分屏视图",
+      "url":"https://www.cnbeta.com/articles/tech/977581.htm"
+    },
+    {
+      "name":"研究发现异常小的红细胞可能是新型的癌症早期生物标记物",
+      "url":"https://www.cnbeta.com/articles/science/977579.htm"
     },
     {
       "name":"[图]认证信息显示realme新机要配6000mAh大容量电池",
@@ -233,14 +241,6 @@
     {
       "name":"《光环2周年纪念版》精确解锁时间公布 士官长传奇继续",
       "url":"https://hot.cnbeta.com/articles/game/977467.htm"
-    },
-    {
-      "name":"日本市场Switch一机难求 二手机比官方新机定价高千元",
-      "url":"https://hot.cnbeta.com/articles/game/977465.htm"
-    },
-    {
-      "name":"为什么有些人不愿意洗手？",
-      "url":"https://www.cnbeta.com/articles/science/977461.htm"
     }
   ]
 }
