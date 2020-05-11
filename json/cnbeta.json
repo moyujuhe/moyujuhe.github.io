@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 15:11:16",
+  "time":"2020-05-11 15:15:30",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"科学家开发的新技术可制造出合成活细胞   用于去除二氧化碳",
+      "url":"https://www.cnbeta.com/articles/science/977583.htm"
+    },
     {
       "name":"[图]英特尔高端Xe显卡呢？跑分最高规格为3GB+768个着色器",
       "url":"https://www.cnbeta.com/articles/tech/977543.htm"
@@ -237,10 +241,6 @@
     {
       "name":"腾讯控股涨逾2.5%创近两年新高 市值近4.1万亿港元",
       "url":"https://www.cnbeta.com/articles/tech/977469.htm"
-    },
-    {
-      "name":"《光环2周年纪念版》精确解锁时间公布 士官长传奇继续",
-      "url":"https://hot.cnbeta.com/articles/game/977467.htm"
     }
   ]
 }
