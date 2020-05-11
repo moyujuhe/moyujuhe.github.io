@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 01:49:08",
+  "time":"2020-05-12 01:53:20",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"英特尔帮助开发一款全新AI  在不侵犯隐私情况下进行训练发现脑瘤",
+      "url":"https://www.cnbeta.com/articles/tech/977757.htm"
+    },
     {
       "name":"据称iPhone 12系列智能手机最低存储容量为128GB",
       "url":"https://www.cnbeta.com/articles/tech/977755.htm"
@@ -237,10 +241,6 @@
     {
       "name":"[视频]微软不用Thunderbolt是有道理的：5分钟可解锁Windows PC",
       "url":"https://www.cnbeta.com/articles/tech/977639.htm"
-    },
-    {
-      "name":"[图]HyperDrive Duo升级版发布：磁性连接让MacBook端口扩展更轻松",
-      "url":"https://www.cnbeta.com/articles/tech/977637.htm"
     }
   ]
 }
