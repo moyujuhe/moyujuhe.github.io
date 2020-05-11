@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 16:03:12",
+  "time":"2020-05-11 16:07:23",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"让 Emacs 再次流行起来",
+      "url":"https://www.solidot.org/story?sid=64325"
+    },
     {
       "name":"因拒绝工厂复工特斯拉提起诉讼",
       "url":"https://www.solidot.org/story?sid=64324"
@@ -77,10 +81,6 @@
     {
       "name":"WHO 称武汉华南海鲜市场肯定与疫情有关联",
       "url":"https://www.solidot.org/story?sid=64306"
-    },
-    {
-      "name":"GCC 10.1 发布",
-      "url":"https://www.solidot.org/story?sid=64305"
     }
   ]
 }
