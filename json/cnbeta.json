@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 03:29:06",
+  "time":"2020-05-12 03:33:12",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"消息称特斯拉加州工厂已恢复生产",
+      "url":"https://www.cnbeta.com/articles/tech/977765.htm"
+    },
     {
       "name":"世卫组织总干事：应缓慢稳步解除封锁措施",
       "url":"https://www.cnbeta.com/articles/tech/977763.htm"
@@ -237,10 +241,6 @@
     {
       "name":"网友热议《哆啦A梦》高能哪都能去 YY下次去哪冒险",
       "url":"https://hot.cnbeta.com/articles/comic/977649.htm"
-    },
-    {
-      "name":"4月特斯拉Model 3在华销量减少64% 市场需求尚在回升",
-      "url":"https://www.cnbeta.com/articles/tech/977647.htm"
     }
   ]
 }
