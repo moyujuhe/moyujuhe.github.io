@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-11 09:15:42",
+  "time":"2020-05-11 09:20:14",
   "title":"V2EX热帖",
   "data":[
     {
@@ -8,7 +8,7 @@
     },
     {
       "name":"有没有值得推荐的 Windows 平板？",
-      "url":"https://www.v2ex.com/t/670405#reply10"
+      "url":"https://www.v2ex.com/t/670405#reply11"
     },
     {
       "name":"小米手机开机一直停留在这界面进不去怎么办？",
@@ -20,7 +20,11 @@
     },
     {
       "name":"reactjs, typescript 中定义 action type 时，经常看到一种使用方法， type & const 用同一个名字，不知其深意？",
-      "url":"https://www.v2ex.com/t/670403#reply1"
+      "url":"https://www.v2ex.com/t/670403#reply2"
+    },
+    {
+      "name":"我所理解的程序员内卷化。。",
+      "url":"https://www.v2ex.com/t/670409#reply1"
     },
     {
       "name":"smart-doc 文档工具发布 gradle 插件了",
@@ -35,11 +39,7 @@
       "url":"https://www.v2ex.com/t/670407#reply0"
     },
     {
-      "name":"我所理解的程序员内卷化。。",
-      "url":"https://www.v2ex.com/t/670409#reply0"
-    },
-    {
-      "name":"开源基于 Django 的 BBS 小型社区，于之前写的放在仓库生灰现开源。",
+      "name":"开源基于 Django 的 BBS 小型社区，于之前写的放在仓库生灰。",
       "url":"https://www.v2ex.com/t/670410#reply0"
     }
   ]
