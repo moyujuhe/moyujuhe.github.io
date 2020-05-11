@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 13:57:36",
+  "time":"2020-05-11 14:01:55",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"多国科学家出手 危害六大洲的小菜蛾群体基因组学研究成果发布",
+      "url":"https://www.cnbeta.com/articles/science/977531.htm"
+    },
     {
       "name":"消息称新Xbox X定价预计为400美元 微软在等待索尼动向",
       "url":"https://hot.cnbeta.com/articles/game/977529.htm"
@@ -237,10 +241,6 @@
     {
       "name":"LLVM 10被发现影响Rust性能 导致编译时间变长",
       "url":"https://www.cnbeta.com/articles/soft/977411.htm"
-    },
-    {
-      "name":"云南天文台清晰观测到太阳上一个小暗条被切断并爆发",
-      "url":"https://www.cnbeta.com/articles/science/977409.htm"
     }
   ]
 }
