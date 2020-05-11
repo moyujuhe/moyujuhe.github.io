@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 17:20:36",
+  "time":"2020-05-11 17:24:58",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"传闻称三星正在同时研发三款新型号可折叠设备",
+      "url":"https://www.cnbeta.com/articles/tech/977663.htm"
+    },
     {
       "name":"松果电子更名为小米松果电子：自研澎湃S2芯片何时能来？",
       "url":"https://www.cnbeta.com/articles/tech/977661.htm"
@@ -237,10 +241,6 @@
     {
       "name":"哈啰出行CEO杨磊遭法院限制消费",
       "url":"https://www.cnbeta.com/articles/tech/977547.htm"
-    },
-    {
-      "name":"红米显示器系列产品曝光：23.8寸有望杀至600元以下",
-      "url":"https://www.cnbeta.com/articles/tech/977545.htm"
     }
   ]
 }
