@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-11 10:48:22",
+  "time":"2020-05-11 10:52:39",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"上线仅1天：中国移动5G消息APP已被下架",
+      "url":"https://www.cnbeta.com/articles/tech/977459.htm"
+    },
+    {
+      "name":"还是中国的钱 特斯拉获40亿贷款：继续扩建上海工厂",
+      "url":"https://www.cnbeta.com/articles/tech/977457.htm"
+    },
     {
       "name":"5G上车 威马Maven概念车发布：续航可达800公里",
       "url":"https://www.cnbeta.com/articles/tech/977455.htm"
@@ -233,14 +241,6 @@
     {
       "name":"Steam销量排行榜 《毁灭战士：永恒》打折促销登顶",
       "url":"https://hot.cnbeta.com/articles/game/977343.htm"
-    },
-    {
-      "name":"我开发新型飞秒激光等离子激元光刻技术 可加工石墨烯",
-      "url":"https://www.cnbeta.com/articles/science/977341.htm"
-    },
-    {
-      "name":"挑战主流理论：新研究发现月球表面仍在释放碳",
-      "url":"https://www.cnbeta.com/articles/science/977339.htm"
     }
   ]
 }
