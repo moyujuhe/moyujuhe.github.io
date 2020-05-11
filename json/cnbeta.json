@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-11 14:58:43",
+  "time":"2020-05-11 15:02:53",
   "title":"cnBeta",
   "data":[
     {
       "name":"[图]英特尔高端Xe显卡呢？跑分最高规格为3GB+768个着色器",
       "url":"https://www.cnbeta.com/articles/tech/977543.htm"
+    },
+    {
+      "name":"[图]认证信息显示realme新机要配6000mAh大容量电池",
+      "url":"https://www.cnbeta.com/articles/tech/977577.htm"
     },
     {
       "name":"IBM工程师用乐高积木和树莓派打造高质量显微镜",
@@ -237,10 +241,6 @@
     {
       "name":"为什么有些人不愿意洗手？",
       "url":"https://www.cnbeta.com/articles/science/977461.htm"
-    },
-    {
-      "name":"上线仅1天：中国移动5G消息APP已被下架",
-      "url":"https://www.cnbeta.com/articles/tech/977459.htm"
     }
   ]
 }
