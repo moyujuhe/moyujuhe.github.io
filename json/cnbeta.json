@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-11 17:46:18",
+  "time":"2020-05-11 17:50:32",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"国内首个大型页岩气田累计产量突破300亿立方米",
+      "url":"https://www.cnbeta.com/articles/tech/977673.htm"
+    },
+    {
+      "name":"NASA发布龙飞船首飞预告：时隔九年美国重新用上自己的载人飞船",
+      "url":"https://www.cnbeta.com/articles/tech/977671.htm"
+    },
     {
       "name":"惠普发布EX900 Pro M.2 SSD：读写速度双双提升、标配散热片",
       "url":"https://www.cnbeta.com/articles/tech/977669.htm"
@@ -233,14 +241,6 @@
     {
       "name":"剧场版动画《想哭的我戴上猫面具》人物角色图公开",
       "url":"https://hot.cnbeta.com/articles/comic/977559.htm"
-    },
-    {
-      "name":"中国移动宣布董昕任公司董事、总经理、党组副书记",
-      "url":"https://www.cnbeta.com/articles/tech/977555.htm"
-    },
-    {
-      "name":"顺丰加入外卖送餐业务 美团点评逆市跌逾3%",
-      "url":"https://www.cnbeta.com/articles/tech/977553.htm"
     }
   ]
 }
