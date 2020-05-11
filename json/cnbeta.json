@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-11 10:35:43",
+  "time":"2020-05-11 10:40:03",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"研究报告称：新冠病毒不断突变  更具传染性",
+      "url":"https://www.cnbeta.com/articles/science/977449.htm"
+    },
+    {
+      "name":"《科学》子刊发现可以拨动生物钟的奇妙分子",
+      "url":"https://www.cnbeta.com/articles/science/977447.htm"
+    },
     {
       "name":"WHO发布新冠挑战试验指导方针：虽有争议但却可能加快疫苗研发",
       "url":"https://www.cnbeta.com/articles/science/977445.htm"
@@ -233,14 +241,6 @@
     {
       "name":"小米10 Lite Zoom曝光：5倍光变+50倍变焦 本月发布",
       "url":"https://www.cnbeta.com/articles/tech/977333.htm"
-    },
-    {
-      "name":"首发骁龙768G Redmi K30 5G极速版真机曝光",
-      "url":"https://www.cnbeta.com/articles/tech/977331.htm"
-    },
-    {
-      "name":"裁员乌云笼罩硅谷：就业熊市会持续多久？",
-      "url":"https://www.cnbeta.com/articles/tech/977329.htm"
     }
   ]
 }
