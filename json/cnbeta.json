@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 09:28:32",
+  "time":"2020-05-11 09:32:42",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"过去十年最重要的20个科学发现：探测首个引力波",
+      "url":"https://www.cnbeta.com/articles/science/977439.htm"
+    },
     {
       "name":"Surface Go 2外媒评价汇总：屏幕/CPU/续航升级好评 但缺乏亮点",
       "url":"https://www.cnbeta.com/articles/tech/977437.htm"
@@ -237,10 +241,6 @@
     {
       "name":"美航空公司称在救援资金枯竭后 大规模裁员是不可避免的",
       "url":"https://www.cnbeta.com/articles/tech/977323.htm"
-    },
-    {
-      "name":"远不止是肺损伤与男性不育 解密新冠病毒的后遗症之伤",
-      "url":"https://www.cnbeta.com/articles/science/977321.htm"
     }
   ]
 }
