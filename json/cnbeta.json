@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-11 14:50:06",
+  "time":"2020-05-11 14:54:34",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"IBM工程师用乐高积木和树莓派打造高质量显微镜",
       "url":"https://www.cnbeta.com/articles/tech/977557.htm"
+    },
+    {
+      "name":"[图]高通骁龙768G发布：性能提升15%  Redmi K30 Pro极速版首发",
+      "url":"https://www.cnbeta.com/articles/tech/977575.htm"
     },
     {
       "name":"与骁龙855同架构 高通骁龙768G登场",
@@ -237,10 +241,6 @@
     {
       "name":"上线仅1天：中国移动5G消息APP已被下架",
       "url":"https://www.cnbeta.com/articles/tech/977459.htm"
-    },
-    {
-      "name":"还是中国的钱 特斯拉获40亿贷款：继续扩建上海工厂",
-      "url":"https://www.cnbeta.com/articles/tech/977457.htm"
     }
   ]
 }
