@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 19:46:11",
+  "time":"2020-05-11 19:50:21",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"QQ删除图片事件背后:\"缓存信息\"到底算不算个人信息?",
+      "url":"https://www.cnbeta.com/articles/tech/977689.htm"
+    },
     {
       "name":"上海消保委回应丰巢收费：收费和交易应当公平合理",
       "url":"https://www.cnbeta.com/articles/tech/977687.htm"
@@ -237,10 +241,6 @@
     {
       "name":"与骁龙855同架构 高通骁龙768G登场",
       "url":"https://www.cnbeta.com/articles/tech/977573.htm"
-    },
-    {
-      "name":"剧版《雪国列车》前导预告 5月25日上线Netflix",
-      "url":"https://hot.cnbeta.com/articles/movie/977571.htm"
     }
   ]
 }
