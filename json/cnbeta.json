@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-11 08:21:43",
+  "time":"2020-05-11 08:25:49",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软在Chromium中新增对双屏模拟器的支持",
+      "url":"https://www.cnbeta.com/articles/tech/977399.htm"
+    },
+    {
+      "name":"圣地亚哥国际动漫展2020将以线上形式举办",
+      "url":"https://hot.cnbeta.com/articles/comic/977397.htm"
+    },
     {
       "name":"苹果头戴耳机更多细节曝光：包含两款 最贵或达5000元",
       "url":"https://www.cnbeta.com/articles/tech/977395.htm"
@@ -233,14 +241,6 @@
     {
       "name":"疫情可能导致次美国次世代主机库存短缺",
       "url":"https://hot.cnbeta.com/articles/game/977283.htm"
-    },
-    {
-      "name":"QLC已成过去式 Intel正研发密度更高的PLC闪存",
-      "url":"https://www.cnbeta.com/articles/tech/977281.htm"
-    },
-    {
-      "name":"憋得狠了！岛国大型书店再开业惊现百人长队买《动森》攻略书",
-      "url":"https://hot.cnbeta.com/articles/game/977279.htm"
     }
   ]
 }
