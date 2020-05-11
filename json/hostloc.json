@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-12 01:22:55",
+  "time":"2020-05-12 01:27:10",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"请问CF的tz.sh文件怎么在服务器中赋权？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688015&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"我以为大水牛只是到国内线路差",
@@ -109,10 +113,6 @@
     {
       "name":"不懂就问系列：namesilo的域名怎么查看信息",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687985&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"有没有需要PayPal代付的。。。。。到账了点AFF余额。。",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687984&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
