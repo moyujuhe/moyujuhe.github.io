@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-11 12:08:49",
+  "time":"2020-05-11 12:13:01",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"好烦，azure学生流量太少了吧，鸡肋",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687697&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"AWS的码子能叠加用吗",
@@ -109,10 +113,6 @@
     {
       "name":"最近google搜索几乎全被这个网站占领了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687667&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"TG哪里能下载中文版",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=687666&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
