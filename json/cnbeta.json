@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 10:01:56",
+  "time":"2020-05-11 10:06:08",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"研究发现一种可以加快新冠肺炎病人康复的新药物组合",
+      "url":"https://www.cnbeta.com/articles/science/977443.htm"
+    },
     {
       "name":"iPhone一个让安卓用户落泪的小功能--快捷指令",
       "url":"https://www.cnbeta.com/articles/tech/977441.htm"
@@ -237,10 +241,6 @@
     {
       "name":"疫情下日本女仆店防疫：无法亲密接触魅力依然不减",
       "url":"https://hot.cnbeta.com/articles/comic/977327.htm"
-    },
-    {
-      "name":"华为手机新技术曝光：屏下摄像头准备就绪",
-      "url":"https://www.cnbeta.com/articles/tech/977325.htm"
     }
   ]
 }
