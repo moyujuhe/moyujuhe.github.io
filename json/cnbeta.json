@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 16:15:49",
+  "time":"2020-05-11 16:20:07",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"开发者讨论如何让 Emacs 再次流行起来",
+      "url":"https://www.cnbeta.com/articles/tech/977635.htm"
+    },
     {
       "name":"[图]Swift现支持更多Linux发行版本 包括Ubuntu 20.04",
       "url":"https://www.cnbeta.com/articles/tech/977633.htm"
@@ -237,10 +241,6 @@
     {
       "name":"2020年第十八届ChinaJoy展会7月31日至8月3日如期举办",
       "url":"https://hot.cnbeta.com/articles/game/977517.htm"
-    },
-    {
-      "name":"《沉默的羔羊》电视剧版获批 瑞贝卡·布利兹饰女主",
-      "url":"https://hot.cnbeta.com/articles/movie/977515.htm"
     }
   ]
 }
