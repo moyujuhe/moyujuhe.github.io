@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 22:28:58",
+  "time":"2020-05-11 22:33:30",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"AMD 7nm锐龙3 3300X、锐龙3 3100正式上架",
+      "url":"https://www.cnbeta.com/articles/tech/977725.htm"
+    },
     {
       "name":"AMD锐龙7至尊版首次现身：15W 8核心APU、最高加速4.3GHz",
       "url":"https://www.cnbeta.com/articles/tech/977723.htm"
@@ -237,10 +241,6 @@
     {
       "name":"MIT科学家发现“扭曲”的石墨烯在“神奇的角度”变得更加怪异",
       "url":"https://www.cnbeta.com/articles/science/977605.htm"
-    },
-    {
-      "name":"延时到账立功：劫匪要求女子支付宝转账 人被抓了钱还没收到",
-      "url":"https://www.cnbeta.com/articles/tech/977603.htm"
     }
   ]
 }
