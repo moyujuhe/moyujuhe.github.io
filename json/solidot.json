@@ -1,7 +1,47 @@
 {
-  "time":"2020-05-11 14:45:47",
+  "time":"2020-05-11 14:50:06",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"因拒绝工厂复工特斯拉提起诉讼",
+      "url":"https://www.solidot.org/story?sid=64324"
+    },
+    {
+      "name":"特朗普政府督促芯片公司在美国建厂",
+      "url":"https://www.solidot.org/story?sid=64323"
+    },
+    {
+      "name":"James Damore 撤回与 Google 的诉讼",
+      "url":"https://www.solidot.org/story?sid=64322"
+    },
+    {
+      "name":"中国新空间站细节",
+      "url":"https://www.solidot.org/story?sid=64321"
+    },
+    {
+      "name":"全球新冠病例突破 400 万",
+      "url":"https://www.solidot.org/story?sid=64320"
+    },
+    {
+      "name":"Pi-hole v5.0 发布",
+      "url":"https://www.solidot.org/story?sid=64319"
+    },
+    {
+      "name":"X-37B 将试验微波能束让无人机能长时间飞行",
+      "url":"https://www.solidot.org/story?sid=64318"
+    },
+    {
+      "name":"无锡警方破获暗网色情案",
+      "url":"https://www.solidot.org/story?sid=64317"
+    },
+    {
+      "name":"中国首次在太空测试 3D 打印",
+      "url":"https://www.solidot.org/story?sid=64316"
+    },
+    {
+      "name":"盈透证券的软件不能处理负值原油期货",
+      "url":"https://www.solidot.org/story?sid=64315"
+    },
     {
       "name":"新冠表面的多聚糖可能提供疫苗的线索",
       "url":"https://www.solidot.org/story?sid=64314"
@@ -41,46 +81,6 @@
     {
       "name":"GCC 10.1 发布",
       "url":"https://www.solidot.org/story?sid=64305"
-    },
-    {
-      "name":"可口可乐中国发布“在乎体”",
-      "url":"https://www.solidot.org/story?sid=64304"
-    },
-    {
-      "name":"自由硬件工具链：OpenROAD",
-      "url":"https://www.solidot.org/story?sid=64303"
-    },
-    {
-      "name":"中国新载人飞船试验船成功返回",
-      "url":"https://www.solidot.org/story?sid=64302"
-    },
-    {
-      "name":"黑客操纵一个僵尸网络只为下载日本动漫",
-      "url":"https://www.solidot.org/story?sid=64301"
-    },
-    {
-      "name":"人脑在睡眠时回放清醒时的经历",
-      "url":"https://www.solidot.org/story?sid=64300"
-    },
-    {
-      "name":"日本批准瑞德西韦作为新冠治疗药物",
-      "url":"https://www.solidot.org/story?sid=64299"
-    },
-    {
-      "name":"Stack Overflow 以新冠为由裁员 15%",
-      "url":"https://www.solidot.org/story?sid=64298"
-    },
-    {
-      "name":"Matrix 默认私聊启用端对端加密",
-      "url":"https://www.solidot.org/story?sid=64297"
-    },
-    {
-      "name":"中国黑客组织攻击西澳洲政府",
-      "url":"https://www.solidot.org/story?sid=64296"
-    },
-    {
-      "name":"微信监视所有用户的内容",
-      "url":"https://www.solidot.org/story?sid=64295"
     }
   ]
 }
