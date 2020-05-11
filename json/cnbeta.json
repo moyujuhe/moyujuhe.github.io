@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-11 23:27:55",
+  "time":"2020-05-11 23:32:32",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[评论] 抱怨丰巢收费太贵的人，你其实应该去送快递",
+      "url":"https://www.cnbeta.com/articles/tech/977735.htm"
+    },
     {
       "name":"性能追赶GTX 1080显卡？国产新一代GPU进展顺利",
       "url":"https://www.cnbeta.com/articles/tech/977733.htm"
@@ -237,10 +241,6 @@
     {
       "name":"比特币大涨至1万美元后却突遭崩盘式下跌，超4万人爆仓",
       "url":"https://www.cnbeta.com/articles/tech/977615.htm"
-    },
-    {
-      "name":"5月预告：又到了给Windows系统打补丁的日子了",
-      "url":"https://www.cnbeta.com/articles/tech/977613.htm"
     }
   ]
 }
