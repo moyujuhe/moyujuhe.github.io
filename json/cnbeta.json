@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-12 07:13:12",
+  "time":"2020-05-12 07:17:19",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"B站也做电视盒子？外观专利已经申请成功",
+      "url":"https://hot.cnbeta.com/articles/movie/977777.htm"
+    },
+    {
+      "name":"德国希望特斯拉柏林超级工厂如期推进 避免任何重大延迟",
+      "url":"https://www.cnbeta.com/articles/tech/977775.htm"
+    },
     {
       "name":"[图]Pixel 4a推迟两周时间上市 或配合6月3日Android 11发布会",
       "url":"https://www.cnbeta.com/articles/tech/977773.htm"
@@ -233,14 +241,6 @@
     {
       "name":"拿的太少？任天堂宫本茂等高层年度薪酬公开引热议",
       "url":"https://hot.cnbeta.com/articles/game/977659.htm"
-    },
-    {
-      "name":"AirPods 可能是最被低估的苹果产品",
-      "url":"https://www.cnbeta.com/articles/tech/977657.htm"
-    },
-    {
-      "name":"又现高频抓爬 华为移动服务Aspiegel搜索爬虫令大量网站痛苦不堪",
-      "url":"https://www.cnbeta.com/articles/tech/977641.htm"
     }
   ]
 }
