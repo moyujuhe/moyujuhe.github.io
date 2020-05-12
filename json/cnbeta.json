@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-13 00:33:14",
+  "time":"2020-05-13 00:37:46",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"科学家们对古小行星上矿物中单个原子进行成像",
+      "url":"https://www.cnbeta.com/articles/science/978235.htm"
+    },
     {
       "name":"瑞幸咖啡宣布调整董事会和高级管理层 CEO和COO被暂停职务",
       "url":"https://www.cnbeta.com/articles/tech/978233.htm"
@@ -237,10 +241,6 @@
     {
       "name":"走进2021款宝马i4：看其如何挑战特斯拉Model 3",
       "url":"https://www.cnbeta.com/articles/tech/978117.htm"
-    },
-    {
-      "name":"迪士尼CEO确认《曼达洛人》第二季不延期 十月上线",
-      "url":"https://hot.cnbeta.com/articles/movie/978115.htm"
     }
   ]
 }
