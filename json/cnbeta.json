@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-12 16:00:29",
+  "time":"2020-05-12 16:04:43",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"俄罗斯一医院呼吸机过载起火 据称烧死5名新冠患者",
+      "url":"https://www.cnbeta.com/articles/tech/978135.htm"
+    },
+    {
+      "name":"Xbox市场主管回应60帧之争：画面帧数由开发者决定",
+      "url":"https://hot.cnbeta.com/articles/game/978133.htm"
+    },
     {
       "name":"丰巢因“5毛钱”惹众怒 “嘴硬 ”背后的底气从何而来？",
       "url":"https://www.cnbeta.com/articles/tech/978131.htm"
@@ -233,14 +241,6 @@
     {
       "name":"新冠病毒挑战试验或能加快疫苗研发进程",
       "url":"https://www.cnbeta.com/articles/science/978015.htm"
-    },
-    {
-      "name":"硬件套娃：开发者在DooM芯片平台上玩《毁灭战士》",
-      "url":"https://hot.cnbeta.com/articles/game/978013.htm"
-    },
-    {
-      "name":"如何防止将外星病毒带回地球？科学家发布NASA行星保护策略",
-      "url":"https://www.cnbeta.com/articles/science/978011.htm"
     }
   ]
 }
