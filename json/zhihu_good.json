@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 21:57:25",
+  "time":"2020-05-12 22:01:48",
   "title":"知乎每日精选-编辑推荐",
   "data":[
+    {
+      "name":"从被压缩的弹簧说起：物质如何蕴含势能",
+      "url":"https://zhuanlan.zhihu.com/p/131987201"
+    },
     {
       "name":"[科普文]——Laplace变换与Fourier变换之间有何关系？",
       "url":"https://zhuanlan.zhihu.com/p/130933080"
@@ -157,10 +161,6 @@
     {
       "name":"设计一套三个人一起下的围棋规则，可以实现吗？",
       "url":"https://www.zhihu.com/question/22542337/answer/1164863088"
-    },
-    {
-      "name":"如何评价中国天眼开启地外文明探索？真能探测到外星人信号吗？",
-      "url":"https://www.zhihu.com/question/391259519/answer/1186811743"
     }
   ]
 }
