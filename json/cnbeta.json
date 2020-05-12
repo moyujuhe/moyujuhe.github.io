@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 13:19:15",
+  "time":"2020-05-12 13:23:44",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"如何防止将外星病毒带回地球？科学家发布NASA行星保护策略",
+      "url":"https://www.cnbeta.com/articles/science/978011.htm"
+    },
     {
       "name":"《动物森友会》人气爆棚 Nookazon趁势推出第三方互动网站",
       "url":"https://hot.cnbeta.com/articles/game/978009.htm"
@@ -237,10 +241,6 @@
     {
       "name":"从埃博拉、非典到新冠：疫情如何才能终止？",
       "url":"https://www.cnbeta.com/articles/science/977893.htm"
-    },
-    {
-      "name":"5G换机前夕变局：海外停滞 靠中国市场救命？",
-      "url":"https://www.cnbeta.com/articles/tech/977891.htm"
     }
   ]
 }
