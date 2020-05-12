@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 13:32:38",
+  "time":"2020-05-12 13:37:08",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"硬件套娃：开发者在DooM芯片平台上玩《毁灭战士》",
+      "url":"https://hot.cnbeta.com/articles/game/978013.htm"
+    },
     {
       "name":"如何防止将外星病毒带回地球？科学家发布NASA行星保护策略",
       "url":"https://www.cnbeta.com/articles/science/978011.htm"
@@ -237,10 +241,6 @@
     {
       "name":"巴菲特投资的美国最大太阳能项目获批准",
       "url":"https://www.cnbeta.com/articles/tech/977895.htm"
-    },
-    {
-      "name":"从埃博拉、非典到新冠：疫情如何才能终止？",
-      "url":"https://www.cnbeta.com/articles/science/977893.htm"
     }
   ]
 }
