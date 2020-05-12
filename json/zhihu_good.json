@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 12:57:34",
+  "time":"2020-05-12 13:01:54",
   "title":"知乎每日精选-编辑推荐",
   "data":[
+    {
+      "name":"[科普文]——Laplace变换与Fourier变换之间有何关系？",
+      "url":"https://zhuanlan.zhihu.com/p/130933080"
+    },
     {
       "name":"中国的地震灾害为什么那么严重？",
       "url":"https://www.zhihu.com/question/394256136/answer/1217096268"
@@ -157,10 +161,6 @@
     {
       "name":"如何评价中国天眼开启地外文明探索？真能探测到外星人信号吗？",
       "url":"https://www.zhihu.com/question/391259519/answer/1186811743"
-    },
-    {
-      "name":"开拓者后卫 CJ·麦科勒姆是什么水平的球员，他有什么特点和故事？",
-      "url":"https://www.zhihu.com/question/315748120/answer/1184544595"
     }
   ]
 }
