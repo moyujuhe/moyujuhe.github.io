@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 12:19:24",
+  "time":"2020-05-12 12:23:31",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"研究在精液中发现新冠病毒",
+      "url":"https://www.solidot.org/story?sid=64333"
+    },
     {
       "name":"特斯拉违令复工",
       "url":"https://www.solidot.org/story?sid=64332"
@@ -77,10 +81,6 @@
     {
       "name":"新冠表面的多聚糖可能提供疫苗的线索",
       "url":"https://www.solidot.org/story?sid=64314"
-    },
-    {
-      "name":"调查显示 Go 是最受开发者青睐的编程语言",
-      "url":"https://www.solidot.org/story?sid=64313"
     }
   ]
 }
