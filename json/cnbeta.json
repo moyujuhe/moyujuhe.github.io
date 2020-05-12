@@ -1,9 +1,13 @@
 {
-  "time":"2020-05-12 18:22:32",
+  "time":"2020-05-12 18:26:42",
   "title":"cnBeta",
   "data":[
     {
-      "name":"苹果将部分MacBook Air/Pro,iPod Touch机型添加到过时产品列表中",
+      "name":"Intel Xe独显集齐三种新工艺 高端游戏卡DG2要上台积电5nm？",
+      "url":"http://www.cnbeta.com/articles/tech/978179.htm"
+    },
+    {
+      "name":"苹果将部分MacBook Air/Pro、iPod Touch机型添加到过时产品列表中",
       "url":"http://www.cnbeta.com/articles/tech/978177.htm"
     },
     {
@@ -237,10 +241,6 @@
     {
       "name":"物理学家研制“量子雷达”原型 可借助纠缠的光子来探测低反射率物体",
       "url":"http://www.cnbeta.com/articles/science/978059.htm"
-    },
-    {
-      "name":"基因研究探讨为何某些疾病对男性和女性的影响不同",
-      "url":"http://www.cnbeta.com/articles/science/978057.htm"
     }
   ]
 }
