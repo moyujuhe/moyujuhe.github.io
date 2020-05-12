@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-12 10:55:51",
+  "time":"2020-05-12 11:00:03",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"特斯拉违令复工",
+      "url":"https://www.solidot.org/story?sid=64332"
+    },
+    {
+      "name":"「只要五分钟」骇客就能通过 Thunderbolt 漏洞窃取你的数据",
+      "url":"https://www.solidot.org/story?sid=64331"
+    },
+    {
+      "name":"埃博拉病毒发现者感染新冠",
+      "url":"https://www.solidot.org/story?sid=64330"
+    },
     {
       "name":"比特币第三次采矿回报减半",
       "url":"https://www.solidot.org/story?sid=64329"
@@ -69,18 +81,6 @@
     {
       "name":"调查显示 Go 是最受开发者青睐的编程语言",
       "url":"https://www.solidot.org/story?sid=64313"
-    },
-    {
-      "name":"Google 和 Facebook 考虑全年远程办公",
-      "url":"https://www.solidot.org/story?sid=64312"
-    },
-    {
-      "name":"研究称联合使用三种抗病毒药物对新冠疗效更好",
-      "url":"https://www.solidot.org/story?sid=64311"
-    },
-    {
-      "name":"Google 整合消息服务团队",
-      "url":"https://www.solidot.org/story?sid=64310"
     }
   ]
 }
