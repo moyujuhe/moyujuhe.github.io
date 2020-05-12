@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-12 22:59:56",
+  "time":"2020-05-12 23:04:20",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"今年高校毕业生超过 850 万",
+      "url":"https://www.solidot.org/story?sid=64342"
+    },
+    {
+      "name":"新加坡政府用机器狗提醒居民保持距离",
+      "url":"https://www.solidot.org/story?sid=64341"
+    },
+    {
+      "name":"HKSP事件始末",
+      "url":"https://www.solidot.org/story?sid=64340"
+    },
     {
       "name":"数学证明特定类时空是不稳定的",
       "url":"https://www.solidot.org/story?sid=64338"
@@ -69,18 +81,6 @@
     {
       "name":"James Damore 撤回与 Google 的诉讼",
       "url":"https://www.solidot.org/story?sid=64322"
-    },
-    {
-      "name":"中国新空间站细节",
-      "url":"https://www.solidot.org/story?sid=64321"
-    },
-    {
-      "name":"全球新冠病例突破 400 万",
-      "url":"https://www.solidot.org/story?sid=64320"
-    },
-    {
-      "name":"Pi-hole v5.0 发布",
-      "url":"https://www.solidot.org/story?sid=64319"
     }
   ]
 }
