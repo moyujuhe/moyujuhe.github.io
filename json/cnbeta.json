@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-12 10:13:24",
+  "time":"2020-05-12 10:17:35",
   "title":"cnBeta",
   "data":[
     {
       "name":"钢铁侠硬刚县政府 马斯克：就是要复工 要抓请抓我",
       "url":"https://www.cnbeta.com/articles/tech/977791.htm"
+    },
+    {
+      "name":"iPhone或于明年采用LTPO低功耗屏幕 120Hz高刷新率特性可能推迟",
+      "url":"https://www.cnbeta.com/articles/tech/977925.htm"
     },
     {
       "name":"吉利德宣布未来六周捐赠150万瓶瑞德西韦：美国本土只留40%",
@@ -237,10 +241,6 @@
     {
       "name":"火星有水不稀罕：或占表面四成  但都是“卤水”微生物难生存",
       "url":"https://www.cnbeta.com/articles/science/977809.htm"
-    },
-    {
-      "name":"CDC发现纽约少统计5000多例新冠死亡病例",
-      "url":"https://www.cnbeta.com/articles/tech/977807.htm"
     }
   ]
 }
