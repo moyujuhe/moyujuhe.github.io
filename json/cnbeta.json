@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-13 01:08:13",
+  "time":"2020-05-13 01:12:41",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"寒武纪与华为海思分庭抗礼：中立芯片公司的“成人礼”",
+      "url":"https://www.cnbeta.com/articles/tech/978253.htm"
+    },
     {
       "name":"Intel VCA2媒体加速卡终结：三颗至强排排坐",
       "url":"https://www.cnbeta.com/articles/tech/978251.htm"
@@ -237,10 +241,6 @@
     {
       "name":"俄罗斯一医院呼吸机过载起火 据称烧死5名新冠患者",
       "url":"https://www.cnbeta.com/articles/tech/978135.htm"
-    },
-    {
-      "name":"Xbox市场主管回应60帧之争：画面帧数由开发者决定",
-      "url":"https://hot.cnbeta.com/articles/game/978133.htm"
     }
   ]
 }
