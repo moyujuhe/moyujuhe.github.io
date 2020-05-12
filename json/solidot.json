@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-12 09:06:23",
+  "time":"2020-05-12 09:10:38",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"比特币第三次采矿回报减半",
+      "url":"https://www.solidot.org/story?sid=64329"
+    },
+    {
+      "name":"美洲驼的抗体或能遏制新冠",
+      "url":"https://www.solidot.org/story?sid=64328"
+    },
+    {
+      "name":"Python 开发者调查显示只有十分之一的人还在用 Python 2",
+      "url":"https://www.solidot.org/story?sid=64327"
+    },
     {
       "name":"超过四成的人希望疫情之后能继续远程办公",
       "url":"https://www.solidot.org/story?sid=64326"
@@ -69,18 +81,6 @@
     {
       "name":"Google 整合消息服务团队",
       "url":"https://www.solidot.org/story?sid=64310"
-    },
-    {
-      "name":"科学家解释北磁极漂移原因",
-      "url":"https://www.solidot.org/story?sid=64309"
-    },
-    {
-      "name":"欧洲最大私人医院运营商遭勒索软件攻击",
-      "url":"https://www.solidot.org/story?sid=64308"
-    },
-    {
-      "name":"英特尔雇员指控公司优先考虑芯片生产而不是安全",
-      "url":"https://www.solidot.org/story?sid=64307"
     }
   ]
 }
