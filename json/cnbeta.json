@@ -1,13 +1,17 @@
 {
-  "time":"2020-05-12 14:12:48",
+  "time":"2020-05-12 14:17:04",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"受在家办公需求推动 罗技第四财季销售额飙升近14%",
+      "url":"https://www.cnbeta.com/articles/tech/978063.htm"
+    },
     {
       "name":"《死侍2》因特技演员丧生被罚近30万 未戴头盔剧组担责",
       "url":"https://hot.cnbeta.com/articles/movie/978061.htm"
     },
     {
-      "name":"物理学家研制“量子雷达”原型 借助纠缠的光子来检测物体",
+      "name":"物理学家研制“量子雷达”原型 可借助纠缠的光子来探测低反射率物体",
       "url":"https://www.cnbeta.com/articles/science/978059.htm"
     },
     {
@@ -237,10 +241,6 @@
     {
       "name":"快递公司回应丰巢收费：将事先联系客户确认 及时提醒客户取件",
       "url":"https://www.cnbeta.com/articles/tech/977947.htm"
-    },
-    {
-      "name":"iPhone 12 爆料：高刷新率或在软件层面削弱",
-      "url":"https://www.cnbeta.com/articles/tech/977943.htm"
     }
   ]
 }
