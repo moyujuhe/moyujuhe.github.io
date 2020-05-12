@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 20:16:05",
+  "time":"2020-05-12 20:20:21",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"传闻还是泄露？SIE在日本招聘网站透露PS5今年10月发售？",
+      "url":"https://hot.cnbeta.com/articles/game/978193.htm"
+    },
     {
       "name":"中国“天眼”FAST 找到外星人要多久？",
       "url":"https://www.cnbeta.com/articles/science/978191.htm"
@@ -237,10 +241,6 @@
     {
       "name":"按喇叭太扰民？宝马申请自适应控制喇叭专利",
       "url":"https://www.cnbeta.com/articles/tech/978075.htm"
-    },
-    {
-      "name":"[图]用户抱怨Ubuntu 20.04系统无任何snap安装进度提醒",
-      "url":"https://www.cnbeta.com/articles/tech/978073.htm"
     }
   ]
 }
