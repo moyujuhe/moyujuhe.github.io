@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-12 07:55:26",
+  "time":"2020-05-12 07:59:36",
   "title":"cnBeta",
   "data":[
     {
       "name":"钢铁侠硬刚县政府 马斯克：就是要复工 要抓请抓我",
       "url":"https://www.cnbeta.com/articles/tech/977791.htm"
+    },
+    {
+      "name":"特斯拉加州工厂强行复工 马斯克证实违反当地就地避难命令",
+      "url":"https://www.cnbeta.com/articles/tech/977811.htm"
+    },
+    {
+      "name":"火星有水不稀罕：或占表面四成  但都是“卤水”微生物难生存",
+      "url":"https://www.cnbeta.com/articles/science/977809.htm"
+    },
+    {
+      "name":"CDC发现纽约少统计5000多例新冠死亡病例",
+      "url":"https://www.cnbeta.com/articles/tech/977807.htm"
     },
     {
       "name":"新财富500富人榜：首富马云跃过3000亿 黄峥首入前十",
@@ -229,18 +241,6 @@
     {
       "name":"苹果又获一项伸缩戒指专利：可控制多种设备",
       "url":"https://www.cnbeta.com/articles/tech/977693.htm"
-    },
-    {
-      "name":"哈啰出行回应CEO被限制高消费：正向法院提出解除",
-      "url":"https://www.cnbeta.com/articles/tech/977691.htm"
-    },
-    {
-      "name":"QQ删除图片事件背后:\"缓存信息\"到底算不算个人信息?",
-      "url":"https://www.cnbeta.com/articles/tech/977689.htm"
-    },
-    {
-      "name":"上海消保委回应丰巢收费：收费和交易应当公平合理",
-      "url":"https://www.cnbeta.com/articles/tech/977687.htm"
     }
   ]
 }
