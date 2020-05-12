@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-13 07:29:19",
+  "time":"2020-05-13 07:33:27",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"记者走访硬刚丰巢收费的小区 公开信幕后写手是他",
+      "url":"https://www.cnbeta.com/articles/tech/978283.htm"
+    },
+    {
+      "name":"美国重启经济被认为大有风险 美股收跌 道指跌450点",
+      "url":"https://www.cnbeta.com/articles/tech/978281.htm"
     },
     {
       "name":"美国三大航司要求不得强制乘客在飞机上戴口罩",
@@ -233,14 +241,6 @@
     {
       "name":"AMD锐龙9 4900U、锐龙7至尊版同时现身：规格完全相同",
       "url":"https://www.cnbeta.com/articles/tech/978165.htm"
-    },
-    {
-      "name":"中国人基因库首次发表：日本人与北方汉族人完全重叠",
-      "url":"https://www.cnbeta.com/articles/science/978163.htm"
-    },
-    {
-      "name":"又一头部P2P平台宣布良性退出 网贷转型难度不小",
-      "url":"https://www.cnbeta.com/articles/tech/978161.htm"
     }
   ]
 }
