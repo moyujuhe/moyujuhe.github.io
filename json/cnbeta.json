@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-12 09:19:01",
+  "time":"2020-05-12 09:23:10",
   "title":"cnBeta",
   "data":[
     {
       "name":"钢铁侠硬刚县政府 马斯克：就是要复工 要抓请抓我",
       "url":"https://www.cnbeta.com/articles/tech/977791.htm"
+    },
+    {
+      "name":"黑洞和中子星碰撞合并事件：不产生可探测到的光线",
+      "url":"https://www.cnbeta.com/articles/science/977887.htm"
+    },
+    {
+      "name":"《暗黑破坏神II：复活》重制版或于今年晚些时候到来",
+      "url":"https://hot.cnbeta.com/articles/game/977885.htm"
     },
     {
       "name":"[图]微软推出Family Safety：帮家长更好管理孩子的数字设备使用",
@@ -233,14 +241,6 @@
     {
       "name":"[图]联想发布Duet Chromebook：64GB/128GB售价279/299美元",
       "url":"https://www.cnbeta.com/articles/tech/977769.htm"
-    },
-    {
-      "name":"foobar2000 1.5.4 正式版发布",
-      "url":"https://www.cnbeta.com/articles/soft/977767.htm"
-    },
-    {
-      "name":"消息称特斯拉加州工厂已恢复生产",
-      "url":"https://www.cnbeta.com/articles/tech/977765.htm"
     }
   ]
 }
