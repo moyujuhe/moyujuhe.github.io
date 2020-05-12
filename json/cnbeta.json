@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 23:08:41",
+  "time":"2020-05-12 23:13:18",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"特斯拉强行复工计划找到“强援” 总统特朗普表示支持",
+      "url":"https://www.cnbeta.com/articles/tech/978231.htm"
+    },
     {
       "name":"透视丰巢：快递最后100米，咋就这么难打通",
       "url":"https://www.cnbeta.com/articles/tech/978229.htm"
@@ -237,10 +241,6 @@
     {
       "name":"美国加州大学校长建议：2025年前应取消高考成绩要求",
       "url":"https://www.cnbeta.com/articles/tech/978113.htm"
-    },
-    {
-      "name":"[图]Edge Canary 84更新：为PDF阅读器引入朗读功能",
-      "url":"https://www.cnbeta.com/articles/tech/978111.htm"
     }
   ]
 }
