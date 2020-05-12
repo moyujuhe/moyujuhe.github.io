@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 23:04:20",
+  "time":"2020-05-12 23:08:41",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"疫情隔离政策改善了全球空气质量",
+      "url":"https://www.solidot.org/story?sid=64343"
+    },
     {
       "name":"今年高校毕业生超过 850 万",
       "url":"https://www.solidot.org/story?sid=64342"
@@ -13,6 +17,10 @@
     {
       "name":"HKSP事件始末",
       "url":"https://www.solidot.org/story?sid=64340"
+    },
+    {
+      "name":"疫情隔离政策改善了全球空气质量",
+      "url":"https://www.solidot.org/story?sid=64339"
     },
     {
       "name":"数学证明特定类时空是不稳定的",
@@ -73,14 +81,6 @@
     {
       "name":"因拒绝工厂复工特斯拉提起诉讼",
       "url":"https://www.solidot.org/story?sid=64324"
-    },
-    {
-      "name":"特朗普政府督促芯片公司在美国建厂",
-      "url":"https://www.solidot.org/story?sid=64323"
-    },
-    {
-      "name":"James Damore 撤回与 Google 的诉讼",
-      "url":"https://www.solidot.org/story?sid=64322"
     }
   ]
 }
