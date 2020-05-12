@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 14:17:04",
+  "time":"2020-05-12 14:21:19",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"特斯拉强行开工背后：强硬的马斯克和尴尬的加州政府",
+      "url":"https://www.cnbeta.com/articles/tech/978067.htm"
+    },
     {
       "name":"受在家办公需求推动 罗技第四财季销售额飙升近14%",
       "url":"https://www.cnbeta.com/articles/tech/978063.htm"
@@ -237,10 +241,6 @@
     {
       "name":"屏幕分析师：今年 iPhone 12 Pro 没有 120Hz 屏幕",
       "url":"https://www.cnbeta.com/articles/tech/977949.htm"
-    },
-    {
-      "name":"快递公司回应丰巢收费：将事先联系客户确认 及时提醒客户取件",
-      "url":"https://www.cnbeta.com/articles/tech/977947.htm"
     }
   ]
 }
