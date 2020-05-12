@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-12 12:49:09",
+  "time":"2020-05-12 12:53:18",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -59,12 +59,12 @@
       "url":"https://www.zhihu.com/question/385803966"
     },
     {
-      "name":"papi 酱因为孩子随父姓被嘲，倡导女性独立和孩子随父姓冲突吗？",
-      "url":"https://www.zhihu.com/question/394057478"
-    },
-    {
       "name":"有没有好看的微信背景图?",
       "url":"https://www.zhihu.com/question/379076763"
+    },
+    {
+      "name":"papi 酱因为孩子随父姓被嘲，倡导女性独立和孩子随父姓冲突吗？",
+      "url":"https://www.zhihu.com/question/394057478"
     },
     {
       "name":"烧烤界地位最高的素菜是什么?",
@@ -135,10 +135,6 @@
       "url":"https://www.zhihu.com/question/373888471"
     },
     {
-      "name":"12 年过去了，512 汶川地震给你留下了哪些揪心的记忆？对你的人生产生了哪些影响？",
-      "url":"https://www.zhihu.com/question/394154881"
-    },
-    {
       "name":"你是因为什么不想谈恋爱?",
       "url":"https://www.zhihu.com/question/389972146"
     },
@@ -155,6 +151,10 @@
       "url":"https://www.zhihu.com/question/393897842"
     },
     {
+      "name":"举个例说明通过司法考试有多难？",
+      "url":"https://www.zhihu.com/question/307996785"
+    },
+    {
       "name":"如何评价西安一厨师做饭时向锅内吐口水？",
       "url":"https://www.zhihu.com/question/394006281"
     },
@@ -163,20 +163,12 @@
       "url":"https://www.zhihu.com/question/35252653"
     },
     {
-      "name":"举个例说明通过司法考试有多难？",
-      "url":"https://www.zhihu.com/question/307996785"
-    },
-    {
-      "name":"如何看待 iPhone12 Pro 或将搭载 120Hz 刷新率屏幕和超大容量电池？",
-      "url":"https://www.zhihu.com/question/393943310"
-    },
-    {
       "name":"看完丰巢致用户的信后有何感想，会交费使用吗？",
       "url":"https://www.zhihu.com/question/393756156"
     },
     {
-      "name":"如何评价电影《普罗米修斯》？",
-      "url":"https://www.zhihu.com/question/20457284"
+      "name":"如何看待 iPhone12 Pro 或将搭载 120Hz 刷新率屏幕和超大容量电池？",
+      "url":"https://www.zhihu.com/question/393943310"
     },
     {
       "name":"怎么样才能让自己变得自信？",
@@ -187,12 +179,16 @@
       "url":"https://www.zhihu.com/question/346740353"
     },
     {
-      "name":"你觉得《清平乐》拍得怎么样？",
-      "url":"https://www.zhihu.com/question/385465042"
+      "name":"12 年过去了，512 汶川地震给你留下了哪些揪心的记忆？对你的人生产生了哪些影响？",
+      "url":"https://www.zhihu.com/question/394154881"
     },
     {
-      "name":"学历真的影响找工作吗？",
-      "url":"https://www.zhihu.com/question/383876141"
+      "name":"如何评价电影《普罗米修斯》？",
+      "url":"https://www.zhihu.com/question/20457284"
+    },
+    {
+      "name":"你觉得《清平乐》拍得怎么样？",
+      "url":"https://www.zhihu.com/question/385465042"
     },
     {
       "name":"事业单位如何上岸？",
@@ -201,6 +197,10 @@
     {
       "name":"如何看待地平说提供的「200个证明地球是平的证据」？",
       "url":"https://www.zhihu.com/question/392471084"
+    },
+    {
+      "name":"怎么看待nova7在芯片等地方对比nova6反向升级，售价也更便宜（6≈7pro），原因是什么？",
+      "url":"https://www.zhihu.com/question/390157152"
     }
   ]
 }
