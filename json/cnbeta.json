@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 07:41:57",
+  "time":"2020-05-13 07:46:04",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"吉利德授权在127国生产瑞德西韦 不收专利费",
+      "url":"https://www.cnbeta.com/articles/tech/978291.htm"
     },
     {
       "name":"中消协：“直播带货”品控售后问题增多",
@@ -237,10 +241,6 @@
     {
       "name":"任正非称华为没有996：“狼文化”可能被外界曲解了",
       "url":"https://www.cnbeta.com/articles/tech/978173.htm"
-    },
-    {
-      "name":"刹车失灵 续航打“骨折” 零跑汽车遭车主集体维权",
-      "url":"https://www.cnbeta.com/articles/tech/978171.htm"
     }
   ]
 }
