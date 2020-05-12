@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-13 02:06:11",
+  "time":"2020-05-13 02:10:19",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"索尼宣布为第一方PS5游戏推出PlayStation工作室新品牌标识",
+      "url":"https://hot.cnbeta.com/articles/game/978255.htm"
+    },
     {
       "name":"寒武纪与华为海思分庭抗礼：中立芯片公司的“成人礼”",
       "url":"https://www.cnbeta.com/articles/tech/978253.htm"
@@ -237,10 +241,6 @@
     {
       "name":"FCA将为自动驾驶创企Voyage提供定制的多功能休旅车",
       "url":"https://www.cnbeta.com/articles/tech/978137.htm"
-    },
-    {
-      "name":"俄罗斯一医院呼吸机过载起火 据称烧死5名新冠患者",
-      "url":"https://www.cnbeta.com/articles/tech/978135.htm"
     }
   ]
 }
