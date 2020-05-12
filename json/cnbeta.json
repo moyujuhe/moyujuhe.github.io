@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 15:30:07",
+  "time":"2020-05-12 15:34:25",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"美国加州大学校长建议：2025年前应取消高考成绩要求",
+      "url":"https://www.cnbeta.com/articles/tech/978113.htm"
+    },
     {
       "name":"[图]Edge Canary 84更新：为PDF阅读器引入朗读功能",
       "url":"https://www.cnbeta.com/articles/tech/978111.htm"
@@ -237,10 +241,6 @@
     {
       "name":"一箭双星！快舟一号甲火箭成功发射行云二号卫星",
       "url":"https://www.cnbeta.com/articles/science/977993.htm"
-    },
-    {
-      "name":"美国一餐厅公然违反禁令重开：想分开坐的别进来",
-      "url":"https://www.cnbeta.com/articles/tech/977991.htm"
     }
   ]
 }
