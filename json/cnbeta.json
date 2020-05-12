@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-12 21:53:06",
+  "time":"2020-05-12 21:57:19",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"从20到100厘米 SATA硬盘线影响SSD性能吗？实测揭晓",
+      "url":"https://www.cnbeta.com/articles/tech/978201.htm"
+    },
     {
       "name":"WWDC 2020会用iPhone 11 Pro录制？还有这些iOS 14新功能值得期待",
       "url":"https://www.cnbeta.com/articles/tech/978199.htm"
@@ -237,10 +241,6 @@
     {
       "name":"戴尔正式推出 XPS 15（9500） 起售价 12999 元",
       "url":"https://www.cnbeta.com/articles/tech/978083.htm"
-    },
-    {
-      "name":"美媒：美国施压，台积电可能不得不屈服",
-      "url":"https://www.cnbeta.com/articles/tech/978081.htm"
     }
   ]
 }
