@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-13 07:21:06",
+  "time":"2020-05-13 07:25:12",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"华为进一步摆脱美制约 一款手机芯片完全国产化",
+      "url":"https://www.cnbeta.com/articles/tech/978277.htm"
+    },
+    {
+      "name":"李佳琦要注册“oh my god 买它买它”声音商标 成功率多高?",
+      "url":"https://hot.cnbeta.com/articles/movie/978275.htm"
     },
     {
       "name":"Twitter宣布允许部分员工无限期居家办公",
@@ -233,14 +241,6 @@
     {
       "name":"三星Galaxy M51与Galaxy M31s机型曝光 存储或128GB起跳",
       "url":"https://www.cnbeta.com/articles/tech/978159.htm"
-    },
-    {
-      "name":"EPFL在“多肽药丸”方面取得的突破或为口服药物开辟新途径",
-      "url":"https://www.cnbeta.com/articles/science/978157.htm"
-    },
-    {
-      "name":"特斯拉换新址能让马斯克节省上亿美元税收",
-      "url":"https://www.cnbeta.com/articles/tech/978155.htm"
     }
   ]
 }
