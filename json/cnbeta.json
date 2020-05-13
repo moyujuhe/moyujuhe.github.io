@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-14 02:40:26",
+  "time":"2020-05-14 02:44:34",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"比尔盖茨资助居家新冠检测计划 可每天检测300人次",
+      "url":"https://www.cnbeta.com/articles/tech/978751.htm"
+    },
     {
       "name":"戴尔发布更新版G5和G3游戏笔电 搭载第10代英特尔处理器",
       "url":"https://www.cnbeta.com/articles/tech/978749.htm"
@@ -237,10 +241,6 @@
     {
       "name":"亚马逊免费多人射击游戏《熔炉》新演示 5月21日发售",
       "url":"https://hot.cnbeta.com/articles/game/978631.htm"
-    },
-    {
-      "name":"美国最大ATM供应商遭勒索软件攻击",
-      "url":"https://www.cnbeta.com/articles/tech/978629.htm"
     }
   ]
 }
