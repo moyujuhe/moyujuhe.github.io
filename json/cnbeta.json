@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 16:05:18",
+  "time":"2020-05-13 16:10:26",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"百度：智能小程序月活超5亿 百度App日活超2.3亿",
+      "url":"https://www.cnbeta.com/articles/tech/978609.htm"
     },
     {
       "name":"中国疾控中心：影剧院开放后座位保持一米距离",
@@ -237,10 +241,6 @@
     {
       "name":"印度版COVID-19密切接触者追踪应用在41天内达成1亿用户",
       "url":"https://www.cnbeta.com/articles/tech/978493.htm"
-    },
-    {
-      "name":"AI技术或将很快加入抗疫队伍：根据症状对新冠肺炎进行诊断",
-      "url":"https://www.cnbeta.com/articles/tech/978491.htm"
     }
   ]
 }
