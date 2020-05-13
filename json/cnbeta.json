@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-13 10:17:30",
+  "time":"2020-05-13 10:21:53",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"福奇博士：新冠病毒几乎不可能根除",
+      "url":"https://www.cnbeta.com/articles/science/978427.htm"
+    },
+    {
+      "name":"Ginger Labs发布支持协作注释的Twobird邮件应用",
+      "url":"https://www.cnbeta.com/articles/tech/978425.htm"
     },
     {
       "name":"一颗号称“引力王”的系外行星惊现",
@@ -233,14 +241,6 @@
     {
       "name":"谷歌宣布其Google Meet每天的线上视频会议时长达30亿分钟",
       "url":"https://www.cnbeta.com/articles/tech/978311.htm"
-    },
-    {
-      "name":"互联网档案馆警告用户警惕已被揭露的新冠病毒假信息",
-      "url":"https://www.cnbeta.com/articles/tech/978309.htm"
-    },
-    {
-      "name":"PS4《对马岛之鬼》直面会确认举办 将发18分钟新视频",
-      "url":"https://hot.cnbeta.com/articles/game/978307.htm"
     }
   ]
 }
