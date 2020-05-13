@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-13 17:28:30",
+  "time":"2020-05-13 17:32:50",
   "title":"奇客的资讯",
   "data":[
     {
@@ -7,8 +7,16 @@
       "url":"https://www.solidot.org/story?sid=64348"
     },
     {
+      "name":"俄罗斯的一枚火箭在轨道上分解",
+      "url":"https://www.solidot.org/story?sid=64346"
+    },
+    {
       "name":"Twitter 将永久性允许雇员在家办公",
       "url":"https://www.solidot.org/story?sid=64345"
+    },
+    {
+      "name":"为什么聪明的人也相信假消息",
+      "url":"https://www.solidot.org/story?sid=64344"
     },
     {
       "name":"疫情隔离政策改善了全球空气质量",
@@ -73,14 +81,6 @@
     {
       "name":"Python 开发者调查显示只有十分之一的人还在用 Python 2",
       "url":"https://www.solidot.org/story?sid=64327"
-    },
-    {
-      "name":"超过四成的人希望疫情之后能继续远程办公",
-      "url":"https://www.solidot.org/story?sid=64326"
-    },
-    {
-      "name":"让 Emacs 再次流行起来",
-      "url":"https://www.solidot.org/story?sid=64325"
     }
   ]
 }
