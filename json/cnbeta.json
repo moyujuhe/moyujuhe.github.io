@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 19:22:05",
+  "time":"2020-05-13 19:26:44",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"OPPO Reno4真机首曝：90Hz双曲面屏",
+      "url":"https://www.cnbeta.com/articles/tech/978657.htm"
     },
     {
       "name":"《宝可梦：COCO》电影宣布延期播出 原定7月10日上映",
@@ -237,10 +241,6 @@
     {
       "name":"瑞幸董事长陆正耀卸任提名及公司治理委员会主席",
       "url":"https://www.cnbeta.com/articles/tech/978541.htm"
-    },
-    {
-      "name":"美国13个州联名要求亚马逊提供患新冠肺炎员工数量",
-      "url":"https://www.cnbeta.com/articles/tech/978539.htm"
     }
   ]
 }
