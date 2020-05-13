@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 12:31:59",
+  "time":"2020-05-13 12:36:16",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"印度版COVID-19密切接触者追踪应用在41天内达成1亿用户",
+      "url":"https://www.cnbeta.com/articles/tech/978493.htm"
     },
     {
       "name":"AI技术或将很快加入抗疫队伍：根据症状对新冠肺炎进行诊断",
@@ -237,10 +241,6 @@
     {
       "name":"瑞幸“丢车保帅”换掉CEO，能否真正度过危机？",
       "url":"https://www.cnbeta.com/articles/tech/978377.htm"
-    },
-    {
-      "name":"Telegram放弃了17亿美元的TON区块链项目",
-      "url":"https://www.cnbeta.com/articles/tech/978375.htm"
     }
   ]
 }
