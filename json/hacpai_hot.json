@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-13 13:29:03",
+  "time":"2020-05-13 13:33:32",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -65,10 +65,6 @@
     {
       "name":"思否社区因用户发布 fq 技术负责人被请喝茶",
       "url":"https://hacpai.com/article/1587379664460"
-    },
-    {
-      "name":"有没事一起创业的兄弟吗？",
-      "url":"https://hacpai.com/article/1586757598098"
     },
     {
       "name":"别人眼中的程序员 VS 实际中的程序员",
@@ -241,6 +237,10 @@
     {
       "name":"八卦 - 六爻",
       "url":"https://hacpai.com/article/1588496739624"
+    },
+    {
+      "name":"一款生成在线数据库文档的小工具（Golang）",
+      "url":"https://hacpai.com/article/1587970215919"
     }
   ]
 }
