@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 21:45:57",
+  "time":"2020-05-13 21:50:29",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"腾讯1季度狂收超1000亿、游戏大增31% 人均月薪近8万",
+      "url":"https://www.cnbeta.com/articles/tech/978687.htm"
     },
     {
       "name":"东非和也门治蝗显著 成功挽救72万吨谷物",
@@ -237,10 +241,6 @@
     {
       "name":"[图]太奢侈：国外达人将售价5249元的Mac Pro滚轮装在滑板上",
       "url":"https://hot.cnbeta.com/articles/funny/978571.htm"
-    },
-    {
-      "name":"Cloud9电竞战队希望唤起人们对心理健康问题的重视",
-      "url":"https://hot.cnbeta.com/articles/game/978569.htm"
     }
   ]
 }
