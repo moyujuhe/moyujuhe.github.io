@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-13 12:30:05",
+  "time":"2020-05-13 12:40:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"美国对中国科技产业（涵盖半导体、通信、高端电脑等）将执行的史上最严格出口管制政策，预计于 2020 年 6 月 29 日正式生效。美国前两大半导体设备制造商应用材料（Applied Materials）和泛林半导体（Lam Research）已发函给客户，要求不能采用他们的设备产品，使用在生产军事或军民融合的芯片中。",
+      "url":"https://mp.weixin.qq.com/s/Eb1_JbsyM7QH2Wlyq0JsyQ"
+    },
     {
       "name":"迪士尼宣布大热音乐剧《汉密尔顿》的电影将在今年7月3日上线Disney+。此前该片已定北美院线上映和档期：2021年10月15日。如今宣布提早一年多上线，是受新冠疫情影响，疫情期间影院和剧场关门，而在家的人更多了。",
       "url":"http://moviesoon.com/news/2020/05/lin-manuel-mirandas-hamilton-gets-early-release-on-disney/"
@@ -89,10 +93,6 @@
     {
       "name":"索尼公布新品牌“PlayStation Studios”，统一旗下第一方游戏作品",
       "url":"https://www.vgtime.com/topic/1085902.jhtml"
-    },
-    {
-      "name":"黄奇帆谈2020年土地要素市场化配置：一场不亚于80年代农村承包制、也不亚于90年代初土地批租市场的伟大改革",
-      "url":"https://mp.weixin.qq.com/s/5alQOnmWt-4YsQJRlqM9ng"
     }
   ]
 }
