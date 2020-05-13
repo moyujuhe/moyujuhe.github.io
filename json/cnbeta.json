@@ -1,7 +1,23 @@
 {
-  "time":"2020-05-14 07:30:59",
+  "time":"2020-05-14 07:35:08",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"国家邮政局：提倡使用智能快件箱投递 但应与收件人电话联系",
+      "url":"https://www.cnbeta.com/articles/tech/978785.htm"
+    },
+    {
+      "name":"谷歌允许员工在家办公到年底 但笔记本电脑不够用了",
+      "url":"https://www.cnbeta.com/articles/tech/978783.htm"
+    },
+    {
+      "name":"特朗普：福奇对于过早重启经济的警告“不可接受”",
+      "url":"https://www.cnbeta.com/articles/tech/978781.htm"
+    },
+    {
+      "name":"中国团队发现新蝙蝠冠状病毒 力证新冠起源于自然",
+      "url":"https://www.cnbeta.com/articles/science/978779.htm"
+    },
     {
       "name":"PS5虚幻5演示采用动态分辨率 多数时间维持在1440P",
       "url":"https://hot.cnbeta.com/articles/game/978777.htm"
@@ -13,6 +29,10 @@
     {
       "name":"[多图]4款家用血糖仪、尿酸仪对比评测",
       "url":"https://www.cnbeta.com/articles/tech/978773.htm"
+    },
+    {
+      "name":"新核显加入 十代酷睿轻薄本如何提供多样选择？",
+      "url":"http://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/978713.htm"
     },
     {
       "name":"私募投资B站巨亏疑云：股票暴涨1.5倍 基金净值仅剩三成",
@@ -41,10 +61,6 @@
     {
       "name":"经济学人智库：新冠疫情将逆转全球化 建立区域供应链",
       "url":"https://www.cnbeta.com/articles/tech/978759.htm"
-    },
-    {
-      "name":"新核显加入 十代酷睿轻薄本如何提供多样选择？",
-      "url":"http://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/978713.htm"
     },
     {
       "name":"美航空股大幅下跌 IATA警告航空旅行需求将长期低迷",
@@ -225,22 +241,6 @@
     {
       "name":"AMD CEO苏姿丰致敬母亲节：妈妈是我的灵感来源",
       "url":"https://www.cnbeta.com/articles/tech/978665.htm"
-    },
-    {
-      "name":"福布斯发布2020全球企业2000强榜：工商银行8连冠、苹果第九",
-      "url":"https://www.cnbeta.com/articles/tech/978663.htm"
-    },
-    {
-      "name":"索尼一季度仅卖出40万台手机：创历史新低",
-      "url":"https://www.cnbeta.com/articles/tech/978661.htm"
-    },
-    {
-      "name":"使用5G网络或需更换SIM卡 4G卡不满足信息及安全要求",
-      "url":"https://www.cnbeta.com/articles/tech/978659.htm"
-    },
-    {
-      "name":"OPPO Reno4真机首曝：90Hz双曲面屏",
-      "url":"https://www.cnbeta.com/articles/tech/978657.htm"
     }
   ]
 }
