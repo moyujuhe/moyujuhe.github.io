@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 16:53:53",
+  "time":"2020-05-13 16:58:34",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"在细胞分裂中发挥关键作用的蛋白质有助于找到新的癌症疗法",
+      "url":"https://www.cnbeta.com/articles/science/978635.htm"
     },
     {
       "name":"天野喜孝人设《GIBIATE》ED主题曲公开 大黒摩季倾情演绎",
@@ -237,10 +241,6 @@
     {
       "name":"《光环2：周年版》PC版正式开卖 Steam售价37元",
       "url":"https://hot.cnbeta.com/articles/game/978519.htm"
-    },
-    {
-      "name":"铁杆支持者炮轰马斯克：偏听则暗，兼听则明",
-      "url":"https://www.cnbeta.com/articles/tech/978517.htm"
     }
   ]
 }
