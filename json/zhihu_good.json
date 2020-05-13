@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-13 08:19:08",
+  "time":"2020-05-13 08:23:15",
   "title":"知乎每日精选-编辑推荐",
   "data":[
+    {
+      "name":"围棋史上最佳妙手属于哪盘棋？",
+      "url":"https://www.zhihu.com/question/33324527/answer/1212154214"
+    },
     {
       "name":"从被压缩的弹簧说起：物质如何蕴含势能",
       "url":"https://zhuanlan.zhihu.com/p/131987201"
@@ -157,10 +161,6 @@
     {
       "name":"如何评价《非人哉》系列漫画和动画？",
       "url":"https://www.zhihu.com/question/40467944/answer/1187800010"
-    },
-    {
-      "name":"设计一套三个人一起下的围棋规则，可以实现吗？",
-      "url":"https://www.zhihu.com/question/22542337/answer/1164863088"
     }
   ]
 }

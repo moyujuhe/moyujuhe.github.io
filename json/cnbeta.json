@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-13 08:19:03",
+  "time":"2020-05-13 08:23:09",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"谷歌在美国和加拿大推出“Grow with Google”免费在线课程",
+      "url":"https://www.cnbeta.com/articles/tech/978329.htm"
+    },
+    {
+      "name":"两轮四轮EV齐上阵 Polestar将在展厅引入CAKE电动自行车",
+      "url":"https://www.cnbeta.com/articles/tech/978327.htm"
+    },
+    {
+      "name":"Kali Linux 2020.2 发布",
+      "url":"https://www.cnbeta.com/articles/tech/978325.htm"
     },
     {
       "name":"Galaxy Fold Lite曝光：外屏缩小 售价砍半1099美元起",
@@ -229,18 +241,6 @@
     {
       "name":"新冠疫情又带来严重后果 或将导致额外数十万人死于艾滋病",
       "url":"https://www.cnbeta.com/articles/science/978211.htm"
-    },
-    {
-      "name":"数学证明特定类时空是不稳定的",
-      "url":"https://www.cnbeta.com/articles/science/978209.htm"
-    },
-    {
-      "name":"我们可能正迎来一个没有纸质书的未来",
-      "url":"https://www.cnbeta.com/articles/tech/978207.htm"
-    },
-    {
-      "name":"新报告揭示新冠重症病人的轨迹：吸烟或是主要诱因之一",
-      "url":"https://www.cnbeta.com/articles/tech/978205.htm"
     }
   ]
 }
