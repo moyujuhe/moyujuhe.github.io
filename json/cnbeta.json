@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-14 04:00:58",
+  "time":"2020-05-14 04:05:10",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"经济学人智库：新冠疫情将逆转全球化 建立区域供应链",
+      "url":"https://www.cnbeta.com/articles/tech/978759.htm"
+    },
     {
       "name":"美航空股大幅下跌 IATA警告航空旅行需求将长期低迷",
       "url":"https://www.cnbeta.com/articles/tech/978757.htm"
@@ -237,10 +241,6 @@
     {
       "name":"美光消费级SSD首发QLC闪存：最大2TB 寿命提升20%",
       "url":"https://www.cnbeta.com/articles/tech/978639.htm"
-    },
-    {
-      "name":"飞行过程中没有信号？没事，不耽误扫码付款",
-      "url":"https://www.cnbeta.com/articles/tech/978637.htm"
     }
   ]
 }
