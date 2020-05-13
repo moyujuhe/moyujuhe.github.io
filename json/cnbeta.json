@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 19:35:19",
+  "time":"2020-05-13 19:39:47",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"统一推送官方解读：消灭Android毒瘤、待机续航猛增43％",
+      "url":"https://www.cnbeta.com/articles/tech/978667.htm"
     },
     {
       "name":"AMD CEO苏姿丰致敬母亲节：妈妈是我的灵感来源",
@@ -237,10 +241,6 @@
     {
       "name":"游戏硬件巨头雷蛇开始在新加坡生产和销售口罩",
       "url":"https://hot.cnbeta.com/articles/game/978551.htm"
-    },
-    {
-      "name":"加州地方政府：特斯拉可在遵循指引情况下重启生产",
-      "url":"https://www.cnbeta.com/articles/tech/978549.htm"
     }
   ]
 }
