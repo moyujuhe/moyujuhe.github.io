@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-13 16:19:19",
+  "time":"2020-05-13 16:23:36",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"美国最大 ATM 供应商遭勒索软件攻击",
+      "url":"https://www.solidot.org/story?sid=64348"
+    },
+    {
+      "name":"Twitter 将永久性允许雇员在家办公",
+      "url":"https://www.solidot.org/story?sid=64345"
+    },
     {
       "name":"疫情隔离政策改善了全球空气质量",
       "url":"https://www.solidot.org/story?sid=64343"
@@ -73,14 +81,6 @@
     {
       "name":"让 Emacs 再次流行起来",
       "url":"https://www.solidot.org/story?sid=64325"
-    },
-    {
-      "name":"因拒绝工厂复工特斯拉提起诉讼",
-      "url":"https://www.solidot.org/story?sid=64324"
-    },
-    {
-      "name":"特朗普政府督促芯片公司在美国建厂",
-      "url":"https://www.solidot.org/story?sid=64323"
     }
   ]
 }
