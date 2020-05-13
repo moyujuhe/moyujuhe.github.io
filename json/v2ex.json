@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-13 10:21:55",
+  "time":"2020-05-13 10:26:38",
   "title":"V2EX热帖",
   "data":[
     {
@@ -8,23 +8,27 @@
     },
     {
       "name":"关于外行对于程序员的形象认知",
-      "url":"https://www.v2ex.com/t/671121#reply28"
+      "url":"https://www.v2ex.com/t/671121#reply31"
     },
     {
       "name":"写代码又快又好 bug 少是不是一种罪过?",
-      "url":"https://www.v2ex.com/t/671134#reply26"
+      "url":"https://www.v2ex.com/t/671134#reply27"
     },
     {
       "name":"两个月未找到工作，待在家里，发现自己越来越懒了！怎么让自己活跃起来",
       "url":"https://www.v2ex.com/t/671136#reply17"
     },
     {
+      "name":"你们会主动承担任务吗，还是都等上级安排？",
+      "url":"https://www.v2ex.com/t/671117#reply16"
+    },
+    {
       "name":"入 mbp16 了，准备把我的小 mini 出掉，这配置能要到多少价？",
       "url":"https://www.v2ex.com/t/671123#reply16"
     },
     {
-      "name":"你们会主动承担任务吗，还是都等上级安排？",
-      "url":"https://www.v2ex.com/t/671117#reply15"
+      "name":"不懂就问,同事写后台不会用断点也不学...每次调接口都要好久,怎么劝劝啊...",
+      "url":"https://www.v2ex.com/t/671154#reply16"
     },
     {
       "name":"看到很多时候讨论变成争论，我感觉讨论这个词应该换成 观点交换/信息交换 就更好了",
@@ -32,15 +36,15 @@
     },
     {
       "name":"那么多明星入职阿里（高晓松、欧阳娜娜、雷佳音、刘涛等等），也需要坐班吗？",
-      "url":"https://www.v2ex.com/t/671150#reply12"
-    },
-    {
-      "name":"不懂就问,同事写后台不会用断点也不学...每次调接口都要好久,怎么劝劝啊...",
-      "url":"https://www.v2ex.com/t/671154#reply12"
+      "url":"https://www.v2ex.com/t/671150#reply14"
     },
     {
       "name":"MacBook pro 现在还有涂层问题吗？",
       "url":"https://www.v2ex.com/t/671120#reply10"
+    },
+    {
+      "name":"群晖大家是否有用 UPS",
+      "url":"https://www.v2ex.com/t/671157#reply8"
     },
     {
       "name":"现在的安全公司都是这样签合同的？",
@@ -55,8 +59,8 @@
       "url":"https://www.v2ex.com/t/671135#reply6"
     },
     {
-      "name":"群晖大家是否有用 UPS",
-      "url":"https://www.v2ex.com/t/671157#reply6"
+      "name":"Figma 中输入中文的一个巨蛋疼的问题",
+      "url":"https://www.v2ex.com/t/671132#reply5"
     },
     {
       "name":"springboot 写入文件的日志如何输出异常栈",
@@ -65,10 +69,6 @@
     {
       "name":"go 的 Qt 好用吗？",
       "url":"https://www.v2ex.com/t/671128#reply4"
-    },
-    {
-      "name":"Figma 中输入中文的一个巨蛋疼的问题",
-      "url":"https://www.v2ex.com/t/671132#reply4"
     },
     {
       "name":"slack 挂了。。",
@@ -87,6 +87,10 @@
       "url":"https://www.v2ex.com/t/671130#reply2"
     },
     {
+      "name":"MacOS 的 APP 开发， codeSign 一定要企业开发证书吗",
+      "url":"https://www.v2ex.com/t/671131#reply2"
+    },
+    {
       "name":"小米手环模拟门禁卡刷卡遇到问题",
       "url":"https://www.v2ex.com/t/671144#reply2"
     },
@@ -97,10 +101,6 @@
     {
       "name":"[快手] 内推进行时...",
       "url":"https://www.v2ex.com/t/671124#reply1"
-    },
-    {
-      "name":"MacOS 的 APP 开发， codeSign 一定要企业开发证书吗",
-      "url":"https://www.v2ex.com/t/671131#reply1"
     },
     {
       "name":"语音 SDK 大多都是使用科大讯飞吗，哪一个稳一点？",
@@ -119,6 +119,10 @@
       "url":"https://www.v2ex.com/t/671153#reply1"
     },
     {
+      "name":"Windows 怎么查看单 ip 的 tcp 连接数",
+      "url":"https://www.v2ex.com/t/671166#reply1"
+    },
+    {
       "name":"[已内推 31 人拿到 offer] 微软 Office 365 远程招聘日，又来啦！",
       "url":"https://www.v2ex.com/t/671115#reply0"
     },
@@ -129,10 +133,6 @@
     {
       "name":"新一届阿里中间件比赛开始啦",
       "url":"https://www.v2ex.com/t/671129#reply0"
-    },
-    {
-      "name":"[微软中国内推！]微软 Azure Rapid Response 团队招聘啦",
-      "url":"https://www.v2ex.com/t/671137#reply0"
     }
   ]
 }
