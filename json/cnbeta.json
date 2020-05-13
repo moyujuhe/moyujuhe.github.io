@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-13 08:10:48",
+  "time":"2020-05-13 08:14:56",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"Galaxy Fold Lite曝光：外屏缩小 售价砍半1099美元起",
+      "url":"https://www.cnbeta.com/articles/tech/978323.htm"
+    },
+    {
+      "name":"国外网友反馈：iPad Pro妙控键盘偶尔无法充电",
+      "url":"https://www.cnbeta.com/articles/tech/978321.htm"
     },
     {
       "name":"[图]微软向Build 2020注册者送小礼品：包括餐盒和袜子",
@@ -233,14 +241,6 @@
     {
       "name":"新报告揭示新冠重症病人的轨迹：吸烟或是主要诱因之一",
       "url":"https://www.cnbeta.com/articles/tech/978205.htm"
-    },
-    {
-      "name":"索尼否认PS5发布日期泄露 称是官网失误所致",
-      "url":"https://hot.cnbeta.com/articles/game/978203.htm"
-    },
-    {
-      "name":"从20到100厘米 SATA硬盘线影响SSD性能吗？实测揭晓",
-      "url":"https://www.cnbeta.com/articles/tech/978201.htm"
     }
   ]
 }
