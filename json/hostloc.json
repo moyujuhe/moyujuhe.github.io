@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 03:40:00",
+  "time":"2020-05-14 03:44:12",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"收套cfp-partner",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688999&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"惊了，现在都开始有300G的带宽了...",
@@ -109,10 +113,6 @@
     {
       "name":"使用Oneindex挂载SharePoint 25T空间，妈妈再也不用担心我的空...",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688968&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"买机器最好不要年付",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688967&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
