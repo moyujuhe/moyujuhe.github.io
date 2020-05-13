@@ -1,13 +1,17 @@
 {
-  "time":"2020-05-14 01:08:35",
+  "time":"2020-05-14 01:13:04",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"苹果希望在Apple News+服务中加入音频内容",
+      "url":"https://www.cnbeta.com/articles/tech/978729.htm"
+    },
     {
       "name":"新核显加入 十代酷睿轻薄本如何提供多样选择？",
       "url":"http://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/978713.htm"
     },
     {
-      "name":"OnePlus 8 Pro色彩滤镜摄像头可看穿塑料物体",
+      "name":"OnePlus 8 Pro色彩滤镜摄像头可透视塑料外壳",
       "url":"https://www.cnbeta.com/articles/tech/978727.htm"
     },
     {
@@ -237,10 +241,6 @@
     {
       "name":"百度：智能小程序月活超5亿 百度App日活超2.3亿",
       "url":"https://www.cnbeta.com/articles/tech/978609.htm"
-    },
-    {
-      "name":"中国疾控中心：影剧院开放后座位保持一米距离",
-      "url":"https://hot.cnbeta.com/articles/movie/978607.htm"
     }
   ]
 }
