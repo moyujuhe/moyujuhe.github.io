@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 12:05:46",
+  "time":"2020-05-13 12:10:06",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"AI技术或将很快加入抗疫队伍：根据症状对新冠肺炎进行诊断",
+      "url":"https://www.cnbeta.com/articles/tech/978491.htm"
     },
     {
       "name":"超高温系外行星WASP-79b可能会下“铁雨” 并有黄色的天空",
@@ -237,10 +241,6 @@
     {
       "name":"Telegram放弃了17亿美元的TON区块链项目",
       "url":"https://www.cnbeta.com/articles/tech/978375.htm"
-    },
-    {
-      "name":"联想拯救者Y7000/Y7000P今日开卖：锐龙6核/16/512到手5099",
-      "url":"https://www.cnbeta.com/articles/tech/978373.htm"
     }
   ]
 }
