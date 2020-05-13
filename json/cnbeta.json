@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 10:39:39",
+  "time":"2020-05-13 10:43:52",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"火星存在生命？新研究给出否定答案",
+      "url":"https://www.cnbeta.com/articles/science/978445.htm"
     },
     {
       "name":"Facebook介绍如何利用AI检测COVID-19假新闻和仇恨言论",
@@ -237,10 +241,6 @@
     {
       "name":"谷歌在美国和加拿大推出“Grow with Google”免费在线课程",
       "url":"https://www.cnbeta.com/articles/tech/978329.htm"
-    },
-    {
-      "name":"两轮四轮EV齐上阵 Polestar将在展厅引入CAKE电动自行车",
-      "url":"https://www.cnbeta.com/articles/tech/978327.htm"
     }
   ]
 }
