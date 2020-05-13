@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 12:14:32",
+  "time":"2020-05-13 12:18:44",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"日本疫情：女孩没法打工，只好援J",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688649&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"[疑问]阿里云国际版问题",
@@ -109,10 +113,6 @@
     {
       "name":"Hexo配置\"伪静态\"，在文章链接后添加\".html\"",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688618&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"有没有百度网盘的周卡CDK",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688617&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
