@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 09:46:46",
+  "time":"2020-05-13 09:50:56",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"伦勃朗《夜巡》的全新高分辨率扫描图可允许你查看所有细节",
+      "url":"https://www.cnbeta.com/articles/tech/978391.htm"
     },
     {
       "name":"苹果三款生产力工具对比：13寸MBP全能 iPad Pro体验最好",
@@ -237,10 +241,6 @@
     {
       "name":"李佳琦要注册“oh my god 买它买它”声音商标 成功率多高?",
       "url":"https://hot.cnbeta.com/articles/movie/978275.htm"
-    },
-    {
-      "name":"Twitter宣布允许部分员工无限期居家办公",
-      "url":"https://www.cnbeta.com/articles/tech/978273.htm"
     }
   ]
 }
