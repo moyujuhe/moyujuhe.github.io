@@ -1,10 +1,26 @@
 {
-  "time":"2020-05-13 11:22:17",
+  "time":"2020-05-13 11:26:44",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"GM：不会因新冠疫情放缓EV项目发展进程",
+      "url":"https://www.cnbeta.com/articles/tech/978469.htm"
+    },
+    {
+      "name":"苹果推出Logic Pro X“史上最大更新”",
+      "url":"https://www.cnbeta.com/articles/tech/978467.htm"
+    },
+    {
+      "name":"电影《1917》公开中文海报：仍通过内地院线上映 档期待定",
+      "url":"https://hot.cnbeta.com/articles/movie/978465.htm"
+    },
+    {
+      "name":"Core i9-10885H真实存在， 为支持vPro的旗舰移动CPU",
+      "url":"https://www.cnbeta.com/articles/tech/978463.htm"
     },
     {
       "name":"已公开XSX游戏期待值TOP5 《刺客信条》无悬念榜首",
@@ -225,22 +241,6 @@
     {
       "name":"肉眼可见的Swan彗星将飞掠地球",
       "url":"https://www.cnbeta.com/articles/science/978353.htm"
-    },
-    {
-      "name":"德数据隐私监管部门对苹果零售店体温测量政策展开调查",
-      "url":"https://www.cnbeta.com/articles/tech/978351.htm"
-    },
-    {
-      "name":"亚马逊宣布即日起正式开放Graviton2 AWS实例",
-      "url":"https://www.cnbeta.com/articles/tech/978349.htm"
-    },
-    {
-      "name":"SpaceX发布模拟器 任何人均可尝试将载人龙飞船与ISS安全“对接”",
-      "url":"https://www.cnbeta.com/articles/science/978347.htm"
-    },
-    {
-      "name":"[图]Galaxy A21s渲染图曝光：6.5吋打孔屏+3GB内存+NFC",
-      "url":"https://www.cnbeta.com/articles/tech/978345.htm"
     }
   ]
 }
