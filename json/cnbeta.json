@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-13 15:30:51",
+  "time":"2020-05-13 15:35:12",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"科研人员开发出新型“超强钢”  有望提升合金的强度和韧性",
+      "url":"https://www.cnbeta.com/articles/science/978595.htm"
+    },
+    {
+      "name":"英国测试用无人机向偏远岛屿送紧急医疗物资 载荷100公斤",
+      "url":"https://www.cnbeta.com/articles/tech/978593.htm"
     },
     {
       "name":"索尼称PlayStation 5仍有望在2020假日购物季发布",
@@ -233,14 +241,6 @@
     {
       "name":"郑州奔驰被换“三无”中缸一事有新进展 涉事4S店被罚20万余元",
       "url":"https://www.cnbeta.com/articles/tech/978479.htm"
-    },
-    {
-      "name":"湖北中通回应暂停武汉部分地区快递揽派业务：消息不实",
-      "url":"https://www.cnbeta.com/articles/tech/978477.htm"
-    },
-    {
-      "name":"货车后保险杠多重要？实验画面曝光：轿车56公里时速追尾生还几率接近零",
-      "url":"https://www.cnbeta.com/articles/tech/978475.htm"
     }
   ]
 }
