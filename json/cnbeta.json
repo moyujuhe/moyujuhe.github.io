@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-13 22:08:14",
+  "time":"2020-05-13 22:12:49",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"AMD Radeon Pro VII专业显卡发布 解锁PCIe 4.0",
+      "url":"https://www.cnbeta.com/articles/tech/978697.htm"
+    },
+    {
+      "name":"三星发布企业级PCIe 4.硬盘：7.68TB容量 6500MB/s速度",
+      "url":"https://www.cnbeta.com/articles/tech/978695.htm"
     },
     {
       "name":"城市面积过去三十年扩张了 80%",
@@ -233,14 +241,6 @@
     {
       "name":"上海地铁推新服务：挤不挤、热不热都能手机查询",
       "url":"https://www.cnbeta.com/articles/tech/978579.htm"
-    },
-    {
-      "name":"AppAnnie 4月报告：王者荣耀重夺冠军、公主连接业绩爆炸",
-      "url":"https://hot.cnbeta.com/articles/game/978577.htm"
-    },
-    {
-      "name":"盖茨夫人：美国有些州重新开放步子迈得太快",
-      "url":"https://www.cnbeta.com/articles/tech/978575.htm"
     }
   ]
 }
