@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-14 07:22:39",
+  "time":"2020-05-14 07:26:50",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"台积电已推出新一代晶圆级IPD技术 用于5G移动设备",
+      "url":"https://www.cnbeta.com/articles/tech/978769.htm"
+    },
     {
       "name":"特斯拉Model X成NASA官方宇航员转运车辆",
       "url":"https://www.cnbeta.com/articles/tech/978767.htm"
@@ -237,10 +241,6 @@
     {
       "name":"帕萨特折戟中保研 大众高层回应：碰撞安全是我们DNA的一部分",
       "url":"https://www.cnbeta.com/articles/tech/978649.htm"
-    },
-    {
-      "name":"我国电动汽车强制性国标公布 要求电池热失控后5分钟内不起火不爆炸",
-      "url":"https://www.cnbeta.com/articles/tech/978647.htm"
     }
   ]
 }
