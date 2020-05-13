@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-13 14:34:48",
+  "time":"2020-05-13 14:39:10",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"Cloud9电竞战队希望唤起人们对心理健康问题的重视",
+      "url":"https://hot.cnbeta.com/articles/game/978569.htm"
+    },
+    {
+      "name":"日本资生堂一季度净利润暴跌96% 寄望中国市场",
+      "url":"https://www.cnbeta.com/articles/tech/978567.htm"
     },
     {
       "name":"Intel 10nm十代酷睿终极版发布：频率暴涨、苹果独享",
@@ -233,14 +241,6 @@
     {
       "name":"贝尔金携手伊利诺伊大学制造FlexVent呼吸机 以应对COVID-19危机",
       "url":"https://www.cnbeta.com/articles/tech/978453.htm"
-    },
-    {
-      "name":"[图]受COVID-19疫情影响 通用宣布放弃Ariv电动自行车计划",
-      "url":"https://www.cnbeta.com/articles/tech/978451.htm"
-    },
-    {
-      "name":"研究称含饱和脂肪的单餐对注意力集中程度产生影响",
-      "url":"https://www.cnbeta.com/articles/science/978449.htm"
     }
   ]
 }
