@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 16:01:07",
+  "time":"2020-05-13 16:05:18",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"中国疾控中心：影剧院开放后座位保持一米距离",
+      "url":"https://hot.cnbeta.com/articles/movie/978607.htm"
     },
     {
       "name":"相互宝发布“慢病互助计划”这8大类慢性病患者可加入",
@@ -237,10 +241,6 @@
     {
       "name":"AI技术或将很快加入抗疫队伍：根据症状对新冠肺炎进行诊断",
       "url":"https://www.cnbeta.com/articles/tech/978491.htm"
-    },
-    {
-      "name":"超高温系外行星WASP-79b可能会下“铁雨” 并有黄色的天空",
-      "url":"https://www.cnbeta.com/articles/science/978489.htm"
     }
   ]
 }
