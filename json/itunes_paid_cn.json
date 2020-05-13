@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-05-13 18:42:43",
+  "time":"2020-05-13 18:47:32",
   "data":[
     {
       "name":"恶果之地",
@@ -303,6 +303,12 @@
       "description":"最新版本:  1.1.6\n更新时间:  2020-05-07 08:18:25 (北京时间)\n\n—修复武将会丢失的问题\n—修复俘虏不会越狱的问题\n—修复牢中武将的子代成年归属错误的问题\n—修复多事件同时触发时只提示一种事件的问题"
     },
     {
+      "name":"万家小馆",
+      "url":"https://apps.apple.com/cn/app/%E4%B8%87%E5%AE%B6%E5%B0%8F%E9%A6%86/id1512424083?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.0.0\n更新时间:  2020-05-13 08:21:30 (北京时间)\n\n"
+    },
+    {
       "name":"无烦恼厨房",
       "url":"https://apps.apple.com/cn/app/%E6%97%A0%E7%83%A6%E6%81%BC%E5%8E%A8%E6%88%BF/id1230818349?uo=4",
       "num":"游戏",
@@ -589,12 +595,6 @@
       "url":"https://apps.apple.com/cn/app/%E6%97%A0%E7%BA%BF%E5%8D%AB%E5%A3%AB-%E8%B7%AF%E7%94%B1%E5%99%A8%E7%AE%A1%E5%AE%B6%E4%B8%8E%E9%AB%98%E8%83%BD%E9%98%B2%E8%B9%AD%E7%BD%91/id995564289?uo=4",
       "num":"工具",
       "description":"最新版本:  2.0.1\n更新时间:  2020-05-08 22:34:01 (北京时间)\n\n1.适配ios 13系统；\n2.优化配置性能；\n3.修改已知bug。"
-    },
-    {
-      "name":"Analog Paris",
-      "url":"https://apps.apple.com/cn/app/analog-paris/id1035219562?uo=4",
-      "num":"摄影与录像",
-      "description":"最新版本:  1.0.992\n更新时间:  2019-10-13 05:01:11 (北京时间)\n\n- iOS 13 Support\n- Menu reorganization\n- More features will be available in future updates"
     }
   ]
 }
