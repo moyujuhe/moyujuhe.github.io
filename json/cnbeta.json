@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 12:57:35",
+  "time":"2020-05-13 13:01:57",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"CreepRank算法帮助谷歌Play商店剔除了813款Android蠕虫应用",
+      "url":"https://www.cnbeta.com/articles/tech/978495.htm"
     },
     {
       "name":"印度版COVID-19密切接触者追踪应用在41天内达成1亿用户",
@@ -237,10 +241,6 @@
     {
       "name":"首次发现“无氧生物”：类似水母的寄生虫不会呼吸",
       "url":"https://www.cnbeta.com/articles/science/978379.htm"
-    },
-    {
-      "name":"瑞幸“丢车保帅”换掉CEO，能否真正度过危机？",
-      "url":"https://www.cnbeta.com/articles/tech/978377.htm"
     }
   ]
 }
