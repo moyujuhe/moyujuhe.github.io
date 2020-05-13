@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 17:50:52",
+  "time":"2020-05-13 17:55:23",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"我国电动汽车强制性国标公布 要求电池热失控后5分钟内不起火不爆炸",
+      "url":"https://www.cnbeta.com/articles/tech/978647.htm"
     },
     {
       "name":"腾讯启动\"数字方舟\"计划 支持中小微企业数字化转型",
@@ -237,10 +241,6 @@
     {
       "name":"滴滴邀请司机家属送出“云叮嘱” 提醒驾驶安全",
       "url":"https://www.cnbeta.com/articles/tech/978531.htm"
-    },
-    {
-      "name":"冲击预警：金融科技风投行业在2020年初经历了糟糕的一季度",
-      "url":"https://www.cnbeta.com/articles/tech/978529.htm"
     }
   ]
 }
