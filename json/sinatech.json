@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-13 10:00:22",
+  "time":"2020-05-13 10:06:38",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"卡介苗助力抗击新冠病毒？尚需研究",
+      "url":"https://tech.sina.com.cn/d/f/2020-05-13/doc-iircuyvi2818409.shtml"
+    },
     {
       "name":"特斯拉真要搬离加州？德州官员争相示好马斯克(图)",
       "url":"https://tech.sina.com.cn/it/2020-05-13/doc-iirczymk1346105.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"Twitter宣布允许部分员工无限期居家办公",
       "url":"https://tech.sina.com.cn/i/2020-05-13/doc-iirczymk1312540.shtml"
-    },
-    {
-      "name":"Uber拟收购外卖平台GrubHub 消息称双方未达成协议",
-      "url":"https://tech.sina.com.cn/i/2020-05-13/doc-iircuyvi2781230.shtml"
     }
   ]
 }
