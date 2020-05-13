@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-14 01:17:17",
+  "time":"2020-05-14 01:21:39",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"NHS承认联系人追踪应用无法在旧版iPhone上使用",
+      "url":"https://www.cnbeta.com/articles/soft/978731.htm"
+    },
     {
       "name":"苹果希望在Apple News+服务中加入音频内容",
       "url":"https://www.cnbeta.com/articles/tech/978729.htm"
@@ -237,10 +241,6 @@
     {
       "name":"特斯拉已成为全球首个电动车销量破百万辆的车企",
       "url":"https://www.cnbeta.com/articles/tech/978611.htm"
-    },
-    {
-      "name":"百度：智能小程序月活超5亿 百度App日活超2.3亿",
-      "url":"https://www.cnbeta.com/articles/tech/978609.htm"
     }
   ]
 }
