@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-14 02:01:25",
+  "time":"2020-05-14 02:05:58",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"戴尔推出重新设计的XPS15 配备4边InfinityEdge显示屏和Waves Nx 3D音效",
+      "url":"https://www.cnbeta.com/articles/tech/978747.htm"
+    },
     {
       "name":"NASA的SOFIA平流层天文台对冥王星的雾霾有了新发现",
       "url":"https://www.cnbeta.com/articles/tech/978745.htm"
@@ -237,10 +241,6 @@
     {
       "name":"世嘉19-20财年财报公开：受疫情影响新游可能延期",
       "url":"https://hot.cnbeta.com/articles/game/978627.htm"
-    },
-    {
-      "name":"抖音回应快手起诉侵权：支持公平公正竞争环境，也在起诉快手",
-      "url":"https://www.cnbeta.com/articles/tech/978625.htm"
     }
   ]
 }
