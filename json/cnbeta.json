@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-13 08:39:42",
+  "time":"2020-05-13 08:43:52",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"[图]Moto E7核心规格曝光：骁龙632+2GB内存",
+      "url":"https://www.cnbeta.com/articles/tech/978339.htm"
+    },
+    {
+      "name":"突破性的新冠病毒治疗药物有望使人们获得暂时的免疫力",
+      "url":"https://www.cnbeta.com/articles/science/978337.htm"
     },
     {
       "name":"[图]微软将“SwiftKey”更名为“Microsoft SwiftKey Keyboard”",
@@ -233,14 +241,6 @@
     {
       "name":"华擎Z490主板集成5个网卡：双10Gbps",
       "url":"https://www.cnbeta.com/articles/tech/978221.htm"
-    },
-    {
-      "name":"iPhone 12 系列，苹果实在输不起",
-      "url":"https://www.cnbeta.com/articles/tech/978219.htm"
-    },
-    {
-      "name":"粤邮政局:未经同意投递快递柜产生费用 消费者可追偿",
-      "url":"https://www.cnbeta.com/articles/tech/978217.htm"
     }
   ]
 }
