@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 03:35:48",
+  "time":"2020-05-14 03:40:00",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"惊了，现在都开始有300G的带宽了...",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688998&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"有什么方案可以解决N个WP建的站的源码和插件批量更新？",
@@ -109,10 +113,6 @@
     {
       "name":"买机器最好不要年付",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688967&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"求个油猴脚本",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688966&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
