@@ -1,10 +1,26 @@
 {
-  "time":"2020-05-13 09:38:08",
+  "time":"2020-05-13 09:42:26",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"Telegram放弃了17亿美元的TON加密货币项目",
+      "url":"https://www.cnbeta.com/articles/tech/978375.htm"
+    },
+    {
+      "name":"联想拯救者Y7000/Y7000P今日开卖：锐龙6核/16/512到手5099",
+      "url":"https://www.cnbeta.com/articles/tech/978373.htm"
+    },
+    {
+      "name":"达达集团赴美上市：第一季度净亏损7000万美元",
+      "url":"https://www.cnbeta.com/articles/tech/978371.htm"
+    },
+    {
+      "name":"疫情致压力太大？Facebook上有200万人选择扮演蚂蚁",
+      "url":"https://www.cnbeta.com/articles/tech/978369.htm"
     },
     {
       "name":"特斯拉风波未停 SpaceX向加州索要65.6万美元培训金",
@@ -225,22 +241,6 @@
     {
       "name":"特斯拉弗里蒙特工厂迎来新的生产负责人",
       "url":"https://www.cnbeta.com/articles/tech/978257.htm"
-    },
-    {
-      "name":"索尼宣布为第一方PS5游戏推出PlayStation工作室新品牌标识",
-      "url":"https://hot.cnbeta.com/articles/game/978255.htm"
-    },
-    {
-      "name":"寒武纪与华为海思分庭抗礼：中立芯片公司的“成人礼”",
-      "url":"https://www.cnbeta.com/articles/tech/978253.htm"
-    },
-    {
-      "name":"Intel VCA2媒体加速卡终结：三颗至强排排坐",
-      "url":"https://www.cnbeta.com/articles/tech/978251.htm"
-    },
-    {
-      "name":"Intel资本投资9.36亿元布局11家颠覆性创业公司 3家来自中国",
-      "url":"https://www.cnbeta.com/articles/tech/978249.htm"
     }
   ]
 }
