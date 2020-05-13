@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-13 19:26:44",
+  "time":"2020-05-13 19:31:04",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"索尼一季度仅卖出40万台手机：创历史新低",
+      "url":"https://www.cnbeta.com/articles/tech/978661.htm"
+    },
+    {
+      "name":"使用5G网络或需更换SIM卡 4G卡不满足信息及安全要求",
+      "url":"https://www.cnbeta.com/articles/tech/978659.htm"
     },
     {
       "name":"OPPO Reno4真机首曝：90Hz双曲面屏",
@@ -233,14 +241,6 @@
     {
       "name":"小米入股新湃传媒 后者为爆款剧《陈情令》制片公司",
       "url":"https://www.cnbeta.com/articles/tech/978545.htm"
-    },
-    {
-      "name":"继加州工厂后 特斯拉拟重启内华达州电池工厂",
-      "url":"https://www.cnbeta.com/articles/tech/978543.htm"
-    },
-    {
-      "name":"瑞幸董事长陆正耀卸任提名及公司治理委员会主席",
-      "url":"https://www.cnbeta.com/articles/tech/978541.htm"
     }
   ]
 }
