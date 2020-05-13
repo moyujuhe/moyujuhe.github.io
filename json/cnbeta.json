@@ -1,118 +1,142 @@
 {
-  "time":"2020-05-13 10:08:52",
+  "time":"2020-05-13 10:13:21",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
-      "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"一颗号称“引力王”的系外行星惊现",
+      "url":"http://www.cnbeta.com/articles/science/978423.htm"
+    },
+    {
+      "name":"Xbox Series X发售日曝光？传《如龙7》10月23日发售",
+      "url":"https://hot.cnbeta.com/articles/game/978421.htm"
+    },
+    {
+      "name":"动视暴雪明年将招聘2000名员工 预计员工总数超1.1万",
+      "url":"https://hot.cnbeta.com/articles/game/978419.htm"
+    },
+    {
+      "name":"特朗普称加州应该立即让特斯拉重启工厂 马斯克附和",
+      "url":"http://www.cnbeta.com/articles/tech/978417.htm"
+    },
+    {
+      "name":"北京大学团队发现新冠病毒存在两个主要谱系",
+      "url":"http://www.cnbeta.com/articles/tech/978415.htm"
+    },
+    {
+      "name":"长征五号B火箭芯一级大西洋上空重返大气层 绕地球102圈",
+      "url":"http://www.cnbeta.com/articles/science/978413.htm"
     },
     {
       "name":"谷歌宣布任何拥有电子邮箱账号的人都可免费使用Google Meet",
-      "url":"https://www.cnbeta.com/articles/tech/978411.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978411.htm"
     },
     {
       "name":"“买买买”背后的心理学：为什么花钱的感觉这么爽？",
-      "url":"https://www.cnbeta.com/articles/tech/978409.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978409.htm"
     },
     {
       "name":"瑞芯微AI芯片加持百度飞桨 携手加速AI应用落地",
-      "url":"https://www.cnbeta.com/articles/tech/978393.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978393.htm"
     },
     {
       "name":"67%预防有效，新型抗艾滋疫苗取得重要进展",
-      "url":"https://www.cnbeta.com/articles/science/978407.htm"
+      "url":"http://www.cnbeta.com/articles/science/978407.htm"
     },
     {
       "name":"[图]Chrome Canary更新：为PWA应用提供快捷菜单访问",
-      "url":"https://www.cnbeta.com/articles/tech/978405.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978405.htm"
     },
     {
       "name":"中国天眼瞥见85亿年前的耀闪说明什么",
-      "url":"https://www.cnbeta.com/articles/science/978403.htm"
+      "url":"http://www.cnbeta.com/articles/science/978403.htm"
     },
     {
       "name":"被带回地球的火星样品会对地球人类造成威胁吗？",
-      "url":"https://www.cnbeta.com/articles/science/978401.htm"
+      "url":"http://www.cnbeta.com/articles/science/978401.htm"
     },
     {
       "name":"日本登陆小行星照片发布：表面红蓝相间 十足罕见",
-      "url":"https://www.cnbeta.com/articles/science/978399.htm"
+      "url":"http://www.cnbeta.com/articles/science/978399.htm"
     },
     {
       "name":"世卫组织：新冠肺炎还会与人类共存很长时间 群体免疫非常危险",
-      "url":"https://www.cnbeta.com/articles/science/978397.htm"
+      "url":"http://www.cnbeta.com/articles/science/978397.htm"
     },
     {
       "name":"苹果开始让一些必要人员重返办公室工作",
-      "url":"https://www.cnbeta.com/articles/tech/978395.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978395.htm"
     },
     {
       "name":"伦勃朗《夜巡》的全新高分辨率扫描图可允许你查看所有细节",
-      "url":"https://www.cnbeta.com/articles/tech/978391.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978391.htm"
     },
     {
       "name":"苹果三款生产力工具对比：13寸MBP全能 iPad Pro体验最好",
-      "url":"https://www.cnbeta.com/articles/tech/978389.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978389.htm"
     },
     {
       "name":"定制版荣耀Play 4T曝光：中芯20周年纪念 员工人手一部",
-      "url":"https://www.cnbeta.com/articles/tech/978387.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978387.htm"
     },
     {
       "name":"又大又丑的中控屏要被取代？奥迪新专利能让人躺在车里看电影",
-      "url":"https://www.cnbeta.com/articles/tech/978385.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978385.htm"
     },
     {
       "name":"新AI诊断程序可预测是否感染新冠肺炎",
-      "url":"https://www.cnbeta.com/articles/tech/978383.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978383.htm"
     },
     {
       "name":"Swift 新增一组 Linux 发行版支持",
-      "url":"https://www.cnbeta.com/articles/soft/978381.htm"
+      "url":"http://www.cnbeta.com/articles/soft/978381.htm"
     },
     {
       "name":"首次发现“无氧生物”：类似水母的寄生虫不会呼吸",
-      "url":"https://www.cnbeta.com/articles/science/978379.htm"
+      "url":"http://www.cnbeta.com/articles/science/978379.htm"
     },
     {
       "name":"瑞幸“丢车保帅”换掉CEO，能否真正度过危机？",
-      "url":"https://www.cnbeta.com/articles/tech/978377.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978377.htm"
     },
     {
       "name":"Telegram放弃了17亿美元的TON区块链项目",
-      "url":"https://www.cnbeta.com/articles/tech/978375.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978375.htm"
     },
     {
       "name":"联想拯救者Y7000/Y7000P今日开卖：锐龙6核/16/512到手5099",
-      "url":"https://www.cnbeta.com/articles/tech/978373.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978373.htm"
     },
     {
       "name":"达达集团赴美上市：第一季度净亏损7000万美元",
-      "url":"https://www.cnbeta.com/articles/tech/978371.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978371.htm"
     },
     {
       "name":"疫情致压力太大？Facebook上有200万人选择扮演蚂蚁",
-      "url":"https://www.cnbeta.com/articles/tech/978369.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978369.htm"
     },
     {
       "name":"特斯拉风波未停 SpaceX向加州索要65.6万美元培训金",
-      "url":"https://www.cnbeta.com/articles/tech/978367.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978367.htm"
     },
     {
       "name":"KAUST开发的聚合物凝胶可通过吸收水蒸气来冷却太阳能电池板",
-      "url":"https://www.cnbeta.com/articles/science/978365.htm"
+      "url":"http://www.cnbeta.com/articles/science/978365.htm"
     },
     {
       "name":"[图]Xbox One May 2020更新发布：My Games&Apps新增过滤选项",
-      "url":"https://www.cnbeta.com/articles/tech/978363.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978363.htm"
     },
     {
       "name":"“老”法医技术将可帮助CSI确认口腔液样本是否来自吸烟者",
-      "url":"https://www.cnbeta.com/articles/science/978361.htm"
+      "url":"http://www.cnbeta.com/articles/science/978361.htm"
     },
     {
       "name":"[图]Windows 10 May 2020蓄势待发 Slow和RP通道已获RTM版本",
-      "url":"https://www.cnbeta.com/articles/tech/978359.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978359.htm"
     },
     {
       "name":"赛睿推出适用于苹果设备的Nimbus+无线游戏手柄 售69.99美元",
@@ -120,127 +144,103 @@
     },
     {
       "name":"Win10 May 2020 Update新安全功能保护电脑免遭不需要应用攻击",
-      "url":"https://www.cnbeta.com/articles/tech/978355.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978355.htm"
     },
     {
       "name":"肉眼可见的Swan彗星将飞掠地球",
-      "url":"https://www.cnbeta.com/articles/science/978353.htm"
+      "url":"http://www.cnbeta.com/articles/science/978353.htm"
     },
     {
       "name":"德数据隐私监管部门对苹果零售店体温测量政策展开调查",
-      "url":"https://www.cnbeta.com/articles/tech/978351.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978351.htm"
     },
     {
       "name":"亚马逊宣布即日起正式开放Graviton2 AWS实例",
-      "url":"https://www.cnbeta.com/articles/tech/978349.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978349.htm"
     },
     {
       "name":"SpaceX发布模拟器 任何人均可尝试将载人龙飞船与ISS安全“对接”",
-      "url":"https://www.cnbeta.com/articles/science/978347.htm"
+      "url":"http://www.cnbeta.com/articles/science/978347.htm"
     },
     {
       "name":"[图]Galaxy A21s渲染图曝光：6.5吋打孔屏+3GB内存+NFC",
-      "url":"https://www.cnbeta.com/articles/tech/978345.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978345.htm"
     },
     {
       "name":"Waymo首轮外部融资增至30亿美元",
-      "url":"https://www.cnbeta.com/articles/tech/978343.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978343.htm"
     },
     {
       "name":"英特尔28W Ice Lake U系列处理器或又是苹果MacBook Pro独占",
-      "url":"https://www.cnbeta.com/articles/tech/978341.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978341.htm"
     },
     {
       "name":"[图]Moto E7核心规格曝光：骁龙632+2GB内存",
-      "url":"https://www.cnbeta.com/articles/tech/978339.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978339.htm"
     },
     {
       "name":"突破性的新冠病毒治疗药物有望使人们获得暂时的免疫力",
-      "url":"https://www.cnbeta.com/articles/science/978337.htm"
+      "url":"http://www.cnbeta.com/articles/science/978337.htm"
     },
     {
       "name":"[图]微软将“SwiftKey”更名为“Microsoft SwiftKey Keyboard”",
-      "url":"https://www.cnbeta.com/articles/tech/978335.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978335.htm"
     },
     {
       "name":"万里挑一：科学家发现超罕见“超级地球”",
-      "url":"https://www.cnbeta.com/articles/science/978333.htm"
+      "url":"http://www.cnbeta.com/articles/science/978333.htm"
     },
     {
       "name":"英伟达发布GDC 2020预告 新硬件即将出炉",
-      "url":"https://www.cnbeta.com/articles/tech/978331.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978331.htm"
     },
     {
       "name":"谷歌在美国和加拿大推出“Grow with Google”免费在线课程",
-      "url":"https://www.cnbeta.com/articles/tech/978329.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978329.htm"
     },
     {
       "name":"两轮四轮EV齐上阵 Polestar将在展厅引入CAKE电动自行车",
-      "url":"https://www.cnbeta.com/articles/tech/978327.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978327.htm"
     },
     {
       "name":"Kali Linux 2020.2 发布",
-      "url":"https://www.cnbeta.com/articles/tech/978325.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978325.htm"
     },
     {
       "name":"Galaxy Fold Lite曝光：外屏缩小 售价砍半1099美元起",
-      "url":"https://www.cnbeta.com/articles/tech/978323.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978323.htm"
     },
     {
       "name":"国外网友反馈：iPad Pro妙控键盘偶尔无法充电",
-      "url":"https://www.cnbeta.com/articles/tech/978321.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978321.htm"
     },
     {
       "name":"[图]微软向Build 2020注册者送小礼品：包括餐盒和袜子",
-      "url":"https://www.cnbeta.com/articles/tech/978319.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978319.htm"
     },
     {
       "name":"瑞幸的新CEO，同样来自神州系",
-      "url":"https://www.cnbeta.com/articles/tech/978317.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978317.htm"
     },
     {
       "name":"为何不披露新冠具体病例数？亚马逊回应：意义不大",
-      "url":"https://www.cnbeta.com/articles/tech/978315.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978315.htm"
     },
     {
       "name":"FB与内容审核员和解：后者因心理创伤获赔5200万美元",
-      "url":"https://www.cnbeta.com/articles/tech/978313.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978313.htm"
     },
     {
       "name":"谷歌宣布其Google Meet每天的线上视频会议时长达30亿分钟",
-      "url":"https://www.cnbeta.com/articles/tech/978311.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978311.htm"
     },
     {
       "name":"互联网档案馆警告用户警惕已被揭露的新冠病毒假信息",
-      "url":"https://www.cnbeta.com/articles/tech/978309.htm"
+      "url":"http://www.cnbeta.com/articles/tech/978309.htm"
     },
     {
       "name":"PS4《对马岛之鬼》直面会确认举办 将发18分钟新视频",
       "url":"https://hot.cnbeta.com/articles/game/978307.htm"
-    },
-    {
-      "name":"[图]部分用户Windows Search出现“加载超时”错误 重启也无效",
-      "url":"https://www.cnbeta.com/articles/tech/978305.htm"
-    },
-    {
-      "name":"丰巢收费是对阿里的一次叫板，但没用",
-      "url":"https://www.cnbeta.com/articles/tech/978303.htm"
-    },
-    {
-      "name":"神奇：引发虎门大桥异常振动的卡门涡街 还能发电",
-      "url":"https://www.cnbeta.com/articles/tech/978301.htm"
-    },
-    {
-      "name":"Facebook悄然下架精简版Instagram Lite  正计划开发新版本",
-      "url":"https://www.cnbeta.com/articles/tech/978299.htm"
-    },
-    {
-      "name":"国产内嵌1050Ti妖板国外大火：GTX 1650版也来了",
-      "url":"https://www.cnbeta.com/articles/tech/978297.htm"
-    },
-    {
-      "name":"爆料称三星Galaxy Note 20仅顶配版有120Hz高刷",
-      "url":"https://www.cnbeta.com/articles/tech/978295.htm"
     }
   ]
 }
