@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-13 17:02:58",
+  "time":"2020-05-13 17:07:11",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"美光消费级SSD首发QLC闪存：最大2TB 寿命提升20%",
+      "url":"https://www.cnbeta.com/articles/tech/978639.htm"
+    },
+    {
+      "name":"飞行过程中没有信号？没事，不耽误扫码付款",
+      "url":"https://www.cnbeta.com/articles/tech/978637.htm"
     },
     {
       "name":"在细胞分裂中发挥关键作用的蛋白质有助于找到新的癌症疗法",
@@ -233,14 +241,6 @@
     {
       "name":"罗伯特·帕丁森谈为什么要演新《蝙蝠侠》：想呈现更新更多的蝙蝠侠",
       "url":"https://hot.cnbeta.com/articles/movie/978523.htm"
-    },
-    {
-      "name":"43年绝地大师 Mark Hamill证实自己将不再出演卢克·天行者",
-      "url":"https://hot.cnbeta.com/articles/movie/978521.htm"
-    },
-    {
-      "name":"《光环2：周年版》PC版正式开卖 Steam售价37元",
-      "url":"https://hot.cnbeta.com/articles/game/978519.htm"
     }
   ]
 }

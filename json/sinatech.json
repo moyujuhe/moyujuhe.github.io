@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-13 17:01:30",
+  "time":"2020-05-13 17:03:50",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"蓝箭航天朱雀二号完成控制系统与发动机匹配验证",
+      "url":"https://tech.sina.com.cn/d/s/2020-05-13/doc-iircuyvi2902476.shtml"
+    },
     {
       "name":"美团点评将于5月25日发布2020年一季度财报",
       "url":"https://tech.sina.com.cn/i/2020-05-13/doc-iircuyvi2901969.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"IDC:2019中国金融云市场规模达33亿美元 同比增49.6%",
       "url":"https://tech.sina.com.cn/it/2020-05-13/doc-iirczymk1389919.shtml"
-    },
-    {
-      "name":"IDC：2019下半年中国整体云专业服务市场达68.8亿元",
-      "url":"https://tech.sina.com.cn/it/2020-05-13/doc-iircuyvi2841725.shtml"
     }
   ]
 }
