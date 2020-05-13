@@ -1,6 +1,6 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-05-13 20:48:38",
+  "time":"2020-05-13 20:53:00",
   "data":[
     {
       "name":"Excelize 发布 2.2.0 版本，Go 语言 Excel 文档基础库",
@@ -179,10 +179,6 @@
       "url":"https://hacpai.com/article/1585053206743"
     },
     {
-      "name":"CentOS7 搭建 FastDFS V5.11 分布式文件系统及 Java 整合详细过程 (二)",
-      "url":"https://hacpai.com/article/1585031047001"
-    },
-    {
       "name":"开发者福利：免费获取 JetBrains 全家桶",
       "url":"https://hacpai.com/article/1572081344293"
     },
@@ -205,6 +201,10 @@
     {
       "name":"自荐小项目【极简效率】Tophub.today ：聚合全网新闻社区热点排行榜",
       "url":"https://hacpai.com/article/1552397450028"
+    },
+    {
+      "name":"把你们的血小板搬上桌面啦 写了个血小板桌面精灵",
+      "url":"https://hacpai.com/article/1538633854549"
     },
     {
       "name":"济源九里沟游记",
