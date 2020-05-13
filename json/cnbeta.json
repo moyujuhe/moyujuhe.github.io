@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-13 11:48:35",
+  "time":"2020-05-13 11:53:09",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"超高温系外行星WASP-79b可能会下“铁雨” 并有黄色的天空",
+      "url":"https://www.cnbeta.com/articles/science/978489.htm"
+    },
+    {
+      "name":"iOS版Gmail应用迎来了期待已久的黑暗模式更新",
+      "url":"https://www.cnbeta.com/articles/tech/978487.htm"
+    },
+    {
+      "name":"受疫情影响 吃不到新鲜竹子旅加大熊猫将提前两年归国",
+      "url":"https://www.cnbeta.com/articles/science/978485.htm"
     },
     {
       "name":"美卫生部采购逾6亿美元布口罩 动员整个美国纺织业",
@@ -229,18 +241,6 @@
     {
       "name":"联想拯救者Y7000/Y7000P今日开卖：锐龙6核/16/512到手5099",
       "url":"https://www.cnbeta.com/articles/tech/978373.htm"
-    },
-    {
-      "name":"达达集团赴美上市：第一季度净亏损7000万美元",
-      "url":"https://www.cnbeta.com/articles/tech/978371.htm"
-    },
-    {
-      "name":"疫情致压力太大？Facebook上有200万人选择扮演蚂蚁",
-      "url":"https://www.cnbeta.com/articles/tech/978369.htm"
-    },
-    {
-      "name":"特斯拉风波未停 SpaceX向加州索要65.6万美元培训金",
-      "url":"https://www.cnbeta.com/articles/tech/978367.htm"
     }
   ]
 }
