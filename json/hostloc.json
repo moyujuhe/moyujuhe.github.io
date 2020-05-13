@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 11:09:29",
+  "time":"2020-05-13 11:13:51",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"Hexo配置\"伪静态\"，在文章链接后添加\".html\"",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688618&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"有没有百度网盘的周卡CDK",
@@ -109,10 +113,6 @@
     {
       "name":"求大姐姐站源码",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688586&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"2020.5.20要到了大佬们有什么好看的表白主题",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688584&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
