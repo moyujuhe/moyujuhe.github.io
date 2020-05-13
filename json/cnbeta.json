@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-13 08:06:41",
+  "time":"2020-05-13 08:10:48",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"[图]微软向Build 2020注册者送小礼品：包括餐盒和袜子",
+      "url":"https://www.cnbeta.com/articles/tech/978319.htm"
+    },
+    {
+      "name":"瑞幸的新CEO，同样来自神州系",
+      "url":"https://www.cnbeta.com/articles/tech/978317.htm"
+    },
+    {
+      "name":"为何不披露新冠具体病例数？亚马逊回应：意义不大",
+      "url":"https://www.cnbeta.com/articles/tech/978315.htm"
     },
     {
       "name":"FB与内容审核员和解：后者因心理创伤获赔5200万美元",
@@ -229,18 +241,6 @@
     {
       "name":"从20到100厘米 SATA硬盘线影响SSD性能吗？实测揭晓",
       "url":"https://www.cnbeta.com/articles/tech/978201.htm"
-    },
-    {
-      "name":"WWDC 2020会用iPhone 11 Pro录制？还有这些iOS 14新功能值得期待",
-      "url":"https://www.cnbeta.com/articles/tech/978199.htm"
-    },
-    {
-      "name":"理想发布刹车助力失效说明：属偶发故障",
-      "url":"https://www.cnbeta.com/articles/tech/978197.htm"
-    },
-    {
-      "name":"顺丰偷袭外卖“珍珠港” 为何要和美团、阿里打响“运力战争”？",
-      "url":"https://www.cnbeta.com/articles/tech/978195.htm"
     }
   ]
 }
