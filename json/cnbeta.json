@@ -1,10 +1,34 @@
 {
-  "time":"2020-05-13 16:32:08",
+  "time":"2020-05-13 16:36:22",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"美国最大ATM供应商遭勒索软件攻击",
+      "url":"https://www.cnbeta.com/articles/tech/978629.htm"
+    },
+    {
+      "name":"世嘉19-20财年财报公开：受疫情影响新游可能延期",
+      "url":"https://hot.cnbeta.com/articles/game/978627.htm"
+    },
+    {
+      "name":"抖音回应快手起诉侵权：支持公平公正竞争环境，也在起诉快手",
+      "url":"https://www.cnbeta.com/articles/tech/978625.htm"
+    },
+    {
+      "name":"《花木兰》试镜视频曝光 窦靖童、蓝盈莹、杨采钰现身",
+      "url":"https://hot.cnbeta.com/articles/movie/978623.htm"
+    },
+    {
+      "name":"华夏信财涉嫌非法吸存被查 涉案资金8500余万元被冻结",
+      "url":"https://www.cnbeta.com/articles/tech/978621.htm"
+    },
+    {
+      "name":"比尔·盖茨：我心累了",
+      "url":"https://www.cnbeta.com/articles/tech/978619.htm"
     },
     {
       "name":"首次公开：希捷大秀20TB HAMR硬盘、14TB双磁臂硬盘",
@@ -217,30 +241,6 @@
     {
       "name":"新Galaxy Fold更便宜了也更好看了",
       "url":"https://www.cnbeta.com/articles/tech/978513.htm"
-    },
-    {
-      "name":"《辛普森一家》过去30年成真预测盘点",
-      "url":"https://hot.cnbeta.com/articles/comic/978511.htm"
-    },
-    {
-      "name":"技嘉发布超耐久UD Pro系列固态硬盘：5年质保、比西数红盘还扛造",
-      "url":"https://www.cnbeta.com/articles/tech/978509.htm"
-    },
-    {
-      "name":"iOS版Apple Store应用更新适配深色模式",
-      "url":"https://www.cnbeta.com/articles/tech/978507.htm"
-    },
-    {
-      "name":"到手299元 小米Wi-Fi 6路由器AX1800发布",
-      "url":"https://www.cnbeta.com/articles/tech/978505.htm"
-    },
-    {
-      "name":"马斯克被曝曾打电话向特朗普求助 希望尽快复工",
-      "url":"https://www.cnbeta.com/articles/tech/978503.htm"
-    },
-    {
-      "name":"广汽新能源率先搭载石墨烯电池 8分钟就可以将电池充电至85%",
-      "url":"https://www.cnbeta.com/articles/tech/978501.htm"
     }
   ]
 }
