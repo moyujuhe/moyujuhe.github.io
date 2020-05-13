@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-13 08:48:00",
+  "time":"2020-05-13 08:52:10",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"Waymo首轮外部融资增至30亿美元",
+      "url":"https://www.cnbeta.com/articles/tech/978343.htm"
+    },
+    {
+      "name":"英特尔28W Ice Lake U系列处理器或又是苹果MacBook Pro独占",
+      "url":"https://www.cnbeta.com/articles/tech/978341.htm"
     },
     {
       "name":"[图]Moto E7核心规格曝光：骁龙632+2GB内存",
@@ -233,14 +241,6 @@
     {
       "name":"年产1亿剂 中国电子建成全球最大新冠病毒疫苗生产工厂",
       "url":"https://www.cnbeta.com/articles/tech/978225.htm"
-    },
-    {
-      "name":"苹果新专利曝光：Apple Car完全颠覆当前汽车设计",
-      "url":"https://www.cnbeta.com/articles/tech/978223.htm"
-    },
-    {
-      "name":"华擎Z490主板集成5个网卡：双10Gbps",
-      "url":"https://www.cnbeta.com/articles/tech/978221.htm"
     }
   ]
 }
