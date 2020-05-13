@@ -1,10 +1,26 @@
 {
-  "time":"2020-05-13 20:52:59",
+  "time":"2020-05-13 20:57:13",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"菲尔·斯宾塞：疫情对游戏业的影响将在2021年显现",
+      "url":"https://hot.cnbeta.com/articles/game/978679.htm"
+    },
+    {
+      "name":"卡梅隆：《阿凡达2》能够做到如期上映",
+      "url":"https://hot.cnbeta.com/articles/movie/978677.htm"
+    },
+    {
+      "name":"x86处理器最新市场份额数据公布：Intel增至85.2%遥遥领先",
+      "url":"https://www.cnbeta.com/articles/tech/978675.htm"
+    },
+    {
+      "name":"威胁长期存在 黑客5分钟即可破解 Thunderbolt",
+      "url":"https://www.cnbeta.com/articles/tech/978673.htm"
     },
     {
       "name":"华为3 Pro超能版vs.小天才Z5 - 千元档儿童手表试玩与对比",
@@ -225,22 +241,6 @@
     {
       "name":"[图]大气中二氧化碳浓度再创新高  疫情也无法阻止上升趋势",
       "url":"https://www.cnbeta.com/articles/science/978563.htm"
-    },
-    {
-      "name":"环卫工儿子打游戏花光3万积蓄：月薪2700 6年才攒这么多",
-      "url":"https://hot.cnbeta.com/articles/game/978561.htm"
-    },
-    {
-      "name":"快递柜收费引争议  丰巢为何非要收那五毛钱？",
-      "url":"https://www.cnbeta.com/articles/tech/978559.htm"
-    },
-    {
-      "name":"特斯拉威胁工人：不返岗就没失业救济",
-      "url":"https://www.cnbeta.com/articles/tech/978557.htm"
-    },
-    {
-      "name":"谷歌或很快为RCS聊天应用引入emoji反馈功能",
-      "url":"https://www.cnbeta.com/articles/tech/978555.htm"
     }
   ]
 }
