@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 21:14:45",
+  "time":"2020-05-13 21:19:13",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"东非和也门治蝗显著 成功挽救72万吨谷物",
+      "url":"https://www.cnbeta.com/articles/tech/978685.htm"
     },
     {
       "name":"哪个品牌靠谱？12万块硬盘最新故障率报告出炉",
@@ -237,10 +241,6 @@
     {
       "name":"Cloud9电竞战队希望唤起人们对心理健康问题的重视",
       "url":"https://hot.cnbeta.com/articles/game/978569.htm"
-    },
-    {
-      "name":"日本资生堂一季度净利润暴跌96% 寄望中国市场",
-      "url":"https://www.cnbeta.com/articles/tech/978567.htm"
     }
   ]
 }
