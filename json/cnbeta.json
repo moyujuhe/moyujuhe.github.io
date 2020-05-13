@@ -1,10 +1,26 @@
 {
-  "time":"2020-05-13 16:27:51",
+  "time":"2020-05-13 16:32:08",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"首次公开：希捷大秀20TB HAMR硬盘、14TB双磁臂硬盘",
+      "url":"https://www.cnbeta.com/articles/tech/978617.htm"
+    },
+    {
+      "name":"中消协：快递柜收费标准不能简单通过市场化机制解决",
+      "url":"https://www.cnbeta.com/articles/tech/978615.htm"
+    },
+    {
+      "name":"快递企业涨价可以 “串通”则触犯法律",
+      "url":"https://www.cnbeta.com/articles/tech/978613.htm"
+    },
+    {
+      "name":"特斯拉已成为全球首个电动车销量破百万辆的车企",
+      "url":"https://www.cnbeta.com/articles/tech/978611.htm"
     },
     {
       "name":"百度：智能小程序月活超5亿 百度App日活超2.3亿",
@@ -225,22 +241,6 @@
     {
       "name":"广汽新能源率先搭载石墨烯电池 8分钟就可以将电池充电至85%",
       "url":"https://www.cnbeta.com/articles/tech/978501.htm"
-    },
-    {
-      "name":"韩国互动电影《局内人》上架Steam 5月26日发售",
-      "url":"https://hot.cnbeta.com/articles/game/978499.htm"
-    },
-    {
-      "name":"漫威《黑寡妇》英国档期确认 比北美还早一星期",
-      "url":"https://hot.cnbeta.com/articles/movie/978497.htm"
-    },
-    {
-      "name":"CreepRank算法帮助谷歌Play商店剔除了813款Android蠕虫应用",
-      "url":"https://www.cnbeta.com/articles/tech/978495.htm"
-    },
-    {
-      "name":"印度版COVID-19密切接触者追踪应用在41天内达成1亿用户",
-      "url":"https://www.cnbeta.com/articles/tech/978493.htm"
     }
   ]
 }
