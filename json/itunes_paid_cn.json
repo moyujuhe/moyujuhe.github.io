@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-05-14 06:41:02",
+  "time":"2020-05-14 06:45:14",
   "data":[
     {
       "name":"恶果之地",
@@ -51,12 +51,6 @@
       "description":"最新版本:  1.0\n更新时间:  2019-05-15 15:00:00 (北京时间)\n\n"
     },
     {
-      "name":"武林英侠传-热血武侠来袭",
-      "url":"https://apps.apple.com/cn/app/%E6%AD%A6%E6%9E%97%E8%8B%B1%E4%BE%A0%E4%BC%A0-%E7%83%AD%E8%A1%80%E6%AD%A6%E4%BE%A0%E6%9D%A5%E8%A2%AD/id1493754510?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.0.7\n更新时间:  2020-04-28 10:20:06 (北京时间)\n\n修复一些Bug"
-    },
-    {
       "name":"英雄之城II-全球战争策略手游",
       "url":"https://apps.apple.com/cn/app/%E8%8B%B1%E9%9B%84%E4%B9%8B%E5%9F%8Eii-%E5%85%A8%E7%90%83%E6%88%98%E4%BA%89%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id1444979722?uo=4",
       "num":"游戏",
@@ -67,6 +61,12 @@
       "url":"https://apps.apple.com/cn/app/%E5%95%86%E5%BA%97%E8%8B%B1%E9%9B%84-shop-heroes-%E8%B4%B8%E6%98%93%E5%A4%A7%E6%88%98/id1214483956?uo=4",
       "num":"游戏",
       "description":"最新版本:  1.5.20\n更新时间:  2020-05-13 13:22:07 (北京时间)\n\n◆阿拉伯礼包捆绑\n- 新craftable项目\n- 新装饰店\n◆自我隔离捆绑\n- 新craftable项目\n- 新装饰店\n-英雄等级和工人等级更新\n我们改变了巨人+杰克工人最高等上限至60和Lorei，查尔斯和越的英雄等級上限到70"
+    },
+    {
+      "name":"武林英侠传-热血武侠来袭",
+      "url":"https://apps.apple.com/cn/app/%E6%AD%A6%E6%9E%97%E8%8B%B1%E4%BE%A0%E4%BC%A0-%E7%83%AD%E8%A1%80%E6%AD%A6%E4%BE%A0%E6%9D%A5%E8%A2%AD/id1493754510?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.0.7\n更新时间:  2020-04-28 10:20:06 (北京时间)\n\n修复一些Bug"
     },
     {
       "name":"动森助手 -  森友必备图鉴指南",
@@ -165,16 +165,16 @@
       "description":"最新版本:  5.2\n更新时间:  2020-04-24 17:32:30 (北京时间)\n\n1、平衡剑器、剑阵以及部分招式效果；\n2、降低关卡怪物生命成长幅度；\n3、降低关卡怪物扩展属性（命中、闪避、暴击、韧性、破击、格挡）；\n4、关卡开放51~60章，关卡进度任务同步扩展到60章；\n5、增加角色境界突破提升的基础生命加成幅度；\n6、藏剑阁激活羁绊从1、3、5、7、9星调整为1、2、3、4、5、6、7、8、9、10星；\n7、新增炼丹、炼器炼制失败可以获得经验；\n8、新增日/周/月循环充值礼包活动；\n9、新增签到活动，以24天为1个循环，通过每天签到获得仙玉、材料等资源，最终可以激活全部终极剑阵；"
     },
     {
-      "name":"QWOP for iOS",
-      "url":"https://apps.apple.com/cn/app/qwop-for-ios/id410319945?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.08\n更新时间:  2017-08-02 04:27:17 (北京时间)\n\nUpdated for 64-bit, so you can continue to play on new versions of iOS.\n\nThis was a bit of an adventure, since I haven't released an iPhone app in 5 years. If you see any issues, let me know and I'll fix them up as soon as I can."
-    },
-    {
       "name":"航旅纵横PRO-官方航班动态、手机值机、机票",
       "url":"https://apps.apple.com/cn/app/%E8%88%AA%E6%97%85%E7%BA%B5%E6%A8%AApro-%E5%AE%98%E6%96%B9%E8%88%AA%E7%8F%AD%E5%8A%A8%E6%80%81-%E6%89%8B%E6%9C%BA%E5%80%BC%E6%9C%BA-%E6%9C%BA%E7%A5%A8/id768160271?uo=4",
       "num":"旅游",
       "description":"最新版本:  6.0.0\n更新时间:  2020-05-02 10:19:47 (北京时间)\n\n6.0全新升级，小横为您带来更权威更多元的使用体验\n首页升级闪亮登场，专区服务一目了然\n航空公司直销订票，常客升舱服务多样\n全国机场任我行走，机场卡片焕然一新\n新版发现炫酷变身，空中影院C位出道\n旅豆福利一手掌握，多元内容实时获取\n玩转航旅 探索世界，快来感受新版的魅力吧"
+    },
+    {
+      "name":"QWOP for iOS",
+      "url":"https://apps.apple.com/cn/app/qwop-for-ios/id410319945?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.08\n更新时间:  2017-08-02 04:27:17 (北京时间)\n\nUpdated for 64-bit, so you can continue to play on new versions of iOS.\n\nThis was a bit of an adventure, since I haven't released an iPhone app in 5 years. If you see any issues, let me know and I'll fix them up as soon as I can."
     },
     {
       "name":"VVebo - 微博客户端",
@@ -189,16 +189,16 @@
       "description":"最新版本:  6.1.1\n更新时间:  2020-05-11 06:35:55 (北京时间)\n\n-全新DLC金凤凰上线"
     },
     {
-      "name":"国家地理 - 每日精选 (美图、壁纸)",
-      "url":"https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86-%E6%AF%8F%E6%97%A5%E7%B2%BE%E9%80%89-%E7%BE%8E%E5%9B%BE-%E5%A3%81%E7%BA%B8/id807317212?uo=4",
-      "num":"图书",
-      "description":"最新版本:  1.7.1\n更新时间:  2019-09-29 10:30:19 (北京时间)\n\n修复错误。"
-    },
-    {
       "name":"NBA 2K20",
       "url":"https://apps.apple.com/cn/app/nba-2k20/id1471692155?uo=4",
       "num":"游戏",
       "description":"最新版本:  1.04\n更新时间:  2020-03-28 09:12:43 (北京时间)\n\n•   更新球队阵容\n•   修复若干问题"
+    },
+    {
+      "name":"国家地理 - 每日精选 (美图、壁纸)",
+      "url":"https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86-%E6%AF%8F%E6%97%A5%E7%B2%BE%E9%80%89-%E7%BE%8E%E5%9B%BE-%E5%A3%81%E7%BA%B8/id807317212?uo=4",
+      "num":"图书",
+      "description":"最新版本:  1.7.1\n更新时间:  2019-09-29 10:30:19 (北京时间)\n\n修复错误。"
     },
     {
       "name":"一言-记录字句，发现共鸣",
@@ -213,16 +213,16 @@
       "description":"最新版本:  2.2.2\n更新时间:  2018-10-22 00:27:24 (北京时间)\n\n各位小厨神辛苦啦~ 在新的「无烦恼厨房」里， 我们做了这些改进：\n- 拿起食物不会变巨大了。\n- 小冰块人之前一直不吃饭的， 现在他吃饭了。\n- 切菜板上的所有食物现在可以随便拖动， 以便于更精确地食物~\n- 有时候一些盘子会莫名其妙的拿不起来， 现在好像都能拿起来了！\n- 食物可以更精确的摆放了！（不信叠个汉堡试试~）\n- 一堆反正大多数人都注意不到的bug都默默的被修好啦！（=v=）"
     },
     {
-      "name":"易春风交友-同城男女聊天交友软件",
-      "url":"https://apps.apple.com/cn/app/%E6%98%93%E6%98%A5%E9%A3%8E%E4%BA%A4%E5%8F%8B-%E5%90%8C%E5%9F%8E%E7%94%B7%E5%A5%B3%E8%81%8A%E5%A4%A9%E4%BA%A4%E5%8F%8B%E8%BD%AF%E4%BB%B6/id1486118197?uo=4",
-      "num":"社交",
-      "description":"最新版本:  1.0\n更新时间:  2019-11-07 07:28:07 (北京时间)\n\n"
-    },
-    {
       "name":"杀手：狙击 (Hitman Sniper)",
       "url":"https://apps.apple.com/cn/app/%E6%9D%80%E6%89%8B-%E7%8B%99%E5%87%BB-hitman-sniper/id904278510?uo=4",
       "num":"游戏",
       "description":"最新版本:  2.1.33\n更新时间:  2019-03-08 23:00:03 (北京时间)\n\n2.1.33 版本更新内容：\n- 已修复漏洞且各方面皆有改善"
+    },
+    {
+      "name":"易春风交友-同城男女聊天交友软件",
+      "url":"https://apps.apple.com/cn/app/%E6%98%93%E6%98%A5%E9%A3%8E%E4%BA%A4%E5%8F%8B-%E5%90%8C%E5%9F%8E%E7%94%B7%E5%A5%B3%E8%81%8A%E5%A4%A9%E4%BA%A4%E5%8F%8B%E8%BD%AF%E4%BB%B6/id1486118197?uo=4",
+      "num":"社交",
+      "description":"最新版本:  1.0\n更新时间:  2019-11-07 07:28:07 (北京时间)\n\n"
     },
     {
       "name":"Getting Over It",
@@ -243,16 +243,16 @@
       "description":"最新版本:  1.35.0\n更新时间:  2020-04-30 02:10:04 (北京时间)\n\n1.失落古堡联动活动返场\n哈伍德伯爵又再度来到了异化之地，并且，每天定期捣乱的怪物也回来了。\n通过击退定期出现的怪物攻城，有机会获得哈伍德伯爵挑战券，击败伯爵将有机会获得来自失落城堡的专属皮肤哦~\n\n2.异化圣诞树修复活动回归\n重新定制的圣诞树修复活动回归啦~本次的圣诞树对奖励和肝度都有所调整，肝度降低的同时，，奖励也更加具有性价比。\n\n3.新手7天签到\n为了让新手前七天的体验更加顺畅，我们加入了奖励十分丰厚的新手7天签到系统。\n满签者，将可以获得十分炫酷的皮肤“埜星公子”！\n\n4.限时防具UP池\n限时防具UP池限时降临，三件全新的限时深渊防具等你来获取~！\n\n5.限时累计充值\n为了更好地回馈调查员们，在限定的活动时间内，将会有充值返福利活动哦~\n\n6.锤子动作重制\n锤子的普攻调整为4连击，相比于过去笨重的感觉，新的锤子动作将更加具有爽感哦！"
     },
     {
-      "name":"战龙无双-热血三国卡牌动作手游",
-      "url":"https://apps.apple.com/cn/app/%E6%88%98%E9%BE%99%E6%97%A0%E5%8F%8C-%E7%83%AD%E8%A1%80%E4%B8%89%E5%9B%BD%E5%8D%A1%E7%89%8C%E5%8A%A8%E4%BD%9C%E6%89%8B%E6%B8%B8/id1423161275?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.1.5\n更新时间:  2020-03-18 10:14:12 (北京时间)\n\n1：爱丽丝、军团副本调整\n2：优化战斗体验\n3：修复部分BUG"
-    },
-    {
       "name":"月圆之夜",
       "url":"https://apps.apple.com/cn/app/%E6%9C%88%E5%9C%86%E4%B9%8B%E5%A4%9C/id1278845241?uo=4",
       "num":"游戏",
       "description":"最新版本:  2.1.5\n更新时间:  2020-04-28 09:15:50 (北京时间)\n\n新增日韩语言适配"
+    },
+    {
+      "name":"战龙无双-热血三国卡牌动作手游",
+      "url":"https://apps.apple.com/cn/app/%E6%88%98%E9%BE%99%E6%97%A0%E5%8F%8C-%E7%83%AD%E8%A1%80%E4%B8%89%E5%9B%BD%E5%8D%A1%E7%89%8C%E5%8A%A8%E4%BD%9C%E6%89%8B%E6%B8%B8/id1423161275?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.1.5\n更新时间:  2020-03-18 10:14:12 (北京时间)\n\n1：爱丽丝、军团副本调整\n2：优化战斗体验\n3：修复部分BUG"
     },
     {
       "name":"万家小馆",
@@ -261,22 +261,16 @@
       "description":"最新版本:  1.0.0\n更新时间:  2020-05-13 08:21:30 (北京时间)\n\n"
     },
     {
-      "name":"孙美琪疑案:金凤凰",
-      "url":"https://apps.apple.com/cn/app/%E5%AD%99%E7%BE%8E%E7%90%AA%E7%96%91%E6%A1%88-%E9%87%91%E5%87%A4%E5%87%B0/id1512121004?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.0.1\n更新时间:  2020-05-13 06:48:59 (北京时间)\n\n-修复文案错误-"
-    },
-    {
       "name":"无限进化-无限流文字挂机放置游戏",
       "url":"https://apps.apple.com/cn/app/%E6%97%A0%E9%99%90%E8%BF%9B%E5%8C%96-%E6%97%A0%E9%99%90%E6%B5%81%E6%96%87%E5%AD%97%E6%8C%82%E6%9C%BA%E6%94%BE%E7%BD%AE%E6%B8%B8%E6%88%8F/id1488295193?uo=4",
       "num":"游戏",
       "description":"最新版本:  1.2.9\n更新时间:  2020-05-10 09:25:33 (北京时间)\n\n◆ 新增紧急公告提醒\n◆ 修复周末活动自选功法碎片"
     },
     {
-      "name":"同花顺至尊版-股票软件",
-      "url":"https://apps.apple.com/cn/app/%E5%90%8C%E8%8A%B1%E9%A1%BA%E8%87%B3%E5%B0%8A%E7%89%88-%E8%82%A1%E7%A5%A8%E8%BD%AF%E4%BB%B6/id954724812?uo=4",
-      "num":"财务",
-      "description":"最新版本:  10.50.60\n更新时间:  2020-04-22 21:16:05 (北京时间)\n\n1、全球行情页面优化，浏览行情更快捷，全球市场一手掌握。\n2、修复bug，优化产品性能。"
+      "name":"孙美琪疑案:金凤凰",
+      "url":"https://apps.apple.com/cn/app/%E5%AD%99%E7%BE%8E%E7%90%AA%E7%96%91%E6%A1%88-%E9%87%91%E5%87%A4%E5%87%B0/id1512121004?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.0.1\n更新时间:  2020-05-13 06:48:59 (北京时间)\n\n-修复文案错误-"
     },
     {
       "name":"哔咔漫画-二次元高清全彩漫画大全",
@@ -285,16 +279,16 @@
       "description":"最新版本:  1.1.3\n更新时间:  2020-03-22 10:14:24 (北京时间)\n\n1.调整漫画推荐算法，同类推荐更精准\n2.修复已知的bug，优化用户体验"
     },
     {
+      "name":"同花顺至尊版-股票软件",
+      "url":"https://apps.apple.com/cn/app/%E5%90%8C%E8%8A%B1%E9%A1%BA%E8%87%B3%E5%B0%8A%E7%89%88-%E8%82%A1%E7%A5%A8%E8%BD%AF%E4%BB%B6/id954724812?uo=4",
+      "num":"财务",
+      "description":"最新版本:  10.50.60\n更新时间:  2020-04-22 21:16:05 (北京时间)\n\n1、全球行情页面优化，浏览行情更快捷，全球市场一手掌握。\n2、修复bug，优化产品性能。"
+    },
+    {
       "name":"SleepTown 睡眠小镇",
       "url":"https://apps.apple.com/cn/app/sleeptown-%E7%9D%A1%E7%9C%A0%E5%B0%8F%E9%95%87/id1210251567?uo=4",
       "num":"健康健美",
       "description":"最新版本:  3.12.3\n更新时间:  2020-04-07 09:53:58 (北京时间)\n\n修复一些错误"
-    },
-    {
-      "name":"扫描全能王付费版 - 文字识别翻译传真",
-      "url":"https://apps.apple.com/cn/app/%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B%E4%BB%98%E8%B4%B9%E7%89%88-%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E7%BF%BB%E8%AF%91%E4%BC%A0%E7%9C%9F/id388624839?uo=4",
-      "num":"效率",
-      "description":"最新版本:  5.14.7\n更新时间:  2020-02-19 15:32:13 (北京时间)\n\n1、支持在系统相册导入图片到APP：选中图片点击分享，选择扫描全能王进行导入\n2、可以直接发送识别出来的文字到微信了"
     },
     {
       "name":"单机三国志4 群英蝟兴",
@@ -309,16 +303,16 @@
       "description":"最新版本:  1.9.8\n更新时间:  2017-12-06 09:14:33 (北京时间)\n\n改善了很多表现性能"
     },
     {
+      "name":"扫描全能王付费版 - 文字识别翻译传真",
+      "url":"https://apps.apple.com/cn/app/%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B%E4%BB%98%E8%B4%B9%E7%89%88-%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E7%BF%BB%E8%AF%91%E4%BC%A0%E7%9C%9F/id388624839?uo=4",
+      "num":"效率",
+      "description":"最新版本:  5.14.7\n更新时间:  2020-02-19 15:32:13 (北京时间)\n\n1、支持在系统相册导入图片到APP：选中图片点击分享，选择扫描全能王进行导入\n2、可以直接发送识别出来的文字到微信了"
+    },
+    {
       "name":"今日头条(专业版)",
       "url":"https://apps.apple.com/cn/app/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1-%E4%B8%93%E4%B8%9A%E7%89%88/id582528844?uo=4",
       "num":"新闻",
       "description":"最新版本:  7.7.1\n更新时间:  2020-04-30 11:22:06 (北京时间)\n\n- 独家纪录片《哈勃三十年：揭示宇宙奇观》在今日头条全球网络首播！\n- 纪念哈勃望远镜升空30周年，从地球出发，探索最远星系！"
-    },
-    {
-      "name":"叫我魔王大人-异世界的召唤",
-      "url":"https://apps.apple.com/cn/app/%E5%8F%AB%E6%88%91%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA-%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E5%8F%AC%E5%94%A4/id1486131475?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.0.11\n更新时间:  2020-05-02 05:45:29 (北京时间)\n\n1.开启假日活动\n2.修复宝库显示bug"
     },
     {
       "name":"Notability",
@@ -327,16 +321,10 @@
       "description":"最新版本:  9.3.4\n更新时间:  2020-04-16 00:49:11 (北京时间)\n\n*** What's New in 9.3.4 ***\n• Improved iOS 13.4 mouse support\n\n*** What's New in 9.3.3 ***\n• Added an option to draw text boxes when using the text tool\n• Added 4 laser pointer colors and the ability to hold the laser tail\n• Password protected PDFs can now be unlocked on import\n• Image captions are now optional\n• Added an option to hide the preview when playing back audio\n• Added multiple screen display size options to Presentation Mode\n• Miscellaneous bug fixes\n\n***Notability 9.3 全新功能***\n演示模式：\n•将笔记全屏显示在外部显示屏上，不含工具栏和菜单\n•笔记将按外部显示屏宽高比裁剪，您可以判断正在演示的内容是什么\n•激光笔\n•使用多笔记视图可在演示期间查看观众不可见的第二份笔记\n\n单页模式：\n•水平翻阅笔记，一次一页\n•能与演示模式搭配使用，每一页就像是一张幻灯片\n\n其他修复：\n•放大了上一页/下一页箭头\n•使用Apple Pencil期间用手指轻按即可启用缩放框"
     },
     {
-      "name":"航海日记",
-      "url":"https://apps.apple.com/cn/app/%E8%88%AA%E6%B5%B7%E6%97%A5%E8%AE%B0/id1423047795?uo=4",
+      "name":"叫我魔王大人-异世界的召唤",
+      "url":"https://apps.apple.com/cn/app/%E5%8F%AB%E6%88%91%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA-%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E5%8F%AC%E5%94%A4/id1486131475?uo=4",
       "num":"游戏",
-      "description":"最新版本:  1.6.5\n更新时间:  2019-06-25 10:44:59 (北京时间)\n\n1.新玩法：联通世界的禁忌之门-黑市偷渡\n2.新玩法：远洋贸易（亚洲、印度货物卖到其他区域价格提升）\n3.解除特效抗疲劳药剂使用次数限制\n4.大幅增加因木班稀有怪物“GM舰队”出现几率\n5.所有国家在黑市购买道具改为不掉友好度 \n6.舰队编组由3个增加至5个\n7.增加海上存档功能 \n8.为了使难度梯度更加平缓，防止萌新一出欧洲就被追杀，我们将欧洲一些不太碍事的海盗改为能主动攻击玩家\n9.玩家叛国三次后，改为可以消耗金币重置叛国次数限制，叛国次数越多手续费越贵。\n10.修复了一些bug和制造bug的人\n11.增加遗迹内刷新功能\n12.海上抛锚改为不暂停游戏时间\n13.修复了自动导航距离太远会卡死的bug，并增加了自动导航多走的冤枉路的概率\n14.指挥塔派遣船队增加修理按钮\n15.增加了知床寄售商品个数的限制\n16.商城船更换：圣胡安号、圣安娜号等唯一船只限时返场\n17.增加了漂流瓶审核机制\n18.降低了亚速尔军火的售卖价格\n19.修复了部分设备无法更新的bug"
-    },
-    {
-      "name":"鳄鱼小顽皮爱洗澡",
-      "url":"https://apps.apple.com/cn/app/%E9%B3%84%E9%B1%BC%E5%B0%8F%E9%A1%BD%E7%9A%AE%E7%88%B1%E6%B4%97%E6%BE%A1/id449735650?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.18.3\n更新时间:  2020-05-05 00:06:27 (北京时间)\n\n小幅故障修复"
+      "description":"最新版本:  1.0.11\n更新时间:  2020-05-02 05:45:29 (北京时间)\n\n1.开启假日活动\n2.修复宝库显示bug"
     },
     {
       "name":"暴力街区2 (Brutal Street 2)",
@@ -345,22 +333,34 @@
       "description":"最新版本:  1.2.6\n更新时间:  2020-01-23 10:39:54 (北京时间)\n\n- 新春大吉，祝大家鼠年行大运！\n- 枪手新套装登场，可在装备图鉴中查看。\n- 唐人街三姐妹与你共贺新春，战胜她们将有机会获得全新“春节戒指”，你有信心吗？"
     },
     {
-      "name":"List背单词",
-      "url":"https://apps.apple.com/cn/app/list%E8%83%8C%E5%8D%95%E8%AF%8D/id1459749978?uo=4",
-      "num":"教育",
-      "description":"最新版本:  2.9.3\n更新时间:  2020-05-13 05:02:21 (北京时间)\n\n+拼词模式，增加“拼词完成后读一次单词”的开关，默认关闭，到拼词模式-Edit开启。\n*新增「拼词模式」：从五个卡片中点选正确的字母，拼成完整的单词\n*支持导出单个List的PDF文件\n*增加SAT核心词汇和GMAT高频词汇\n*PDF导出增加熟词过滤\n*主页增加熟词删除"
-    },
-    {
       "name":"修真大掌门 - 天墟纪",
       "url":"https://apps.apple.com/cn/app/%E4%BF%AE%E7%9C%9F%E5%A4%A7%E6%8E%8C%E9%97%A8-%E5%A4%A9%E5%A2%9F%E7%BA%AA/id1506138318?uo=4",
       "num":"游戏",
       "description":"最新版本:  1.0.1\n更新时间:  2020-05-12 10:11:57 (北京时间)\n\n优化各玩法界面操作\n优化整体数值"
     },
     {
+      "name":"鳄鱼小顽皮爱洗澡",
+      "url":"https://apps.apple.com/cn/app/%E9%B3%84%E9%B1%BC%E5%B0%8F%E9%A1%BD%E7%9A%AE%E7%88%B1%E6%B4%97%E6%BE%A1/id449735650?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.18.3\n更新时间:  2020-05-05 00:06:27 (北京时间)\n\n小幅故障修复"
+    },
+    {
+      "name":"航海日记",
+      "url":"https://apps.apple.com/cn/app/%E8%88%AA%E6%B5%B7%E6%97%A5%E8%AE%B0/id1423047795?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.6.5\n更新时间:  2019-06-25 10:44:59 (北京时间)\n\n1.新玩法：联通世界的禁忌之门-黑市偷渡\n2.新玩法：远洋贸易（亚洲、印度货物卖到其他区域价格提升）\n3.解除特效抗疲劳药剂使用次数限制\n4.大幅增加因木班稀有怪物“GM舰队”出现几率\n5.所有国家在黑市购买道具改为不掉友好度 \n6.舰队编组由3个增加至5个\n7.增加海上存档功能 \n8.为了使难度梯度更加平缓，防止萌新一出欧洲就被追杀，我们将欧洲一些不太碍事的海盗改为能主动攻击玩家\n9.玩家叛国三次后，改为可以消耗金币重置叛国次数限制，叛国次数越多手续费越贵。\n10.修复了一些bug和制造bug的人\n11.增加遗迹内刷新功能\n12.海上抛锚改为不暂停游戏时间\n13.修复了自动导航距离太远会卡死的bug，并增加了自动导航多走的冤枉路的概率\n14.指挥塔派遣船队增加修理按钮\n15.增加了知床寄售商品个数的限制\n16.商城船更换：圣胡安号、圣安娜号等唯一船只限时返场\n17.增加了漂流瓶审核机制\n18.降低了亚速尔军火的售卖价格\n19.修复了部分设备无法更新的bug"
+    },
+    {
       "name":"同步音律喵赛克",
       "url":"https://apps.apple.com/cn/app/%E5%90%8C%E6%AD%A5%E9%9F%B3%E5%BE%8B%E5%96%B5%E8%B5%9B%E5%85%8B/id935528099?uo=4",
       "num":"游戏",
       "description":"最新版本:  2.3.6\n更新时间:  2020-04-30 14:40:30 (北京时间)\n\n追加3首小伙伴限定曲目\n《2anyFirst》\n《GOODLIFE》\n《Hidden Ending》"
+    },
+    {
+      "name":"List背单词",
+      "url":"https://apps.apple.com/cn/app/list%E8%83%8C%E5%8D%95%E8%AF%8D/id1459749978?uo=4",
+      "num":"教育",
+      "description":"最新版本:  2.9.3\n更新时间:  2020-05-13 05:02:21 (北京时间)\n\n+拼词模式，增加“拼词完成后读一次单词”的开关，默认关闭，到拼词模式-Edit开启。\n*新增「拼词模式」：从五个卡片中点选正确的字母，拼成完整的单词\n*支持导出单个List的PDF文件\n*增加SAT核心词汇和GMAT高频词汇\n*PDF导出增加熟词过滤\n*主页增加熟词删除"
     },
     {
       "name":"贪婪洞窟2",
@@ -387,16 +387,16 @@
       "description":"最新版本:  1.1.26\n更新时间:  2020-04-22 21:58:09 (北京时间)\n\n1.1.26版本更新\n\n【更新与调整】\n\n-　增加了锁定、丢弃战利品的功能。\n\n-　战利品增加持有上限的设定，角色最多可持有600件战利品。如果目前持有战利品数量超过600，玩家需要丢弃多余的战利品，才能获得新的战利品。\n\n-　「下一轮游戏」系列成就中，除了「传奇先驱者」以外的成就变为可在轻松模式中获得。此前在轻松模式中完成这些成就条件的玩家，将自动获得这些成就。\n\n-　成就「传奇先驱者」的达成条件修改为：不使用负重者之卵的情况下，完成第四轮游戏或者之后的某一轮游戏。版本更新前已经完成第四轮游戏的玩家，将自动获得该成就。\n\n【问题修正】\n\n-　修正了玩家角色与设施、NPC互动后游戏无法正常运行的问题。\n\n-　修正了维奥拉天赋「铳击：驱退」无法正常激活，导致相关成就无法达成的问题。\n\n-　修正了其他的一些问题。"
     },
     {
-      "name":"Facetune",
-      "url":"https://apps.apple.com/cn/app/facetune/id606310581?uo=4",
-      "num":"摄影与录像",
-      "description":"最新版本:  2.8.2\n更新时间:  2020-04-21 02:20:16 (北京时间)\n\n下面是本次更新内容！\n\n- 不要介意，我们只是修复了部分漏洞，并优化了性能。\n\nDaniel 和 Facetune 团队\n\n备注如果您喜欢 Facetune 并给予评价，我们不胜感激！"
-    },
-    {
       "name":"Procreate Pocket",
       "url":"https://apps.apple.com/cn/app/procreate-pocket/id916366645?uo=4",
       "num":"图形和设计",
       "description":"最新版本:  3.0.6\n更新时间:  2020-03-27 14:43:27 (北京时间)\n\nThis update includes fixes for Procreate 5 brush import. Procreate Pocket is also moving to the new Graphics & Design AppStore category, which may help your Screen Time setup. \n\nWe love reading your reviews so please consider leaving one on the AppStore."
+    },
+    {
+      "name":"Facetune",
+      "url":"https://apps.apple.com/cn/app/facetune/id606310581?uo=4",
+      "num":"摄影与录像",
+      "description":"最新版本:  2.8.2\n更新时间:  2020-04-21 02:20:16 (北京时间)\n\n下面是本次更新内容！\n\n- 不要介意，我们只是修复了部分漏洞，并优化了性能。\n\nDaniel 和 Facetune 团队\n\n备注如果您喜欢 Facetune 并给予评价，我们不胜感激！"
     },
     {
       "name":"南瓜先生2九龙城寨",
@@ -411,16 +411,16 @@
       "description":"最新版本:  1.1.0\n更新时间:  2017-08-08 05:51:44 (北京时间)\n\nbug fixs"
     },
     {
-      "name":"Doodle Jump",
-      "url":"https://apps.apple.com/cn/app/doodle-jump/id307727765?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  3.22.1\n更新时间:  2019-08-02 09:43:38 (北京时间)\n\nNew and improved tournaments! Gold rush! Treasure hunt! Monster rampage! And more!"
-    },
-    {
       "name":"城堡传说3：永恒之城",
       "url":"https://apps.apple.com/cn/app/%E5%9F%8E%E5%A0%A1%E4%BC%A0%E8%AF%B43-%E6%B0%B8%E6%81%92%E4%B9%8B%E5%9F%8E/id1375390081?uo=4",
       "num":"游戏",
       "description":"最新版本:  2.13\n更新时间:  2020-05-01 10:13:04 (北京时间)\n\n城堡传说3：永恒之城v2.13：新的装备玩法来袭，来打造属于你的最强神装吧！\n1.优化：ios系统和引擎升级相关\nPs：关注微信公众号“winwill工作室”了解城堡传说系列最新动态"
+    },
+    {
+      "name":"Doodle Jump",
+      "url":"https://apps.apple.com/cn/app/doodle-jump/id307727765?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  3.22.1\n更新时间:  2019-08-02 09:43:38 (北京时间)\n\nNew and improved tournaments! Gold rush! Treasure hunt! Monster rampage! And more!"
     },
     {
       "name":"Townsmen Premium",
@@ -435,6 +435,12 @@
       "description":"最新版本:  1.0.996\n更新时间:  2020-02-27 18:35:40 (北京时间)\n\n- 遗迹全新难度，全新故事开启\n- 开放了新的地图「大空洞」\n- 提高了重铸时获得的经验\n- 新增英雄「鸟嘴枪手」\n- 更换了全新的开屏图\n- 全新魔石系统开放"
     },
     {
+      "name":"WiFi万能密码(专业版) -wi-fi无线网络密码管家",
+      "url":"https://apps.apple.com/cn/app/wifi%E4%B8%87%E8%83%BD%E5%AF%86%E7%A0%81-%E4%B8%93%E4%B8%9A%E7%89%88-wi-fi%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C%E5%AF%86%E7%A0%81%E7%AE%A1%E5%AE%B6/id1326738220?uo=4",
+      "num":"工具",
+      "description":"最新版本:  1.0.6\n更新时间:  2020-03-25 09:08:47 (北京时间)\n\n-完美适配IOS13\n-提升热点连接效率\n-修复部分已知bug"
+    },
+    {
       "name":"kirakira+",
       "url":"https://apps.apple.com/cn/app/kirakira/id955687901?uo=4",
       "num":"摄影与录像",
@@ -447,40 +453,10 @@
       "description":"最新版本:  1.1.6\n更新时间:  2019-12-05 20:39:32 (北京时间)\n\n* 日语和瑞典语翻译"
     },
     {
-      "name":"WiFi万能密码(专业版) -wi-fi无线网络密码管家",
-      "url":"https://apps.apple.com/cn/app/wifi%E4%B8%87%E8%83%BD%E5%AF%86%E7%A0%81-%E4%B8%93%E4%B8%9A%E7%89%88-wi-fi%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C%E5%AF%86%E7%A0%81%E7%AE%A1%E5%AE%B6/id1326738220?uo=4",
-      "num":"工具",
-      "description":"最新版本:  1.0.6\n更新时间:  2020-03-25 09:08:47 (北京时间)\n\n-完美适配IOS13\n-提升热点连接效率\n-修复部分已知bug"
-    },
-    {
       "name":"sPlayer",
       "url":"https://apps.apple.com/cn/app/splayer/id1009747025?uo=4",
       "num":"娱乐",
       "description":"最新版本:  1.8.82\n更新时间:  2020-05-11 08:26:01 (北京时间)\n\n1.  增加了截图到剪切板.\n2.  增加了截图到相册(默认关闭).\n3.  优化了HDR Tone-mapping算法.\n4.  修复了PiP模式中的一些问题.\n5.  增强了播放器稳定性."
-    },
-    {
-      "name":"宠物与炼金-放置魔幻养成类挂机游戏",
-      "url":"https://apps.apple.com/cn/app/%E5%AE%A0%E7%89%A9%E4%B8%8E%E7%82%BC%E9%87%91-%E6%94%BE%E7%BD%AE%E9%AD%94%E5%B9%BB%E5%85%BB%E6%88%90%E7%B1%BB%E6%8C%82%E6%9C%BA%E6%B8%B8%E6%88%8F/id1364885951?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.14\n更新时间:  2019-11-09 10:02:41 (北京时间)\n\n1.新增10本传说兽书；\n2.新增梦境层数：100-149层；\n3.新增冬泳活动，凛冽寒冬，何不冬泳？\n4.新增幻境层数共50层：无尽之塔新增25层至275层，绝望深渊新增25层至275层；\n5.其他细节优化与BUG修复，感谢支持！"
-    },
-    {
-      "name":"The White Door",
-      "url":"https://apps.apple.com/cn/app/the-white-door/id1472184189?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  2.3\n更新时间:  2020-01-29 08:17:07 (北京时间)\n\n感谢你选择The White Door！我们在新的版本中修复了一些bug"
-    },
-    {
-      "name":"迷失岛",
-      "url":"https://apps.apple.com/cn/app/%E8%BF%B7%E5%A4%B1%E5%B2%9B/id1134805859?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  2.0.6\n更新时间:  2018-06-16 03:39:54 (北京时间)\n\n适配iphoneX"
-    },
-    {
-      "name":"MOODA-心情日记",
-      "url":"https://apps.apple.com/cn/app/mooda-%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/id1476256748?uo=4",
-      "num":"生活",
-      "description":"最新版本:  1.7.2\n更新时间:  2020-05-10 22:39:35 (北京时间)\n\n-Photo filter ON / OFF option added\n-iCloud sync issue fixed\n-Performance improvements and bug fixe"
     },
     {
       "name":"Don't Starve: Pocket Edition",
@@ -489,22 +465,40 @@
       "description":"最新版本:  1.36\n更新时间:  2019-04-10 03:04:33 (北京时间)\n\n- 已移除某些设备上的横向黑条。\n- 对于可被凹槽或主滑块覆盖的HUD元素，其位置已更新。现在这些元素可动态适应其位置。\n- 某些设备的分辨率已改进，现在更适合屏幕。\n- 修正了某些控制器中输入未正确对换的问题。\n- 已重新定位悬停菜单，以此避免被屏幕切断。\n- 箱布局已被重新调整。以前，某些设备的屏幕部分会切断该布局。"
     },
     {
+      "name":"宠物与炼金-放置魔幻养成类挂机游戏",
+      "url":"https://apps.apple.com/cn/app/%E5%AE%A0%E7%89%A9%E4%B8%8E%E7%82%BC%E9%87%91-%E6%94%BE%E7%BD%AE%E9%AD%94%E5%B9%BB%E5%85%BB%E6%88%90%E7%B1%BB%E6%8C%82%E6%9C%BA%E6%B8%B8%E6%88%8F/id1364885951?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.14\n更新时间:  2019-11-09 10:02:41 (北京时间)\n\n1.新增10本传说兽书；\n2.新增梦境层数：100-149层；\n3.新增冬泳活动，凛冽寒冬，何不冬泳？\n4.新增幻境层数共50层：无尽之塔新增25层至275层，绝望深渊新增25层至275层；\n5.其他细节优化与BUG修复，感谢支持！"
+    },
+    {
+      "name":"迷失岛",
+      "url":"https://apps.apple.com/cn/app/%E8%BF%B7%E5%A4%B1%E5%B2%9B/id1134805859?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  2.0.6\n更新时间:  2018-06-16 03:39:54 (北京时间)\n\n适配iphoneX"
+    },
+    {
+      "name":"The White Door",
+      "url":"https://apps.apple.com/cn/app/the-white-door/id1472184189?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  2.3\n更新时间:  2020-01-29 08:17:07 (北京时间)\n\n感谢你选择The White Door！我们在新的版本中修复了一些bug"
+    },
+    {
       "name":"武器店物语",
       "url":"https://apps.apple.com/cn/app/%E6%AD%A6%E5%99%A8%E5%BA%97%E7%89%A9%E8%AF%AD/id1334089365?uo=4",
       "num":"游戏",
       "description":"最新版本:  1.07\n更新时间:  2018-04-04 00:01:04 (北京时间)\n\n#增加了日语"
     },
     {
+      "name":"MOODA-心情日记",
+      "url":"https://apps.apple.com/cn/app/mooda-%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/id1476256748?uo=4",
+      "num":"生活",
+      "description":"最新版本:  1.7.2\n更新时间:  2020-05-10 22:39:35 (北京时间)\n\n-Photo filter ON / OFF option added\n-iCloud sync issue fixed\n-Performance improvements and bug fixe"
+    },
+    {
       "name":"无线卫士-路由器管家与高能防蹭网",
       "url":"https://apps.apple.com/cn/app/%E6%97%A0%E7%BA%BF%E5%8D%AB%E5%A3%AB-%E8%B7%AF%E7%94%B1%E5%99%A8%E7%AE%A1%E5%AE%B6%E4%B8%8E%E9%AB%98%E8%83%BD%E9%98%B2%E8%B9%AD%E7%BD%91/id995564289?uo=4",
       "num":"工具",
       "description":"最新版本:  2.0.1\n更新时间:  2020-05-08 22:34:01 (北京时间)\n\n1.适配ios 13系统；\n2.优化配置性能；\n3.修改已知bug。"
-    },
-    {
-      "name":"梦幻三界",
-      "url":"https://apps.apple.com/cn/app/%E6%A2%A6%E5%B9%BB%E4%B8%89%E7%95%8C/id1505917148?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.0\n更新时间:  2020-04-17 15:23:14 (北京时间)\n\n"
     },
     {
       "name":"隐形守护者",
@@ -519,16 +513,34 @@
       "description":"最新版本:  1.3\n更新时间:  2020-05-04 00:14:28 (北京时间)\n\n紧急修复：套装切换时魔魂丢失的问题。请更新前先把英雄第二套装备的魔魂卸下。"
     },
     {
-      "name":"Rebel Inc. (反叛公司)",
-      "url":"https://apps.apple.com/cn/app/rebel-inc-%E5%8F%8D%E5%8F%9B%E5%85%AC%E5%8F%B8/id1439187947?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.4.7\n更新时间:  2020-03-24 19:29:33 (北京时间)\n\n《反叛公司》4号更新—蔚蓝堤坝扩展\n全新地图：蔚蓝堤坝–重建一座大型水坝以抵御山洪肆虐并巩固治下不毛之地的稳定性。尝试保护前往大坝施工现场的辎重车队，同时防备叛军分队奇袭补给线的阴谋！\n\n全新治理者：开发署长–这位实干者将部署民生专家以优先处理分区发展事宜并快速稳定区域关键部分。效率即是生命！\n\n全新平民“关切”机制–仍在为如何赢取民心而苦恼？现在您可收集分区情报以发掘当地百姓急需的计划项目。战略及维稳玩法已达全新高度！\n\n大量平衡性调整、Bug修复及AI调谐待您体验。\n\n我们对未来的新地图、治理者及其它方面怀有众多构想，请联络我们告知您的金点子！James\n\n1.4.1 - New content automatically unlocks if previously bought\n1.4.2 - Fixed region zoom issue\n1.4.3 - Tweaks to game balance on lower difficulties\n1.4.5 - Fixed Warlord unlock bug, fixed Insurgent fleeing bug, improved Garrison placement AI\n1.4.6 - Added Turkish language support\n1.4.7 - Added Pashto and Dari language support"
+      "name":"雨时",
+      "url":"https://apps.apple.com/cn/app/%E9%9B%A8%E6%97%B6/id1059718989?uo=4",
+      "num":"天气",
+      "description":"最新版本:  2.5\n更新时间:  2019-09-26 10:22:39 (北京时间)\n\n- 适配 iOS 13\n- 小组件适配深色模式"
     },
     {
       "name":"论如何建立一个修仙门派",
       "url":"https://apps.apple.com/cn/app/%E8%AE%BA%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E4%BF%AE%E4%BB%99%E9%97%A8%E6%B4%BE/id1498859517?uo=4",
       "num":"游戏",
       "description":"最新版本:  1.18\n更新时间:  2020-04-17 00:00:11 (北京时间)\n\n1.18\n修复部分个人履历文字显示错误的问题"
+    },
+    {
+      "name":"Rebel Inc. (反叛公司)",
+      "url":"https://apps.apple.com/cn/app/rebel-inc-%E5%8F%8D%E5%8F%9B%E5%85%AC%E5%8F%B8/id1439187947?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.4.7\n更新时间:  2020-03-24 19:29:33 (北京时间)\n\n《反叛公司》4号更新—蔚蓝堤坝扩展\n全新地图：蔚蓝堤坝–重建一座大型水坝以抵御山洪肆虐并巩固治下不毛之地的稳定性。尝试保护前往大坝施工现场的辎重车队，同时防备叛军分队奇袭补给线的阴谋！\n\n全新治理者：开发署长–这位实干者将部署民生专家以优先处理分区发展事宜并快速稳定区域关键部分。效率即是生命！\n\n全新平民“关切”机制–仍在为如何赢取民心而苦恼？现在您可收集分区情报以发掘当地百姓急需的计划项目。战略及维稳玩法已达全新高度！\n\n大量平衡性调整、Bug修复及AI调谐待您体验。\n\n我们对未来的新地图、治理者及其它方面怀有众多构想，请联络我们告知您的金点子！James\n\n1.4.1 - New content automatically unlocks if previously bought\n1.4.2 - Fixed region zoom issue\n1.4.3 - Tweaks to game balance on lower difficulties\n1.4.5 - Fixed Warlord unlock bug, fixed Insurgent fleeing bug, improved Garrison placement AI\n1.4.6 - Added Turkish language support\n1.4.7 - Added Pashto and Dari language support"
+    },
+    {
+      "name":"梦幻三界",
+      "url":"https://apps.apple.com/cn/app/%E6%A2%A6%E5%B9%BB%E4%B8%89%E7%95%8C/id1505917148?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.0\n更新时间:  2020-04-17 15:23:14 (北京时间)\n\n"
+    },
+    {
+      "name":"音乐世界Cytus II",
+      "url":"https://apps.apple.com/cn/app/%E9%9F%B3%E4%B9%90%E4%B8%96%E7%95%8Ccytus-ii/id1316883372?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  3.1.1\n更新时间:  2020-05-11 14:05:11 (北京时间)\n\n【修复】部分机型重启游戏后丢失曲包，需要恢复购买问题"
     },
     {
       "name":"航海士:开放世界航海单机游戏",
@@ -543,22 +555,10 @@
       "description":"最新版本:  1.1.2\n更新时间:  2018-04-24 08:41:12 (北京时间)\n\n·已对应iOS 11系统\n·修正一部分BUG\n\n【重要】关于版本更新的注意事项\n对应iOS8后，「MULTIPLAYER　MODE」的联网方法将由原来的Bluetooth变更为Wi-Fi模式。\n另外配对开始前需要登录「Game Center」。\n请各位玩家朋友在更新版本时注意以上事项。"
     },
     {
-      "name":"音乐世界Cytus II",
-      "url":"https://apps.apple.com/cn/app/%E9%9F%B3%E4%B9%90%E4%B8%96%E7%95%8Ccytus-ii/id1316883372?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  3.1.1\n更新时间:  2020-05-11 14:05:11 (北京时间)\n\n【修复】部分机型重启游戏后丢失曲包，需要恢复购买问题"
-    },
-    {
-      "name":"雨时",
-      "url":"https://apps.apple.com/cn/app/%E9%9B%A8%E6%97%B6/id1059718989?uo=4",
-      "num":"天气",
-      "description":"最新版本:  2.5\n更新时间:  2019-09-26 10:22:39 (北京时间)\n\n- 适配 iOS 13\n- 小组件适配深色模式"
-    },
-    {
-      "name":"Rusty Lake Paradise",
-      "url":"https://apps.apple.com/cn/app/rusty-lake-paradise/id1253855339?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.8\n更新时间:  2019-02-17 16:49:18 (北京时间)\n\n感谢您对Rusty Lake Paradise的支持！我们在这个新版本中修复了一些bug。"
+      "name":"绅士领域pr",
+      "url":"https://apps.apple.com/cn/app/%E7%BB%85%E5%A3%AB%E9%A2%86%E5%9F%9Fpr/id1509249159?uo=4",
+      "num":"社交",
+      "description":"最新版本:  1.0\n更新时间:  2020-04-30 07:59:36 (北京时间)\n\n"
     },
     {
       "name":"新概念英语全四册-新概念英语口语阅读听力单词",
@@ -567,10 +567,10 @@
       "description":"最新版本:  2.3\n更新时间:  2020-03-24 23:57:40 (北京时间)\n\n修复锁屏界面播放问题\n勘误"
     },
     {
-      "name":"阿大闯江湖-放置卡牌类修真手游",
-      "url":"https://apps.apple.com/cn/app/%E9%98%BF%E5%A4%A7%E9%97%AF%E6%B1%9F%E6%B9%96-%E6%94%BE%E7%BD%AE%E5%8D%A1%E7%89%8C%E7%B1%BB%E4%BF%AE%E7%9C%9F%E6%89%8B%E6%B8%B8/id1501296827?uo=4",
+      "name":"Rusty Lake Paradise",
+      "url":"https://apps.apple.com/cn/app/rusty-lake-paradise/id1253855339?uo=4",
       "num":"游戏",
-      "description":"最新版本:  1.3\n更新时间:  2020-05-09 12:09:10 (北京时间)\n\n1. 新增加宠物功能，现推出15种不同技能的宠物，您可以根据个人爱好搭配不同的宠物组合，全面提升主角战斗能力。\n2. 英雄远征增加扫荡功能，升级，打装备变得更轻松。\n3. 新增加玄晶，属性石批量合成功能。\n4. 新增加游戏小助手，当您不知道该做什么的时候，去点点小助手吧。\n5. 增加积分汇总，通过左上角人物头像，可以查看竞技积分，轩辕塔积分，守护者积分，虚空秘境积分。\n6. 新增加点击聊天玩家头像申请添加好友\n7. 修改好友切磋抽奖元宝消耗数量\n8. 大幅度降低商城轮盘价格"
+      "description":"最新版本:  1.8\n更新时间:  2019-02-17 16:49:18 (北京时间)\n\n感谢您对Rusty Lake Paradise的支持！我们在这个新版本中修复了一些bug。"
     },
     {
       "name":"王国: 两位君主",
@@ -579,10 +579,10 @@
       "description":"最新版本:  1.02\n更新时间:  2020-04-28 15:00:00 (北京时间)\n\nAdded the Deadlands setting"
     },
     {
-      "name":"新概念英语全四册",
-      "url":"https://apps.apple.com/cn/app/%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD%E5%85%A8%E5%9B%9B%E5%86%8C/id1164310129?uo=4",
-      "num":"教育",
-      "description":"最新版本:  2.1\n更新时间:  2020-04-21 23:15:21 (北京时间)\n\n1.添加课文收藏功能，课文随时收藏随时学；\n2.添加课文单词同步功能，保证单词和课文内容的百分之百正确；\n3.增加学习报告功能，记录每天的听力，单词，练习，评测等数据；\n妈妈再也不用担心我的每天学习报告了..."
+      "name":"王国保卫战：复仇",
+      "url":"https://apps.apple.com/cn/app/%E7%8E%8B%E5%9B%BD%E4%BF%9D%E5%8D%AB%E6%88%98-%E5%A4%8D%E4%BB%87/id1248033433?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.9.5\n更新时间:  2020-04-15 01:52:34 (北京时间)\n\n错误修复和改进"
     },
     {
       "name":"沉默大陆：永远的塞勒特传奇",
@@ -591,10 +591,10 @@
       "description":"最新版本:  1.12\n更新时间:  2019-06-13 10:16:24 (北京时间)\n\n沉默大陆更新至v1.12版本  预计周四周五可以更新\n\n1.新增：魔宠功能\n\n2.新增：魔宠相关成就\n\n\nPs：关注微信公众号“winwill工作室”了解沉默大陆最新动态"
     },
     {
-      "name":"御龙诀-国风仙侠RPG动作手游",
-      "url":"https://apps.apple.com/cn/app/%E5%BE%A1%E9%BE%99%E8%AF%80-%E5%9B%BD%E9%A3%8E%E4%BB%99%E4%BE%A0rpg%E5%8A%A8%E4%BD%9C%E6%89%8B%E6%B8%B8/id1452485974?uo=4",
+      "name":"阿大闯江湖-放置卡牌类修真手游",
+      "url":"https://apps.apple.com/cn/app/%E9%98%BF%E5%A4%A7%E9%97%AF%E6%B1%9F%E6%B9%96-%E6%94%BE%E7%BD%AE%E5%8D%A1%E7%89%8C%E7%B1%BB%E4%BF%AE%E7%9C%9F%E6%89%8B%E6%B8%B8/id1501296827?uo=4",
       "num":"游戏",
-      "description":"最新版本:  1.2293\n更新时间:  2020-05-11 10:09:20 (北京时间)\n\n【全新系统】\n*全新\"妖灵系统\"上线，角色等级达到60级时开放\n1、妖灵在召唤后获得战斗力与属性加成，同时将解锁该妖灵专属技能；\n2、妖灵在召唤后可以设置出战，最多可出战三只妖灵；妖灵的出战顺序将影响妖灵技能的释放顺序；\n3、妖灵释放技能需要消耗妖灵能量，出战妖灵的数量决定妖灵能量上限；妖灵能量消耗完毕后将暂时无法释放妖灵技能；妖灵能量随时间自动回复；\n4、妖灵可以通过装备宝具获得战斗力与属性的大幅度提升，在增强妖灵技能效果的同时也将带来额外的被动效果；妖灵最多可装备四个宝具。"
+      "description":"最新版本:  1.3\n更新时间:  2020-05-09 12:09:10 (北京时间)\n\n1. 新增加宠物功能，现推出15种不同技能的宠物，您可以根据个人爱好搭配不同的宠物组合，全面提升主角战斗能力。\n2. 英雄远征增加扫荡功能，升级，打装备变得更轻松。\n3. 新增加玄晶，属性石批量合成功能。\n4. 新增加游戏小助手，当您不知道该做什么的时候，去点点小助手吧。\n5. 增加积分汇总，通过左上角人物头像，可以查看竞技积分，轩辕塔积分，守护者积分，虚空秘境积分。\n6. 新增加点击聊天玩家头像申请添加好友\n7. 修改好友切磋抽奖元宝消耗数量\n8. 大幅度降低商城轮盘价格"
     }
   ]
 }
