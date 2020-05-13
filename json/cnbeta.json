@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-14 07:18:28",
+  "time":"2020-05-14 07:22:39",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"特斯拉Model X成NASA官方宇航员转运车辆",
+      "url":"https://www.cnbeta.com/articles/tech/978767.htm"
+    },
     {
       "name":"三星Exynos 880 SoC曝光：双A77大核 集成5G基带",
       "url":"https://www.cnbeta.com/articles/tech/978765.htm"
@@ -237,10 +241,6 @@
     {
       "name":"我国电动汽车强制性国标公布 要求电池热失控后5分钟内不起火不爆炸",
       "url":"https://www.cnbeta.com/articles/tech/978647.htm"
-    },
-    {
-      "name":"腾讯启动\"数字方舟\"计划 支持中小微企业数字化转型",
-      "url":"https://www.cnbeta.com/articles/tech/978645.htm"
     }
   ]
 }
