@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-14 07:10:09",
+  "time":"2020-05-14 07:14:18",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"三星Exynos 880 SoC曝光：双A77大核 集成5G基带",
+      "url":"https://www.cnbeta.com/articles/tech/978765.htm"
+    },
+    {
+      "name":"丰巢收费风波后续：快递柜设备交易额暴涨1400% 小区自费买的",
+      "url":"https://www.cnbeta.com/articles/tech/978763.htm"
+    },
     {
       "name":"美国政府延长行政命令一年 继续封杀一系列通信企业",
       "url":"https://www.cnbeta.com/articles/tech/978761.htm"
@@ -233,14 +241,6 @@
     {
       "name":"腾讯启动\"数字方舟\"计划 支持中小微企业数字化转型",
       "url":"https://www.cnbeta.com/articles/tech/978645.htm"
-    },
-    {
-      "name":"腾讯Q1营收1081亿元 净利润为294亿元 同比增长6%",
-      "url":"https://www.cnbeta.com/articles/tech/978643.htm"
-    },
-    {
-      "name":"蓝箭航天完成\"朱雀二号\"关键验证并突破泵后摇摆技术",
-      "url":"https://www.cnbeta.com/articles/science/978641.htm"
     }
   ]
 }
