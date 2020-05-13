@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-13 10:48:11",
+  "time":"2020-05-13 10:52:38",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软将Windows 10 2020年5月更新正式版发布到MSDN",
       "url":"https://www.cnbeta.com/articles/tech/978259.htm"
+    },
+    {
+      "name":"[图]受COVID-19疫情影响 通用宣布放弃Ariv电动自行车计划",
+      "url":"https://www.cnbeta.com/articles/tech/978451.htm"
     },
     {
       "name":"研究称含饱和脂肪的单餐对注意力集中程度产生影响",
@@ -237,10 +241,6 @@
     {
       "name":"[图]微软将“SwiftKey”更名为“Microsoft SwiftKey Keyboard”",
       "url":"https://www.cnbeta.com/articles/tech/978335.htm"
-    },
-    {
-      "name":"万里挑一：科学家发现超罕见“超级地球”",
-      "url":"https://www.cnbeta.com/articles/science/978333.htm"
     }
   ]
 }
