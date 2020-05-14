@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-14 20:01:13",
+  "time":"2020-05-14 20:05:30",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"亚马逊为医护人员生产面罩 数周后以成本价销售",
+      "url":"http://www.cnbeta.com/articles/tech/979163.htm"
+    },
+    {
+      "name":"爱奇艺VIP会员大促：黄金/钻石全线五折 不分新老用户",
+      "url":"http://www.cnbeta.com/articles/tech/979161.htm"
+    },
+    {
+      "name":"国家邮政局：4月全国快递业务量65亿件 同比增32.1%",
+      "url":"http://www.cnbeta.com/articles/tech/979159.htm"
     },
     {
       "name":"女孩案板下上网课刷屏 联想向其赠送笔记本并提供终身质保",
@@ -229,18 +241,6 @@
     {
       "name":"中国生物董事长：超千人接种新冠疫苗  安全性良好",
       "url":"http://www.cnbeta.com/articles/science/979045.htm"
-    },
-    {
-      "name":"特朗普欲“点将”加速新冠疫苗研发 年底前实现疫苗量产分发",
-      "url":"http://www.cnbeta.com/articles/tech/979043.htm"
-    },
-    {
-      "name":"亚马逊收购电影院AMC？贝索斯要的是《绝命毒师》AMC",
-      "url":"https://hot.cnbeta.com/articles/movie/979041.htm"
-    },
-    {
-      "name":"即将发布的比亚迪汉EV将搭载HiCar和5G",
-      "url":"http://www.cnbeta.com/articles/tech/979039.htm"
     }
   ]
 }
