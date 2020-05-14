@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-14 11:34:50",
+  "time":"2020-05-14 11:39:04",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"天文学家在系外恒星系统发现又一个“超级地球”候选者",
+      "url":"https://www.cnbeta.com/articles/science/978959.htm"
+    },
+    {
+      "name":"英特尔发布至强W-1200系列Comet Lake工作站处理器新品",
+      "url":"https://www.cnbeta.com/articles/tech/978957.htm"
     },
     {
       "name":"哈佛新研究将“渐冻症”和肠道细菌地联系在一起",
@@ -233,14 +241,6 @@
     {
       "name":"嗅觉丧失这种奇怪的新冠病毒症状可能是早期诊断的关键",
       "url":"https://www.cnbeta.com/articles/science/978843.htm"
-    },
-    {
-      "name":"[图]标签页群组功能现已进入Chrome的Beta通道",
-      "url":"https://www.cnbeta.com/articles/tech/978841.htm"
-    },
-    {
-      "name":"[图]Android端Opera 58发布：可拖拽创建Speed Dial文件夹",
-      "url":"https://www.cnbeta.com/articles/tech/978839.htm"
     }
   ]
 }
