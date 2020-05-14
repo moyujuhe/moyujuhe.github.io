@@ -1,7 +1,23 @@
 {
-  "time":"2020-05-14 10:47:34",
+  "time":"2020-05-14 10:51:59",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"联发科将于5月18日发布天玑800系列SoC",
+      "url":"https://www.cnbeta.com/articles/tech/978919.htm"
+    },
+    {
+      "name":"[图]亚马逊发起民事诉讼：指控两家公司伪造应用和网站诈骗",
+      "url":"https://www.cnbeta.com/articles/tech/978917.htm"
+    },
+    {
+      "name":"被骗被抢还要“代孕”  蚂蚁：我太难了",
+      "url":"https://www.cnbeta.com/articles/science/978915.htm"
+    },
+    {
+      "name":"微软在Windows 10 2004发行说明中更新了处理器支持列表",
+      "url":"https://www.cnbeta.com/articles/tech/978913.htm"
+    },
     {
       "name":"不被重视的睡眠窒息症你要小心了 睡眠时停止呼吸很危险",
       "url":"https://www.cnbeta.com/articles/science/978911.htm"
@@ -41,6 +57,10 @@
     {
       "name":"AMD新款APU曝光 或被微软Surface新机采用",
       "url":"https://www.cnbeta.com/articles/tech/978893.htm"
+    },
+    {
+      "name":"新核显加入 十代酷睿轻薄本如何提供多样选择？",
+      "url":"http://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/978713.htm"
     },
     {
       "name":"腾讯发力：Switch爆款游戏《健身环大冒险》国行版将推出",
@@ -101,10 +121,6 @@
     {
       "name":"微软计划在全球范围内重新开放办公室  但称美国新冠数据 “特别令人失望”",
       "url":"https://www.cnbeta.com/articles/tech/978863.htm"
-    },
-    {
-      "name":"新核显加入 十代酷睿轻薄本如何提供多样选择？",
-      "url":"http://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/978713.htm"
     },
     {
       "name":"今年飓风季可能又要在提前登陆美国东海岸",
@@ -225,22 +241,6 @@
     {
       "name":"[图]谷歌向普通Gmail用户开放Search Chips功能 帮用户快速搜索",
       "url":"https://www.cnbeta.com/articles/tech/978803.htm"
-    },
-    {
-      "name":"苹果公共政策副总裁Cynthia Hogan将于6月离职",
-      "url":"https://www.cnbeta.com/articles/tech/978801.htm"
-    },
-    {
-      "name":"[图]Windows 10 May 2020启用新功能：阻止PC安装PUA应用",
-      "url":"https://www.cnbeta.com/articles/tech/978799.htm"
-    },
-    {
-      "name":"思科第三财季营收120亿美元，净利润28亿美元",
-      "url":"https://www.cnbeta.com/articles/tech/978797.htm"
-    },
-    {
-      "name":"美疫情期间消毒剂中毒事件飙升 多品牌警告民众不要注射吞咽",
-      "url":"https://www.cnbeta.com/articles/tech/978795.htm"
     }
   ]
 }
