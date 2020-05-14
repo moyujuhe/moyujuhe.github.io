@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-15 03:34:51",
+  "time":"2020-05-15 03:38:58",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"约翰斯·霍普金斯大学：全球新冠肺炎确诊病例超过440万例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7405182"
+    },
     {
       "name":"意大利新增992例新冠肺炎确诊病例，累计223096例",
       "url":"https://www.thepaper.cn/newsDetail_forward_7400057"
@@ -77,10 +81,6 @@
     {
       "name":"德甲拜仁俱乐部与抖音合作：短视频是社交媒体新趋势",
       "url":"https://www.thepaper.cn/newsDetail_forward_7399824"
-    },
-    {
-      "name":"爱奇艺回应斥百万进军餐饮：公司经营需要",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7395665"
     }
   ]
 }
