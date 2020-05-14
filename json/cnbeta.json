@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-14 13:52:46",
+  "time":"2020-05-14 13:57:00",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"大众集团CEO：欧美将严重衰退 中国是大众的希望之光",
+      "url":"https://www.cnbeta.com/articles/tech/978987.htm"
+    },
+    {
+      "name":"因直播首秀翻车 董明珠骂哭30岁男主管",
+      "url":"https://www.cnbeta.com/articles/tech/978985.htm"
     },
     {
       "name":"BBC：疫情下隔离独处太难熬？ NASA专家来支招",
@@ -233,14 +241,6 @@
     {
       "name":"微软否认要收购激光投影专利巨头MicroVision",
       "url":"https://www.cnbeta.com/articles/tech/978871.htm"
-    },
-    {
-      "name":"Epic承诺《堡垒之夜》将在第一时间登陆PS5和Xbox Series X",
-      "url":"https://hot.cnbeta.com/articles/game/978869.htm"
-    },
-    {
-      "name":"[图]不止18% 众筹平台Kickstarter实际离职人数超39%",
-      "url":"https://www.cnbeta.com/articles/tech/978867.htm"
     }
   ]
 }
