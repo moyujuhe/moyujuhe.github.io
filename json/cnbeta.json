@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-14 21:47:34",
+  "time":"2020-05-14 21:52:08",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,18 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"NVIDIA发布7nm安培：540亿晶体管核弹、GPU史上最大性能飞跃",
+      "url":"https://www.cnbeta.com/articles/tech/979193.htm"
+    },
+    {
+      "name":"我国有线数字电视缴费用户降至1.42亿",
+      "url":"https://www.cnbeta.com/articles/tech/979191.htm"
+    },
+    {
+      "name":"参议院投票允许FBI在没有搜查令的情况下访问美国公民的浏览记录",
+      "url":"https://www.cnbeta.com/articles/tech/979189.htm"
     },
     {
       "name":"英国电信引入新供应商Adtran以减少对华为的依赖",
@@ -229,18 +241,6 @@
     {
       "name":"Reddit推出基于以太坊的代币 加密货币与《堡垒之夜》子版块正在公测",
       "url":"https://www.cnbeta.com/articles/tech/979075.htm"
-    },
-    {
-      "name":"世卫组织：疫情对全球仍构成高风险 解封应避免陷“封锁循环”",
-      "url":"https://www.cnbeta.com/articles/tech/979073.htm"
-    },
-    {
-      "name":"Boring公司已完成“赌城”第二条地下隧道：计划明年CES对外开放",
-      "url":"https://www.cnbeta.com/articles/tech/979071.htm"
-    },
-    {
-      "name":"从死亡中再起：《对马岛之鬼》中文版剧情预告公开",
-      "url":"https://hot.cnbeta.com/articles/game/979069.htm"
     }
   ]
 }
