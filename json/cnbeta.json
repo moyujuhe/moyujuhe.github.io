@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 17:00:32",
+  "time":"2020-05-14 17:04:40",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"中国电信澄清：4G卡升级5G不用换卡 安全SIM卡只针对特殊应用",
+      "url":"https://www.cnbeta.com/articles/tech/979119.htm"
     },
     {
       "name":"Intel正式发布第十代博锐：普及10核心、性能提升达40％",
@@ -237,10 +241,6 @@
     {
       "name":"特斯拉和官方谈妥最快下周重开加州工厂 部分工人担忧安全",
       "url":"https://www.cnbeta.com/articles/tech/979005.htm"
-    },
-    {
-      "name":"近三分之一美国人想趁低油价驾车出游 不顾疫情风险",
-      "url":"https://www.cnbeta.com/articles/tech/979003.htm"
     }
   ]
 }
