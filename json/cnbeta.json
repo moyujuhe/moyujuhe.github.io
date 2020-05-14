@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-14 11:55:58",
+  "time":"2020-05-14 12:00:08",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"俄研究人员追踪到高能宇宙中微子的来源：类星体",
+      "url":"https://www.cnbeta.com/articles/science/978969.htm"
+    },
+    {
+      "name":"英特尔显卡驱动27.20.100.8236测试版发布",
+      "url":"https://www.cnbeta.com/articles/tech/978967.htm"
+    },
+    {
+      "name":"外媒实测证明一加8 Pro摄像头模组可透视物体 红外滤镜要背锅",
+      "url":"https://www.cnbeta.com/articles/tech/978965.htm"
     },
     {
       "name":"机智的波士顿警察利用手机里的求偶鸣叫声引诱逃跑的孔雀",
@@ -229,18 +241,6 @@
     {
       "name":"[图]Windows 10 Build 19628发布：初步支持DNS over HTTPS",
       "url":"https://www.cnbeta.com/articles/tech/978853.htm"
-    },
-    {
-      "name":"法国将强制要求社交网络巨头在1小时内删除恐怖主义等内容",
-      "url":"https://www.cnbeta.com/articles/tech/978851.htm"
-    },
-    {
-      "name":"特斯拉内华达州超级工厂重新开门投产",
-      "url":"https://www.cnbeta.com/articles/tech/978849.htm"
-    },
-    {
-      "name":"Dynabook刷新Comet Lake vPro轻薄商务笔记本产品线",
-      "url":"https://www.cnbeta.com/articles/tech/978847.htm"
     }
   ]
 }
