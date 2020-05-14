@@ -1,18 +1,18 @@
 {
-  "time":"2020-05-14 11:26:19",
+  "time":"2020-05-14 11:30:38",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"当身体出现了这个信号，请立马停下你手中的代码",
-      "url":"https://www.v2ex.com/t/671448#reply79"
+      "url":"https://www.v2ex.com/t/671448#reply81"
     },
     {
       "name":"想讨论一下关于苹果教这类的社会现象。",
-      "url":"https://www.v2ex.com/t/671461#reply75"
+      "url":"https://www.v2ex.com/t/671461#reply76"
     },
     {
       "name":"做梦梦见了一个妹子，打了个 kiss，好甜",
-      "url":"https://www.v2ex.com/t/671490#reply68"
+      "url":"https://www.v2ex.com/t/671490#reply69"
     },
     {
       "name":"Deno 1.0",
@@ -36,15 +36,15 @@
     },
     {
       "name":"上海有可以带猫上班的互联网公司吗?",
-      "url":"https://www.v2ex.com/t/671495#reply26"
+      "url":"https://www.v2ex.com/t/671495#reply27"
+    },
+    {
+      "name":"小公司招人,如何避免应聘者简历造假?",
+      "url":"https://www.v2ex.com/t/671491#reply26"
     },
     {
       "name":"等失业了去当装修工人怎样，比程序员要好吧",
       "url":"https://www.v2ex.com/t/671481#reply26"
-    },
-    {
-      "name":"小公司招人,如何避免应聘者简历造假?",
-      "url":"https://www.v2ex.com/t/671491#reply24"
     },
     {
       "name":"直营店提了 13 寸现在纠结要不要换 16 乞丐版",
@@ -52,7 +52,7 @@
     },
     {
       "name":"Service 调用问题",
-      "url":"https://www.v2ex.com/t/671464#reply19"
+      "url":"https://www.v2ex.com/t/671464#reply20"
     },
     {
       "name":"最近在学习用 Django 做网站，遇到一个数据库设计的问题。作者表和文章表之间要加一个中间表存放两者关系吗？",
@@ -67,16 +67,16 @@
       "url":"https://www.v2ex.com/t/671452#reply12"
     },
     {
+      "name":"Java ，一个实体有 100 个成员变量，现在需要把其中某 30 个变量放到一个 list 里（需要有非空判断，不是空的才放进去， null 或者\"\"不放进去），怎么写比较简洁",
+      "url":"https://www.v2ex.com/t/671521#reply11"
+    },
+    {
       "name":"煲汤界的黑暗料理",
       "url":"https://www.v2ex.com/t/671500#reply10"
     },
     {
       "name":"今年的就业行情真的是金五银六吗",
       "url":"https://www.v2ex.com/t/671506#reply10"
-    },
-    {
-      "name":"Java ，一个实体有 100 个成员变量，现在需要把其中某 30 个变量放到一个 list 里（需要有非空判断，不是空的才放进去， null 或者\"\"不放进去），怎么写比较简洁",
-      "url":"https://www.v2ex.com/t/671521#reply10"
     },
     {
       "name":"求助，推荐适合休闲放松的 ps4 游戏",
@@ -95,6 +95,10 @@
       "url":"https://www.v2ex.com/t/671462#reply8"
     },
     {
+      "name":"工作中做 ppt 的场合多吗？什么样的 ppt 是有效且受欢迎的？",
+      "url":"https://www.v2ex.com/t/671465#reply7"
+    },
+    {
       "name":"请教一下，这种 sql 怎么写",
       "url":"https://www.v2ex.com/t/671477#reply7"
     },
@@ -103,8 +107,8 @@
       "url":"https://www.v2ex.com/t/671458#reply6"
     },
     {
-      "name":"工作中做 ppt 的场合多吗？什么样的 ppt 是有效且受欢迎的？",
-      "url":"https://www.v2ex.com/t/671465#reply6"
+      "name":"今天把用了月余的 10.15.4 降回 10.14.6 了",
+      "url":"https://www.v2ex.com/t/671473#reply6"
     },
     {
       "name":"Apple Store 应用更新后，改成默认识别 iCloud 账号了？",
@@ -113,6 +117,10 @@
     {
       "name":"Google voice 号码注册 telegram 电报图文教程",
       "url":"https://www.v2ex.com/t/671486#reply6"
+    },
+    {
+      "name":"这是要变相裁我吗，求分析，感谢！",
+      "url":"https://www.v2ex.com/t/671535#reply5"
     },
     {
       "name":"你们父母多大了？一个人在海外的媛/猿们",
@@ -125,14 +133,6 @@
     {
       "name":"v 友们将远程 oracle 一个用户的所有表以及数据同步到本地 oracle，大家有什么快的办法嘛~",
       "url":"https://www.v2ex.com/t/671523#reply4"
-    },
-    {
-      "name":"这段时间机场的端口一直被封？",
-      "url":"https://www.v2ex.com/t/671469#reply4"
-    },
-    {
-      "name":"同步本地修改的文件到远程服务器除了 rsync 还有什么好用的工具吗？",
-      "url":"https://www.v2ex.com/t/671470#reply4"
     }
   ]
 }
