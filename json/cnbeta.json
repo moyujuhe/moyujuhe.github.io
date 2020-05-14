@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-14 22:59:42",
+  "time":"2020-05-14 23:03:58",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"FBI向苹果公司送达搜查令 要求其访问参议员的iCloud数据",
+      "url":"https://www.cnbeta.com/articles/tech/979205.htm"
     },
     {
       "name":"乐视控股驳斥乐视网董事长言论：贾跃亭早已不实际控制乐视网",
@@ -237,10 +241,6 @@
     {
       "name":"中国航天科技：手机上就能”买“卫星 50公斤级起步",
       "url":"https://www.cnbeta.com/articles/tech/979087.htm"
-    },
-    {
-      "name":"《谍影重重》衍生剧终结 《绊脚石》第二季取消",
-      "url":"https://hot.cnbeta.com/articles/movie/979085.htm"
     }
   ]
 }
