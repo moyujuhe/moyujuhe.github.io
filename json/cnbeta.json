@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-14 10:30:27",
+  "time":"2020-05-14 10:34:44",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"累计测试76款 中保研：全球车型在中美市场安全性能表现差距依然存在",
+      "url":"https://www.cnbeta.com/articles/tech/978901.htm"
+    },
+    {
+      "name":"比10年前安卓机还卡？领克被曝大屏车机故障 官方回应",
+      "url":"https://www.cnbeta.com/articles/tech/978899.htm"
+    },
+    {
+      "name":"无需等待数日：Zipcar将新用户服务使用申请时间缩至几分钟",
+      "url":"https://www.cnbeta.com/articles/tech/978897.htm"
+    },
     {
       "name":"2020 OSSRA 报告：91%的商业 App 包含过时或废弃的开源组件",
       "url":"https://www.cnbeta.com/articles/tech/978895.htm"
@@ -229,18 +241,6 @@
     {
       "name":"国家邮政局：提倡使用智能快件箱投递 但应与收件人电话联系",
       "url":"https://www.cnbeta.com/articles/tech/978785.htm"
-    },
-    {
-      "name":"谷歌允许员工在家办公到年底 但笔记本电脑不够用了",
-      "url":"https://www.cnbeta.com/articles/tech/978783.htm"
-    },
-    {
-      "name":"特朗普：福奇对于过早重启经济的警告“不可接受”",
-      "url":"https://www.cnbeta.com/articles/tech/978781.htm"
-    },
-    {
-      "name":"中国团队发现新蝙蝠冠状病毒 力证新冠起源于自然",
-      "url":"https://www.cnbeta.com/articles/science/978779.htm"
     }
   ]
 }
