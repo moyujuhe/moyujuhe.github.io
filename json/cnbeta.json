@@ -1,7 +1,27 @@
 {
-  "time":"2020-05-14 10:12:56",
+  "time":"2020-05-14 10:17:39",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Facebook的AI副总裁炮轰马斯克：不懂人工智能乱说一通",
+      "url":"https://www.cnbeta.com/articles/tech/978879.htm"
+    },
+    {
+      "name":"放弃苹果谷歌新冠接触者追踪API 犹他州选择社交初创公司开发应用",
+      "url":"https://www.cnbeta.com/articles/tech/978877.htm"
+    },
+    {
+      "name":"亚马逊要求美国国会通过法律 将国家危机期间哄抬价格的行为认定为非法",
+      "url":"https://www.cnbeta.com/articles/tech/978875.htm"
+    },
+    {
+      "name":"华为否认提交给 Linux 内核的不安全补丁 HKSP 来自官方",
+      "url":"https://www.cnbeta.com/articles/tech/978873.htm"
+    },
+    {
+      "name":"微软否认要收购激光投影专利巨头MicroVision",
+      "url":"https://www.cnbeta.com/articles/tech/978871.htm"
+    },
     {
       "name":"Epic承诺《堡垒之夜》将在第一时间登陆PS5和Xbox Series X",
       "url":"https://hot.cnbeta.com/articles/game/978869.htm"
@@ -17,6 +37,10 @@
     {
       "name":"微软计划在全球范围内重新开放办公室  但称美国新冠数据 “特别令人失望”",
       "url":"https://www.cnbeta.com/articles/tech/978863.htm"
+    },
+    {
+      "name":"新核显加入 十代酷睿轻薄本如何提供多样选择？",
+      "url":"http://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/978713.htm"
     },
     {
       "name":"今年飓风季可能又要在提前登陆美国东海岸",
@@ -105,10 +129,6 @@
     {
       "name":"如何给救命药定价？瑞德西韦也让吉利德“烦恼”",
       "url":"https://www.cnbeta.com/articles/tech/978819.htm"
-    },
-    {
-      "name":"新核显加入 十代酷睿轻薄本如何提供多样选择？",
-      "url":"http://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/978713.htm"
     },
     {
       "name":"Uber要求所有司机和骑手佩戴口罩 多次违反或遭停用",
@@ -221,26 +241,6 @@
     {
       "name":"丰巢收费风波后续：快递柜设备交易额暴涨1400% 小区自费买的",
       "url":"https://www.cnbeta.com/articles/tech/978763.htm"
-    },
-    {
-      "name":"美国政府延长行政命令一年 继续封杀一系列通信企业",
-      "url":"https://www.cnbeta.com/articles/tech/978761.htm"
-    },
-    {
-      "name":"经济学人智库：新冠疫情将逆转全球化 建立区域供应链",
-      "url":"https://www.cnbeta.com/articles/tech/978759.htm"
-    },
-    {
-      "name":"美航空股大幅下跌 IATA警告航空旅行需求将长期低迷",
-      "url":"https://www.cnbeta.com/articles/tech/978757.htm"
-    },
-    {
-      "name":"SpaceX搜救船在进行历史性的演练过程中援救了落海船夫",
-      "url":"https://www.cnbeta.com/articles/tech/978755.htm"
-    },
-    {
-      "name":"Alienware发布新版m17和m15游戏笔记本 更新了规格和散热方式",
-      "url":"https://www.cnbeta.com/articles/tech/978753.htm"
     }
   ]
 }
