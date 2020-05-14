@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-14 23:46:35",
+  "time":"2020-05-14 23:51:38",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"业内人士透露Galaxy Note 20和Galaxy Note 20+规格细节",
+      "url":"https://www.cnbeta.com/articles/tech/979211.htm"
     },
     {
       "name":"英伟达正式发布7nm安培GPU：八代史上性能最大飞跃",
@@ -237,10 +241,6 @@
     {
       "name":"新的CRISPR方法可以编辑作物  但在技术上不会使其成为转基因生物",
       "url":"https://www.cnbeta.com/articles/science/979093.htm"
-    },
-    {
-      "name":"23.8寸杀到600以下 小米/红米显示器全线曝光：对标AOC/HKC",
-      "url":"https://www.cnbeta.com/articles/tech/979091.htm"
     }
   ]
 }
