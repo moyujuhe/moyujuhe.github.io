@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 14:01:30",
+  "time":"2020-05-14 14:05:43",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"从游戏本到台式机 外星人对旗下产品线进行了一次“换药不换汤”的升级",
+      "url":"https://www.cnbeta.com/articles/tech/978991.htm"
     },
     {
       "name":"董明珠：保修是最坏的服务 最好的产品压根不会坏",
@@ -41,6 +45,10 @@
     {
       "name":"美光正在提升1z纳米DDR4内存的产能",
       "url":"https://www.cnbeta.com/articles/tech/978973.htm"
+    },
+    {
+      "name":"新核显加入 十代酷睿轻薄本如何提供多样选择？",
+      "url":"http://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/978713.htm"
     },
     {
       "name":"英特尔发布面向移动和桌面平台的Comet Lake vPro处理器",
@@ -125,10 +133,6 @@
     {
       "name":"哈佛与麻理合作研发新型口罩 可检测新冠病毒",
       "url":"https://www.cnbeta.com/articles/science/978929.htm"
-    },
-    {
-      "name":"新核显加入 十代酷睿轻薄本如何提供多样选择？",
-      "url":"http://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/978713.htm"
     },
     {
       "name":"《花木兰》导演公布刘亦菲试镜视频 眼神清澈纯素颜",
@@ -237,10 +241,6 @@
     {
       "name":"亚马逊要求美国国会通过法律 将国家危机期间哄抬价格的行为认定为非法",
       "url":"https://www.cnbeta.com/articles/tech/978875.htm"
-    },
-    {
-      "name":"华为否认提交给 Linux 内核的不安全补丁 HKSP 来自官方",
-      "url":"https://www.cnbeta.com/articles/tech/978873.htm"
     }
   ]
 }
