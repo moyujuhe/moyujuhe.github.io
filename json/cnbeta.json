@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-14 10:17:39",
+  "time":"2020-05-14 10:21:55",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"国内推出充电桩新技术：电动汽车给电网放电 Model3一天最多能赚50元",
+      "url":"https://www.cnbeta.com/articles/tech/978883.htm"
+    },
+    {
+      "name":"传Powerbeats Pro将发布四款新配色",
+      "url":"https://www.cnbeta.com/articles/tech/978881.htm"
+    },
     {
       "name":"Facebook的AI副总裁炮轰马斯克：不懂人工智能乱说一通",
       "url":"https://www.cnbeta.com/articles/tech/978879.htm"
@@ -233,14 +241,6 @@
     {
       "name":"特斯拉Model X成NASA官方宇航员转运车辆",
       "url":"https://www.cnbeta.com/articles/tech/978767.htm"
-    },
-    {
-      "name":"三星Exynos 880 SoC曝光：双A77大核 集成5G基带",
-      "url":"https://www.cnbeta.com/articles/tech/978765.htm"
-    },
-    {
-      "name":"丰巢收费风波后续：快递柜设备交易额暴涨1400% 小区自费买的",
-      "url":"https://www.cnbeta.com/articles/tech/978763.htm"
     }
   ]
 }
