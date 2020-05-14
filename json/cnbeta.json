@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-14 10:34:44",
+  "time":"2020-05-14 10:39:02",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"信通院；4月底全国增值电信业务经营许可企业比上月增长1.61%",
+      "url":"https://www.cnbeta.com/articles/tech/978905.htm"
+    },
+    {
+      "name":"靠化石能分辨出恐龙是雄性还是雌性吗？很难",
+      "url":"https://www.cnbeta.com/articles/science/978903.htm"
+    },
     {
       "name":"累计测试76款 中保研：全球车型在中美市场安全性能表现差距依然存在",
       "url":"https://www.cnbeta.com/articles/tech/978901.htm"
@@ -233,14 +241,6 @@
     {
       "name":"三星有望为现代提供固态电池：续航800公里 充电循环次数超1000次",
       "url":"https://www.cnbeta.com/articles/tech/978789.htm"
-    },
-    {
-      "name":"福奇谈新冠疫苗：单一疫苗无法满足需求 应协调多种临床试验",
-      "url":"https://www.cnbeta.com/articles/science/978787.htm"
-    },
-    {
-      "name":"国家邮政局：提倡使用智能快件箱投递 但应与收件人电话联系",
-      "url":"https://www.cnbeta.com/articles/tech/978785.htm"
     }
   ]
 }
