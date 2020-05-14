@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-14 08:34:44",
+  "time":"2020-05-14 08:39:01",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软与 Redis Labs 达成合作，以改善Redis的Azure缓存",
+      "url":"https://www.cnbeta.com/articles/tech/978829.htm"
+    },
     {
       "name":"谷歌收购Fitbit再引担忧 欧盟消费者组织发出警告",
       "url":"https://www.cnbeta.com/articles/tech/978827.htm"
@@ -237,10 +241,6 @@
     {
       "name":"谷歌遭维权机构投诉：非法跟踪安卓手机用户",
       "url":"https://www.cnbeta.com/articles/tech/978711.htm"
-    },
-    {
-      "name":"亚马逊发布两款新Fire平板电脑 起始售价90美元",
-      "url":"https://www.cnbeta.com/articles/tech/978709.htm"
     }
   ]
 }
