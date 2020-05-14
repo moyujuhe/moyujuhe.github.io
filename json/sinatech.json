@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-14 22:20:47",
+  "time":"2020-05-14 22:33:50",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"小米股权曝光：雷军持股27% 完成31亿港元股权回购",
+      "url":"http://tech.sina.com.cn/csj/2020-05-14/doc-iircuyvi3139015.shtml"
+    },
     {
       "name":"英伟达推出云原生支持的开发者套件 性能提升10倍",
       "url":"https://tech.sina.com.cn/n/k/2020-05-14/doc-iirczymk1666455.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"肥宅快乐，腾讯快乐",
       "url":"https://tech.sina.com.cn/i/2020-05-14/doc-iircuyvi3080120.shtml"
-    },
-    {
-      "name":"商务部：第二届“双品网购节”总销售额达1825亿元",
-      "url":"https://tech.sina.com.cn/roll/2020-05-14/doc-iircuyvi3080101.shtml"
     }
   ]
 }
