@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 07:05:34",
+  "time":"2020-05-15 07:09:40",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"特斯拉弗里蒙特工厂遭当地警察局检查",
+      "url":"https://www.cnbeta.com/articles/tech/979245.htm"
     },
     {
       "name":"Google Pixel：不缺大神，只缺心眼",
@@ -237,10 +241,6 @@
     {
       "name":"AMD 64核锐龙CPU搭配Radeon显卡有奇效 渲染性能提升100%",
       "url":"https://www.cnbeta.com/articles/tech/979131.htm"
-    },
-    {
-      "name":"特斯拉将下调中国长续航版Model 3价格",
-      "url":"https://www.cnbeta.com/articles/tech/979129.htm"
     }
   ]
 }
