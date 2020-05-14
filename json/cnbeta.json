@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 13:57:00",
+  "time":"2020-05-14 14:01:30",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"董明珠：保修是最坏的服务 最好的产品压根不会坏",
+      "url":"https://www.cnbeta.com/articles/tech/978989.htm"
     },
     {
       "name":"大众集团CEO：欧美将严重衰退 中国是大众的希望之光",
@@ -237,10 +241,6 @@
     {
       "name":"华为否认提交给 Linux 内核的不安全补丁 HKSP 来自官方",
       "url":"https://www.cnbeta.com/articles/tech/978873.htm"
-    },
-    {
-      "name":"微软否认要收购激光投影专利巨头MicroVision",
-      "url":"https://www.cnbeta.com/articles/tech/978871.htm"
     }
   ]
 }
