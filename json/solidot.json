@@ -1,7 +1,31 @@
 {
-  "time":"2020-05-14 16:15:43",
+  "time":"2020-05-14 16:20:15",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"微软 Windows 10 开始停止支持 32 位系统",
+      "url":"https://www.solidot.org/story?sid=64361"
+    },
+    {
+      "name":"中国科学家实现量子安全时间传递原理性实验验证",
+      "url":"https://www.solidot.org/story?sid=64360"
+    },
+    {
+      "name":"Google Pixel 高管因 Pixel 4 的失败离职",
+      "url":"https://www.solidot.org/story?sid=64359"
+    },
+    {
+      "name":"美国将继续限制使用华为中兴设备",
+      "url":"https://www.solidot.org/story?sid=64358"
+    },
+    {
+      "name":"虚幻引擎在游戏收入突破百万美元前免版税",
+      "url":"https://www.solidot.org/story?sid=64357"
+    },
+    {
+      "name":"WHO 称控制住疫情可能需要四五年",
+      "url":"https://www.solidot.org/story?sid=64356"
+    },
     {
       "name":"中国学者再次因伪造同行审议被撤稿",
       "url":"https://www.solidot.org/story?sid=64355"
@@ -57,30 +81,6 @@
     {
       "name":"今年高校毕业生超过 850 万",
       "url":"https://www.solidot.org/story?sid=64342"
-    },
-    {
-      "name":"新加坡政府用机器狗提醒居民保持距离",
-      "url":"https://www.solidot.org/story?sid=64341"
-    },
-    {
-      "name":"HKSP事件始末",
-      "url":"https://www.solidot.org/story?sid=64340"
-    },
-    {
-      "name":"数学证明特定类时空是不稳定的",
-      "url":"https://www.solidot.org/story?sid=64338"
-    },
-    {
-      "name":"没有书的未来",
-      "url":"https://www.solidot.org/story?sid=64337"
-    },
-    {
-      "name":"月球仍然在释放碳",
-      "url":"https://www.solidot.org/story?sid=64336"
-    },
-    {
-      "name":"新冠重症化的原因",
-      "url":"https://www.solidot.org/story?sid=64335"
     }
   ]
 }
