@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 12:30:00",
+  "time":"2020-05-14 12:34:14",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"美光正在提升1z纳米DDR4内存的产能",
+      "url":"https://www.cnbeta.com/articles/tech/978973.htm"
     },
     {
       "name":"英特尔发布面向移动和桌面平台的Comet Lake vPro处理器",
@@ -237,10 +241,6 @@
     {
       "name":"“无国界医生”派遣团队前往疫情严重的美国原住民社区",
       "url":"https://www.cnbeta.com/articles/tech/978857.htm"
-    },
-    {
-      "name":"GitHub Desktop 2.5发布 支持Git标签功能",
-      "url":"https://www.cnbeta.com/articles/soft/978855.htm"
     }
   ]
 }
