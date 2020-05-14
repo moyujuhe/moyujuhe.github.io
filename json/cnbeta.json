@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-14 21:15:36",
+  "time":"2020-05-14 21:20:06",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"传Xbox国行将更新修复漏洞 修复后只能使用国行服务器",
+      "url":"https://hot.cnbeta.com/articles/game/979175.htm"
     },
     {
       "name":"facebook联手中国移动建设海底电缆 让更多非洲人上网",
@@ -237,10 +241,6 @@
     {
       "name":"海淀公安分局：对比特大陆抢营业执照员工采取强制措施",
       "url":"https://www.cnbeta.com/articles/tech/979057.htm"
-    },
-    {
-      "name":"微信一年“扫码”8.58万亿元 约占我国GDP 9%",
-      "url":"https://www.cnbeta.com/articles/tech/979055.htm"
     }
   ]
 }
