@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-15 06:20:02",
+  "time":"2020-05-15 06:24:14",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"dc6要比dc9延迟低10ms",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689489&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"淘宝联盟：域名北岸的好消息来了",
@@ -109,10 +113,6 @@
     {
       "name":"epic服务器都给你们漂废了，你们轻点行么！",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689459&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"出一HostYun15.3  70兆",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689458&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
