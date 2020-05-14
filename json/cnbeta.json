@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 01:58:34",
+  "time":"2020-05-15 02:02:53",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"联想宣布推出Think商业电脑新产品 搭载英特尔vPro处理器",
+      "url":"https://www.cnbeta.com/articles/tech/979239.htm"
     },
     {
       "name":"德国大众在80年代设计了最符合空气动力学的汽车",
@@ -237,10 +241,6 @@
     {
       "name":"世界最大显卡被“拆了”：7nm安培核心玉照示人",
       "url":"https://www.cnbeta.com/articles/tech/979125.htm"
-    },
-    {
-      "name":"珠峰测高，这次用上了硬核“黑科技”",
-      "url":"https://www.cnbeta.com/articles/tech/979121.htm"
     }
   ]
 }

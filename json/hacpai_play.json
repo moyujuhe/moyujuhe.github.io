@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-05-15 01:58:35",
+  "time":"2020-05-15 02:02:54",
   "data":[
+    {
+      "name":"20200515 TGIF",
+      "url":"https://hacpai.com/article/1589479363760"
+    },
     {
       "name":"Excelize 发布 2.2.0 版本，Go 语言 Excel 文档基础库",
       "url":"https://hacpai.com/article/1589280593868"
@@ -173,10 +177,6 @@
     {
       "name":"GitHub 获得 1000+ Star 和 10 万字文档的开源数据接口库 AkShare",
       "url":"https://hacpai.com/article/1585063548824"
-    },
-    {
-      "name":"Solo v4.0.0 发布，大量优化并改进 Markdown 支持",
-      "url":"https://hacpai.com/article/1585053206743"
     },
     {
       "name":"开发者福利：免费获取 JetBrains 全家桶",
