@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-14 17:26:16",
+  "time":"2020-05-14 17:30:25",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -219,10 +219,6 @@
       "url":"https://hacpai.com/article/1587629717195"
     },
     {
-      "name":"JavaScript - 是否为负零",
-      "url":"https://hacpai.com/article/1586857301092"
-    },
-    {
       "name":"请问大家如何跟女朋友相处！（回答给大家送积分）",
       "url":"https://hacpai.com/article/1589443634215"
     },
@@ -241,6 +237,10 @@
     {
       "name":"八卦 - 六爻",
       "url":"https://hacpai.com/article/1588496739624"
+    },
+    {
+      "name":"一款生成在线数据库文档的小工具（Golang）",
+      "url":"https://hacpai.com/article/1587970215919"
     }
   ]
 }
