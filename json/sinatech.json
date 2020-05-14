@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-15 07:38:15",
+  "time":"2020-05-15 07:50:11",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"苹果收购虚拟现实公司NextVR 交易估值1亿美元",
+      "url":"https://tech.sina.com.cn/it/2020-05-15/doc-iircuyvi3170493.shtml"
+    },
     {
       "name":"分析师：10.8寸iPad今年发布 苹果眼镜2022年出现",
       "url":"https://tech.sina.com.cn/mobile/n/n/2020-05-15/doc-iirczymk1696854.shtml"
@@ -49,6 +53,10 @@
     {
       "name":"通用汽车旗下自动驾驶公司Cruise宣布裁员8%",
       "url":"https://tech.sina.com.cn/it/2020-05-15/doc-iirczymk1686476.shtml"
+    },
+    {
+      "name":"自动驾驶汽车首次驶上主城区市政道路",
+      "url":"https://tech.sina.com.cn/roll/2020-05-15/doc-iircuyvi3157310.shtml"
     },
     {
       "name":"第二届“双品网购节”销售额达1825亿元",
@@ -193,14 +201,6 @@
     {
       "name":"贾跃亭还未回国，乐视网已终止上市",
       "url":"https://tech.sina.com.cn/i/2020-05-14/doc-iirczymk1663337.shtml"
-    },
-    {
-      "name":"特斯拉将为国产Model 3引入低成本电池 成本看齐汽油车",
-      "url":"https://tech.sina.com.cn/it/2020-05-14/doc-iirczymk1662547.shtml"
-    },
-    {
-      "name":"优爱腾能从“超前点播”捞到多少钱？",
-      "url":"https://tech.sina.com.cn/i/2020-05-14/doc-iircuyvi3134349.shtml"
     }
   ]
 }
