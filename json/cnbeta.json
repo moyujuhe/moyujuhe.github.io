@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-14 08:43:12",
+  "time":"2020-05-14 08:47:22",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]Windows 10十月更新获累积更新 升至Build 17763.1217",
+      "url":"https://www.cnbeta.com/articles/tech/978835.htm"
+    },
+    {
+      "name":"Loon与Vodacom签署协议  将商业互联网服务扩展到莫桑比克",
+      "url":"https://www.cnbeta.com/articles/tech/978833.htm"
+    },
+    {
+      "name":"Garmin为自行车骑行车推两款新后视雷达产品",
+      "url":"https://www.cnbeta.com/articles/tech/978831.htm"
+    },
     {
       "name":"微软与 Redis Labs 达成合作，以改善Redis的Azure缓存",
       "url":"https://www.cnbeta.com/articles/tech/978829.htm"
@@ -229,18 +241,6 @@
     {
       "name":"PS官博公布《最后的生还者2》幕后开发视频",
       "url":"https://hot.cnbeta.com/articles/game/978719.htm"
-    },
-    {
-      "name":"全平台都有 2K官方公布《黑手党：三部曲》",
-      "url":"https://hot.cnbeta.com/articles/game/978717.htm"
-    },
-    {
-      "name":"这就是次世代！PS5+虚幻引擎5实机Demo演示公开",
-      "url":"https://hot.cnbeta.com/articles/game/978715.htm"
-    },
-    {
-      "name":"谷歌遭维权机构投诉：非法跟踪安卓手机用户",
-      "url":"https://www.cnbeta.com/articles/tech/978711.htm"
     }
   ]
 }
