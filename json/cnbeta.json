@@ -1,7 +1,27 @@
 {
-  "time":"2020-05-14 10:26:16",
+  "time":"2020-05-14 10:30:27",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"2020 OSSRA 报告：91%的商业 App 包含过时或废弃的开源组件",
+      "url":"https://www.cnbeta.com/articles/tech/978895.htm"
+    },
+    {
+      "name":"AMD新款APU曝光 或被微软Surface新机采用",
+      "url":"https://www.cnbeta.com/articles/tech/978893.htm"
+    },
+    {
+      "name":"腾讯发力：Switch爆款游戏《健身环大冒险》国行版将推出",
+      "url":"https://hot.cnbeta.com/articles/game/978891.htm"
+    },
+    {
+      "name":"NASA资助的四项研究将调查新冠大流行对地球的影响",
+      "url":"https://www.cnbeta.com/articles/science/978889.htm"
+    },
+    {
+      "name":"和AI打完王者荣耀之后 我决定卸载游戏",
+      "url":"https://hot.cnbeta.com/articles/game/978887.htm"
+    },
     {
       "name":"[图]90岁高龄老奶奶获吉尼斯世界认证--最年长游戏主播",
       "url":"https://www.cnbeta.com/articles/tech/978885.htm"
@@ -221,26 +241,6 @@
     {
       "name":"中国团队发现新蝙蝠冠状病毒 力证新冠起源于自然",
       "url":"https://www.cnbeta.com/articles/science/978779.htm"
-    },
-    {
-      "name":"PS5虚幻5演示采用动态分辨率 多数时间维持在1440P",
-      "url":"https://hot.cnbeta.com/articles/game/978777.htm"
-    },
-    {
-      "name":"Epic Games CEO表示 PS5 SSD远远领先于高端PC",
-      "url":"https://hot.cnbeta.com/articles/game/978775.htm"
-    },
-    {
-      "name":"[多图]4款家用血糖仪、尿酸仪对比评测",
-      "url":"https://www.cnbeta.com/articles/tech/978773.htm"
-    },
-    {
-      "name":"私募投资B站巨亏疑云：股票暴涨1.5倍 基金净值仅剩三成",
-      "url":"https://www.cnbeta.com/articles/tech/978771.htm"
-    },
-    {
-      "name":"台积电已推出新一代晶圆级IPD技术 用于5G移动设备",
-      "url":"https://www.cnbeta.com/articles/tech/978769.htm"
     }
   ]
 }
