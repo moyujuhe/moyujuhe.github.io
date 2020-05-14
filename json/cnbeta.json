@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 15:37:08",
+  "time":"2020-05-14 15:41:28",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"虎扑据悉寻求在新一轮融资中筹集约1亿美元 最早年底上市",
+      "url":"https://www.cnbeta.com/articles/tech/979067.htm"
     },
     {
       "name":"Realme TV仓库谍照：包装证实屏幕规格为43英寸",
@@ -237,10 +241,6 @@
     {
       "name":"美国医生发现又一种有前景的新冠肺炎治疗方法",
       "url":"https://www.cnbeta.com/articles/tech/978953.htm"
-    },
-    {
-      "name":"Deno 1.0 发布",
-      "url":"https://www.cnbeta.com/articles/tech/978951.htm"
     }
   ]
 }
