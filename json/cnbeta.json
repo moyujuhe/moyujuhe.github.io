@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-14 15:28:27",
+  "time":"2020-05-14 15:32:56",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"美政府叫停比尔·盖茨资助的病毒检测项目 恢复时间不明",
+      "url":"https://www.cnbeta.com/articles/tech/979059.htm"
+    },
+    {
+      "name":"海淀公安分局：对比特大陆抢营业执照员工采取强制措施",
+      "url":"https://www.cnbeta.com/articles/tech/979057.htm"
+    },
+    {
+      "name":"微信一年“扫码”8.58万亿元 约占我国GDP 9%",
+      "url":"https://www.cnbeta.com/articles/tech/979055.htm"
     },
     {
       "name":"最高3.7万元 戴尔XPS 15/17国内发布：8核i9+4K屏",
@@ -31,6 +43,10 @@
       "url":"https://www.cnbeta.com/articles/tech/979043.htm"
     },
     {
+      "name":"新核显加入 十代酷睿轻薄本如何提供多样选择？",
+      "url":"http://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/978713.htm"
+    },
+    {
       "name":"亚马逊收购电影院AMC？贝索斯要的是《绝命毒师》AMC",
       "url":"https://hot.cnbeta.com/articles/movie/979041.htm"
     },
@@ -49,10 +65,6 @@
     {
       "name":"罗伯特·帕丁森谈诺兰新片《信条》：没有时间旅行",
       "url":"https://hot.cnbeta.com/articles/movie/979033.htm"
-    },
-    {
-      "name":"新核显加入 十代酷睿轻薄本如何提供多样选择？",
-      "url":"http://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/978713.htm"
     },
     {
       "name":"奉俊昊同名电影改编 剧版《雪国列车》正式预告放出",
@@ -77,6 +89,10 @@
     {
       "name":"[图]LibreOffice 7.0首个版本发布：增强和微软Office文档兼容性",
       "url":"https://www.cnbeta.com/articles/tech/979021.htm"
+    },
+    {
+      "name":"外媒实测证明一加8 Pro摄像头模组可透视物体 红外滤镜要背锅",
+      "url":"https://www.cnbeta.com/articles/tech/978965.htm"
     },
     {
       "name":"缺钱？马斯克再挂牌售加州5处房产 要价1亿美元",
@@ -187,10 +203,6 @@
       "url":"https://www.cnbeta.com/articles/tech/978967.htm"
     },
     {
-      "name":"外媒实测证明一加8 Pro摄像头模组可透视物体 红外滤镜要背锅",
-      "url":"https://www.cnbeta.com/articles/tech/978965.htm"
-    },
-    {
       "name":"机智的波士顿警察利用手机里的求偶鸣叫声引诱逃跑的孔雀",
       "url":"https://hot.cnbeta.com/articles/funny/978963.htm"
     },
@@ -229,18 +241,6 @@
     {
       "name":"科学家们尝试通过基因改造雄蚊来消灭雌蚊",
       "url":"https://www.cnbeta.com/articles/science/978943.htm"
-    },
-    {
-      "name":"微软解释安全核心如何帮助Windows PC抵御Thunderspy等攻击",
-      "url":"https://www.cnbeta.com/articles/tech/978941.htm"
-    },
-    {
-      "name":"物业停机、丰巢不服，智能快递柜还是一门好生意么？",
-      "url":"https://www.cnbeta.com/articles/tech/978939.htm"
-    },
-    {
-      "name":"《暗黑3》早期开发版新截图 浓浓的哥特式暗黑气息",
-      "url":"https://hot.cnbeta.com/articles/game/978937.htm"
     }
   ]
 }
