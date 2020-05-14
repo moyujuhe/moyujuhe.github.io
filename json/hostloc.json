@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-15 00:13:34",
+  "time":"2020-05-15 00:17:49",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"垃圾思州，能用枪解决的绝不用炮",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689471&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"搬瓦工v3 cn2 gia套餐补货了",
@@ -109,10 +113,6 @@
     {
       "name":"出个传家宝Hostdare-GIA Openvz",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689444&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"vultr添加主机，变成了添加dns，真不方便。",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689443&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
