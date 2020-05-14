@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-14 09:25:04",
+  "time":"2020-05-14 09:29:17",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]Windows 10 Build 19628发布：初步支持DNS over HTTPS",
+      "url":"https://www.cnbeta.com/articles/tech/978853.htm"
+    },
+    {
+      "name":"法国将强制要求社交网络巨头在1小时内删除恐怖主义等内容",
+      "url":"https://www.cnbeta.com/articles/tech/978851.htm"
+    },
     {
       "name":"特斯拉内华达州超级工厂重新开门投产",
       "url":"https://www.cnbeta.com/articles/tech/978849.htm"
@@ -233,14 +241,6 @@
     {
       "name":"虚幻引擎5全球首秀：专为新主机+AMD架构优化、无需光追硬件",
       "url":"https://hot.cnbeta.com/articles/game/978737.htm"
-    },
-    {
-      "name":"寒武纪是如何与英伟达和华为海思较劲的？",
-      "url":"https://www.cnbeta.com/articles/tech/978735.htm"
-    },
-    {
-      "name":"最冷清的应用商店 - 为何Windows 10商店无人问津？",
-      "url":"https://www.cnbeta.com/articles/tech/978733.htm"
     }
   ]
 }
