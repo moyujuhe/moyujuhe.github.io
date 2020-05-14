@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 08:55:52",
+  "time":"2020-05-14 08:59:59",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"出点ucloud",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689026&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"复制文件SHA256值有可能会变吗？不懂就问系列",
@@ -109,10 +113,6 @@
     {
       "name":"惊了，现在都开始有300G的带宽了...",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688998&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"有什么方案可以解决N个WP建的站的源码和插件批量更新？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=688996&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
