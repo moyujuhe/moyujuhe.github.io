@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 10:04:16",
+  "time":"2020-05-14 10:08:28",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"宝塔备份添加压缩密码",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689072&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"华硕发布AX86U Wi-Fi 6路由器：首发1499元，2.5G网口/双频5700M",
@@ -109,10 +113,6 @@
     {
       "name":"ucloud能不能DDwindows2003",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689038&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"原价租几台KS10或KS3C",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689037&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
