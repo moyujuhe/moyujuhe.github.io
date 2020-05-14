@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 14:14:45",
+  "time":"2020-05-14 14:19:23",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"昨日国内特斯拉App宕机 众多车主体验“黑屏”盲驾",
+      "url":"https://www.cnbeta.com/articles/tech/979011.htm"
     },
     {
       "name":"港大团队构建全球首个蝙蝠肠道类器官  证实新冠能够感染肠道",
@@ -237,10 +241,6 @@
     {
       "name":"2020 OSSRA 报告：91%的商业 App 包含过时或废弃的开源组件",
       "url":"https://www.cnbeta.com/articles/tech/978895.htm"
-    },
-    {
-      "name":"AMD新款APU曝光 或被微软Surface新机采用",
-      "url":"https://www.cnbeta.com/articles/tech/978893.htm"
     }
   ]
 }
