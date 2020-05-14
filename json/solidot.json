@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-14 22:45:59",
+  "time":"2020-05-14 22:50:41",
   "title":"奇客的资讯",
   "data":[
     {
@@ -9,6 +9,18 @@
     {
       "name":"Google Chrome 加入标签组功能",
       "url":"https://www.solidot.org/story?sid=64366"
+    },
+    {
+      "name":"印度加强外资审查影响中国公司的扩张计划",
+      "url":"https://www.solidot.org/story?sid=64365"
+    },
+    {
+      "name":"Windows 初步加入对 DNS-over-HTTPS (DoH) 的支持",
+      "url":"https://www.solidot.org/story?sid=64364"
+    },
+    {
+      "name":"中世纪箭造成的伤口类似现代枪",
+      "url":"https://www.solidot.org/story?sid=64363"
     },
     {
       "name":"微软 Windows 10 开始停止支持 32 位系统",
@@ -69,18 +81,6 @@
     {
       "name":"疫情将会如何结束",
       "url":"https://www.solidot.org/story?sid=64347"
-    },
-    {
-      "name":"俄罗斯的一枚火箭在轨道上肢解",
-      "url":"https://www.solidot.org/story?sid=64346"
-    },
-    {
-      "name":"Twitter 将永久性允许雇员在家办公",
-      "url":"https://www.solidot.org/story?sid=64345"
-    },
-    {
-      "name":"为什么聪明的人也相信假消息",
-      "url":"https://www.solidot.org/story?sid=64344"
     }
   ]
 }
