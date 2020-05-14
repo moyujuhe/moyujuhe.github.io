@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 03:38:58",
+  "time":"2020-05-15 03:43:08",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"Google Pixel：不缺大神，只缺心眼",
+      "url":"https://www.cnbeta.com/articles/tech/979243.htm"
     },
     {
       "name":"英特尔目标是到2030年100%使用可再生能源",
@@ -237,10 +241,6 @@
     {
       "name":"特斯拉将下调中国长续航版Model 3价格",
       "url":"https://www.cnbeta.com/articles/tech/979129.htm"
-    },
-    {
-      "name":"索尼开发出首颗AI图像传感器 可独立执行目标识别、分析",
-      "url":"https://www.cnbeta.com/articles/tech/979127.htm"
     }
   ]
 }
