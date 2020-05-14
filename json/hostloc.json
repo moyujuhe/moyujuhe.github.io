@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 13:52:50",
+  "time":"2020-05-14 13:57:02",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"为啥都放弃了ssr，改用V2了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689204&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"100能收到老伯力吗，ip和tg正常的",
@@ -109,10 +113,6 @@
     {
       "name":"搬瓦工 DC9 CN2 GIA 方案补货！",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689174&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"搬瓦公 DC9 补货了 季付30，年付106刀，2核1G 1T流量 CN2 GIA",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689173&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
