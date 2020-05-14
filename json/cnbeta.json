@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 00:00:33",
+  "time":"2020-05-15 00:04:48",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"苹果超宽带芯片可用于安全快速的短距离网络建设",
+      "url":"https://www.cnbeta.com/articles/tech/979213.htm"
     },
     {
       "name":"业内人士透露Galaxy Note 20和Galaxy Note 20+规格细节",
@@ -237,10 +241,6 @@
     {
       "name":"受疫情影响 索尼2019财年净利润同比下滑36%",
       "url":"https://www.cnbeta.com/articles/tech/979095.htm"
-    },
-    {
-      "name":"新的CRISPR方法可以编辑作物  但在技术上不会使其成为转基因生物",
-      "url":"https://www.cnbeta.com/articles/science/979093.htm"
     }
   ]
 }
