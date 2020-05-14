@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 15:15:32",
+  "time":"2020-05-14 15:19:42",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"新华社：警惕消费券被套现和交易",
+      "url":"https://www.cnbeta.com/articles/tech/979049.htm"
     },
     {
       "name":"MOBA+吃鸡，头条靠这两款手游与腾讯大决战么？",
@@ -237,10 +241,6 @@
     {
       "name":"全国首条5G快速公交智能调度线在广州落地应用",
       "url":"https://www.cnbeta.com/articles/tech/978933.htm"
-    },
-    {
-      "name":"中国应用在全球新兴市场崛起 阿里、头条在印度份额远超美国巨头",
-      "url":"https://www.cnbeta.com/articles/tech/978931.htm"
     }
   ]
 }
