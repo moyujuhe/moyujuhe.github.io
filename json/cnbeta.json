@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-14 14:05:43",
+  "time":"2020-05-14 14:10:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"全球最大卫星服务公司Intelsat因疫情申请破产保护",
+      "url":"https://www.cnbeta.com/articles/science/978997.htm"
+    },
+    {
+      "name":"Epic重磅福利：《GTA5》本周五开始免费送",
+      "url":"https://hot.cnbeta.com/articles/game/978995.htm"
+    },
+    {
+      "name":"MSDN原版ISO镜像下载：Windows 10 v2004五月更新正式版",
+      "url":"https://www.cnbeta.com/articles/tech/978993.htm"
     },
     {
       "name":"从游戏本到台式机 外星人对旗下产品线进行了一次“换药不换汤”的升级",
@@ -229,18 +241,6 @@
     {
       "name":"传Powerbeats Pro将发布四款新配色",
       "url":"https://www.cnbeta.com/articles/tech/978881.htm"
-    },
-    {
-      "name":"Facebook的AI副总裁炮轰马斯克：不懂人工智能乱说一通",
-      "url":"https://www.cnbeta.com/articles/tech/978879.htm"
-    },
-    {
-      "name":"放弃苹果谷歌新冠接触者追踪API 犹他州选择社交初创公司开发应用",
-      "url":"https://www.cnbeta.com/articles/tech/978877.htm"
-    },
-    {
-      "name":"亚马逊要求美国国会通过法律 将国家危机期间哄抬价格的行为认定为非法",
-      "url":"https://www.cnbeta.com/articles/tech/978875.htm"
     }
   ]
 }
