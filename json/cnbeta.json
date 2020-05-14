@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-14 09:42:02",
+  "time":"2020-05-14 09:46:53",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"“无国界医生”派遣团队前往疫情严重的美国原住民社区",
+      "url":"https://www.cnbeta.com/articles/tech/978857.htm"
+    },
+    {
+      "name":"GitHub Desktop 2.5发布 支持Git标签功能",
+      "url":"https://www.cnbeta.com/articles/soft/978855.htm"
+    },
     {
       "name":"[图]Windows 10 Build 19628发布：初步支持DNS over HTTPS",
       "url":"https://www.cnbeta.com/articles/tech/978853.htm"
@@ -233,14 +241,6 @@
     {
       "name":"时隔十年戴尔XPS 17回归 最高八核i9、几无边框",
       "url":"https://www.cnbeta.com/articles/tech/978741.htm"
-    },
-    {
-      "name":"Lucid展示其Lucid Air电动汽车测试版原型车队",
-      "url":"https://www.cnbeta.com/articles/tech/978739.htm"
-    },
-    {
-      "name":"虚幻引擎5全球首秀：专为新主机+AMD架构优化、无需光追硬件",
-      "url":"https://hot.cnbeta.com/articles/game/978737.htm"
     }
   ]
 }

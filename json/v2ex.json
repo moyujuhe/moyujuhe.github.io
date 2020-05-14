@@ -1,30 +1,34 @@
 {
-  "time":"2020-05-14 09:42:04",
+  "time":"2020-05-14 09:46:54",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"当身体出现了这个信号，请立马停下你手中的代码",
-      "url":"https://www.v2ex.com/t/671448#reply47"
+      "url":"https://www.v2ex.com/t/671448#reply50"
     },
     {
       "name":"Deno 1.0",
       "url":"https://www.v2ex.com/t/671449#reply27"
     },
     {
+      "name":"想讨论一下关于苹果教这类的社会现象。",
+      "url":"https://www.v2ex.com/t/671461#reply20"
+    },
+    {
       "name":"问，如何有成效的提高自己的小酒量？",
       "url":"https://www.v2ex.com/t/671453#reply19"
     },
     {
-      "name":"想讨论一下关于苹果教这类的社会现象。",
-      "url":"https://www.v2ex.com/t/671461#reply16"
-    },
-    {
       "name":"入职后发现薪资没达到承诺的水平该怎么办",
-      "url":"https://www.v2ex.com/t/671454#reply15"
+      "url":"https://www.v2ex.com/t/671454#reply17"
     },
     {
       "name":"MacBookPro 的正确使用姿势？",
-      "url":"https://www.v2ex.com/t/671456#reply14"
+      "url":"https://www.v2ex.com/t/671456#reply17"
+    },
+    {
+      "name":"想换个城市发展，后端 Java 程序员去杭州还是上海好？",
+      "url":"https://www.v2ex.com/t/671471#reply9"
     },
     {
       "name":"中学时代买过的二手数码产品？",
@@ -35,20 +39,16 @@
       "url":"https://www.v2ex.com/t/671452#reply7"
     },
     {
-      "name":"想换个城市发展，后端 Java 程序员去杭州还是上海好？",
-      "url":"https://www.v2ex.com/t/671471#reply7"
+      "name":"Service 调用问题",
+      "url":"https://www.v2ex.com/t/671464#reply7"
     },
     {
-      "name":"Service 调用问题",
-      "url":"https://www.v2ex.com/t/671464#reply6"
+      "name":"工作中做 ppt 的场合多吗？什么样的 ppt 是有效且受欢迎的？",
+      "url":"https://www.v2ex.com/t/671465#reply6"
     },
     {
       "name":"Canvas 实现图片粒子汇聚效果（可有偿）",
       "url":"https://www.v2ex.com/t/671451#reply5"
-    },
-    {
-      "name":"工作中做 ppt 的场合多吗？什么样的 ppt 是有效且受欢迎的？",
-      "url":"https://www.v2ex.com/t/671465#reply5"
     },
     {
       "name":"付费请教前端和 Chrome 插件问题",
@@ -56,19 +56,19 @@
     },
     {
       "name":"谁知道 idea 每年的三个版本有啥区别",
-      "url":"https://www.v2ex.com/t/671462#reply3"
+      "url":"https://www.v2ex.com/t/671462#reply4"
     },
     {
       "name":"最近在学习用 Django 做网站，遇到一个数据库设计的问题。作者表和文章表之间要加一个中间表存放两者关系吗？",
       "url":"https://www.v2ex.com/t/671466#reply3"
     },
     {
-      "name":"MBP16 2019 又翻车了，突然无响应+风扇狂转+重启，而且盒盖睡眠发热",
-      "url":"https://www.v2ex.com/t/671459#reply2"
+      "name":"同步本地修改的文件到远程服务器除了 rsync 还有什么好用的工具吗？",
+      "url":"https://www.v2ex.com/t/671470#reply3"
     },
     {
-      "name":"被降权后 @livid，他还能看到我 @他吗？",
-      "url":"https://www.v2ex.com/t/671463#reply2"
+      "name":"MBP16 2019 又翻车了，突然无响应+风扇狂转+重启，而且盒盖睡眠发热",
+      "url":"https://www.v2ex.com/t/671459#reply2"
     },
     {
       "name":"这段时间机场的端口一直被封？",
@@ -77,6 +77,10 @@
     {
       "name":"今天把用了月余的 10.15.4 降回 10.14.6 了",
       "url":"https://www.v2ex.com/t/671473#reply1"
+    },
+    {
+      "name":"mysql 中普通索引和唯一索引可以设置在同一列吗",
+      "url":"https://www.v2ex.com/t/671474#reply1"
     },
     {
       "name":"django 连接 oracle 执行 pl_sql 语句，是否能获取控制台打印信息？",
@@ -91,12 +95,16 @@
       "url":"https://www.v2ex.com/t/671468#reply0"
     },
     {
-      "name":"同步本地修改的文件到远程服务器除了 rsync 还有什么好用的工具吗？",
-      "url":"https://www.v2ex.com/t/671470#reply0"
-    },
-    {
       "name":"使用 uBlacklist 扩展，怎么移除搜索中带数字的网站",
       "url":"https://www.v2ex.com/t/671472#reply0"
+    },
+    {
+      "name":"请教一下，这种 sql 怎么写",
+      "url":"https://www.v2ex.com/t/671477#reply0"
+    },
+    {
+      "name":"女朋友没有共情能力？还是我太玻璃心",
+      "url":"https://www.v2ex.com/t/671479#reply0"
     }
   ]
 }

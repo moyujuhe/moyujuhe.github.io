@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-14 09:29:42",
+  "time":"2020-05-14 09:41:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"马斯克再挂牌出售5所房产 总价值近亿美元",
+      "url":"https://tech.sina.com.cn/it/2020-05-14/doc-iircuyvi3003718.shtml"
+    },
     {
       "name":"腾讯业绩超预期股价大涨 市值4.24万亿港元超越阿里巴巴",
       "url":"https://tech.sina.com.cn/i/2020-05-14/doc-iircuyvi3000162.shtml"
@@ -135,6 +139,10 @@
       "url":"https://tech.sina.com.cn/i/2020-05-14/doc-iirczymk1508252.shtml"
     },
     {
+      "name":"特斯拉Model X成NASA官方宇航员转运车辆",
+      "url":"https://tech.sina.com.cn/roll/2020-05-14/doc-iircuyvi2970501.shtml"
+    },
+    {
       "name":"台积电已推出新一代晶圆级IPD技术 用于5G移动设备",
       "url":"https://tech.sina.com.cn/it/2020-05-14/doc-iircuyvi2978685.shtml"
     },
@@ -193,14 +201,6 @@
     {
       "name":"比尔盖茨资助居家新冠检测计划 可每天检测300人次",
       "url":"https://tech.sina.com.cn/it/2020-05-14/doc-iircuyvi2971939.shtml"
-    },
-    {
-      "name":"疫情促进人脸识别技术在日应用",
-      "url":"https://tech.sina.com.cn/d/2020-05-14/doc-iircuyvi2963699.shtml"
-    },
-    {
-      "name":"腾讯一季度营收破千亿 游戏业务继续“印钞”",
-      "url":"https://tech.sina.com.cn/i/2020-05-14/doc-iirczymk1492151.shtml"
     }
   ]
 }
