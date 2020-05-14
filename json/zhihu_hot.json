@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-14 20:49:40",
+  "time":"2020-05-14 20:53:53",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -35,12 +35,12 @@
       "url":"https://www.zhihu.com/question/393624999"
     },
     {
-      "name":"怎么评价文章《腾讯的背水一战》？",
-      "url":"https://www.zhihu.com/question/394464449"
-    },
-    {
       "name":"开车撞人了，已垫付7500元，对方让我继续垫付，该怎么办？",
       "url":"https://www.zhihu.com/question/359006672"
+    },
+    {
+      "name":"怎么评价文章《腾讯的背水一战》？",
+      "url":"https://www.zhihu.com/question/394464449"
     },
     {
       "name":"六个月的孩子气性特别大，只要不顺着他的意，就干嚎，该怎么教育？",
@@ -131,16 +131,16 @@
       "url":"https://www.zhihu.com/question/394585260"
     },
     {
-      "name":"为什么多家官媒都和薇娅合作，而李佳琦只有央视？",
-      "url":"https://www.zhihu.com/question/394182904"
-    },
-    {
       "name":"如何看待徐晓东约战一龙，后者报警？",
       "url":"https://www.zhihu.com/question/394673169"
     },
     {
       "name":"想要旅行结婚，省钱又省事，男朋友和公婆接受不了，我该怎么办?大家是如何看待这个问题的呢？",
       "url":"https://www.zhihu.com/question/392969737"
+    },
+    {
+      "name":"为什么多家官媒都和薇娅合作，而李佳琦只有央视？",
+      "url":"https://www.zhihu.com/question/394182904"
     },
     {
       "name":"《英雄联盟》的钻石选手真的能够随便打赢白银局吗？",
@@ -163,20 +163,16 @@
       "url":"https://www.zhihu.com/question/393916479"
     },
     {
-      "name":"如何看待 n 号房创建人身份及照片被公开？这类罪犯信息公示有什么作用？有威慑力吗？",
-      "url":"https://www.zhihu.com/question/394725223"
-    },
-    {
       "name":"如何看待高中生历时 3 年，在游戏中复制出自己的母校？",
       "url":"https://www.zhihu.com/question/394704805"
     },
     {
-      "name":"有直角肩是什么样的体验?",
-      "url":"https://www.zhihu.com/question/309064509"
-    },
-    {
       "name":"如何看待IG管理层内线爆料反而“洗白”JKL的声誉？",
       "url":"https://www.zhihu.com/question/394663909"
+    },
+    {
+      "name":"有直角肩是什么样的体验?",
+      "url":"https://www.zhihu.com/question/309064509"
     },
     {
       "name":"以王垠的水平，他可以开发出像 nginx 和 redis 这样的软件吗？",
@@ -185,10 +181,6 @@
     {
       "name":"EPIC做过什么恶？",
       "url":"https://www.zhihu.com/question/385687554"
-    },
-    {
-      "name":"如何评价 5 月 14 日发布的 17 英寸戴尔 XPS 17 2020 款?",
-      "url":"https://www.zhihu.com/question/394673307"
     },
     {
       "name":"荣耀 30 Pro+ 的屏幕到底怎么样？",
@@ -201,6 +193,14 @@
     {
       "name":"有哪些与爱情有关的心理学知识？",
       "url":"https://www.zhihu.com/question/322705466"
+    },
+    {
+      "name":"如何看待 n 号房创建人身份及照片被公开？这类罪犯信息公示有什么作用？有威慑力吗？",
+      "url":"https://www.zhihu.com/question/394725223"
+    },
+    {
+      "name":"如何评价 5 月 14 日发布的 17 英寸戴尔 XPS 17 2020 款?",
+      "url":"https://www.zhihu.com/question/394673307"
     }
   ]
 }
