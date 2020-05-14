@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 13:40:01",
+  "time":"2020-05-14 13:44:16",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"联想个人云存储迎新版本更新 PC自动备份更方便",
+      "url":"https://www.cnbeta.com/articles/tech/978981.htm"
     },
     {
       "name":"发泡树脂被用于3D打印 烘烤后可让体积暴增40倍",
@@ -237,10 +241,6 @@
     {
       "name":"NASA SpaceX飞船宇航员正式进入飞行前隔离期",
       "url":"https://www.cnbeta.com/articles/science/978865.htm"
-    },
-    {
-      "name":"微软计划在全球范围内重新开放办公室  但称美国新冠数据 “特别令人失望”",
-      "url":"https://www.cnbeta.com/articles/tech/978863.htm"
     }
   ]
 }
