@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-14 17:17:22",
+  "time":"2020-05-14 17:21:57",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"特斯拉将下调中国长续航版Model 3价格",
+      "url":"https://www.cnbeta.com/articles/tech/979129.htm"
+    },
+    {
+      "name":"索尼开发出首颗AI图像传感器 可独立执行目标识别、分析",
+      "url":"https://www.cnbeta.com/articles/tech/979127.htm"
+    },
+    {
+      "name":"世界最大显卡被“拆了”：7nm安培核心玉照示人",
+      "url":"https://www.cnbeta.com/articles/tech/979125.htm"
     },
     {
       "name":"珠峰测高，这次用上了硬核“黑科技”",
@@ -229,18 +241,6 @@
     {
       "name":"经典再现！《跑跑卡丁车：漂移》第二轮封测6月4日开启",
       "url":"https://hot.cnbeta.com/articles/game/979013.htm"
-    },
-    {
-      "name":"昨日国内特斯拉App宕机 众多车主体验“黑屏”盲驾",
-      "url":"https://www.cnbeta.com/articles/tech/979011.htm"
-    },
-    {
-      "name":"港大团队构建全球首个蝙蝠肠道类器官  证实新冠能够感染肠道",
-      "url":"https://www.cnbeta.com/articles/science/979009.htm"
-    },
-    {
-      "name":"马斯克公然叫板政府 谁给了特斯拉强行复工的勇气？",
-      "url":"https://www.cnbeta.com/articles/tech/979007.htm"
     }
   ]
 }
