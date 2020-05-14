@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 17:38:45",
+  "time":"2020-05-14 17:43:21",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"收gitHub闲置老号",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689322&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"办瓦工是不是鸡界k2p",
@@ -109,10 +113,6 @@
     {
       "name":"vultr能超过Linode或者达到同等水平了吗",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689291&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"之前6.6的Yandex中级成品号忘记上车了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689288&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
