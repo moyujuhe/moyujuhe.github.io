@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-14 21:52:08",
+  "time":"2020-05-14 21:56:38",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"NVIDIA为《我的世界》RTX版新增5个全新光追地图",
+      "url":"https://hot.cnbeta.com/articles/game/979195.htm"
     },
     {
       "name":"NVIDIA发布7nm安培：540亿晶体管核弹、GPU史上最大性能飞跃",
@@ -237,10 +241,6 @@
     {
       "name":"网络平台竞价转让空客A320机身 底价仅为475万元",
       "url":"https://www.cnbeta.com/articles/tech/979077.htm"
-    },
-    {
-      "name":"Reddit推出基于以太坊的代币 加密货币与《堡垒之夜》子版块正在公测",
-      "url":"https://www.cnbeta.com/articles/tech/979075.htm"
     }
   ]
 }
