@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-14 15:11:20",
+  "time":"2020-05-14 15:15:37",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"设置cnzz后网站打开所有页面都是站长统计页",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689234&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"yandex的实体卡激活到不会来了",
@@ -109,10 +113,6 @@
     {
       "name":"瓦工dc9gia补货了！",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689205&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"为啥都放弃了ssr，改用V2了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689204&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
