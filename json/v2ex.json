@@ -1,30 +1,30 @@
 {
-  "time":"2020-05-14 09:33:30",
+  "time":"2020-05-14 09:37:55",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"当身体出现了这个信号，请立马停下你手中的代码",
-      "url":"https://www.v2ex.com/t/671448#reply42"
+      "url":"https://www.v2ex.com/t/671448#reply43"
     },
     {
       "name":"Deno 1.0",
-      "url":"https://www.v2ex.com/t/671449#reply21"
+      "url":"https://www.v2ex.com/t/671449#reply24"
     },
     {
       "name":"问，如何有成效的提高自己的小酒量？",
-      "url":"https://www.v2ex.com/t/671453#reply18"
+      "url":"https://www.v2ex.com/t/671453#reply19"
+    },
+    {
+      "name":"入职后发现薪资没达到承诺的水平该怎么办",
+      "url":"https://www.v2ex.com/t/671454#reply14"
     },
     {
       "name":"MacBookPro 的正确使用姿势？",
       "url":"https://www.v2ex.com/t/671456#reply14"
     },
     {
-      "name":"入职后发现薪资没达到承诺的水平该怎么办",
-      "url":"https://www.v2ex.com/t/671454#reply13"
-    },
-    {
       "name":"想讨论一下关于苹果教这类的社会现象。",
-      "url":"https://www.v2ex.com/t/671461#reply11"
+      "url":"https://www.v2ex.com/t/671461#reply13"
     },
     {
       "name":"中学时代买过的二手数码产品？",
@@ -63,12 +63,16 @@
       "url":"https://www.v2ex.com/t/671459#reply2"
     },
     {
-      "name":"django 连接 oracle 执行 pl_sql 语句，是否能获取控制台打印信息？",
-      "url":"https://www.v2ex.com/t/671460#reply0"
+      "name":"想换个城市发展，后端 Java 程序员去杭州还是上海好？",
+      "url":"https://www.v2ex.com/t/671471#reply2"
     },
     {
       "name":"被降权后 @livid，他还能看到我 @他吗？",
-      "url":"https://www.v2ex.com/t/671463#reply0"
+      "url":"https://www.v2ex.com/t/671463#reply1"
+    },
+    {
+      "name":"django 连接 oracle 执行 pl_sql 语句，是否能获取控制台打印信息？",
+      "url":"https://www.v2ex.com/t/671460#reply0"
     },
     {
       "name":"MBP 2013 款，自动切换显卡后，屏幕一闪一闪的，这是哪里出问题了啊？",
@@ -85,6 +89,10 @@
     {
       "name":"同步本地修改的文件到远程服务器除了 rsync 还有什么好用的工具吗？",
       "url":"https://www.v2ex.com/t/671470#reply0"
+    },
+    {
+      "name":"使用 uBlacklist 扩展，怎么移除搜索中带数字的网站",
+      "url":"https://www.v2ex.com/t/671472#reply0"
     }
   ]
 }
