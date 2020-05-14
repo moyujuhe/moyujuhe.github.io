@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-14 08:00:14",
+  "time":"2020-05-14 08:04:55",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]Windows 10 May 2020启用新功能：阻止PC安装PUA应用",
+      "url":"https://www.cnbeta.com/articles/tech/978799.htm"
+    },
     {
       "name":"思科第三财季营收120亿美元，净利润28亿美元",
       "url":"https://www.cnbeta.com/articles/tech/978797.htm"
@@ -237,10 +241,6 @@
     {
       "name":"菲尔·斯宾塞：疫情对游戏业的影响将在2021年显现",
       "url":"https://hot.cnbeta.com/articles/game/978679.htm"
-    },
-    {
-      "name":"卡梅隆：《阿凡达2》能够做到如期上映",
-      "url":"https://hot.cnbeta.com/articles/movie/978677.htm"
     }
   ]
 }
