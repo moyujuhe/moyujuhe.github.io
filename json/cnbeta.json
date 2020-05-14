@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 01:19:45",
+  "time":"2020-05-15 01:24:02",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"哈佛大学研究人员开发软质外衣 可以帮助中风患者行走",
+      "url":"https://www.cnbeta.com/articles/tech/979229.htm"
     },
     {
       "name":"英伟达发布超级计算机：两个64核霄龙处理器 售141万元",
@@ -237,10 +241,6 @@
     {
       "name":"世界最大主权财富基金遭遇网络攻击：被骗走1000万美元",
       "url":"https://www.cnbeta.com/articles/tech/979113.htm"
-    },
-    {
-      "name":"无缘屏下摄像头 三星Galaxy Note 20系列曝光：挖孔屏/120Hz高刷",
-      "url":"https://www.cnbeta.com/articles/tech/979111.htm"
     }
   ]
 }
