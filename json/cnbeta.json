@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 01:37:08",
+  "time":"2020-05-15 01:41:18",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"谷歌否认其多元化计划正在关闭以安抚保守派",
+      "url":"https://www.cnbeta.com/articles/tech/979231.htm"
     },
     {
       "name":"哈佛大学研究人员开发软质外衣 可以帮助中风患者行走",
@@ -237,10 +241,6 @@
     {
       "name":"Realme Buds Air Neo真无线耳机图像曝光",
       "url":"https://www.cnbeta.com/articles/tech/979115.htm"
-    },
-    {
-      "name":"世界最大主权财富基金遭遇网络攻击：被骗走1000万美元",
-      "url":"https://www.cnbeta.com/articles/tech/979113.htm"
     }
   ]
 }
