@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-14 14:41:06",
+  "time":"2020-05-14 14:45:28",
   "title":"cnBeta",
   "data":[
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"[技巧]如何启用Windows 10的DNS over HTTPS功能？",
+      "url":"https://www.cnbeta.com/articles/tech/979025.htm"
+    },
+    {
+      "name":"本田Gold Wing摩托车即将开始支持Android Auto",
+      "url":"https://www.cnbeta.com/articles/tech/979023.htm"
     },
     {
       "name":"[图]LibreOffice 7.0首个版本发布：增强和微软Office文档兼容性",
@@ -233,14 +241,6 @@
     {
       "name":"乐视生态发布声明：贾跃亭早已不实际控制乐视网",
       "url":"https://www.cnbeta.com/articles/tech/978909.htm"
-    },
-    {
-      "name":"《阿凡达》续集新片场照曝光 前作男女主角回归",
-      "url":"https://hot.cnbeta.com/articles/movie/978907.htm"
-    },
-    {
-      "name":"信通院；4月底全国增值电信业务经营许可企业比上月增长1.61%",
-      "url":"https://www.cnbeta.com/articles/tech/978905.htm"
     }
   ]
 }
