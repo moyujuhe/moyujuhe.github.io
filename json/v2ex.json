@@ -1,10 +1,10 @@
 {
-  "time":"2020-05-15 12:02:05",
+  "time":"2020-05-15 12:06:17",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"256 SSD 是不是小了？换成 512 的应该刚好吧，旧 SSD 如何废物利用？",
-      "url":"https://www.v2ex.com/t/671866#reply45"
+      "url":"https://www.v2ex.com/t/671866#reply49"
     },
     {
       "name":"为什么国内有些云厂商支持 CentOS 7 却不支持 CentOS 8？",
@@ -24,7 +24,7 @@
     },
     {
       "name":"网易云音乐的音乐云盘怎么使用？",
-      "url":"https://www.v2ex.com/t/671893#reply19"
+      "url":"https://www.v2ex.com/t/671893#reply20"
     },
     {
       "name":"ant design 和 iView 选择哪个？",
@@ -67,16 +67,20 @@
       "url":"https://www.v2ex.com/t/671870#reply10"
     },
     {
+      "name":"部分程序员对这个社会的认知是不是出现了偏差？",
+      "url":"https://www.v2ex.com/t/671957#reply10"
+    },
+    {
+      "name":"延毕生找工作难度有多大，",
+      "url":"https://www.v2ex.com/t/671910#reply9"
+    },
+    {
       "name":"mysql 中如何查询某列字符串中包含查询的部分字符串",
       "url":"https://www.v2ex.com/t/671916#reply9"
     },
     {
       "name":"技术岗，饿了么和平安怎么选，给的差不多",
       "url":"https://www.v2ex.com/t/671928#reply9"
-    },
-    {
-      "name":"延毕生找工作难度有多大，",
-      "url":"https://www.v2ex.com/t/671910#reply8"
     },
     {
       "name":"[小程序]大头菜估价",
@@ -99,12 +103,12 @@
       "url":"https://www.v2ex.com/t/671924#reply6"
     },
     {
-      "name":"部分程序员对这个社会的认知是不是出现了偏差？",
-      "url":"https://www.v2ex.com/t/671957#reply6"
-    },
-    {
       "name":"阿里 DOH 节点舍近求远",
       "url":"https://www.v2ex.com/t/671871#reply5"
+    },
+    {
+      "name":"Java 有什么实践或设计模式可以用来减少硬编码？",
+      "url":"https://www.v2ex.com/t/671923#reply5"
     },
     {
       "name":"咖喱区家庭会员找车友",
@@ -113,14 +117,6 @@
     {
       "name":"正则切分字符串的问题",
       "url":"https://www.v2ex.com/t/671899#reply4"
-    },
-    {
-      "name":"A 系统通过 REST 接口向 B 系统同步数据，怎么才能保证 A 系统和 B 系统数据实时一致呢？",
-      "url":"https://www.v2ex.com/t/671907#reply4"
-    },
-    {
-      "name":"求助 关于爬虫相关的问题 有偿",
-      "url":"https://www.v2ex.com/t/671909#reply4"
     }
   ]
 }
