@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 09:02:22",
+  "time":"2020-05-15 09:06:41",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"研究：霸王龙的双腿可能并未为了奔跑而生",
+      "url":"https://www.cnbeta.com/articles/science/979341.htm"
     },
     {
       "name":"库存充足 Zerodium宣布暂停收买iOS漏洞利用",
@@ -237,10 +241,6 @@
     {
       "name":"郭老师：苹果眼镜最快 2022 年发布",
       "url":"https://www.cnbeta.com/articles/tech/979233.htm"
-    },
-    {
-      "name":"英伟达发布超级计算机：两个64核霄龙处理器 售141万元",
-      "url":"https://www.cnbeta.com/articles/tech/979227.htm"
     }
   ]
 }
