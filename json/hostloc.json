@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-16 01:28:22",
+  "time":"2020-05-16 01:32:40",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"此账号不再使用.",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689987&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"除了碳云还有哪家便宜又大碗的NAT",
@@ -93,10 +97,6 @@
     {
       "name":"收个大额码子的AWS老号",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689953&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"【已出】出碳云安溪移动nat",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689951&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
