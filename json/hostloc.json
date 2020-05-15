@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-16 02:56:57",
+  "time":"2020-05-16 03:01:07",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"川普禁止使用美国技术的公司向华为出售半导体芯片",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689993&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"azure stu存活了一天翻车",
@@ -97,10 +101,6 @@
     {
       "name":"求购这几个机房线路的一样的香港母机",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689960&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"。。。。。。。。。。。。。。。。。。。。。",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689957&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
