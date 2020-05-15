@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-15 15:50:40",
+  "time":"2020-05-15 15:51:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"上海移动:4G用户不换卡即可用5G 年内开通万个5G基站",
+      "url":"https://tech.sina.com.cn/roll/2020-05-15/doc-iirczymk1795983.shtml"
+    },
     {
       "name":"马斯克无聊公司隧道挖好了：明年1月开放(视频)",
       "url":"https://tech.sina.com.cn/it/2020-05-15/doc-iircuyvi3267189.shtml"
@@ -29,6 +33,10 @@
     {
       "name":"千亿市场的数字农业，在我看来多是“面子工程”",
       "url":"http://tech.sina.com.cn/csj/2020-05-15/doc-iirczymk1788035.shtml"
+    },
+    {
+      "name":"李彦宏:百度将开放人工智能等技术能力 助力创新创业",
+      "url":"https://tech.sina.com.cn/i/2020-05-15/doc-iircuyvi3260480.shtml"
     },
     {
       "name":"瑞幸撤退进行时，北京将关80家店",
@@ -77,6 +85,10 @@
     {
       "name":"丰巢将在上海延长一个月免费使用期，首个停用小区率先试点",
       "url":"https://tech.sina.com.cn/roll/2020-05-15/doc-iircuyvi3245445.shtml"
+    },
+    {
+      "name":"日媒:华为5G手机美国零部件占比降至1.5% 只剩玻璃壳等",
+      "url":"https://tech.sina.com.cn/t/2020-05-15/doc-iirczymk1796531.shtml"
     },
     {
       "name":"退不了899服务费付不起5万赔偿金，下一个ofo来了？",
@@ -189,18 +201,6 @@
     {
       "name":"中国医科院Nature最新论文被指一图多用",
       "url":"https://tech.sina.com.cn/d/f/2020-05-15/doc-iirczymk1726305.shtml"
-    },
-    {
-      "name":"浙江移动在杭州宣布“5G消息”向所有移动5G用户开放",
-      "url":"https://tech.sina.com.cn/5g/i/2020-05-15/doc-iircuyvi3264685.shtml"
-    },
-    {
-      "name":"首个抵制超时收费小区重启丰巢快递柜 称\"表达协商诚意\"",
-      "url":"https://tech.sina.com.cn/i/2020-05-15/doc-iirczymk1727160.shtml"
-    },
-    {
-      "name":"为什么熊猫“大毛”和“二顺”必须回国？",
-      "url":"https://tech.sina.com.cn/d/a/2020-05-15/doc-iircuyvi3192742.shtml"
     }
   ]
 }
