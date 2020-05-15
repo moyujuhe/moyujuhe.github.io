@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 08:03:33",
+  "time":"2020-05-15 08:07:41",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,18 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"[视频]Mophie推无线充电移动电源Powerstation Wireless XL 售价99.95美元",
+      "url":"https://www.cnbeta.com/articles/tech/979311.htm"
+    },
+    {
+      "name":"TikTok遭儿童隐私保护组织起诉  称其仍在藐视法律",
+      "url":"https://www.cnbeta.com/articles/tech/979309.htm"
+    },
+    {
+      "name":"[图]Pixel 4a多张原生壁纸曝光：精心设计“隐藏”打孔前摄",
+      "url":"https://www.cnbeta.com/articles/tech/979289.htm"
     },
     {
       "name":"老外绘制华为Mate X2渲染图：首次加入潜望式长焦 支持屏幕指纹",
@@ -27,6 +39,10 @@
       "url":"https://www.cnbeta.com/articles/tech/979301.htm"
     },
     {
+      "name":"苹果更新COVID-19 App 含CDC为医护人员提供的新建议及最佳隔离措施",
+      "url":"https://www.cnbeta.com/articles/tech/979291.htm"
+    },
+    {
       "name":"NASA TESS让科学家得以调查Delta Scuti恒星神秘脉动",
       "url":"https://www.cnbeta.com/articles/science/979299.htm"
     },
@@ -43,12 +59,8 @@
       "url":"https://www.cnbeta.com/articles/tech/979293.htm"
     },
     {
-      "name":"苹果更新COVID-19 App 含CDC为医护人员提供的新建议及最佳隔离措施",
-      "url":"https://www.cnbeta.com/articles/tech/979291.htm"
-    },
-    {
-      "name":"[图]Pixel 4a多张原生壁纸曝光：精心设计“隐藏”打孔前摄",
-      "url":"https://www.cnbeta.com/articles/tech/979289.htm"
+      "name":"更快更安全：美初创公司提出使用无人机为体育场消毒",
+      "url":"https://www.cnbeta.com/articles/tech/979273.htm"
     },
     {
       "name":"美国优先获得法国企业的疫苗？法国上下大为愤怒",
@@ -77,10 +89,6 @@
     {
       "name":"预防肺结核的卡介苗可降低新冠感染？以色列大样本研究：无效",
       "url":"https://www.cnbeta.com/articles/tech/979275.htm"
-    },
-    {
-      "name":"更快更安全：美初创公司提出使用无人机为体育场消毒",
-      "url":"https://www.cnbeta.com/articles/tech/979273.htm"
     },
     {
       "name":"特朗普公布医疗设备供应计划 库存将保持在90天用量的水平",
@@ -233,14 +241,6 @@
     {
       "name":"特斯拉将为国产Model 3引入低成本电池 成本看齐汽油车",
       "url":"https://www.cnbeta.com/articles/tech/979197.htm"
-    },
-    {
-      "name":"NVIDIA为《我的世界》RTX版新增5个全新光追地图",
-      "url":"https://hot.cnbeta.com/articles/game/979195.htm"
-    },
-    {
-      "name":"NVIDIA发布7nm安培：540亿晶体管核弹、GPU史上最大性能飞跃",
-      "url":"https://www.cnbeta.com/articles/tech/979193.htm"
     }
   ]
 }
