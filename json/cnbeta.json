@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 08:32:47",
+  "time":"2020-05-15 08:36:55",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"[图]斯坦福招募志愿者：观察可穿戴设备能否用于追踪识别COVID-19",
+      "url":"https://www.cnbeta.com/articles/science/979329.htm"
     },
     {
       "name":"研究称说话产生的飞沫可在空气中停留数分钟 足以传播新冠病毒",
@@ -237,10 +241,6 @@
     {
       "name":"收购Mellanox之后 NVIDIA发布全球首款25G安全智能网卡",
       "url":"https://www.cnbeta.com/articles/tech/979215.htm"
-    },
-    {
-      "name":"苹果超宽带芯片可用于安全快速的短距离网络建设",
-      "url":"https://www.cnbeta.com/articles/tech/979213.htm"
     }
   ]
 }
