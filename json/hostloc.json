@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-15 20:59:03",
+  "time":"2020-05-15 21:03:17",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"hostpapa怎么收不到转移码？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689881&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"小米贷款开业了，最高额度30万，日利率万2，一分钟放款",
@@ -109,10 +113,6 @@
     {
       "name":"人人影视募捐",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689855&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"请教各位大佬关于nginx反向代理问题",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689854&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
