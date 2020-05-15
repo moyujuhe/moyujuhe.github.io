@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-15 12:57:38",
+  "time":"2020-05-15 13:01:56",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"台积电将在美国设立工厂",
+      "url":"https://www.solidot.org/story?sid=64370"
+    },
+    {
+      "name":"特朗普威胁对境外生产商品的美国公司征收新税",
+      "url":"https://www.solidot.org/story?sid=64369"
+    },
+    {
+      "name":"狗服从机器人的命令",
+      "url":"https://www.solidot.org/story?sid=64368"
+    },
     {
       "name":"Reddit 前 500 子论坛中有 92 个被 5 个人控制",
       "url":"https://www.solidot.org/story?sid=64367"
@@ -69,18 +81,6 @@
     {
       "name":"武汉十天内将对所有居民进行病毒检测",
       "url":"https://www.solidot.org/story?sid=64350"
-    },
-    {
-      "name":"Telegram 放弃了它的 TON 区块链平台",
-      "url":"https://www.solidot.org/story?sid=64349"
-    },
-    {
-      "name":"美国最大 ATM 供应商遭勒索软件攻击",
-      "url":"https://www.solidot.org/story?sid=64348"
-    },
-    {
-      "name":"疫情将会如何结束",
-      "url":"https://www.solidot.org/story?sid=64347"
     }
   ]
 }
