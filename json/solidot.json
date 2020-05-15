@@ -1,7 +1,35 @@
 {
-  "time":"2020-05-15 23:08:18",
+  "time":"2020-05-15 23:13:06",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"作家叶永烈去世，享年 80 岁",
+      "url":"https://www.solidot.org/story?sid=64380"
+    },
+    {
+      "name":"Facebook 领衔建造非洲海底光缆",
+      "url":"https://www.solidot.org/story?sid=64379"
+    },
+    {
+      "name":"英伟达宣布新安培架构 GPU A100",
+      "url":"https://www.solidot.org/story?sid=64378"
+    },
+    {
+      "name":"Chrome 将从 8 月起屏蔽占用过多资源的广告",
+      "url":"https://www.solidot.org/story?sid=64377"
+    },
+    {
+      "name":"美国可更新能源发电量今年有望首次超过燃煤火电",
+      "url":"https://www.solidot.org/story?sid=64376"
+    },
+    {
+      "name":"华为发布现有手机的“新版本”继续支持 Google 服务",
+      "url":"https://www.solidot.org/story?sid=64375"
+    },
+    {
+      "name":"Stuxnet 遗产还活在新 Windows bug 里",
+      "url":"https://www.solidot.org/story?sid=64374"
+    },
     {
       "name":"中国南北方人群在 9500 年前有过分化",
       "url":"https://www.solidot.org/story?sid=64373"
@@ -53,34 +81,6 @@
     {
       "name":"中国科学家实现量子安全时间传递原理性实验验证",
       "url":"https://www.solidot.org/story?sid=64360"
-    },
-    {
-      "name":"Google Pixel 高管因 Pixel 4 的失败离职",
-      "url":"https://www.solidot.org/story?sid=64359"
-    },
-    {
-      "name":"美国将继续限制使用华为中兴设备",
-      "url":"https://www.solidot.org/story?sid=64358"
-    },
-    {
-      "name":"虚幻引擎在游戏收入突破百万美元前免版税",
-      "url":"https://www.solidot.org/story?sid=64357"
-    },
-    {
-      "name":"WHO 称控制住疫情可能需要四五年",
-      "url":"https://www.solidot.org/story?sid=64356"
-    },
-    {
-      "name":"中国学者再次因伪造同行审议被撤稿",
-      "url":"https://www.solidot.org/story?sid=64355"
-    },
-    {
-      "name":"腾讯受益于疫情收入大涨",
-      "url":"https://www.solidot.org/story?sid=64354"
-    },
-    {
-      "name":"长五 B 火箭核心级不受控重返大气层",
-      "url":"https://www.solidot.org/story?sid=64353"
     }
   ]
 }
