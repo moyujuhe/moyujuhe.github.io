@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 09:06:41",
+  "time":"2020-05-15 09:10:53",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"自新冠病毒爆发以来  特斯拉超级充电桩的使用量下降了70%",
+      "url":"https://www.cnbeta.com/articles/tech/979343.htm"
     },
     {
       "name":"研究：霸王龙的双腿可能并未为了奔跑而生",
@@ -237,10 +241,6 @@
     {
       "name":"Google Pixel：不缺大神，只缺心眼",
       "url":"https://www.cnbeta.com/articles/tech/979243.htm"
-    },
-    {
-      "name":"郭老师：苹果眼镜最快 2022 年发布",
-      "url":"https://www.cnbeta.com/articles/tech/979233.htm"
     }
   ]
 }
