@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-15 08:53:42",
+  "time":"2020-05-15 08:58:14",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"这个可能是中国唯一一个可以公然讨论上网代理技术的论坛",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689508&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"4个社区学校,1谷歌3O365",
@@ -109,10 +113,6 @@
     {
       "name":"奇怪的现象，我家宽上穿透的谷歌ip会报ssl不安全",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689469&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"Epic Games被打了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689468&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
