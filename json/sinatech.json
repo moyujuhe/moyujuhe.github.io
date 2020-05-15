@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-15 11:58:21",
+  "time":"2020-05-15 12:11:15",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"北京移动：已建成近800个5G基站 覆盖八大5G示范区",
+      "url":"https://tech.sina.com.cn/5g/product/2020-05-15/doc-iirczymk1756052.shtml"
+    },
     {
       "name":"嘉楠科技再遭做空 被指估值过高、矿机盈利能力不足",
       "url":"https://tech.sina.com.cn/i/2020-05-15/doc-iircuyvi3225556.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"消息称台积电将宣布投资120亿美元在美国建新厂",
       "url":"https://tech.sina.com.cn/roll/2020-05-15/doc-iircuyvi3169355.shtml"
-    },
-    {
-      "name":"5G换卡主要针对行业端、企业端 普通用户可以不换卡",
-      "url":"https://tech.sina.com.cn/5g/i/2020-05-15/doc-iirczymk1737164.shtml"
     }
   ]
 }
