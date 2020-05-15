@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-15 23:49:22",
+  "time":"2020-05-15 23:53:35",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"第6届中国—南亚博览会因疫情取消",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7416587"
+    },
     {
       "name":"全国人大、全国政协新闻中心就中外记者采访全国两会发通知",
       "url":"https://www.thepaper.cn/newsDetail_forward_7416578"
@@ -77,10 +81,6 @@
     {
       "name":"雷军、陆奇、熊晓鸽热议疫情下的创业风口：生命科学、硬科技",
       "url":"https://www.thepaper.cn/newsDetail_forward_7413220"
-    },
-    {
-      "name":"沈阳发热门诊患者须进行核酸检测，诊所禁止诊治发热咳嗽患者",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7416416"
     }
   ]
 }
