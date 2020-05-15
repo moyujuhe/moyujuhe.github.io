@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-16 00:03:28",
+  "time":"2020-05-16 00:07:59",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"吉林舒兰市委书记李鹏飞被免职",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7416594"
+    },
     {
       "name":"第6届中国—南亚博览会因疫情取消",
       "url":"https://www.thepaper.cn/newsDetail_forward_7416587"
@@ -77,10 +81,6 @@
     {
       "name":"云南城投：与保利集团的混改难以在短期内推进完成",
       "url":"https://www.thepaper.cn/newsDetail_forward_7416419"
-    },
-    {
-      "name":"雷军、陆奇、熊晓鸽热议疫情下的创业风口：生命科学、硬科技",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7413220"
     }
   ]
 }
