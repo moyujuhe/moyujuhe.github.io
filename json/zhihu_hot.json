@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 20:19:46",
+  "time":"2020-05-15 20:24:03",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -31,12 +31,12 @@
       "url":"https://www.zhihu.com/question/393162671"
     },
     {
-      "name":"24期免息买手机有什么坏处吗?",
-      "url":"https://www.zhihu.com/question/393928546"
-    },
-    {
       "name":"网课忘关麦该怎么办？",
       "url":"https://www.zhihu.com/question/372604557"
+    },
+    {
+      "name":"24期免息买手机有什么坏处吗?",
+      "url":"https://www.zhihu.com/question/393928546"
     },
     {
       "name":"如何熬过房贷？",
@@ -119,20 +119,16 @@
       "url":"https://www.zhihu.com/question/393622356"
     },
     {
-      "name":"父母都是清华北大本科毕业的孩子是什么体验？",
-      "url":"https://www.zhihu.com/question/28213612"
-    },
-    {
       "name":"朴槿惠所在监狱出现疫情，一名狱警确诊，曾接触 254 名囚犯，朴槿惠会有危险吗？",
       "url":"https://www.zhihu.com/question/394976186"
     },
     {
-      "name":"如何看待Nvidia于2020年5月4日发布的全新Ampere GPU A100 (GA100核心)？",
-      "url":"https://www.zhihu.com/question/394863138"
-    },
-    {
       "name":"玩《英雄联盟》那些不抓人、不打龙的打野都是怎么想的？",
       "url":"https://www.zhihu.com/question/393313813"
+    },
+    {
+      "name":"父母都是清华北大本科毕业的孩子是什么体验？",
+      "url":"https://www.zhihu.com/question/28213612"
     },
     {
       "name":"为什么边缘型人格障碍的患者总是要频繁地将身边亲近的人赶走？",
@@ -155,6 +151,10 @@
       "url":"https://www.zhihu.com/question/393509843"
     },
     {
+      "name":"如何看待Nvidia于2020年5月4日发布的全新Ampere GPU A100 (GA100核心)？",
+      "url":"https://www.zhihu.com/question/394863138"
+    },
+    {
       "name":"如何看待陈粒在《我是唱作人2》第五期哭了？",
       "url":"https://www.zhihu.com/question/394881967"
     },
@@ -171,16 +171,16 @@
       "url":"https://www.zhihu.com/question/394538874"
     },
     {
-      "name":"花6000元买电脑的人，为何不花3000元买，然后2000元买个游戏机，剩1000买游戏呢？",
-      "url":"https://www.zhihu.com/question/394515892"
-    },
-    {
       "name":"做医生好还是做律师好？",
       "url":"https://www.zhihu.com/question/394847350"
     },
     {
       "name":"有哪些古今中外仁人志士的志向令你惊艳？",
       "url":"https://www.zhihu.com/question/388317618"
+    },
+    {
+      "name":"花6000元买电脑的人，为何不花3000元买，然后2000元买个游戏机，剩1000买游戏呢？",
+      "url":"https://www.zhihu.com/question/394515892"
     },
     {
       "name":"如何看待群岛对周榕的采访：《建筑师求尊重？先看看自己配不配》?",
@@ -199,8 +199,8 @@
       "url":"https://www.zhihu.com/question/394199919"
     },
     {
-      "name":"简历一无可写怎么办？",
-      "url":"https://www.zhihu.com/question/28592283"
+      "name":"我是一名6岁男孩的妈妈，今天孩子玩儿水枪，不小心喷到了别的孩子身上，那个妈妈就不高兴了，我该怎么办？",
+      "url":"https://www.zhihu.com/question/394203363"
     }
   ]
 }
