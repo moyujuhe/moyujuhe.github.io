@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-15 12:10:05",
+  "time":"2020-05-15 12:20:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"【张爱玲、三毛、东野圭吾集体下架，微信读书怎么了？】此次下架的范围包括张爱玲、三毛的全部作品，东野圭吾、马尔克斯、王小波等人的部分作品，还有超级畅销书《Educated》，这些作品背后的出版方都是新经典文化。微信读书的“无限卡”对于读者十分友好，但对于出版机构却并不如此，至今仍有许多出版商坚持不妥协。",
+      "url":"https://mp.weixin.qq.com/s/UdNv-zlxESDaZf6L3zqAvw"
+    },
     {
       "name":"【英伟达全新“核弹”降世：20倍AI算力提升，但仍有所保留】在14日公布的英伟达GTC 2020录播视频中，英伟达CEO黄仁勋正式推出了新一代GPU架构——Ampere安培。尽管英伟达并未公布安培架构的具体架构细节，但从首款采用该架构的GPU芯片英伟达Tesla A100公布的性能提升来看，这又是英伟达芯片史上的一次里程碑式更新。",
       "url":"https://www.pingwest.com/a/209989"
@@ -97,10 +101,6 @@
     {
       "name":"负电价？不过是欧洲的常规操作而已",
       "url":"https://www.ifanr.com/1336641?utm_source=rss&utm_medium=rss&utm_campaign="
-    },
-    {
-      "name":"近日，一项以“美食”为主题的摄影大赛——粉红女郎美食摄影大赛（ Pink Lady Food Photographer of the Year ）揭晓了2020年度的比赛结果，孟加拉国摄影师KM Asad凭作品《逃离之后》获大赛冠军。中国摄影师Xiaodong Sun、Xueping Du和Marc Yang分别获得了田间美食类一等奖、街头美食类一等奖和食物政治类三等奖。",
-      "url":"https://mp.weixin.qq.com/s/KxQWXTJ9EF76zaCp-2bdoA"
     }
   ]
 }
