@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 08:07:41",
+  "time":"2020-05-15 08:12:01",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"iPad Pro新键盘被用户吐槽电老虎：2小时掉电25%",
+      "url":"https://www.cnbeta.com/articles/tech/979313.htm"
     },
     {
       "name":"[视频]Mophie推无线充电移动电源Powerstation Wireless XL 售价99.95美元",
@@ -79,24 +83,48 @@
       "url":"https://hot.cnbeta.com/articles/game/979281.htm"
     },
     {
+      "name":"英特尔目标是到2030年100%使用可再生能源",
+      "url":"https://www.cnbeta.com/articles/tech/979241.htm"
+    },
+    {
       "name":"天价抗疫引发财政吃紧 谷歌、亚马逊等互联网巨头被提前“动刀”",
       "url":"https://www.cnbeta.com/articles/tech/979279.htm"
+    },
+    {
+      "name":"联想宣布推出Think商业电脑新产品 搭载英特尔vPro处理器",
+      "url":"https://www.cnbeta.com/articles/tech/979239.htm"
     },
     {
       "name":"迅雷第一季度净亏损550万美元 同比收窄",
       "url":"https://www.cnbeta.com/articles/tech/979277.htm"
     },
     {
+      "name":"德国大众在80年代设计了最符合空气动力学的汽车",
+      "url":"https://www.cnbeta.com/articles/tech/979237.htm"
+    },
+    {
       "name":"预防肺结核的卡介苗可降低新冠感染？以色列大样本研究：无效",
       "url":"https://www.cnbeta.com/articles/tech/979275.htm"
+    },
+    {
+      "name":"微软正在开发可修复性更高的Surface设备",
+      "url":"https://www.cnbeta.com/articles/tech/979235.htm"
     },
     {
       "name":"特朗普公布医疗设备供应计划 库存将保持在90天用量的水平",
       "url":"https://www.cnbeta.com/articles/tech/979271.htm"
     },
     {
+      "name":"安抚保守派 谷歌否认其多元化计划正在关闭",
+      "url":"https://www.cnbeta.com/articles/tech/979231.htm"
+    },
+    {
       "name":"传台积电拟在美建5纳米芯片工厂 生产敏感行业芯片",
       "url":"https://www.cnbeta.com/articles/tech/979269.htm"
+    },
+    {
+      "name":"哈佛大学研究人员开发软质外衣 可以帮助中风患者行走",
+      "url":"https://www.cnbeta.com/articles/tech/979229.htm"
     },
     {
       "name":"小米营销经理秀出透明探索版Redmi K30 Pro",
@@ -105,6 +133,10 @@
     {
       "name":"退市警告延期 途牛还能安全多久",
       "url":"https://www.cnbeta.com/articles/tech/979265.htm"
+    },
+    {
+      "name":"索尼PS5 DualSense手柄价格刚刚被泄露出来",
+      "url":"https://hot.cnbeta.com/articles/game/979225.htm"
     },
     {
       "name":"人民日报海外版：莫让账号注销成了“闯关难题”",
@@ -151,40 +183,12 @@
       "url":"https://www.cnbeta.com/articles/tech/979243.htm"
     },
     {
-      "name":"英特尔目标是到2030年100%使用可再生能源",
-      "url":"https://www.cnbeta.com/articles/tech/979241.htm"
-    },
-    {
-      "name":"联想宣布推出Think商业电脑新产品 搭载英特尔vPro处理器",
-      "url":"https://www.cnbeta.com/articles/tech/979239.htm"
-    },
-    {
-      "name":"德国大众在80年代设计了最符合空气动力学的汽车",
-      "url":"https://www.cnbeta.com/articles/tech/979237.htm"
-    },
-    {
-      "name":"微软正在开发可修复性更高的Surface设备",
-      "url":"https://www.cnbeta.com/articles/tech/979235.htm"
-    },
-    {
       "name":"郭老师：苹果眼镜最快 2022 年发布",
       "url":"https://www.cnbeta.com/articles/tech/979233.htm"
     },
     {
-      "name":"安抚保守派 谷歌否认其多元化计划正在关闭",
-      "url":"https://www.cnbeta.com/articles/tech/979231.htm"
-    },
-    {
-      "name":"哈佛大学研究人员开发软质外衣 可以帮助中风患者行走",
-      "url":"https://www.cnbeta.com/articles/tech/979229.htm"
-    },
-    {
       "name":"英伟达发布超级计算机：两个64核霄龙处理器 售141万元",
       "url":"https://www.cnbeta.com/articles/tech/979227.htm"
-    },
-    {
-      "name":"索尼PS5 DualSense手柄价格刚刚被泄露出来",
-      "url":"https://hot.cnbeta.com/articles/game/979225.htm"
     },
     {
       "name":"河南邮政局：未通知放快递柜 产生费用不应向收件人收取",
@@ -237,10 +241,6 @@
     {
       "name":"贝索斯上美国热搜 2026年或成世界上首个“万亿富翁”",
       "url":"https://www.cnbeta.com/articles/tech/979199.htm"
-    },
-    {
-      "name":"特斯拉将为国产Model 3引入低成本电池 成本看齐汽油车",
-      "url":"https://www.cnbeta.com/articles/tech/979197.htm"
     }
   ]
 }
