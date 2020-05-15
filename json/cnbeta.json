@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 08:24:33",
+  "time":"2020-05-15 08:28:39",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"研究称说话产生的飞沫可在空气中停留数分钟 足以传播新冠病毒",
+      "url":"https://www.cnbeta.com/articles/science/979327.htm"
     },
     {
       "name":"苹果发布最新供应商责任报告 详述应对疫情措施",
@@ -237,10 +241,6 @@
     {
       "name":"苹果超宽带芯片可用于安全快速的短距离网络建设",
       "url":"https://www.cnbeta.com/articles/tech/979213.htm"
-    },
-    {
-      "name":"业内人士透露Galaxy Note 20和Galaxy Note 20+规格细节",
-      "url":"https://www.cnbeta.com/articles/tech/979211.htm"
     }
   ]
 }
