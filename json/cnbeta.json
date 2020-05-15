@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-15 08:36:55",
+  "time":"2020-05-15 08:41:10",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"腾讯视频VIP推出限时五折活动 年卡99元/季卡29元",
       "url":"https://hot.cnbeta.com/articles/movie/978947.htm"
+    },
+    {
+      "name":"T-Mobile将于今夏开始淡化Sprint品牌",
+      "url":"https://www.cnbeta.com/articles/tech/979331.htm"
     },
     {
       "name":"[图]斯坦福招募志愿者：观察可穿戴设备能否用于追踪识别COVID-19",
@@ -237,10 +241,6 @@
     {
       "name":"三大运营商聚齐：中国电信在四川首销5G超级SIM卡",
       "url":"https://www.cnbeta.com/articles/tech/979217.htm"
-    },
-    {
-      "name":"收购Mellanox之后 NVIDIA发布全球首款25G安全智能网卡",
-      "url":"https://www.cnbeta.com/articles/tech/979215.htm"
     }
   ]
 }
