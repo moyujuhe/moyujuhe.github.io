@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-16 23:00:29",
+  "time":"2020-05-16 23:04:51",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"WP后台会连接fast.wistia.com",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690380&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"2325天不关机，今天终结了，升级维护。",
@@ -109,10 +113,6 @@
     {
       "name":"已出-gcorelabs.com老伯力 账户剩余1022.97卢布 IP正常",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690347&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"最近域名污染太严重了，求问不同之处？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690346&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
