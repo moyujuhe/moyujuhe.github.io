@@ -1,10 +1,34 @@
 {
-  "time":"2020-05-16 11:10:36",
+  "time":"2020-05-16 11:14:50",
   "title":"cnBeta",
   "data":[
     {
       "name":"爱奇艺VIP会员大促：黄金/钻石全线五折 不分新老用户",
       "url":"http://tb.g2h3.com/3I1ls"
+    },
+    {
+      "name":"Ampere架构将成为NVIDIA未来产品线使用的统一架构",
+      "url":"https://www.cnbeta.com/articles/tech/979843.htm"
+    },
+    {
+      "name":"三星Galaxy A21s发布！搭载Exynos 850+5000mAh",
+      "url":"https://www.cnbeta.com/articles/tech/979841.htm"
+    },
+    {
+      "name":"受海洋昆虫启发 科学家研发的船体涂层有望使船只更容易航行",
+      "url":"https://www.cnbeta.com/articles/science/979839.htm"
+    },
+    {
+      "name":"牵手英伟达推进交付 FF91量产有戏",
+      "url":"https://www.cnbeta.com/articles/tech/979837.htm"
+    },
+    {
+      "name":"SpaceX首次载人飞行携带怪异有效载荷",
+      "url":"https://www.cnbeta.com/articles/science/979835.htm"
+    },
+    {
+      "name":"巧合还是有远见？摇滚乐队Devo开售新冠病毒防护面罩",
+      "url":"https://www.cnbeta.com/articles/tech/979833.htm"
     },
     {
       "name":"iPhone电池老化降频引发集体诉讼 苹果与原告达成和解协议",
@@ -217,30 +241,6 @@
     {
       "name":"一加 8 Pro 相机暗藏“透视”功能？官方：功能没那么强大",
       "url":"https://www.cnbeta.com/articles/tech/979727.htm"
-    },
-    {
-      "name":"杨澜加盟联想 担任独立董事：年薪235万元",
-      "url":"https://www.cnbeta.com/articles/tech/979725.htm"
-    },
-    {
-      "name":"今年最重磅更新 Windows 10 2004正式版详尽体验",
-      "url":"https://www.cnbeta.com/articles/tech/979723.htm"
-    },
-    {
-      "name":"NVIDIA安培架构正式支持PCIe 4.0",
-      "url":"https://www.cnbeta.com/articles/tech/979721.htm"
-    },
-    {
-      "name":"疫情之下，京东Q1财报的两面",
-      "url":"https://www.cnbeta.com/articles/tech/979719.htm"
-    },
-    {
-      "name":"成交额超7亿！新晋\"带货女王\"董明珠京东直播破纪录",
-      "url":"https://www.cnbeta.com/articles/tech/979717.htm"
-    },
-    {
-      "name":"美国FDA警告雅培COVID-19快速测试系统存在假阴性问题",
-      "url":"https://www.cnbeta.com/articles/tech/979715.htm"
     }
   ]
 }
