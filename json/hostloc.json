@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-17 02:30:58",
+  "time":"2020-05-17 02:35:12",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"新冠除了美国都控制住了。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690424&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"各位老板们，受疫情影响你们的房租有减免吗？",
@@ -109,10 +113,6 @@
     {
       "name":"终于找到原因了，OVH备份坑。。。折腾了几天",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690395&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"奈飞合租车",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690394&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
