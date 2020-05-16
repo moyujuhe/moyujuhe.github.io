@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-16 16:33:19",
+  "time":"2020-05-16 16:38:00",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"win7系统的ACPI.sys能不能删除？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690205&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"二十多万要采集几天？",
@@ -105,10 +109,6 @@
     {
       "name":"流量太多了 大家speedtest帮忙跑完",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690173&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"还有人在使用 Windows Vista 吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690169&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
