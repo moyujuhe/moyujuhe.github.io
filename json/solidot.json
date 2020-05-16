@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-16 23:31:57",
+  "time":"2020-05-16 23:36:52",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"黑客通过多个交易所尝试洗掉窃取的以太坊",
+      "url":"https://www.solidot.org/story?sid=64387"
+    },
     {
       "name":"美国第一季度游戏销售额创下记录",
       "url":"https://www.solidot.org/story?sid=64386"
@@ -77,10 +81,6 @@
     {
       "name":"狗服从机器人的命令",
       "url":"https://www.solidot.org/story?sid=64368"
-    },
-    {
-      "name":"Reddit 前 500 子论坛中有 92 个被 5 个人控制",
-      "url":"https://www.solidot.org/story?sid=64367"
     }
   ]
 }
