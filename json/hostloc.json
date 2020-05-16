@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-16 15:36:01",
+  "time":"2020-05-16 15:40:10",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"真蛋疼，搞了半天win10 2004",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690184&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"你们是怎么解决Proxmox直通SATA硬盘不能超过6个的限制的？",
@@ -109,10 +113,6 @@
     {
       "name":"出一个A1全局",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690150&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"明天就是5.17电信日，有什么优惠活动吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690149&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
