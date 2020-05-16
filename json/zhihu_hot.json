@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-16 21:39:28",
+  "time":"2020-05-16 21:44:00",
   "title":"知乎全站热榜",
   "data":[
+    {
+      "name":"如何看待美国疑似彻底封杀华为，公司只要用美国设备造芯片卖华为就要被限制？",
+      "url":"https://www.zhihu.com/question/395075061"
+    },
     {
       "name":"研三了，延毕了。当了一辈子的乖乖女，终于还是闹出了笑话。你不知道我每天活在怎样的地狱里，怎样才能解脱？",
       "url":"https://www.zhihu.com/question/59767069"
@@ -27,16 +31,12 @@
       "url":"https://www.zhihu.com/question/63784596"
     },
     {
-      "name":"有花不完的钱和穷但是长生不老你会选哪个？",
-      "url":"https://www.zhihu.com/question/393479390"
-    },
-    {
       "name":"我开始讨厌我家的猫了怎么办?",
       "url":"https://www.zhihu.com/question/394028917"
     },
     {
-      "name":"哪一次购买 JK 制服的经历让你瞬间拔草?",
-      "url":"https://www.zhihu.com/question/322773117"
+      "name":"有花不完的钱和穷但是长生不老你会选哪个？",
+      "url":"https://www.zhihu.com/question/393479390"
     },
     {
       "name":"你能讲一个让人瞬间爆笑的笑话吗？",
@@ -47,36 +47,40 @@
       "url":"https://www.zhihu.com/question/317516587"
     },
     {
-      "name":"2019 年平均工资出炉，非私营单位年均工资 9 万元，私营单位 5 万元，你在平均线上吗？",
-      "url":"https://www.zhihu.com/question/395028574"
-    },
-    {
-      "name":"如何看待6月1号执行骑电动车戴头盔这个规定？",
-      "url":"https://www.zhihu.com/question/393401839"
+      "name":"哪一次购买 JK 制服的经历让你瞬间拔草?",
+      "url":"https://www.zhihu.com/question/322773117"
     },
     {
       "name":"女子 28 年前花 33 万买房未入住，现在涨到 600 万，陌生人撬锁入住十余年，该如何处理？",
       "url":"https://www.zhihu.com/question/395259265"
     },
     {
-      "name":"怎么看待王者荣耀规定未成年人每天限玩 1.5 小时，晚 10 点至早 8 点禁玩？",
-      "url":"https://www.zhihu.com/question/395224662"
+      "name":"如何看待6月1号执行骑电动车戴头盔这个规定？",
+      "url":"https://www.zhihu.com/question/393401839"
     },
     {
-      "name":"你是否赞同博士生自称博士？",
-      "url":"https://www.zhihu.com/question/393781872"
+      "name":"2019 年平均工资出炉，非私营单位年均工资 9 万元，私营单位 5 万元，你在平均线上吗？",
+      "url":"https://www.zhihu.com/question/395028574"
+    },
+    {
+      "name":"怎么看待王者荣耀规定未成年人每天限玩 1.5 小时，晚 10 点至早 8 点禁玩？",
+      "url":"https://www.zhihu.com/question/395224662"
     },
     {
       "name":"为什么我的画作没什么人喜欢?",
       "url":"https://www.zhihu.com/question/389251926"
     },
     {
-      "name":"中国的游戏环境是不是已经没救了？",
-      "url":"https://www.zhihu.com/question/387884845"
+      "name":"你是否赞同博士生自称博士？",
+      "url":"https://www.zhihu.com/question/393781872"
     },
     {
       "name":"媳妇怀孕了，双方长辈无理由要求你把养了很久的猫送出去你会怎么做？",
       "url":"https://www.zhihu.com/question/393178780"
+    },
+    {
+      "name":"中国的游戏环境是不是已经没救了？",
+      "url":"https://www.zhihu.com/question/387884845"
     },
     {
       "name":"如何评价《向往的生活》第四季第二期（郭麒麟、沙溢、小陶虹 ）？",
@@ -91,16 +95,12 @@
       "url":"https://www.zhihu.com/question/385337435"
     },
     {
-      "name":"有哪些超压抑的短篇小说推荐？",
-      "url":"https://www.zhihu.com/question/339904022"
-    },
-    {
       "name":"如何看待厦门校园前主编被电话骚扰？",
       "url":"https://www.zhihu.com/question/395171935"
     },
     {
-      "name":"唐朝灭亡以后为什么没有形成三国或者南北朝，而是更碎片的五代十国？",
-      "url":"https://www.zhihu.com/question/394651700"
+      "name":"有哪些超压抑的短篇小说推荐？",
+      "url":"https://www.zhihu.com/question/339904022"
     },
     {
       "name":"如何避免间歇性堕落?",
@@ -119,10 +119,6 @@
       "url":"https://www.zhihu.com/question/392920956"
     },
     {
-      "name":"怎么做才能一个月疯狂瘦肚子?",
-      "url":"https://www.zhihu.com/question/341894136"
-    },
-    {
       "name":"如何运营出一个有吸引力的微信公众号？",
       "url":"https://www.zhihu.com/question/27751352"
     },
@@ -133,6 +129,10 @@
     {
       "name":"如何看待百度李彦宏成为医学论文通讯作者这一事件？",
       "url":"https://www.zhihu.com/question/395009454"
+    },
+    {
+      "name":"怎么做才能一个月疯狂瘦肚子?",
+      "url":"https://www.zhihu.com/question/341894136"
     },
     {
       "name":"如何看待美国运送新冠尸体的卡车清洁消毒后可运送食品，美国食品药品监管局（FDA）称没必要征求公众意见？",
@@ -147,16 +147,20 @@
       "url":"https://www.zhihu.com/question/394394518"
     },
     {
+      "name":"唐朝灭亡以后为什么没有形成三国或者南北朝，而是更碎片的五代十国？",
+      "url":"https://www.zhihu.com/question/394651700"
+    },
+    {
       "name":"《王者荣耀》S19赛季孙尚香是否过于无脑且无法反制？",
       "url":"https://www.zhihu.com/question/395056989"
     },
     {
-      "name":"女生不会喜欢长得一般的男生吗？",
-      "url":"https://www.zhihu.com/question/375260893"
-    },
-    {
       "name":"王祖蓝东莞专场直播带货，有哪些值得一看的亮点？",
       "url":"https://www.zhihu.com/question/394872657"
+    },
+    {
+      "name":"女生不会喜欢长得一般的男生吗？",
+      "url":"https://www.zhihu.com/question/375260893"
     },
     {
       "name":"如何通过小细节改变外貌？",
@@ -165,6 +169,14 @@
     {
       "name":"如果在小时候家里电脑只装了黑魂3、只狼和血源，你只有打通关其中一个你才可以用电脑，你还会碰电脑吗？",
       "url":"https://www.zhihu.com/question/394026574"
+    },
+    {
+      "name":"如何评价综艺《青春有你2》第二十期（第三次排名公布）？",
+      "url":"https://www.zhihu.com/question/395268322"
+    },
+    {
+      "name":"如何看待高价为宠物办葬礼，这种豪华宠物葬礼真的有必要吗？",
+      "url":"https://www.zhihu.com/question/394811203"
     },
     {
       "name":"如何评价2020华为精英挑战赛复赛及复活赛?",
@@ -179,24 +191,12 @@
       "url":"https://www.zhihu.com/question/394467848"
     },
     {
-      "name":"如何看待高价为宠物办葬礼，这种豪华宠物葬礼真的有必要吗？",
-      "url":"https://www.zhihu.com/question/394811203"
-    },
-    {
-      "name":"如何评价综艺《青春有你2》第二十期（第三次排名公布）？",
-      "url":"https://www.zhihu.com/question/395268322"
-    },
-    {
-      "name":"为什么央视选择李佳琦而不选薇娅？",
-      "url":"https://www.zhihu.com/question/385937451"
-    },
-    {
       "name":"有哪些超级温柔的文案？",
       "url":"https://www.zhihu.com/question/391102065"
     },
     {
-      "name":"iPad 上不可错过的应用有哪些？",
-      "url":"https://www.zhihu.com/question/19671759"
+      "name":"为什么央视选择李佳琦而不选薇娅？",
+      "url":"https://www.zhihu.com/question/385937451"
     },
     {
       "name":"如何评价综艺《创造营2020》第三期（上）「首场竞演舞台」？",
