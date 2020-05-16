@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-16 22:33:14",
+  "time":"2020-05-16 22:37:39",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"美国第一季度游戏销售额创下记录",
+      "url":"https://www.solidot.org/story?sid=64386"
+    },
     {
       "name":"科技公司雇员考虑离开房租高昂的硅谷",
       "url":"https://www.solidot.org/story?sid=64385"
@@ -77,10 +81,6 @@
     {
       "name":"Reddit 前 500 子论坛中有 92 个被 5 个人控制",
       "url":"https://www.solidot.org/story?sid=64367"
-    },
-    {
-      "name":"Google Chrome 加入标签组功能",
-      "url":"https://www.solidot.org/story?sid=64366"
     }
   ]
 }
