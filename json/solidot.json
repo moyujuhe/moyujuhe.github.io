@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-16 18:30:13",
+  "time":"2020-05-16 18:34:40",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"勒索软件攻击者向纽约律所勒索 4200 万美元",
+      "url":"https://www.solidot.org/story?sid=64384"
+    },
     {
       "name":"Swift 5.3 将支持 Windows 和 Linux 发行版",
       "url":"https://www.solidot.org/story?sid=64383"
@@ -77,10 +81,6 @@
     {
       "name":"印度加强外资审查影响中国公司的扩张计划",
       "url":"https://www.solidot.org/story?sid=64365"
-    },
-    {
-      "name":"Windows 初步加入对 DNS-over-HTTPS (DoH) 的支持",
-      "url":"https://www.solidot.org/story?sid=64364"
     }
   ]
 }
