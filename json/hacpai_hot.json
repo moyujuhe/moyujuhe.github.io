@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-16 20:26:25",
+  "time":"2020-05-16 20:30:34",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -73,10 +73,6 @@
     {
       "name":"为什么用 Solo 生成的静态站点会乱码",
       "url":"https://hacpai.com/article/1589119479894"
-    },
-    {
-      "name":"各位是怎么解决 c 盘空间爆满的情况",
-      "url":"https://hacpai.com/article/1587039159349"
     },
     {
       "name":"docker 运行 solo 镜像问题",
@@ -241,6 +237,10 @@
     {
       "name":"我们登上的并非我们所选择的舞台，演出并非我们所选择的剧本",
       "url":"https://hacpai.com/article/1589021548258"
+    },
+    {
+      "name":"八卦 - 六爻",
+      "url":"https://hacpai.com/article/1588496739624"
     }
   ]
 }
