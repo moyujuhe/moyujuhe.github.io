@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-16 09:14:43",
+  "time":"2020-05-16 09:18:59",
   "title":"cnBeta",
   "data":[
     {
       "name":"爱奇艺VIP会员大促：黄金/钻石全线五折 不分新老用户",
       "url":"http://tb.g2h3.com/3I1ls"
+    },
+    {
+      "name":"FCC曝光了苹果内部使用的一款神秘的专用型网络适配器",
+      "url":"https://www.cnbeta.com/articles/tech/979793.htm"
     },
     {
       "name":"Linux Kernel 5.8 将为 blk-mq 引入内联加密支持",
@@ -237,10 +241,6 @@
     {
       "name":"丰巢致歉并调整服务：免费保管时长延长至18小时",
       "url":"https://www.cnbeta.com/articles/tech/979677.htm"
-    },
-    {
-      "name":"李彦宏直播首秀分享读书心得 透露百度App欢迎直播带货",
-      "url":"https://www.cnbeta.com/articles/tech/979675.htm"
     }
   ]
 }
