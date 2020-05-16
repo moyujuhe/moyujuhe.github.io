@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-16 09:36:00",
+  "time":"2020-05-16 09:40:46",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"别人分享的google drive 只能添加到自己的快捷方式",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690030&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"宏病毒是怎么回事？",
@@ -109,10 +113,6 @@
     {
       "name":"川普禁止使用美国技术的公司向华为出售半导体芯片",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689993&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"azure stu存活了一天翻车",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=689992&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
