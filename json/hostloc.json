@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-16 21:52:55",
+  "time":"2020-05-16 21:57:07",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"关于Yandex.Money的几点提醒！",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690345&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"tcp+vmess+tls和ss的对比测试",
@@ -109,10 +113,6 @@
     {
       "name":"[科普贴]如何使用speedtest.net官方CLI程序测试带宽",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690316&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"大佬帮我选个网卡~",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690315&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
