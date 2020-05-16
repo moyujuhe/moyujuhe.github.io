@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-16 17:04:17",
+  "time":"2020-05-16 17:08:46",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Swift 5.3 将支持 Windows 和 Linux 发行版",
+      "url":"https://www.solidot.org/story?sid=64383"
+    },
     {
       "name":"美国对华为实施更严厉的禁令",
       "url":"https://www.solidot.org/story?sid=64382"
@@ -77,10 +81,6 @@
     {
       "name":"Windows 初步加入对 DNS-over-HTTPS (DoH) 的支持",
       "url":"https://www.solidot.org/story?sid=64364"
-    },
-    {
-      "name":"中世纪箭造成的伤口类似现代枪",
-      "url":"https://www.solidot.org/story?sid=64363"
     }
   ]
 }
