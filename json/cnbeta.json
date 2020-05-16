@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-16 16:02:15",
+  "time":"2020-05-16 16:06:35",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"华为：没有伤痕累累 哪来皮糙肉厚 英雄自古多磨难",
       "url":"https://www.cnbeta.com/articles/tech/979901.htm"
+    },
+    {
+      "name":"SpaceX将于5月27日进行载人火箭发射 届时可观看直播",
+      "url":"https://www.cnbeta.com/articles/science/979947.htm"
     },
     {
       "name":"硅谷街头狂奔的羊是什么来头？谷歌都倚重的消防卫士",
@@ -237,10 +241,6 @@
     {
       "name":"iPhone电池老化降频引发集体诉讼 苹果与原告达成和解协议",
       "url":"https://www.cnbeta.com/articles/tech/979831.htm"
-    },
-    {
-      "name":"实时自我监测旋翼状况的BladeSense系统在空客直升机上进行测试",
-      "url":"https://www.cnbeta.com/articles/tech/979829.htm"
     }
   ]
 }
