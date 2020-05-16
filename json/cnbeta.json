@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-17 00:00:01",
+  "time":"2020-05-17 00:04:43",
   "title":"cnBeta",
   "data":[
     {
       "name":"爱奇艺+京东Plus联名会员特惠108元/年限时开售",
       "url":"https://c.duomai.com/track.php?site_id=242986&euid=&t=https://vip.iqiyi.com/20517sale.html"
+    },
+    {
+      "name":"三星Galaxy Note 20曝光：首发高通新一代3D超声波指纹",
+      "url":"https://www.cnbeta.com/articles/tech/979989.htm"
     },
     {
       "name":"新研究显示：糖尿病患者死于新冠的风险是正常人的4倍",
@@ -237,10 +241,6 @@
     {
       "name":"NASA宣布《Artemis Accords》 ：欲为月球全新探索时代提供标准",
       "url":"https://www.cnbeta.com/articles/science/979873.htm"
-    },
-    {
-      "name":"大神晒iPhone SE2实现双卡双待改造画面：从芯片上动手",
-      "url":"https://www.cnbeta.com/articles/tech/979871.htm"
     }
   ]
 }
