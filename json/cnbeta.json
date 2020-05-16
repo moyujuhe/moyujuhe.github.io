@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-16 09:10:38",
+  "time":"2020-05-16 09:14:43",
   "title":"cnBeta",
   "data":[
     {
       "name":"爱奇艺VIP会员大促：黄金/钻石全线五折 不分新老用户",
       "url":"http://tb.g2h3.com/3I1ls"
+    },
+    {
+      "name":"Linux Kernel 5.8 将为 blk-mq 引入内联加密支持",
+      "url":"https://www.cnbeta.com/articles/tech/979791.htm"
+    },
+    {
+      "name":"Google Chrome 标签组功能将于下周上线",
+      "url":"https://www.cnbeta.com/articles/tech/979789.htm"
+    },
+    {
+      "name":"特斯拉复工风波后 加州驳回SpaceX培训基金申请",
+      "url":"https://www.cnbeta.com/articles/tech/979787.htm"
     },
     {
       "name":"上游 Linux 开发者反对\"-O3\"级别的内核优化",
@@ -229,18 +241,6 @@
     {
       "name":"李彦宏直播首秀分享读书心得 透露百度App欢迎直播带货",
       "url":"https://www.cnbeta.com/articles/tech/979675.htm"
-    },
-    {
-      "name":"构建数字化生态产业链 龙芯中科宣布三大福利",
-      "url":"https://www.cnbeta.com/articles/tech/979673.htm"
-    },
-    {
-      "name":"2019年平均工资数据出炉：城镇非私营单位超9万元",
-      "url":"https://www.cnbeta.com/articles/tech/979671.htm"
-    },
-    {
-      "name":"美国商务部宣布将华为临时许可再延长90天",
-      "url":"https://www.cnbeta.com/articles/tech/979669.htm"
     }
   ]
 }
