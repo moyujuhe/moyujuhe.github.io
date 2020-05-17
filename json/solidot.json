@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-17 22:10:00",
+  "time":"2020-05-17 22:14:34",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"阿里巴巴旗下手游抄袭《彩虹六号围攻》，育碧起诉应用商店 Google 和苹果",
+      "url":"https://www.solidot.org/story?sid=64389"
+    },
     {
       "name":"黑客控制多台超算挖门罗币",
       "url":"https://www.solidot.org/story?sid=64388"
@@ -77,10 +81,6 @@
     {
       "name":"台积电将在美国设立工厂",
       "url":"https://www.solidot.org/story?sid=64370"
-    },
-    {
-      "name":"特朗普威胁对境外生产商品的美国公司征收新税",
-      "url":"https://www.solidot.org/story?sid=64369"
     }
   ]
 }
