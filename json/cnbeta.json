@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-17 09:19:02",
+  "time":"2020-05-17 09:23:23",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"华为转发图片表态：“除了胜利，我们已经无路可走。”",
       "url":"https://www.cnbeta.com/articles/tech/980005.htm"
+    },
+    {
+      "name":"[图]寻找COVID-19零号病人 法国最早追溯到2019年11月中旬",
+      "url":"https://www.cnbeta.com/articles/science/980041.htm"
     },
     {
       "name":"[图]微软宣布Fluent UI：开启Microsoft 365体验新篇章",
@@ -237,10 +241,6 @@
     {
       "name":"一年了，被美国制裁的华为过得怎么样？",
       "url":"https://www.cnbeta.com/articles/tech/979927.htm"
-    },
-    {
-      "name":"海尔智家：一直在探讨有关潜在私有化海尔电器方案",
-      "url":"https://www.cnbeta.com/articles/tech/979925.htm"
     }
   ]
 }
