@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-17 21:52:14",
+  "time":"2020-05-17 21:56:45",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"黑客控制多台超算挖门罗币",
+      "url":"https://www.solidot.org/story?sid=64388"
+    },
     {
       "name":"黑客通过多个交易所尝试洗掉窃取的以太坊",
       "url":"https://www.solidot.org/story?sid=64387"
@@ -77,10 +81,6 @@
     {
       "name":"特朗普威胁对境外生产商品的美国公司征收新税",
       "url":"https://www.solidot.org/story?sid=64369"
-    },
-    {
-      "name":"狗服从机器人的命令",
-      "url":"https://www.solidot.org/story?sid=64368"
     }
   ]
 }
