@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-05-17 16:11:52",
+  "time":"2020-05-17 16:16:38",
   "data":[
+    {
+      "name":"游戏记忆 - 瘟疫",
+      "url":"https://hacpai.com/article/1589703339647"
+    },
     {
       "name":"游戏记忆 - 鬼泣 5",
       "url":"https://hacpai.com/article/1589702072416"
@@ -177,10 +181,6 @@
     {
       "name":"20200327 TGIF",
       "url":"https://hacpai.com/article/1585241941733"
-    },
-    {
-      "name":"简单做了个黑客派社区浏览器扩展",
-      "url":"https://hacpai.com/article/1585217592406"
     },
     {
       "name":"开发者福利：免费获取 JetBrains 全家桶",
