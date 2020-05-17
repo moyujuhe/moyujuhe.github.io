@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-18 01:36:46",
+  "time":"2020-05-18 01:40:59",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"关于华为事件的终极推演",
+      "url":"https://www.cnbeta.com/articles/tech/980239.htm"
+    },
+    {
+      "name":"黄氏刀法 眼花缭乱 NVIDIA官方确认7nm安培首发割了一刀",
+      "url":"https://www.cnbeta.com/articles/tech/980237.htm"
+    },
     {
       "name":"美国航天部队再次成功发射神秘的X-37B太空飞机",
       "url":"https://www.cnbeta.com/articles/tech/980235.htm"
@@ -233,14 +241,6 @@
     {
       "name":"日本研发出口罩新材料：比N95更强 洗100次效果不减",
       "url":"https://www.cnbeta.com/articles/tech/980121.htm"
-    },
-    {
-      "name":"洛杉矶市中心大楼发生爆炸 多名消防员受伤",
-      "url":"https://www.cnbeta.com/articles/tech/980119.htm"
-    },
-    {
-      "name":"[图]福特复工进行时 5月18日起将对员工进行COVID-19检测",
-      "url":"https://www.cnbeta.com/articles/tech/980117.htm"
     }
   ]
 }
