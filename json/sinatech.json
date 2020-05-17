@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-17 09:30:14",
+  "time":"2020-05-17 09:40:19",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"要有光，激光！",
+      "url":"https://tech.sina.com.cn/d/i/2020-05-17/doc-iircuyvi3514882.shtml"
+    },
     {
       "name":"瞬间把鱼撕咬两半的博比特虫，是海洋动物真正的噩梦",
       "url":"https://tech.sina.com.cn/d/f/2020-05-17/doc-iirczymk2041393.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"如何给天体拍个照片？",
       "url":"https://tech.sina.com.cn/d/s/2020-05-16/doc-iircuyvi3368918.shtml"
-    },
-    {
-      "name":"192个违规App被责令改正 包括“猎豹清理大师”",
-      "url":"https://tech.sina.com.cn/i/2020-05-16/doc-iirczymk1939387.shtml"
     }
   ]
 }
