@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-17 15:03:58",
+  "time":"2020-05-17 15:08:45",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"点播、直播的PCDN加速调查",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690586&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"来听听歌吧，AE导出个1080p视频cpu直彪99%",
@@ -109,10 +113,6 @@
     {
       "name":"大佬们，推荐一下联通光猫吧，最好是单口的",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690554&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"求个能慢速播放的播放器",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690553&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
