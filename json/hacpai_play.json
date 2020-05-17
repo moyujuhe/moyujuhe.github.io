@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-05-17 15:53:46",
+  "time":"2020-05-17 15:58:03",
   "data":[
+    {
+      "name":"游戏记忆 - 鬼泣 5",
+      "url":"https://hacpai.com/article/1589702072416"
+    },
     {
       "name":"五只龙之话",
       "url":"https://hacpai.com/article/1589700332418"
@@ -177,10 +181,6 @@
     {
       "name":"简单做了个黑客派社区浏览器扩展",
       "url":"https://hacpai.com/article/1585217592406"
-    },
-    {
-      "name":"做了个日程待办功能，预置常见生活事务订阅",
-      "url":"https://hacpai.com/article/1585117195730"
     },
     {
       "name":"开发者福利：免费获取 JetBrains 全家桶",
