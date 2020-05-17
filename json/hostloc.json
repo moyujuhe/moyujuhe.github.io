@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-18 04:45:19",
+  "time":"2020-05-18 04:49:32",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"【深夜福利】Hetzner不限CPU 不限流量 独享带宽",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690815&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"百度云加速指IP到Cloudflare会统计流量吗？",
@@ -109,10 +113,6 @@
     {
       "name":"AWS EDU STARTER 弄死了...",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690783&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"golang 剑皇刷流量脚本",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690782&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
