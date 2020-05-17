@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-17 08:36:22",
+  "time":"2020-05-17 08:40:44",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"华为转发图片表态：“除了胜利，我们已经无路可走。”",
       "url":"https://www.cnbeta.com/articles/tech/980005.htm"
+    },
+    {
+      "name":"Xbox Series X生产顺利进行中 法国将是首发地区之一",
+      "url":"https://hot.cnbeta.com/articles/game/980037.htm"
     },
     {
       "name":"欧洲多台超级计算机中毒 沦为挖矿肉鸡",
@@ -237,10 +241,6 @@
     {
       "name":"华为发布现有手机的新版本以继续使用 Google 服务",
       "url":"https://www.cnbeta.com/articles/tech/979923.htm"
-    },
-    {
-      "name":"德国慕尼黑再次拥抱开源",
-      "url":"https://www.cnbeta.com/articles/tech/979921.htm"
     }
   ]
 }

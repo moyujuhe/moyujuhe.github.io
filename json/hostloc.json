@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-17 08:36:27",
+  "time":"2020-05-17 08:40:46",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"阿里云国际新加坡的机器2.67美元？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690447&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"hetzner的机器可以24小时跑满1G的带宽吗",
@@ -105,10 +109,6 @@
     {
       "name":"搭建了一个CloudFlare Partner解析面板",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690416&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"Ikoula 100o免费鸡",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690414&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
