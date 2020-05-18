@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-18 15:50:48",
+  "time":"2020-05-18 15:55:23",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"微软总裁表示对待开源它曾站在错误的一边",
+      "url":"https://www.solidot.org/story?sid=64395"
+    },
+    {
+      "name":"伽利略可能从未说过“地球仍然在动”",
+      "url":"https://www.solidot.org/story?sid=64394"
+    },
     {
       "name":"猎豹清理大师和印象笔记被指违规收集用户信息",
       "url":"https://www.solidot.org/story?sid=64393"
@@ -73,14 +81,6 @@
     {
       "name":"美国可更新能源发电量今年有望首次超过燃煤火电",
       "url":"https://www.solidot.org/story?sid=64376"
-    },
-    {
-      "name":"华为发布现有手机的“新版本”继续使用 Google 服务",
-      "url":"https://www.solidot.org/story?sid=64375"
-    },
-    {
-      "name":"Stuxnet 遗产还活在新 Windows bug 里",
-      "url":"https://www.solidot.org/story?sid=64374"
     }
   ]
 }
