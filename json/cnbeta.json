@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-18 10:19:46",
+  "time":"2020-05-18 10:24:07",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"牛津大学突破性的新冠疫苗已在猴子身上发挥作用",
+      "url":"https://www.cnbeta.com/articles/science/980345.htm"
+    },
+    {
+      "name":"15周年纪念：《战国BASARA》7月推出纪念版游戏",
+      "url":"https://hot.cnbeta.com/articles/game/980343.htm"
+    },
     {
       "name":"[图]新代码暗示Windows 10 on ARM设备可运行64位Windows应用",
       "url":"https://www.cnbeta.com/articles/tech/980341.htm"
@@ -233,14 +241,6 @@
     {
       "name":"研究人员正在开发一种能在检测到冠状病毒时发出预警的面罩",
       "url":"https://www.cnbeta.com/articles/tech/980227.htm"
-    },
-    {
-      "name":"WhatsApp在最新的测试版中集成了Messenger Rooms功能",
-      "url":"https://www.cnbeta.com/articles/tech/980225.htm"
-    },
-    {
-      "name":"中国光纤普及93％、4G用户12.8亿：均为世界第一",
-      "url":"https://www.cnbeta.com/articles/tech/980223.htm"
     }
   ]
 }
