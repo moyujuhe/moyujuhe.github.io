@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-18 20:26:40",
+  "time":"2020-05-18 20:30:53",
   "title":"cnBeta",
   "data":[
     {
       "name":"华为回应美国封杀升级：破坏全球芯片产业合作 伤害美国自己利益",
       "url":"https://www.cnbeta.com/articles/tech/980511.htm"
+    },
+    {
+      "name":"荣耀首款WiFi 6+路由发布：3Gbps网速、到手199元",
+      "url":"https://www.cnbeta.com/articles/tech/980583.htm"
+    },
+    {
+      "name":"中国长城推出首台半导体激光隐形晶圆切割机",
+      "url":"https://www.cnbeta.com/articles/tech/980581.htm"
+    },
+    {
+      "name":"法国政府将继续推进对苹果和其他科技跨国公司征收数字税",
+      "url":"https://www.cnbeta.com/articles/tech/980579.htm"
     },
     {
       "name":"荣耀平板V6发布：麒麟985+2K屏、首次支持Wi-Fi6+",
@@ -229,18 +241,6 @@
     {
       "name":"Zerodium宣布暂停购买iOS漏洞：因参与黑客数量过多",
       "url":"https://www.cnbeta.com/articles/tech/980467.htm"
-    },
-    {
-      "name":"PBK Reviews分享摩托罗拉Edge+拆解视频",
-      "url":"https://www.cnbeta.com/articles/tech/980465.htm"
-    },
-    {
-      "name":"开发者尝试在Surface Go 2上安装OpenBSD 没想到还挺顺利",
-      "url":"https://www.cnbeta.com/articles/tech/980461.htm"
-    },
-    {
-      "name":"程序员窃取公司《传奇霸业》源代码 被判刑并罚款",
-      "url":"https://hot.cnbeta.com/articles/game/980459.htm"
     }
   ]
 }
