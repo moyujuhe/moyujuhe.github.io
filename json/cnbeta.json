@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-19 02:19:37",
+  "time":"2020-05-19 02:23:47",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
+      "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
     {
       "name":"特斯拉中国对外事务副总裁陶琳：上海超级工厂有望刷新“特斯拉速度”",
       "url":"https://www.cnbeta.com/articles/tech/980637.htm"
@@ -237,10 +241,6 @@
     {
       "name":"广汽Aion S新能源车自燃：现场火光冲天 旁边奥迪也遭殃",
       "url":"https://www.cnbeta.com/articles/tech/980525.htm"
-    },
-    {
-      "name":"华为公布运营数据：研发投入1317亿 增29.8% 存货1674亿 大涨73.4%",
-      "url":"https://www.cnbeta.com/articles/tech/980523.htm"
     }
   ]
 }
