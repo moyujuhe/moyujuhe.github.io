@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 16:46:43",
+  "time":"2020-05-18 16:50:52",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"基因分析揭示肉食植物起源",
+      "url":"https://www.solidot.org/story?sid=64396"
+    },
     {
       "name":"微软总裁表示对待开源它曾站在错误的一边",
       "url":"https://www.solidot.org/story?sid=64395"
@@ -77,10 +81,6 @@
     {
       "name":"Chrome 将从 8 月起屏蔽占用过多资源的广告",
       "url":"https://www.solidot.org/story?sid=64377"
-    },
-    {
-      "name":"美国可更新能源发电量今年有望首次超过燃煤火电",
-      "url":"https://www.solidot.org/story?sid=64376"
     }
   ]
 }
