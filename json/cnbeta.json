@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 14:51:29",
+  "time":"2020-05-18 14:55:49",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Windows 10 2004引入了管理应用程序通知的新选项",
+      "url":"https://www.cnbeta.com/articles/tech/980469.htm"
+    },
     {
       "name":"Zerodium宣布暂停购买iOS漏洞：因参与黑客数量过多",
       "url":"https://www.cnbeta.com/articles/tech/980467.htm"
@@ -237,10 +241,6 @@
     {
       "name":"虽然成了“PPT”：但戴森还是公布了其电动车原型",
       "url":"https://www.cnbeta.com/articles/tech/980351.htm"
-    },
-    {
-      "name":"马化腾：以新基建为契机，加快共建产业互联网",
-      "url":"https://www.cnbeta.com/articles/tech/980349.htm"
     }
   ]
 }
