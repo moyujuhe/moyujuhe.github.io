@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-18 12:38:14",
+  "time":"2020-05-18 12:42:23",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"既然已经翻车了，有没有大佬帮解答一下什么是扫域名啊",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690962&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"6毛机怎么退款",
@@ -109,10 +113,6 @@
     {
       "name":"扫域名脚本和刷号脚本",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690929&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"请问国外有哪家DNS解析稳定的",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690928&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
