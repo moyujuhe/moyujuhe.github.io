@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-18 14:34:02",
+  "time":"2020-05-18 14:38:11",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Zerodium宣布暂停购买iOS漏洞：因参与黑客数量过多",
+      "url":"https://www.cnbeta.com/articles/tech/980467.htm"
+    },
+    {
+      "name":"PBK Reviews分享摩托罗拉Edge+拆解视频",
+      "url":"https://www.cnbeta.com/articles/tech/980465.htm"
+    },
     {
       "name":"开发者尝试在Surface Go 2上安装OpenBSD 没想到还挺顺利",
       "url":"https://www.cnbeta.com/articles/tech/980461.htm"
@@ -233,14 +241,6 @@
     {
       "name":"马化腾：以新基建为契机，加快共建产业互联网",
       "url":"https://www.cnbeta.com/articles/tech/980349.htm"
-    },
-    {
-      "name":"《侠盗猎车5》免费后游戏爆火 玩家挤爆R星服务器",
-      "url":"https://hot.cnbeta.com/articles/game/980347.htm"
-    },
-    {
-      "name":"牛津大学突破性的新冠疫苗已在猴子身上发挥作用",
-      "url":"https://www.cnbeta.com/articles/science/980345.htm"
     }
   ]
 }
