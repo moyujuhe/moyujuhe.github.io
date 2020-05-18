@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 11:27:37",
+  "time":"2020-05-18 11:31:45",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"SpaceX 发布模拟器演示载人飞船如何与空间站对接",
+      "url":"https://www.solidot.org/story?sid=64391"
+    },
     {
       "name":"蟒蛇不可思议的新陈代谢",
       "url":"https://www.solidot.org/story?sid=64390"
@@ -77,10 +81,6 @@
     {
       "name":"Adobe Acrobat Reader 安全漏洞允许恶意程序悄悄获得 macOS 的 root 权限",
       "url":"https://www.solidot.org/story?sid=64372"
-    },
-    {
-      "name":"HBO Max 改编尼尔·斯蒂芬森的《雪崩》",
-      "url":"https://www.solidot.org/story?sid=64371"
     }
   ]
 }
