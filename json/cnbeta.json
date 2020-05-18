@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-18 17:38:03",
+  "time":"2020-05-18 17:42:26",
   "title":"cnBeta",
   "data":[
     {
       "name":"华为回应美国封杀升级：破坏全球芯片产业合作 伤害美国自己利益",
       "url":"https://www.cnbeta.com/articles/tech/980511.htm"
+    },
+    {
+      "name":"联发科天玑820发布：号称最强中高端5G芯片",
+      "url":"https://www.cnbeta.com/articles/tech/980533.htm"
     },
     {
       "name":"外媒：台积电120亿美元美国建厂或重塑全球芯片制造供应链",
@@ -237,10 +241,6 @@
     {
       "name":"撞断A柱的帕萨特4月仍卖了1.5万辆 力压丰田凯美瑞",
       "url":"https://www.cnbeta.com/articles/tech/980415.htm"
-    },
-    {
-      "name":"台积电：已停止向华为提供新订单的报道纯粹传言",
-      "url":"https://www.cnbeta.com/articles/tech/980413.htm"
     }
   ]
 }
