@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 16:20:20",
+  "time":"2020-05-18 16:24:44",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"伽利略可能从未说过“地球仍然在动”",
+      "url":"https://www.cnbeta.com/articles/science/980493.htm"
+    },
     {
       "name":"巾帼英雄传奇再现 《花木兰》中文版正式预告公开",
       "url":"https://hot.cnbeta.com/articles/movie/980491.htm"
@@ -41,6 +45,10 @@
     {
       "name":"摩托车春天要来？吉利创始人李书福提议适度放开“禁限摩”",
       "url":"https://www.cnbeta.com/articles/tech/980473.htm"
+    },
+    {
+      "name":"十代酷睿桌面版 Intel 为性能提升加了什么料？",
+      "url":"https://e.cn.miaozhen.com/r/k=2161795&p=7YaYF&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/science/980233.htm"
     },
     {
       "name":"苹果推送5款艺术家联名 AirPods Pro耳机壳",
@@ -109,10 +117,6 @@
     {
       "name":"马云辞任，软银将任命三名新董事",
       "url":"https://www.cnbeta.com/articles/tech/980443.htm"
-    },
-    {
-      "name":"十代酷睿桌面版 Intel 为性能提升加了什么料？",
-      "url":"https://e.cn.miaozhen.com/r/k=2161795&p=7YaYF&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/science/980233.htm"
     },
     {
       "name":"要么读要么死？设计师做出能改成棺材的书柜",
@@ -237,10 +241,6 @@
     {
       "name":"华为自动驾驶操作系统首获ASIL D认证",
       "url":"https://www.cnbeta.com/articles/tech/980375.htm"
-    },
-    {
-      "name":"当iPhone 11运存“仅”4GB，三星下代旗舰或将是它的四倍",
-      "url":"https://www.cnbeta.com/articles/tech/980373.htm"
     }
   ]
 }
