@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 22:42:32",
+  "time":"2020-05-18 22:47:06",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"罗技推出新型Circle View安防摄像头 支持HomeKit",
+      "url":"https://www.cnbeta.com/articles/tech/980611.htm"
+    },
     {
       "name":"华为回应美国封杀升级：破坏全球芯片产业合作 伤害美国自己利益",
       "url":"https://www.cnbeta.com/articles/tech/980511.htm"
@@ -237,10 +241,6 @@
     {
       "name":"美国对华为封杀升级 郭平：不理解，有信心尽快解决",
       "url":"https://www.cnbeta.com/articles/tech/980495.htm"
-    },
-    {
-      "name":"伽利略可能从未说过“地球仍然在动”",
-      "url":"https://www.cnbeta.com/articles/science/980493.htm"
     }
   ]
 }
