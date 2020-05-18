@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-18 11:52:38",
+  "time":"2020-05-18 11:56:44",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"裸金属服务器是什么玩意儿",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690940&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"有常用Azure的mjj吗",
@@ -109,10 +113,6 @@
     {
       "name":"pr争议用同一个paypal可以几次？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690909&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"全球主机交流，我挺不服的",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=690908&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
