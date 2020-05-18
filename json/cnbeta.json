@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-18 10:40:57",
+  "time":"2020-05-18 10:45:18",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"快速射电暴源于何处？新发现正在接近真相",
+      "url":"https://www.cnbeta.com/articles/science/980357.htm"
+    },
+    {
+      "name":"科研人员开发突破性的技术  允许盲人识别形状和物体",
+      "url":"https://www.cnbeta.com/articles/science/980355.htm"
+    },
     {
       "name":"《鬼灭之刃》漫画正式完结 4年连载迎来最终回",
       "url":"https://hot.cnbeta.com/articles/comic/980353.htm"
@@ -233,14 +241,6 @@
     {
       "name":"偷拍行为泛滥成灾 摄像头检测APP真的靠谱吗？",
       "url":"https://www.cnbeta.com/articles/tech/980241.htm"
-    },
-    {
-      "name":"关于华为事件的终极推演",
-      "url":"https://www.cnbeta.com/articles/tech/980239.htm"
-    },
-    {
-      "name":"黄氏刀法 眼花缭乱 NVIDIA官方确认7nm安培首发割了一刀",
-      "url":"https://www.cnbeta.com/articles/tech/980237.htm"
     }
   ]
 }
