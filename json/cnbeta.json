@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 07:13:38",
+  "time":"2020-05-19 07:17:45",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"无需U盘小白轻松搞定 Windows 10“云重装”体验",
+      "url":"https://www.cnbeta.com/articles/tech/980651.htm"
+    },
+    {
+      "name":"诺基亚被台湾之星电信选为5G网络供应商",
+      "url":"https://www.cnbeta.com/articles/tech/980649.htm"
     },
     {
       "name":"爱奇艺第一季度营收76亿元 同比增长9%",
@@ -233,14 +241,6 @@
     {
       "name":"郭平：华为这架千疮百孔的飞机将继续向前飞",
       "url":"https://www.cnbeta.com/articles/tech/980539.htm"
-    },
-    {
-      "name":"Redmi 10X系列渲染图曝光：水滴屏/天玑820 支持双5G",
-      "url":"https://www.cnbeta.com/articles/tech/980537.htm"
-    },
-    {
-      "name":"联发科天玑820发布：号称最强中高端5G芯片",
-      "url":"https://www.cnbeta.com/articles/tech/980533.htm"
     }
   ]
 }
