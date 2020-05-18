@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 06:56:31",
+  "time":"2020-05-19 07:00:40",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"全球煤气灶论坛",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691288&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"网防G01-网站卫士&中小网站安全防护",
@@ -109,10 +113,6 @@
     {
       "name":"论vps的用途",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691257&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"收一个十年xyz",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691256&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
