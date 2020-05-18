@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 15:46:28",
+  "time":"2020-05-18 15:50:48",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Chrome 85 Canary改进了标签页分组功能",
+      "url":"https://www.cnbeta.com/articles/tech/980479.htm"
+    },
     {
       "name":"创造新纪录：科学家成功让15万亿个原子实现量子纠缠",
       "url":"https://www.cnbeta.com/articles/science/980477.htm"
@@ -237,10 +241,6 @@
     {
       "name":"沪牌车牌拍卖设置警示价：高于89300元无效",
       "url":"https://www.cnbeta.com/articles/tech/980361.htm"
-    },
-    {
-      "name":"iPhone 12卖4000多？小米潘九堂：至少比iPhone 11贵200美元",
-      "url":"https://www.cnbeta.com/articles/tech/980359.htm"
     }
   ]
 }
