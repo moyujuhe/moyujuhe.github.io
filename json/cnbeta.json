@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 14:12:43",
+  "time":"2020-05-18 14:16:54",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"开发者尝试在Surface Go 2上安装OpenBSD 没想到还挺顺利",
+      "url":"https://www.cnbeta.com/articles/tech/980461.htm"
+    },
     {
       "name":"程序员窃取公司《传奇霸业》源代码 被判刑并罚款",
       "url":"https://hot.cnbeta.com/articles/game/980459.htm"
@@ -237,10 +241,6 @@
     {
       "name":"牛津大学突破性的新冠疫苗已在猴子身上发挥作用",
       "url":"https://www.cnbeta.com/articles/science/980345.htm"
-    },
-    {
-      "name":"15周年纪念：《战国BASARA》7月推出纪念版游戏",
-      "url":"https://hot.cnbeta.com/articles/game/980343.htm"
     }
   ]
 }
