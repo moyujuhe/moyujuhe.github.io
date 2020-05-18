@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 14:41:05",
+  "time":"2020-05-18 15:11:17",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"中国团队发现可阻断新冠病毒感染的人源单克隆抗体",
+      "url":"https://tech.sina.com.cn/d/f/2020-05-18/doc-iirczymk2253432.shtml"
+    },
     {
       "name":"百度智能云发布AI中台、知识中台 面向企业服务",
       "url":"https://tech.sina.com.cn/i/2020-05-18/doc-iirczymk2247537.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"下代iPad Pro会有什么？miniLED屏，5G，一年两更？",
       "url":"https://tech.sina.com.cn/mobile/n/n/2020-05-18/doc-iircuyvi3640766.shtml"
-    },
-    {
-      "name":"消息称台积电从华为获得7亿美元订单 或加速5nm麒麟1000量产",
-      "url":"https://tech.sina.com.cn/roll/2020-05-18/doc-iircuyvi3642788.shtml"
     }
   ]
 }
