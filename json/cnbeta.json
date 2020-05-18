@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-18 19:02:03",
+  "time":"2020-05-18 19:06:17",
   "title":"cnBeta",
   "data":[
     {
       "name":"华为回应美国封杀升级：破坏全球芯片产业合作 伤害美国自己利益",
       "url":"https://www.cnbeta.com/articles/tech/980511.htm"
+    },
+    {
+      "name":"三星孵化器C-Labs成功孵化生产人造阳光假窗户的创业公司SunnyFive",
+      "url":"https://www.cnbeta.com/articles/tech/980565.htm"
     },
     {
       "name":"Intel 10nm凌动首次现身：还是没有超线程、Xe 11代核显",
@@ -237,10 +241,6 @@
     {
       "name":"英国富豪榜出炉：总体财富因疫情缩水 戴森登榜首",
       "url":"https://www.cnbeta.com/articles/tech/980451.htm"
-    },
-    {
-      "name":"Mozilla Firefox 84 版本起将彻底停止对Adobe Flash的支持",
-      "url":"https://www.cnbeta.com/articles/tech/980441.htm"
     }
   ]
 }
