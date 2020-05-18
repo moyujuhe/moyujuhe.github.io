@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 09:00:05",
+  "time":"2020-05-18 09:04:13",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Brad Smith：微软曾错误地站在 Linux 的历史对立面",
+      "url":"https://www.cnbeta.com/articles/tech/980313.htm"
+    },
     {
       "name":"[视频]庆祝11岁生日 Mojang启用全新企业名称和LOGO",
       "url":"https://hot.cnbeta.com/articles/game/980311.htm"
@@ -237,10 +241,6 @@
     {
       "name":"索尼PS5亮相需要哪些猛料？",
       "url":"https://hot.cnbeta.com/articles/game/980195.htm"
-    },
-    {
-      "name":"日本高中生想反对“游戏成瘾条例” 欲起诉政府",
-      "url":"https://hot.cnbeta.com/articles/game/980193.htm"
     }
   ]
 }
