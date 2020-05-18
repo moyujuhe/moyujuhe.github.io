@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-18 22:20:34",
+  "time":"2020-05-18 22:25:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"华为回应美国封杀升级：破坏全球芯片产业合作 伤害美国自己利益",
       "url":"https://www.cnbeta.com/articles/tech/980511.htm"
+    },
+    {
+      "name":"研究显示冷战时期的核辐射尘埃能在数千公里外造雨",
+      "url":"https://www.cnbeta.com/articles/tech/980609.htm"
     },
     {
       "name":"COVID-19传感器可以为iPhone带来日常病毒测试功能",
@@ -237,10 +241,6 @@
     {
       "name":"伽利略可能从未说过“地球仍然在动”",
       "url":"https://www.cnbeta.com/articles/science/980493.htm"
-    },
-    {
-      "name":"巾帼英雄传奇再现 《花木兰》中文版正式预告公开",
-      "url":"https://hot.cnbeta.com/articles/movie/980491.htm"
     }
   ]
 }
