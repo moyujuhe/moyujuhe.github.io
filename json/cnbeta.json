@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-19 01:20:06",
+  "time":"2020-05-19 01:24:39",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"火星神秘熔岩流可能是由泥浆火山形成",
+      "url":"https://www.cnbeta.com/articles/science/980625.htm"
+    },
     {
       "name":"联想智能相框为Indiegogo支持者提供五折优惠活动",
       "url":"https://www.cnbeta.com/articles/tech/980623.htm"
@@ -237,10 +241,6 @@
     {
       "name":"华为轮值董事长郭平呼吁 标准和产业链割裂对任何一方都没好处",
       "url":"https://www.cnbeta.com/articles/tech/980509.htm"
-    },
-    {
-      "name":"中国广电5G手机终至 5G时代四大运营商？",
-      "url":"https://www.cnbeta.com/articles/tech/980507.htm"
     }
   ]
 }
