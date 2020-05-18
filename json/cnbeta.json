@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 07:51:01",
+  "time":"2020-05-19 07:55:08",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"美卫生专家：新冠疫苗或在今年准备就绪 但不要完全“寄希望于它”",
+      "url":"https://www.cnbeta.com/articles/science/980683.htm"
+    },
+    {
+      "name":"疫苗研发消息提振美股收高 道指涨900点",
+      "url":"https://www.cnbeta.com/articles/tech/980681.htm"
     },
     {
       "name":"美国人寻求通过维C提高免疫力 橙汁价格创逾一年高位",
@@ -233,14 +241,6 @@
     {
       "name":"荣耀发布MagicBook Pro：90%屏占比 标配16GB内存",
       "url":"https://www.cnbeta.com/articles/tech/980569.htm"
-    },
-    {
-      "name":"台积电真的放弃华为了吗？",
-      "url":"https://www.cnbeta.com/articles/tech/980567.htm"
-    },
-    {
-      "name":"三星孵化器C-Labs成功孵化生产人造阳光假窗户的创业公司SunnyFive",
-      "url":"https://www.cnbeta.com/articles/tech/980565.htm"
     }
   ]
 }
