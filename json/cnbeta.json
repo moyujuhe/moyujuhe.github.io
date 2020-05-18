@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-18 20:18:28",
+  "time":"2020-05-18 20:22:34",
   "title":"cnBeta",
   "data":[
     {
       "name":"华为回应美国封杀升级：破坏全球芯片产业合作 伤害美国自己利益",
       "url":"https://www.cnbeta.com/articles/tech/980511.htm"
+    },
+    {
+      "name":"荣耀平板V6发布：麒麟985+2K屏、首次支持Wi-Fi6+",
+      "url":"https://www.cnbeta.com/articles/tech/980577.htm"
     },
     {
       "name":"软银拟向德国电信出售T-Mobile股份 后者将持五成股",
@@ -237,10 +241,6 @@
     {
       "name":"程序员窃取公司《传奇霸业》源代码 被判刑并罚款",
       "url":"https://hot.cnbeta.com/articles/game/980459.htm"
-    },
-    {
-      "name":"OPPO与沃达丰宣布签订伙伴协议 全线产品5月起进入沃达丰欧洲市场",
-      "url":"https://www.cnbeta.com/articles/tech/980457.htm"
     }
   ]
 }
