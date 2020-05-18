@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 07:38:37",
+  "time":"2020-05-19 07:42:45",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"迪士尼流媒体主管Mayer将担任TikTok的CEO",
+      "url":"https://www.cnbeta.com/articles/tech/980673.htm"
+    },
+    {
+      "name":"消息称微软6月中旬发布入门款新一代Xbox主机",
+      "url":"https://hot.cnbeta.com/articles/game/980671.htm"
     },
     {
       "name":"任天堂起诉Switch破解工具零售商 每单索赔一万八",
@@ -233,14 +241,6 @@
     {
       "name":"超奔驰宝马 雷克萨斯进口车销量中国第一",
       "url":"https://www.cnbeta.com/articles/tech/980559.htm"
-    },
-    {
-      "name":"首发联发科天玑820 Redmi 10X工程机首曝：5月26日登场",
-      "url":"https://www.cnbeta.com/articles/tech/980557.htm"
-    },
-    {
-      "name":"华为发致员工的一封信：美国对华为的打压是长期和持续性的",
-      "url":"https://www.cnbeta.com/articles/tech/980555.htm"
     }
   ]
 }
