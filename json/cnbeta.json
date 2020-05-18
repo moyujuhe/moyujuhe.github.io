@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 23:00:24",
+  "time":"2020-05-18 23:04:48",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"那些被直播带货裹挟的经销商、消费者与中小企业们",
+      "url":"https://www.cnbeta.com/articles/tech/980615.htm"
+    },
     {
       "name":"理光官方分享宾得APS-C DSLR旗舰产品详细信息",
       "url":"https://www.cnbeta.com/articles/tech/980613.htm"
@@ -237,10 +241,6 @@
     {
       "name":"腾讯游戏推防沉迷系统开发工具：中国超7成手游都能用",
       "url":"https://hot.cnbeta.com/articles/game/980499.htm"
-    },
-    {
-      "name":"恢复对世卫资助有变数？美媒：特朗普依旧维持“断供”决定",
-      "url":"https://www.cnbeta.com/articles/tech/980497.htm"
     }
   ]
 }
