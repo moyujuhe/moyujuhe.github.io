@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 04:14:03",
+  "time":"2020-05-19 04:18:12",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"iPhone 12 产品线屏幕全面曝光 支持10-bit色深",
+      "url":"https://www.cnbeta.com/articles/tech/980645.htm"
     },
     {
       "name":"特斯拉弗里蒙特工厂获准本周重启生产 股价应声上涨",
@@ -237,10 +241,6 @@
     {
       "name":"外媒：台积电120亿美元美国建厂或重塑全球芯片制造供应链",
       "url":"https://www.cnbeta.com/articles/tech/980531.htm"
-    },
-    {
-      "name":"《英雄联盟》手游公布配置要求：iPhone 6 以上机型才可运行",
-      "url":"https://hot.cnbeta.com/articles/game/980529.htm"
     }
   ]
 }
