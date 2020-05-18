@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 15:55:22",
+  "time":"2020-05-18 15:59:28",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"小牛电动Q1营收2.33亿元 较去年同期下降34.4%",
+      "url":"https://www.cnbeta.com/articles/tech/980485.htm"
+    },
     {
       "name":"研究：聚集成礁的贻贝可能会摄入更多的塑料",
       "url":"https://www.cnbeta.com/articles/science/980483.htm"
@@ -237,10 +241,6 @@
     {
       "name":"特斯拉弗里蒙特工厂复产在即 产能达到停产前水平仍需一段时间",
       "url":"https://www.cnbeta.com/articles/tech/980367.htm"
-    },
-    {
-      "name":"大众新款朗逸实车曝光：配置升级 停售两厢版",
-      "url":"https://www.cnbeta.com/articles/tech/980365.htm"
     }
   ]
 }
