@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 10:02:57",
+  "time":"2020-05-18 10:07:08",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软CEO警告：长期居家办公或导致社交互动和心理健康的负面影响",
+      "url":"https://www.cnbeta.com/articles/tech/980339.htm"
+    },
     {
       "name":"苹果：全球近百家零售店重新开业 进店都要带口罩",
       "url":"https://www.cnbeta.com/articles/tech/980337.htm"
@@ -237,10 +241,6 @@
     {
       "name":"育碧：《刺客信条：英灵殿》首个预告看量已超1亿次",
       "url":"https://hot.cnbeta.com/articles/game/980221.htm"
-    },
-    {
-      "name":"Epic CEO回应PC跑虚幻5更快 40fps并不能反应硬件性能",
-      "url":"https://hot.cnbeta.com/articles/game/980219.htm"
     }
   ]
 }
