@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 13:42:52",
+  "time":"2020-05-18 13:47:16",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"台积电：已停止向华为提供新订单的报道纯粹传言",
+      "url":"https://www.cnbeta.com/articles/tech/980413.htm"
+    },
     {
       "name":"国内体量最大柔性AMOLED单体工厂 厦门天马480亿元项目全面开工",
       "url":"https://www.cnbeta.com/articles/tech/980411.htm"
@@ -237,10 +241,6 @@
     {
       "name":"全国5G基站数量达24万 全年目标完成过半",
       "url":"https://www.cnbeta.com/articles/tech/980297.htm"
-    },
-    {
-      "name":"美国出口新规“卡”了华为什么技术？",
-      "url":"https://www.cnbeta.com/articles/tech/980295.htm"
     }
   ]
 }
