@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-18 19:14:35",
+  "time":"2020-05-18 19:18:46",
   "title":"cnBeta",
   "data":[
     {
       "name":"华为回应美国封杀升级：破坏全球芯片产业合作 伤害美国自己利益",
       "url":"https://www.cnbeta.com/articles/tech/980511.htm"
+    },
+    {
+      "name":"台积电真的放弃华为了吗？",
+      "url":"https://www.cnbeta.com/articles/tech/980567.htm"
     },
     {
       "name":"三星孵化器C-Labs成功孵化生产人造阳光假窗户的创业公司SunnyFive",
@@ -237,10 +241,6 @@
     {
       "name":"工程师打造出能记录EEG大脑活动的喷墨打印纹身电极",
       "url":"https://www.cnbeta.com/articles/tech/980423.htm"
-    },
-    {
-      "name":"英国富豪榜出炉：总体财富因疫情缩水 戴森登榜首",
-      "url":"https://www.cnbeta.com/articles/tech/980451.htm"
     }
   ]
 }
