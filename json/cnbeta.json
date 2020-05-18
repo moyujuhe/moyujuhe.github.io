@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 09:25:06",
+  "time":"2020-05-18 09:29:33",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"特朗普发布《独立日》Deepfake视频  比尔·普尔曼对此并不赞同",
+      "url":"https://www.cnbeta.com/articles/tech/980329.htm"
+    },
     {
       "name":"弹个车遭60人实名举报3000人维权 有车主下车买瓶水车被收走了",
       "url":"https://www.cnbeta.com/articles/tech/980327.htm"
@@ -237,10 +241,6 @@
     {
       "name":"LG为Q系列手机申请了13个新名称",
       "url":"https://www.cnbeta.com/articles/tech/980211.htm"
-    },
-    {
-      "name":"Intel 10nm趋于成熟：Tiger Lake-U 11代酷睿基准频率达2.8GHz",
-      "url":"https://www.cnbeta.com/articles/tech/980209.htm"
     }
   ]
 }
