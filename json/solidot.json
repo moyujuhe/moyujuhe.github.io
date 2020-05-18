@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-18 22:07:43",
+  "time":"2020-05-18 22:12:03",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Moderna 称其疫苗测试取得良好成果",
+      "url":"https://www.solidot.org/story?sid=64402"
+    },
+    {
+      "name":"欧洲五眼情报联盟帮助英国破解阿根廷密码",
+      "url":"https://www.solidot.org/story?sid=64401"
+    },
+    {
+      "name":"美国空军神秘太空飞机 X-37B 开始执行第六次任务",
+      "url":"https://www.solidot.org/story?sid=64400"
+    },
     {
       "name":"基因分析揭示肉食植物起源",
       "url":"https://www.solidot.org/story?sid=64396"
@@ -69,18 +81,6 @@
     {
       "name":"作家叶永烈去世，享年 80 岁",
       "url":"https://www.solidot.org/story?sid=64380"
-    },
-    {
-      "name":"Facebook 领衔建造非洲海底光缆",
-      "url":"https://www.solidot.org/story?sid=64379"
-    },
-    {
-      "name":"英伟达宣布新安培架构 GPU A100",
-      "url":"https://www.solidot.org/story?sid=64378"
-    },
-    {
-      "name":"Chrome 将从 8 月起屏蔽占用过多资源的广告",
-      "url":"https://www.solidot.org/story?sid=64377"
     }
   ]
 }
