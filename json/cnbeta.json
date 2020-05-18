@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 07:42:45",
+  "time":"2020-05-19 07:46:53",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"继推特后 Square允许员工永久在家办公",
+      "url":"https://www.cnbeta.com/articles/tech/980675.htm"
     },
     {
       "name":"迪士尼流媒体主管Mayer将担任TikTok的CEO",
@@ -237,10 +241,6 @@
     {
       "name":"中国移动权威评测：最强5G手机出炉 3000元以上华为无敌",
       "url":"https://www.cnbeta.com/articles/tech/980561.htm"
-    },
-    {
-      "name":"超奔驰宝马 雷克萨斯进口车销量中国第一",
-      "url":"https://www.cnbeta.com/articles/tech/980559.htm"
     }
   ]
 }
