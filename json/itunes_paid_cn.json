@@ -1,12 +1,12 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-05-18 19:27:07",
+  "time":"2020-05-18 19:31:15",
   "data":[
     {
-      "name":"我叫MT2 竞技场",
-      "url":"https://apps.apple.com/cn/app/%E6%88%91%E5%8F%ABmt2-%E7%AB%9E%E6%8A%80%E5%9C%BA/id1506908500?uo=4",
+      "name":"我叫MT2 重制版",
+      "url":"https://apps.apple.com/cn/app/%E6%88%91%E5%8F%ABmt2-%E9%87%8D%E5%88%B6%E7%89%88/id1506908500?uo=4",
       "num":"游戏",
-      "description":"最新版本:  2.0.3\n更新时间:  2020-05-07 11:46:05 (北京时间)\n\n本次更新主要解决了iOS 12.4下运行游戏闪退的问题，并优化了运行效率，提高了用户体验，建议所有玩家更新。"
+      "description":"最新版本:  2.0.4\n更新时间:  2020-05-18 12:05:01 (北京时间)\n\n全新版本震撼来临！\n游戏内容大幅重制，体验优化更上一层楼！"
     },
     {
       "name":"时间规划局 - 倒计时与提醒事项",
@@ -72,7 +72,7 @@
       "name":"英雄之城II-全球战争策略手游",
       "url":"https://apps.apple.com/cn/app/%E8%8B%B1%E9%9B%84%E4%B9%8B%E5%9F%8Eii-%E5%85%A8%E7%90%83%E6%88%98%E4%BA%89%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id1444979722?uo=4",
       "num":"游戏",
-      "description":"最新版本:  1.0.25\n更新时间:  2020-05-01 16:04:57 (北京时间)\n\n修复bug。"
+      "description":"最新版本:  1.0.26\n更新时间:  2020-05-17 21:08:21 (北京时间)\n\n- 增加巨型宝藏活动\n- 增加中式风格战斗场景、码头战斗场景\n- 减少国家商店普通商品数量，增加高级商品数量\n- 开放验证手机领奖活动"
     },
     {
       "name":"武林英侠传-热血武侠来袭",
@@ -114,7 +114,7 @@
       "name":"动森助手 -  森友必备图鉴指南",
       "url":"https://apps.apple.com/cn/app/%E5%8A%A8%E6%A3%AE%E5%8A%A9%E6%89%8B-%E6%A3%AE%E5%8F%8B%E5%BF%85%E5%A4%87%E5%9B%BE%E9%89%B4%E6%8C%87%E5%8D%97/id1507665130?uo=4",
       "num":"工具",
-      "description":"最新版本:  3.1.0\n更新时间:  2020-05-16 14:29:38 (北京时间)\n\n1. 新增NPC图鉴\n2. 岛民信息新增爱好，列表支持根据爱好筛选\n3. 部分功能优化"
+      "description":"最新版本:  3.2.0\n更新时间:  2020-05-18 10:54:50 (北京时间)\n\n1. 大头菜预测功能全面升级\n2. 化石DIY图鉴数据支持导出图片\n3. 服装家具列表新增收集进度\n4. 服装详情页新增风格内容\n5. 服饰家具全部类目名称排序问题修复\n6. 其他一些小问题修复同时兼容低版本系统"
     },
     {
       "name":"神秘之剑OL-经典格斗动作手游",
@@ -321,12 +321,6 @@
       "description":"最新版本:  9.3.4\n更新时间:  2020-04-16 00:49:11 (北京时间)\n\n*** What's New in 9.3.4 ***\n• Improved iOS 13.4 mouse support\n\n*** What's New in 9.3.3 ***\n• Added an option to draw text boxes when using the text tool\n• Added 4 laser pointer colors and the ability to hold the laser tail\n• Password protected PDFs can now be unlocked on import\n• Image captions are now optional\n• Added an option to hide the preview when playing back audio\n• Added multiple screen display size options to Presentation Mode\n• Miscellaneous bug fixes\n\n***Notability 9.3 全新功能***\n演示模式：\n•将笔记全屏显示在外部显示屏上，不含工具栏和菜单\n•笔记将按外部显示屏宽高比裁剪，您可以判断正在演示的内容是什么\n•激光笔\n•使用多笔记视图可在演示期间查看观众不可见的第二份笔记\n\n单页模式：\n•水平翻阅笔记，一次一页\n•能与演示模式搭配使用，每一页就像是一张幻灯片\n\n其他修复：\n•放大了上一页/下一页箭头\n•使用Apple Pencil期间用手指轻按即可启用缩放框"
     },
     {
-      "name":"刀刀暗黑",
-      "url":"https://apps.apple.com/cn/app/%E5%88%80%E5%88%80%E6%9A%97%E9%BB%91/id1318336924?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.2\n更新时间:  2020-01-22 06:33:22 (北京时间)\n\n修复了跨年造成的游戏内日期不能更新的bug"
-    },
-    {
       "name":"单机三国志4 群英蝟兴",
       "url":"https://apps.apple.com/cn/app/%E5%8D%95%E6%9C%BA%E4%B8%89%E5%9B%BD%E5%BF%974-%E7%BE%A4%E8%8B%B1%E8%9D%9F%E5%85%B4/id1474321640?uo=4",
       "num":"游戏",
@@ -528,7 +522,7 @@
       "name":"亘古幻想",
       "url":"https://apps.apple.com/cn/app/%E4%BA%98%E5%8F%A4%E5%B9%BB%E6%83%B3/id1263365153?uo=4",
       "num":"游戏",
-      "description":"最新版本:  1.0.50\n更新时间:  2020-05-04 15:06:26 (北京时间)\n\nPreparations for Draft PvP."
+      "description":"最新版本:  1.0.51\n更新时间:  2020-05-18 09:39:10 (北京时间)\n\nFinal Preparations for Draft PvP"
     },
     {
       "name":"Rebel Inc. (反叛公司)",
@@ -601,6 +595,12 @@
       "url":"https://apps.apple.com/cn/app/%E8%89%BE%E5%B8%8C-icey/id1271620263?uo=4",
       "num":"游戏",
       "description":"最新版本:  1.1.4\n更新时间:  2020-05-01 01:55:12 (北京时间)\n\n接入了防沉迷系统（仅限中国大陆地区）"
+    },
+    {
+      "name":"王国保卫战：复仇",
+      "url":"https://apps.apple.com/cn/app/%E7%8E%8B%E5%9B%BD%E4%BF%9D%E5%8D%AB%E6%88%98-%E5%A4%8D%E4%BB%87/id1248033433?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.9.5\n更新时间:  2020-04-15 01:52:34 (北京时间)\n\n错误修复和改进"
     }
   ]
 }
