@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 07:09:26",
+  "time":"2020-05-19 07:13:38",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"爱奇艺第一季度营收76亿元 同比增长9%",
+      "url":"https://www.cnbeta.com/articles/tech/980647.htm"
     },
     {
       "name":"iPhone 12 产品线屏幕全面曝光 支持10-bit色深",
@@ -237,10 +241,6 @@
     {
       "name":"联发科天玑820发布：号称最强中高端5G芯片",
       "url":"https://www.cnbeta.com/articles/tech/980533.htm"
-    },
-    {
-      "name":"外媒：台积电120亿美元美国建厂或重塑全球芯片制造供应链",
-      "url":"https://www.cnbeta.com/articles/tech/980531.htm"
     }
   ]
 }
