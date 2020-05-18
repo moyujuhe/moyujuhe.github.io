@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 18:18:01",
+  "time":"2020-05-18 18:36:46",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"新氧：一季度营收1.826亿元，同比下降11%",
+      "url":"https://tech.sina.com.cn/i/2020-05-18/doc-iircuyvi3761890.shtml"
+    },
     {
       "name":"余承东：网络安全只是借口 华为威胁到了美国科技霸权",
       "url":"https://tech.sina.com.cn/it/2020-05-18/doc-iirczymk2286804.shtml"
@@ -13,6 +17,10 @@
     {
       "name":"工信部通告注销11家企业跨地区增值电信业务经营许可",
       "url":"https://tech.sina.com.cn/roll/2020-05-18/doc-iircuyvi3759144.shtml"
+    },
+    {
+      "name":"华为发致员工的一封信：美国对华为的打压是长期和持续性的",
+      "url":"https://tech.sina.com.cn/it/2020-05-18/doc-iirczymk2289446.shtml"
     },
     {
       "name":"全国两会召开在即，马化腾带来7份建议！提了啥？",
@@ -193,14 +201,6 @@
     {
       "name":"Sensor Tower:4月《PUBG MOBILE》吸金超2亿美元 同比增241%",
       "url":"https://tech.sina.com.cn/i/2020-05-18/doc-iircuyvi3697955.shtml"
-    },
-    {
-      "name":"小马智行获北京自动驾驶载人测试牌照 重点测试网络约车",
-      "url":"https://tech.sina.com.cn/it/2020-05-18/doc-iirczymk2224835.shtml"
-    },
-    {
-      "name":"外媒：台积电停止接收华为新订单",
-      "url":"https://tech.sina.com.cn/t/2020-05-18/doc-iirczymk2223153.shtml"
     }
   ]
 }
