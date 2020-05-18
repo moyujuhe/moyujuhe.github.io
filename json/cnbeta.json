@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 10:07:08",
+  "time":"2020-05-18 10:11:28",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]新代码暗示Windows 10 on ARM设备可运行64位Windows应用",
+      "url":"https://www.cnbeta.com/articles/tech/980341.htm"
+    },
     {
       "name":"微软CEO警告：长期居家办公或导致社交互动和心理健康的负面影响",
       "url":"https://www.cnbeta.com/articles/tech/980339.htm"
@@ -237,10 +241,6 @@
     {
       "name":"中国光纤普及93％、4G用户12.8亿：均为世界第一",
       "url":"https://www.cnbeta.com/articles/tech/980223.htm"
-    },
-    {
-      "name":"育碧：《刺客信条：英灵殿》首个预告看量已超1亿次",
-      "url":"https://hot.cnbeta.com/articles/game/980221.htm"
     }
   ]
 }
