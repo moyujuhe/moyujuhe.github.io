@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-18 23:04:48",
+  "time":"2020-05-18 23:09:07",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"联邦快递与微软达成合作 带来FedEx Surround快件追踪服务",
+      "url":"https://www.cnbeta.com/articles/tech/980617.htm"
+    },
     {
       "name":"那些被直播带货裹挟的经销商、消费者与中小企业们",
       "url":"https://www.cnbeta.com/articles/tech/980615.htm"
@@ -237,10 +241,6 @@
     {
       "name":"Realme X50 Pro玩家版规格与外形曝光 5月25日发布",
       "url":"https://www.cnbeta.com/articles/tech/980501.htm"
-    },
-    {
-      "name":"腾讯游戏推防沉迷系统开发工具：中国超7成手游都能用",
-      "url":"https://hot.cnbeta.com/articles/game/980499.htm"
     }
   ]
 }
