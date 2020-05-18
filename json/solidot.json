@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-18 12:46:29",
+  "time":"2020-05-18 12:50:43",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"猎豹清理大师和印象笔记被指违规收集用户信息",
+      "url":"https://www.solidot.org/story?sid=64393"
+    },
+    {
+      "name":"华为 Mate30 的美国零部件使用率降至 1%",
+      "url":"https://www.solidot.org/story?sid=64392"
+    },
     {
       "name":"SpaceX 发布模拟器演示载人飞船如何与空间站对接",
       "url":"https://www.solidot.org/story?sid=64391"
@@ -73,14 +81,6 @@
     {
       "name":"Stuxnet 遗产还活在新 Windows bug 里",
       "url":"https://www.solidot.org/story?sid=64374"
-    },
-    {
-      "name":"中国南北方人群在 9500 年前有过分化",
-      "url":"https://www.solidot.org/story?sid=64373"
-    },
-    {
-      "name":"Adobe Acrobat Reader 安全漏洞允许恶意程序悄悄获得 macOS 的 root 权限",
-      "url":"https://www.solidot.org/story?sid=64372"
     }
   ]
 }
