@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-18 20:30:53",
+  "time":"2020-05-18 20:35:25",
   "title":"cnBeta",
   "data":[
     {
       "name":"华为回应美国封杀升级：破坏全球芯片产业合作 伤害美国自己利益",
       "url":"https://www.cnbeta.com/articles/tech/980511.htm"
+    },
+    {
+      "name":"苹果发布了两款新的Pride版Apple Watch表带",
+      "url":"https://www.cnbeta.com/articles/tech/980585.htm"
     },
     {
       "name":"荣耀首款WiFi 6+路由发布：3Gbps网速、到手199元",
@@ -237,10 +241,6 @@
     {
       "name":"Windows 10 2004引入了管理应用程序通知的新选项",
       "url":"https://www.cnbeta.com/articles/tech/980469.htm"
-    },
-    {
-      "name":"Zerodium宣布暂停购买iOS漏洞：因参与黑客数量过多",
-      "url":"https://www.cnbeta.com/articles/tech/980467.htm"
     }
   ]
 }
