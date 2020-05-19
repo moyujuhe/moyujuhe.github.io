@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-19 15:35:35",
+  "time":"2020-05-19 15:40:23",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"虽无法取代5G 卫星通信为何仍成为新基建“宠儿”？",
+      "url":"https://www.cnbeta.com/articles/science/980931.htm"
+    },
+    {
+      "name":"iQOO Z1评测：除了天玑1000+还有哪些看点？",
+      "url":"https://www.cnbeta.com/articles/tech/980929.htm"
+    },
+    {
+      "name":"Moderna新冠疫苗人体试验成功，能“救世”了么？",
+      "url":"https://www.cnbeta.com/articles/science/980927.htm"
     },
     {
       "name":"纽约米其林屈尊送外卖：菜品天壤之别 人均400砍至22刀",
@@ -229,18 +241,6 @@
     {
       "name":"梅赛德斯奔驰OLU源代码在网上曝光",
       "url":"https://www.cnbeta.com/articles/tech/980757.htm"
-    },
-    {
-      "name":"[图]美塔尔萨市长拉拢特斯拉：若新厂落户该州 则配Cybertruck警车",
-      "url":"https://www.cnbeta.com/articles/tech/980761.htm"
-    },
-    {
-      "name":"EasyMile为自动驾驶班车配备安全带 以恢复在美运营",
-      "url":"https://www.cnbeta.com/articles/tech/980815.htm"
-    },
-    {
-      "name":"[图]Microsoft Q&A正式上线：整合MSDN和TechNet论坛内容",
-      "url":"https://www.cnbeta.com/articles/tech/980765.htm"
     }
   ]
 }
