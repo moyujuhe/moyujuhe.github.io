@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 23:51:04",
+  "time":"2020-05-19 23:55:50",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"台积电不得不暂停接受华为新订单",
+      "url":"https://www.cnbeta.com/articles/tech/981053.htm"
+    },
+    {
+      "name":"SD 8.0标准发布：引入PCIe 4.0、最高速度达4GB/s",
+      "url":"https://www.cnbeta.com/articles/tech/981051.htm"
     },
     {
       "name":"Apple Glass最低499美元起 支持日常光学镜片",
@@ -233,14 +241,6 @@
     {
       "name":"iQOO Z1评测：除了天玑1000+还有哪些看点？",
       "url":"https://www.cnbeta.com/articles/tech/980929.htm"
-    },
-    {
-      "name":"Moderna新冠疫苗人体试验成功，能“救世”了么？",
-      "url":"https://www.cnbeta.com/articles/science/980927.htm"
-    },
-    {
-      "name":"纽约米其林屈尊送外卖：菜品天壤之别 人均400砍至22刀",
-      "url":"https://www.cnbeta.com/articles/tech/980925.htm"
     }
   ]
 }
