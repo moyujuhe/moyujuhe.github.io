@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 07:55:08",
+  "time":"2020-05-19 07:59:22",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"[图]2020年款iPhone全系配柔性OLED面板 供货方包括京东方",
+      "url":"https://www.cnbeta.com/articles/tech/980685.htm"
     },
     {
       "name":"美卫生专家：新冠疫苗或在今年准备就绪 但不要完全“寄希望于它”",
@@ -237,10 +241,6 @@
     {
       "name":"2020年《财富》美国500强排行榜：苹果未进前三",
       "url":"https://www.cnbeta.com/articles/tech/980571.htm"
-    },
-    {
-      "name":"荣耀发布MagicBook Pro：90%屏占比 标配16GB内存",
-      "url":"https://www.cnbeta.com/articles/tech/980569.htm"
     }
   ]
 }
