@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 10:45:30",
+  "time":"2020-05-19 10:49:40",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"美一新冠确诊患者参加礼拜：致180名会众暴露在新冠病毒之下",
+      "url":"https://www.cnbeta.com/articles/science/980785.htm"
     },
     {
       "name":"美病毒专家认为有效的新冠治疗方法或在今年年底出现",
@@ -237,10 +241,6 @@
     {
       "name":"任天堂起诉Switch破解工具零售商 每单索赔一万八",
       "url":"https://hot.cnbeta.com/articles/game/980669.htm"
-    },
-    {
-      "name":"比尔盖茨2020年夏季书单出炉：首次推荐在线游戏",
-      "url":"https://www.cnbeta.com/articles/tech/980667.htm"
     }
   ]
 }
