@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 10:19:40",
+  "time":"2020-05-19 10:23:55",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"NASA将发布与寻找暗能量和系外行星任务相关的特别公告",
+      "url":"https://www.cnbeta.com/articles/science/980777.htm"
+    },
+    {
+      "name":"Oculus宣布VR内容消费过亿美元 手部追踪功能亦开放公测",
+      "url":"https://www.cnbeta.com/articles/tech/980775.htm"
     },
     {
       "name":"Windows 10X不会出现“越用越卡”问题 装机数年后性能依然如一",
@@ -233,14 +241,6 @@
     {
       "name":"跟谁学再遭浑水做空 周一收盘股价下跌7.31%",
       "url":"https://www.cnbeta.com/articles/tech/980661.htm"
-    },
-    {
-      "name":"扎克伯格给餐馆捐钱背后：旧金山半数餐馆都活不下去了",
-      "url":"https://www.cnbeta.com/articles/tech/980659.htm"
-    },
-    {
-      "name":"封锁打压之下 华为如何蹚过泥泞？",
-      "url":"https://www.cnbeta.com/articles/tech/980657.htm"
     }
   ]
 }
