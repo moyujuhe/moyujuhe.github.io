@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 08:33:01",
+  "time":"2020-05-19 08:37:17",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"[图]摩根大通：iPhone SE 2全球供需关系趋稳 国内平均8天交付",
+      "url":"https://www.cnbeta.com/articles/tech/980699.htm"
     },
     {
       "name":"德克萨斯州一家法院首次通过Zoom进行陪审团审判",
@@ -237,10 +241,6 @@
     {
       "name":"荣耀首款WiFi 6+路由发布：3Gbps网速、到手199元",
       "url":"https://www.cnbeta.com/articles/tech/980583.htm"
-    },
-    {
-      "name":"中国长城推出首台半导体激光隐形晶圆切割机",
-      "url":"https://www.cnbeta.com/articles/tech/980581.htm"
     }
   ]
 }
