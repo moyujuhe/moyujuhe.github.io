@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-19 16:10:14",
+  "time":"2020-05-19 16:14:29",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"中芯南方获 22.5 亿美元增资",
+      "url":"https://www.solidot.org/story?sid=64405"
+    },
     {
       "name":"微软 CEO 认为长期远程工作对心理健康有害",
       "url":"https://www.solidot.org/story?sid=64404"
@@ -77,10 +81,6 @@
     {
       "name":"美国第一季度游戏销售额创下记录",
       "url":"https://www.solidot.org/story?sid=64386"
-    },
-    {
-      "name":"科技公司雇员考虑离开房租高昂的硅谷",
-      "url":"https://www.solidot.org/story?sid=64385"
     }
   ]
 }
