@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 09:54:04",
+  "time":"2020-05-19 09:58:21",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"微软为索尼AI摄像头提供了Azure云脑支持",
+      "url":"https://www.cnbeta.com/articles/tech/980763.htm"
+    },
+    {
+      "name":"[图]美塔尔萨市长拉拢特斯拉：若新厂落户该州 则配Cybertruck警车",
+      "url":"https://www.cnbeta.com/articles/tech/980761.htm"
     },
     {
       "name":"今年秋季英国可能获得3000万剂突破性的新冠疫苗",
@@ -233,14 +241,6 @@
     {
       "name":"爱奇艺第一季度营收76亿元 同比增长9%",
       "url":"https://www.cnbeta.com/articles/tech/980647.htm"
-    },
-    {
-      "name":"iPhone 12 产品线屏幕全面曝光 支持10-bit色深",
-      "url":"https://www.cnbeta.com/articles/tech/980645.htm"
-    },
-    {
-      "name":"特斯拉弗里蒙特工厂获准本周重启生产 股价应声上涨",
-      "url":"https://www.cnbeta.com/articles/tech/980643.htm"
     }
   ]
 }
