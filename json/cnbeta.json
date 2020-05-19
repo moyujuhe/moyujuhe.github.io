@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 14:47:41",
+  "time":"2020-05-19 14:51:57",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"[图]不是骁龙6xx 新消息称Nokia 6.3将配骁龙730处理器",
+      "url":"https://www.cnbeta.com/articles/tech/980897.htm"
     },
     {
       "name":"欧盟高管谈FB治理：扎克伯格若搞不定我们就会管",
@@ -237,10 +241,6 @@
     {
       "name":"爱奇艺龚宇：演员片酬已降到5000万以下 最高到过1.5亿",
       "url":"https://www.cnbeta.com/articles/tech/980809.htm"
-    },
-    {
-      "name":"微软展示了Fluent UI设计的最新改进",
-      "url":"https://www.cnbeta.com/articles/tech/980789.htm"
     }
   ]
 }
