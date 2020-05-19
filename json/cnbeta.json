@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 18:04:46",
+  "time":"2020-05-19 18:09:21",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"美团单车早高峰现故障 官方称受影响用户可免费骑3天",
+      "url":"https://www.cnbeta.com/articles/tech/980983.htm"
     },
     {
       "name":"《愤怒的小鸟》开发商谈远程办公：严重影响生产力",
@@ -237,10 +241,6 @@
     {
       "name":"跟谁学上市未满1年已遭4家机构6轮做空：市值一周缩水近20亿美元",
       "url":"https://www.cnbeta.com/articles/tech/980861.htm"
-    },
-    {
-      "name":"北京大学教授黄岩谊：新冠病毒实验室如何进行检测研究？",
-      "url":"https://www.cnbeta.com/articles/science/980859.htm"
     }
   ]
 }
