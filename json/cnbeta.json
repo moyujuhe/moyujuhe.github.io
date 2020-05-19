@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 10:02:41",
+  "time":"2020-05-19 10:06:56",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"血液检查可能有助于预测儿童严重的新冠病毒综合征",
+      "url":"https://www.cnbeta.com/articles/science/980767.htm"
+    },
+    {
+      "name":"[图]Microsoft Q&A正式上线：整合MSDN和TechNet论坛内容",
+      "url":"https://www.cnbeta.com/articles/tech/980765.htm"
     },
     {
       "name":"微软为索尼AI摄像头提供了Azure云脑支持",
@@ -233,14 +241,6 @@
     {
       "name":"无需U盘小白轻松搞定 Windows 10“云重装”体验",
       "url":"https://www.cnbeta.com/articles/tech/980651.htm"
-    },
-    {
-      "name":"诺基亚被台湾之星电信选为5G网络供应商",
-      "url":"https://www.cnbeta.com/articles/tech/980649.htm"
-    },
-    {
-      "name":"爱奇艺第一季度营收76亿元 同比增长9%",
-      "url":"https://www.cnbeta.com/articles/tech/980647.htm"
     }
   ]
 }
