@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 07:43:56",
+  "time":"2020-05-20 07:48:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://www.cnbeta.com/articles/tech/981067.htm"
+    },
+    {
+      "name":"美国白宫咨询委员会呼吁对数字基础设施进行投资",
+      "url":"https://www.cnbeta.com/articles/tech/981121.htm"
     },
     {
       "name":"欧盟反对特朗普威胁断供世卫：支持世卫组织 已为其提供额外资金",
@@ -237,10 +241,6 @@
     {
       "name":"苹果PowerBeats Pro 2耳机通过工信部认证 可能在WWDC 2020发布",
       "url":"https://www.cnbeta.com/articles/tech/980999.htm"
-    },
-    {
-      "name":"别克君威中保研成绩出炉 侧气囊竟成摆设",
-      "url":"https://www.cnbeta.com/articles/tech/980997.htm"
     }
   ]
 }
