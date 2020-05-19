@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 22:01:35",
+  "time":"2020-05-19 22:06:01",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"智能手机顾客满意度调查：苹果继续保持第一",
+      "url":"https://www.cnbeta.com/articles/tech/981037.htm"
     },
     {
       "name":"NVIDIA安培架构深入分析：显著增加云端AI芯片门槛",
@@ -237,10 +241,6 @@
     {
       "name":"《莫比亚斯》片场照再曝细节 莱托身穿神秘套装",
       "url":"https://hot.cnbeta.com/articles/movie/980913.htm"
-    },
-    {
-      "name":"业内：扎克伯格最怕人们会对Facebook失去兴趣",
-      "url":"https://www.cnbeta.com/articles/tech/980911.htm"
     }
   ]
 }
