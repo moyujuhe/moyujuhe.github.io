@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 14:00:25",
+  "time":"2020-05-19 14:04:35",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"云南巧家5级地震  网友：正看着电视跳出了倒计时",
+      "url":"https://www.cnbeta.com/articles/tech/980881.htm"
+    },
+    {
+      "name":"Galaxy Note 20前后造型首次曝光",
+      "url":"https://www.cnbeta.com/articles/tech/980879.htm"
     },
     {
       "name":"[图]realme Watch外观规格公开：1.4吋方形触控屏幕 支持血氧监测",
@@ -233,14 +241,6 @@
     {
       "name":"滴滴进军货运成真：开始在杭州和成都招募司机",
       "url":"https://www.cnbeta.com/articles/tech/980803.htm"
-    },
-    {
-      "name":"最快将于明年6月推向市场 蜂巢能源发布两款无钴电芯",
-      "url":"https://www.cnbeta.com/articles/tech/980801.htm"
-    },
-    {
-      "name":"Instagram推出GUIDES功能：更好整合相关主题内容",
-      "url":"https://www.cnbeta.com/articles/tech/980799.htm"
     }
   ]
 }
