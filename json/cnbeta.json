@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 08:50:00",
+  "time":"2020-05-19 08:54:13",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"特斯拉Cybetruck超级工厂将落户奥斯汀或塔尔萨",
+      "url":"https://www.cnbeta.com/articles/tech/980705.htm"
     },
     {
       "name":"用于3D打印机的可膨胀泡沫可以使物品比打印机更大",
@@ -237,10 +241,6 @@
     {
       "name":"Moderna疫苗试验显示出病毒免疫反应的早期迹象",
       "url":"https://www.cnbeta.com/articles/tech/980589.htm"
-    },
-    {
-      "name":"疫苗研发获进展 道指期货涨610点",
-      "url":"https://www.cnbeta.com/articles/tech/980587.htm"
     }
   ]
 }
