@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 10:23:55",
+  "time":"2020-05-19 10:28:12",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"被指在彭萨科拉枪击案不作为 苹果公开谴责DOJ虚假指控",
+      "url":"https://www.cnbeta.com/articles/tech/980779.htm"
     },
     {
       "name":"NASA将发布与寻找暗能量和系外行星任务相关的特别公告",
@@ -237,10 +241,6 @@
     {
       "name":"百度第一季度营收225亿元 同比扭亏为盈",
       "url":"https://www.cnbeta.com/articles/tech/980663.htm"
-    },
-    {
-      "name":"跟谁学再遭浑水做空 周一收盘股价下跌7.31%",
-      "url":"https://www.cnbeta.com/articles/tech/980661.htm"
     }
   ]
 }
