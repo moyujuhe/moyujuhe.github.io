@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 15:31:08",
+  "time":"2020-05-19 15:35:35",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"纽约米其林屈尊送外卖：菜品天壤之别 人均400砍至22刀",
+      "url":"https://www.cnbeta.com/articles/tech/980925.htm"
     },
     {
       "name":"三星副会长视察西安工厂：机不可失 未雨绸缪",
@@ -237,10 +241,6 @@
     {
       "name":"[图]Microsoft Q&A正式上线：整合MSDN和TechNet论坛内容",
       "url":"https://www.cnbeta.com/articles/tech/980765.htm"
-    },
-    {
-      "name":"爆料称Galaxy Note 20配备1.08亿像素传感器+4500mAh电池",
-      "url":"https://www.cnbeta.com/articles/tech/980755.htm"
     }
   ]
 }
