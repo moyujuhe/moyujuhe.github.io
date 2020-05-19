@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 08:12:06",
+  "time":"2020-05-19 08:16:14",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"“制药兄弟”申请出狱参与新冠药物研发工作 法院对此作出否决",
+      "url":"https://www.cnbeta.com/articles/tech/980693.htm"
     },
     {
       "name":"科学家正在研制的新口罩将包含能够杀死新冠病毒的外部酶膜",
@@ -237,10 +241,6 @@
     {
       "name":"法国政府将继续推进对苹果和其他科技跨国公司征收数字税",
       "url":"https://www.cnbeta.com/articles/tech/980579.htm"
-    },
-    {
-      "name":"荣耀平板V6发布：麒麟985+2K屏、首次支持Wi-Fi6+",
-      "url":"https://www.cnbeta.com/articles/tech/980577.htm"
     }
   ]
 }
