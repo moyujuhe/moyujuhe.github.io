@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 09:28:06",
+  "time":"2020-05-19 09:32:23",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"爆料称Galaxy Note 20配备1.08亿像素传感器+4500mAh电池",
+      "url":"https://www.cnbeta.com/articles/tech/980755.htm"
+    },
+    {
+      "name":"Elemental的这张图显示了迄今已知的几乎所有新冠症状",
+      "url":"https://www.cnbeta.com/articles/science/980753.htm"
     },
     {
       "name":"Rust 发行 5 周年",
@@ -233,14 +241,6 @@
     {
       "name":"特斯拉中国对外事务副总裁陶琳：上海超级工厂有望刷新“特斯拉速度”",
       "url":"https://www.cnbeta.com/articles/tech/980637.htm"
-    },
-    {
-      "name":"跟谁学CFO回应陈向东质押股票情况：3月31日之前没有任何质押",
-      "url":"https://www.cnbeta.com/articles/tech/980635.htm"
-    },
-    {
-      "name":"Uber再裁员3000人 关闭45个办公室",
-      "url":"https://www.cnbeta.com/articles/tech/980633.htm"
     }
   ]
 }
