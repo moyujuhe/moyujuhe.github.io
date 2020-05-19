@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 20:16:14",
+  "time":"2020-05-19 20:20:25",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"上海首个停用丰巢的小区重启快递柜后 启用自建快递驿站",
+      "url":"https://www.cnbeta.com/articles/tech/981009.htm"
     },
     {
       "name":"猫薄荷是如何保持“吸猫体质”的？",
@@ -237,10 +241,6 @@
     {
       "name":"《养虎为患》卡罗·巴斯金开始销售剧集主题口罩",
       "url":"https://hot.cnbeta.com/articles/movie/980889.htm"
-    },
-    {
-      "name":"特朗普政府官员：不健康群体需为美新冠肺炎高死亡率负责",
-      "url":"https://www.cnbeta.com/articles/science/980885.htm"
     }
   ]
 }
