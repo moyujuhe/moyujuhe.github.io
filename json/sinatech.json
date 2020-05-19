@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-19 12:27:04",
+  "time":"2020-05-19 12:30:19",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"特斯拉4月中国注册量从3月份的12709辆下降到4633辆",
+      "url":"https://tech.sina.com.cn/it/2020-05-19/doc-iirczymk2409715.shtml"
+    },
     {
       "name":"新能源汽车，为什么爱自燃？",
       "url":"http://tech.sina.com.cn/csj/2020-05-19/doc-iirczymk2409173.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"互联网“讨论”消失了吗？",
       "url":"http://tech.sina.com.cn/csj/2020-05-19/doc-iirczymk2354791.shtml"
-    },
-    {
-      "name":"索尼将在智能相机中使用微软Azure人工智能技术",
-      "url":"https://tech.sina.com.cn/it/2020-05-19/doc-iircuyvi3826892.shtml"
     }
   ]
 }
