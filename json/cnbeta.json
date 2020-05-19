@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-19 10:49:40",
+  "time":"2020-05-19 10:54:10",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"爱因斯坦时空构型并不稳定：一小块物质都可形成黑洞",
+      "url":"https://www.cnbeta.com/articles/science/980791.htm"
+    },
+    {
+      "name":"微软展示了Fluent UI设计的最新改进",
+      "url":"https://www.cnbeta.com/articles/tech/980789.htm"
+    },
+    {
+      "name":"[图]因违反Play商城COVID-19新规 播客应用Podcast Addict被下架",
+      "url":"https://www.cnbeta.com/articles/tech/980787.htm"
     },
     {
       "name":"美一新冠确诊患者参加礼拜：致180名会众暴露在新冠病毒之下",
@@ -229,18 +241,6 @@
     {
       "name":"继推特后 Square允许员工永久在家办公",
       "url":"https://www.cnbeta.com/articles/tech/980675.htm"
-    },
-    {
-      "name":"迪士尼流媒体主管Mayer将担任TikTok的CEO",
-      "url":"https://www.cnbeta.com/articles/tech/980673.htm"
-    },
-    {
-      "name":"消息称微软6月中旬发布入门款新一代Xbox主机",
-      "url":"https://hot.cnbeta.com/articles/game/980671.htm"
-    },
-    {
-      "name":"任天堂起诉Switch破解工具零售商 每单索赔一万八",
-      "url":"https://hot.cnbeta.com/articles/game/980669.htm"
     }
   ]
 }
