@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 09:36:51",
+  "time":"2020-05-19 09:41:12",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"今年秋季英国可能获得3000万剂突破性的新冠疫苗",
+      "url":"https://www.cnbeta.com/articles/tech/980759.htm"
     },
     {
       "name":"梅赛德斯奔驰OLU源代码在网上曝光",
@@ -237,10 +241,6 @@
     {
       "name":"特斯拉弗里蒙特工厂获准本周重启生产 股价应声上涨",
       "url":"https://www.cnbeta.com/articles/tech/980643.htm"
-    },
-    {
-      "name":"谭德塞：现在比以往任何时候都更需要一个更强大的世卫组织",
-      "url":"https://www.cnbeta.com/articles/tech/980641.htm"
     }
   ]
 }
