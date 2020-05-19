@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-19 11:07:01",
+  "time":"2020-05-19 11:11:31",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -19,16 +19,12 @@
       "url":"https://www.zhihu.com/question/395665107"
     },
     {
-      "name":"有消息称华为向台积电紧急下 7 亿美元大单，生产 5nm/7nm 芯片，这意味着什么？",
-      "url":"https://www.zhihu.com/question/395565512"
-    },
-    {
-      "name":"如何看待黄景瑜前女友王雨馨自杀未遂，助理发文斥责男方一事？发生了什么？",
-      "url":"https://www.zhihu.com/question/395565617"
-    },
-    {
       "name":"如何看待近期蒋凡陪同马云千岛湖观鱼?",
       "url":"https://www.zhihu.com/question/395556886"
+    },
+    {
+      "name":"有消息称华为向台积电紧急下 7 亿美元大单，生产 5nm/7nm 芯片，这意味着什么？",
+      "url":"https://www.zhihu.com/question/395565512"
     },
     {
       "name":"如何评价《王者荣耀》新皮肤「时之恋人」？",
@@ -45,6 +41,10 @@
     {
       "name":"截止18日全美新冠肺炎确诊数超 150 万，包括死亡病例90194例，针对疫情目前美国主要在做什么？",
       "url":"https://www.zhihu.com/question/395570489"
+    },
+    {
+      "name":"如何看待黄景瑜前女友王雨馨自杀未遂，助理发文斥责男方一事？发生了什么？",
+      "url":"https://www.zhihu.com/question/395565617"
     },
     {
       "name":"如何看待张艺兴正式退出《东方卫视极限挑战》？",
@@ -107,10 +107,6 @@
       "url":"https://www.zhihu.com/question/386258652"
     },
     {
-      "name":"Python 应该怎么学？",
-      "url":"https://www.zhihu.com/question/353341563"
-    },
-    {
       "name":"《清平乐》大结局，你有哪些意难平？",
       "url":"https://www.zhihu.com/question/395708432"
     },
@@ -123,28 +119,28 @@
       "url":"https://www.zhihu.com/question/395630598"
     },
     {
+      "name":"生在穷人家的漂亮女孩是一种怎样的体验？",
+      "url":"https://www.zhihu.com/question/30917738"
+    },
+    {
       "name":"中国新冠疫苗将作为全球公共产品，这将为世界带来哪些贡献与影响？",
       "url":"https://www.zhihu.com/question/395704464"
     },
     {
-      "name":"生在穷人家的漂亮女孩是一种怎样的体验？",
-      "url":"https://www.zhihu.com/question/30917738"
+      "name":"Python 应该怎么学？",
+      "url":"https://www.zhihu.com/question/353341563"
     },
     {
       "name":"为什么《明星大侦探》我渐渐不那么喜欢了？",
       "url":"https://www.zhihu.com/question/386148316"
     },
     {
-      "name":"如何看待特朗普声称自己已经坚持服用羟氯喹预防新冠病毒，并称很多一线医护人员也在服用?",
-      "url":"https://www.zhihu.com/question/395780990"
-    },
-    {
-      "name":"如何评价王者荣耀刘备和孙尚香的520情侣皮肤“时之恋人”？",
-      "url":"https://www.zhihu.com/question/395365818"
-    },
-    {
       "name":"女性到了一定年纪以后会有想要生孩子的强烈愿望吗？",
       "url":"https://www.zhihu.com/question/369185720"
+    },
+    {
+      "name":"如何看待特朗普声称自己已经坚持服用羟氯喹预防新冠病毒，并称很多一线医护人员也在服用?",
+      "url":"https://www.zhihu.com/question/395780990"
     },
     {
       "name":"普通人面对职业门将，踢 100 个点球能进去 1 个吗？",
@@ -153,6 +149,10 @@
     {
       "name":"如果中芯国际拥有和台积电一样的制程芯片制造能力和量产能力，美国对华为的下一张牌将是什么？",
       "url":"https://www.zhihu.com/question/386091851"
+    },
+    {
+      "name":"特朗普儿子抛出惊人言论「新冠病毒11月就会神奇消失」，你怎么看？",
+      "url":"https://www.zhihu.com/question/395559051"
     },
     {
       "name":"虚幻引擎5（UE5）对影视行业有哪些冲击?",
@@ -167,10 +167,6 @@
       "url":"https://www.zhihu.com/question/395333514"
     },
     {
-      "name":"特朗普儿子抛出惊人言论「新冠病毒11月就会神奇消失」，你怎么看？",
-      "url":"https://www.zhihu.com/question/395559051"
-    },
-    {
       "name":"如何评价张子枫在《向往的生活》第四季中的表现，不会耽误她的高考吗？",
       "url":"https://www.zhihu.com/question/387351090"
     },
@@ -181,6 +177,10 @@
     {
       "name":"学校的课程和考研该怎么平衡或兼顾？",
       "url":"https://www.zhihu.com/question/393327615"
+    },
+    {
+      "name":"如何评价王者荣耀刘备和孙尚香的520情侣皮肤“时之恋人”？",
+      "url":"https://www.zhihu.com/question/395365818"
     },
     {
       "name":"如何看待李永乐和郭威之争？",
@@ -199,8 +199,8 @@
       "url":"https://www.zhihu.com/question/395485091"
     },
     {
-      "name":"如何评价《海贼王》里的麦哲伦？",
-      "url":"https://www.zhihu.com/question/37350101"
+      "name":"在超星学习通里，如果我用电脑端进行考试，中途打开微信进行搜题，会被后台检测到吗？",
+      "url":"https://www.zhihu.com/question/388449088"
     }
   ]
 }
