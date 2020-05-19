@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 14:13:12",
+  "time":"2020-05-19 14:17:23",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"[图]Google Assistant现支持语音命令控制冰柜和空气冷却器",
+      "url":"https://www.cnbeta.com/articles/tech/980883.htm"
     },
     {
       "name":"云南巧家5级地震  网友：正看着电视跳出了倒计时",
@@ -237,10 +241,6 @@
     {
       "name":"春节三次延长高速免费通行政策 免收多少钱？官方给出答案",
       "url":"https://www.cnbeta.com/articles/tech/980805.htm"
-    },
-    {
-      "name":"滴滴进军货运成真：开始在杭州和成都招募司机",
-      "url":"https://www.cnbeta.com/articles/tech/980803.htm"
     }
   ]
 }
