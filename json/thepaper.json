@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-20 07:35:38",
+  "time":"2020-05-20 07:39:48",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"吉林新增本地确诊病例1例，系控制范围内主动筛查确诊",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7474124"
+    },
     {
       "name":"江苏版《住宅设计标准》将修订，拟明确应预留智能快递箱位置",
       "url":"https://www.thepaper.cn/newsDetail_forward_7466324"
@@ -77,10 +81,6 @@
     {
       "name":"美国新冠肺炎确诊病例超过152万例，死亡超9.1万",
       "url":"https://www.thepaper.cn/newsDetail_forward_7474039"
-    },
-    {
-      "name":"人民日报和音：为团结合作抗疫贡献中国力量",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7474038"
     }
   ]
 }
