@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 20:11:56",
+  "time":"2020-05-19 20:16:14",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"猫薄荷是如何保持“吸猫体质”的？",
+      "url":"https://www.cnbeta.com/articles/science/981007.htm"
     },
     {
       "name":"当电动车轻松跑赢你 小钢炮还有什么意义？",
@@ -237,10 +241,6 @@
     {
       "name":"特朗普政府官员：不健康群体需为美新冠肺炎高死亡率负责",
       "url":"https://www.cnbeta.com/articles/science/980885.htm"
-    },
-    {
-      "name":"[图]Google Assistant现支持语音命令控制冰柜和空气冷却器",
-      "url":"https://www.cnbeta.com/articles/tech/980883.htm"
     }
   ]
 }
