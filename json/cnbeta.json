@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 00:41:16",
+  "time":"2020-05-20 00:45:27",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"Adobe宣布对iPad上的Fresco和Photoshop进行更新",
+      "url":"https://www.cnbeta.com/articles/soft/981063.htm"
     },
     {
       "name":"微软为Surface平板电脑申请了主动散热专利",
@@ -237,10 +241,6 @@
     {
       "name":"外媒：特斯拉如果本季度盈利 则有望被纳入标普500指数",
       "url":"https://www.cnbeta.com/articles/tech/980939.htm"
-    },
-    {
-      "name":"全球10款新新冠病毒疫苗 中国占了50% 5大路线推进",
-      "url":"https://www.cnbeta.com/articles/science/980937.htm"
     }
   ]
 }
