@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 08:07:34",
+  "time":"2020-05-19 08:12:06",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"科学家正在研制的新口罩将包含能够杀死新冠病毒的外部酶膜",
+      "url":"https://www.cnbeta.com/articles/science/980691.htm"
     },
     {
       "name":"美CDC拟进行大规模新冠病毒抗体试验 32.5万人参与",
@@ -237,10 +241,6 @@
     {
       "name":"荣耀平板V6发布：麒麟985+2K屏、首次支持Wi-Fi6+",
       "url":"https://www.cnbeta.com/articles/tech/980577.htm"
-    },
-    {
-      "name":"软银拟向德国电信出售T-Mobile股份 后者将持五成股",
-      "url":"https://www.cnbeta.com/articles/tech/980575.htm"
     }
   ]
 }
