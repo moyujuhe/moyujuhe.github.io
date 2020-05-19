@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 14:17:23",
+  "time":"2020-05-19 14:21:35",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"特朗普政府官员：不健康群体需为美新冠肺炎高死亡率负责",
+      "url":"https://www.cnbeta.com/articles/science/980885.htm"
     },
     {
       "name":"[图]Google Assistant现支持语音命令控制冰柜和空气冷却器",
@@ -237,10 +241,6 @@
     {
       "name":"[图]因违反Play商城COVID-19新规 播客应用Podcast Addict被下架",
       "url":"https://www.cnbeta.com/articles/tech/980787.htm"
-    },
-    {
-      "name":"春节三次延长高速免费通行政策 免收多少钱？官方给出答案",
-      "url":"https://www.cnbeta.com/articles/tech/980805.htm"
     }
   ]
 }
