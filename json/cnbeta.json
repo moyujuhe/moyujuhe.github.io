@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 15:04:52",
+  "time":"2020-05-19 15:09:05",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"分析师：为抢占中端市场份额 苹果降低iPhone SE利润率",
+      "url":"https://www.cnbeta.com/articles/tech/980901.htm"
     },
     {
       "name":"奔驰EQA电动跨界车路测画面曝光",
@@ -237,10 +241,6 @@
     {
       "name":"美一新冠确诊患者参加礼拜：致180名会众暴露在新冠病毒之下",
       "url":"https://www.cnbeta.com/articles/science/980785.htm"
-    },
-    {
-      "name":"Oculus宣布VR内容消费过亿美元 手部追踪功能亦开放公测",
-      "url":"https://www.cnbeta.com/articles/tech/980775.htm"
     }
   ]
 }
