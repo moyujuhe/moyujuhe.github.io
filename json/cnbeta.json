@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 10:06:56",
+  "time":"2020-05-19 10:11:17",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"《动物森友会》迎来世界博物馆日特殊活动 下月还有婚礼季",
+      "url":"https://hot.cnbeta.com/articles/game/980771.htm"
+    },
+    {
+      "name":"羟基氯喹能否治疗新冠仍未确定 特朗普称已在服用",
+      "url":"https://www.cnbeta.com/articles/science/980769.htm"
     },
     {
       "name":"血液检查可能有助于预测儿童严重的新冠病毒综合征",
@@ -233,14 +241,6 @@
     {
       "name":"更小、更便宜的智能音箱HomePod可能即将面市",
       "url":"https://www.cnbeta.com/articles/tech/980655.htm"
-    },
-    {
-      "name":"华为5G手机美国配件仅1.5% 我们离纯国产还有多远？",
-      "url":"https://www.cnbeta.com/articles/tech/980653.htm"
-    },
-    {
-      "name":"无需U盘小白轻松搞定 Windows 10“云重装”体验",
-      "url":"https://www.cnbeta.com/articles/tech/980651.htm"
     }
   ]
 }
