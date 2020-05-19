@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 00:00:25",
+  "time":"2020-05-20 00:04:57",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"[图]iPhone 12的逻辑主板图像似乎已经泄露",
+      "url":"https://www.cnbeta.com/articles/tech/981059.htm"
     },
     {
       "name":"NVIDIA低调放弃Tesla品牌：因其与知名电动车撞名",
@@ -237,10 +241,6 @@
     {
       "name":"字节跳动“挖角”迪士尼高管，张一鸣在想什么？",
       "url":"https://www.cnbeta.com/articles/tech/980935.htm"
-    },
-    {
-      "name":"iQOO Z1发布：首发搭载天玑1000+ 2198元起售",
-      "url":"https://www.cnbeta.com/articles/tech/980933.htm"
     }
   ]
 }
