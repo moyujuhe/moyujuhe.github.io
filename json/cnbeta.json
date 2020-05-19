@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 09:06:58",
+  "time":"2020-05-19 09:11:22",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"研究表明美国最早的新冠病例或可追溯到去年12月",
+      "url":"https://www.cnbeta.com/articles/science/980725.htm"
+    },
+    {
+      "name":"[视频]iOS 14增强现实应用Gobi细节曝光：苹果自制彩色二维码",
+      "url":"https://www.cnbeta.com/articles/tech/980723.htm"
     },
     {
       "name":"华为再遇生死时刻：芯片供应被掐断 能否安全渡劫？",
@@ -233,14 +241,6 @@
     {
       "name":"研究显示冷战时期的核辐射尘埃能在数千公里外造雨",
       "url":"https://www.cnbeta.com/articles/tech/980609.htm"
-    },
-    {
-      "name":"COVID-19传感器可以为iPhone带来日常病毒测试功能",
-      "url":"https://www.cnbeta.com/articles/tech/980607.htm"
-    },
-    {
-      "name":"浑水再次做空令跟谁学股价盘前跌14% 报告称至少有80%的用户是机器人",
-      "url":"https://www.cnbeta.com/articles/tech/980605.htm"
     }
   ]
 }
