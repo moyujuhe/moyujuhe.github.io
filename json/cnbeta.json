@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 08:41:32",
+  "time":"2020-05-19 08:45:44",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"用于3D打印机的可膨胀泡沫可以使物品比打印机更大",
+      "url":"https://www.cnbeta.com/articles/science/980703.htm"
     },
     {
       "name":"Adobe预告Premiere Pro 14.2更新将大幅提升视频编码速度",
@@ -237,10 +241,6 @@
     {
       "name":"疫苗研发获进展 道指期货涨610点",
       "url":"https://www.cnbeta.com/articles/tech/980587.htm"
-    },
-    {
-      "name":"苹果发布了两款新的Pride版Apple Watch表带",
-      "url":"https://www.cnbeta.com/articles/tech/980585.htm"
     }
   ]
 }
