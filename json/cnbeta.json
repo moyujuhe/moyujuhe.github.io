@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 14:30:11",
+  "time":"2020-05-19 14:34:35",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"《养虎为患》卡罗·巴斯金开始销售新冠病毒口罩",
+      "url":"https://hot.cnbeta.com/articles/movie/980889.htm"
     },
     {
       "name":"特朗普政府官员：不健康群体需为美新冠肺炎高死亡率负责",
@@ -237,10 +241,6 @@
     {
       "name":"心脏没那么脆弱，它并不在乎你朝哪边睡",
       "url":"https://www.cnbeta.com/articles/science/980807.htm"
-    },
-    {
-      "name":"[图]因违反Play商城COVID-19新规 播客应用Podcast Addict被下架",
-      "url":"https://www.cnbeta.com/articles/tech/980787.htm"
     }
   ]
 }
