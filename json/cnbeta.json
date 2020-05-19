@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 08:24:37",
+  "time":"2020-05-19 08:28:54",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"德克萨斯州一家法院首次通过Zoom进行陪审团审判",
+      "url":"https://www.cnbeta.com/articles/tech/980697.htm"
     },
     {
       "name":"[图]延续去年更新策略 Windows 10 v2009版本号锁定Build 19042",
@@ -237,10 +241,6 @@
     {
       "name":"中国长城推出首台半导体激光隐形晶圆切割机",
       "url":"https://www.cnbeta.com/articles/tech/980581.htm"
-    },
-    {
-      "name":"法国政府将继续推进对苹果和其他科技跨国公司征收数字税",
-      "url":"https://www.cnbeta.com/articles/tech/980579.htm"
     }
   ]
 }
