@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 01:38:17",
+  "time":"2020-05-20 01:42:34",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://www.cnbeta.com/articles/tech/981067.htm"
+    },
+    {
+      "name":"微软HoloLens 2现在通过插卡获得5G支持",
+      "url":"https://www.cnbeta.com/articles/tech/981081.htm"
     },
     {
       "name":"苹果公司计划在越南生产 AirPods Studio 耳机",
@@ -237,10 +241,6 @@
     {
       "name":"不含有毒元素：科学家打造出新型量子点太阳能电池",
       "url":"https://www.cnbeta.com/articles/tech/980957.htm"
-    },
-    {
-      "name":"澳洲科学家开发新型可回收橡胶材料  可按需自我修复",
-      "url":"https://www.cnbeta.com/articles/science/980955.htm"
     }
   ]
 }
