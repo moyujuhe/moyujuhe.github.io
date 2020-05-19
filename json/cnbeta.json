@@ -1,10 +1,26 @@
 {
-  "time":"2020-05-19 15:13:20",
+  "time":"2020-05-19 15:17:45",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"印度投资政策调整，小米OPPO小贷服务计划被打乱",
+      "url":"https://www.cnbeta.com/articles/tech/980915.htm"
+    },
+    {
+      "name":"《莫比亚斯》片场照再曝细节 莱托身穿神秘套装",
+      "url":"https://hot.cnbeta.com/articles/movie/980913.htm"
+    },
+    {
+      "name":"业内：扎克伯格最怕人们会对Facebook失去兴趣",
+      "url":"https://www.cnbeta.com/articles/tech/980911.htm"
+    },
+    {
+      "name":"蚂蚁金服向小银行出售服务，提供整个在线基础设施",
+      "url":"https://www.cnbeta.com/articles/tech/980909.htm"
     },
     {
       "name":"什么显卡能流畅搞定虚幻5引擎？RTX 2070 Super起步",
@@ -225,22 +241,6 @@
     {
       "name":"Windows 10X不会出现“越用越卡”问题 装机数年后性能依然如一",
       "url":"https://www.cnbeta.com/articles/tech/980773.htm"
-    },
-    {
-      "name":"微软为索尼AI摄像头提供了Azure云脑支持",
-      "url":"https://www.cnbeta.com/articles/tech/980763.htm"
-    },
-    {
-      "name":"NASA将发布与寻找暗能量和系外行星任务相关的特别公告",
-      "url":"https://www.cnbeta.com/articles/science/980777.htm"
-    },
-    {
-      "name":"血液检查可能有助于预测儿童严重的新冠病毒综合征",
-      "url":"https://www.cnbeta.com/articles/science/980767.htm"
-    },
-    {
-      "name":"纳斯达克拟设置IPO融资门槛 或影响中概股上市",
-      "url":"https://www.cnbeta.com/articles/tech/980811.htm"
     }
   ]
 }
