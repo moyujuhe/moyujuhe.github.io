@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 11:37:51",
+  "time":"2020-05-19 11:42:06",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"NASA分享火星探测器“毅力号”绝对测试集锦视频",
+      "url":"https://www.cnbeta.com/articles/science/980843.htm"
     },
     {
       "name":"科学家称太阳活动正进入极小期",
@@ -237,10 +241,6 @@
     {
       "name":"谷歌泄天机 Pixel 5售价曝光：5000元",
       "url":"https://www.cnbeta.com/articles/tech/980727.htm"
-    },
-    {
-      "name":"研究表明美国最早的新冠病例或可追溯到去年12月",
-      "url":"https://www.cnbeta.com/articles/science/980725.htm"
     }
   ]
 }
