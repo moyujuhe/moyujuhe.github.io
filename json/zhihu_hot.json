@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-19 13:47:10",
+  "time":"2020-05-19 13:51:32",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -27,12 +27,12 @@
       "url":"https://www.zhihu.com/question/395224563"
     },
     {
-      "name":"自助餐 50 / 位，为什么吃不倒闭？",
-      "url":"https://www.zhihu.com/question/265015624"
-    },
-    {
       "name":"截止至18日全美新冠肺炎确诊数超 150 万，包括死亡病例90194例，针对疫情目前美国主要在做什么？",
       "url":"https://www.zhihu.com/question/395570489"
+    },
+    {
+      "name":"自助餐 50 / 位，为什么吃不倒闭？",
+      "url":"https://www.zhihu.com/question/265015624"
     },
     {
       "name":"有消息称华为向台积电紧急下 7 亿美元大单，生产 5nm/7nm 芯片，这意味着什么？",
@@ -83,16 +83,16 @@
       "url":"https://www.zhihu.com/question/325398192"
     },
     {
-      "name":"你为什么要卸载微博？",
-      "url":"https://www.zhihu.com/question/30423643"
-    },
-    {
       "name":"如何看待特朗普声称自己已经坚持服用羟氯喹预防新冠病毒，并称很多一线医护人员也在服用?",
       "url":"https://www.zhihu.com/question/395780990"
     },
     {
       "name":"特朗普儿子抛出惊人言论「新冠病毒11月就会神奇消失」，你怎么看？",
       "url":"https://www.zhihu.com/question/395559051"
+    },
+    {
+      "name":"你为什么要卸载微博？",
+      "url":"https://www.zhihu.com/question/30423643"
     },
     {
       "name":"中国新冠疫苗将作为全球公共产品，这将为世界带来哪些贡献与影响？",
@@ -119,12 +119,12 @@
       "url":"https://www.zhihu.com/question/388449088"
     },
     {
-      "name":"如果台积电不给华为麒麟处理器代工，那么麒麟处理器会怎么样？",
-      "url":"https://www.zhihu.com/question/382338973"
-    },
-    {
       "name":"《甄嬛传》中皇上难道看不出来蝴蝶是假的吗?",
       "url":"https://www.zhihu.com/question/393358026"
+    },
+    {
+      "name":"如果台积电不给华为麒麟处理器代工，那么麒麟处理器会怎么样？",
+      "url":"https://www.zhihu.com/question/382338973"
     },
     {
       "name":"你写过贫困生申请书吗？",
@@ -143,10 +143,6 @@
       "url":"https://www.zhihu.com/question/386091851"
     },
     {
-      "name":"如何看待张艺兴正式退出《东方卫视极限挑战》？",
-      "url":"https://www.zhihu.com/question/395544475"
-    },
-    {
       "name":"如何看待李永乐和郭威之争？",
       "url":"https://www.zhihu.com/question/395367834"
     },
@@ -159,12 +155,16 @@
       "url":"https://www.zhihu.com/question/388042640"
     },
     {
-      "name":"假如你穿越到《权力的游戏》中，成为奈德史塔克，现在国王劳勃在外面打猎，你该如何力挽狂澜，挽救危机？",
-      "url":"https://www.zhihu.com/question/394917614"
+      "name":"如何看待张艺兴正式退出《东方卫视极限挑战》？",
+      "url":"https://www.zhihu.com/question/395544475"
     },
     {
       "name":"如何评价甄嬛传中的太后？",
       "url":"https://www.zhihu.com/question/48339069"
+    },
+    {
+      "name":"假如你穿越到《权力的游戏》中，成为奈德史塔克，现在国王劳勃在外面打猎，你该如何力挽狂澜，挽救危机？",
+      "url":"https://www.zhihu.com/question/394917614"
     },
     {
       "name":"iPhone 12 值得等待吗?",
@@ -175,16 +175,12 @@
       "url":"https://www.zhihu.com/question/395582100"
     },
     {
-      "name":"头盔涨价，国家是否应该调控头盔价格?",
-      "url":"https://www.zhihu.com/question/395206671"
-    },
-    {
-      "name":"生活中有哪些实用的心理学知识？",
-      "url":"https://www.zhihu.com/question/63794110"
-    },
-    {
       "name":"如何评价王者荣耀刘备和孙尚香的520情侣皮肤“时之恋人”？",
       "url":"https://www.zhihu.com/question/395365818"
+    },
+    {
+      "name":"头盔涨价，国家是否应该调控头盔价格?",
+      "url":"https://www.zhihu.com/question/395206671"
     },
     {
       "name":"21届考研应该怎么安排复习？",
@@ -197,6 +193,10 @@
     {
       "name":"2021 考研路上「心态崩了」怎么办，应该如何调整？",
       "url":"https://www.zhihu.com/question/387591246"
+    },
+    {
+      "name":"生活中有哪些实用的心理学知识？",
+      "url":"https://www.zhihu.com/question/63794110"
     },
     {
       "name":"大基数胖子该怎么减肥呢？",
