@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-19 23:37:29",
+  "time":"2020-05-19 23:42:05",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"美国不太愿意与穷国分享新冠疫苗知识产权",
+      "url":"https://www.solidot.org/story?sid=64410"
+    },
+    {
+      "name":"巴基斯坦限制 Twitter、Periscope 和 Zoom",
+      "url":"https://www.solidot.org/story?sid=64409"
+    },
+    {
+      "name":"全球研究再次确认展望理论",
+      "url":"https://www.solidot.org/story?sid=64408"
+    },
     {
       "name":"台积电与华为的关系悬而未决",
       "url":"https://www.solidot.org/story?sid=64407"
@@ -69,18 +81,6 @@
     {
       "name":"蟒蛇不可思议的新陈代谢",
       "url":"https://www.solidot.org/story?sid=64390"
-    },
-    {
-      "name":"阿里巴巴旗下手游抄袭《彩虹六号围攻》，育碧起诉应用商店 Google 和苹果",
-      "url":"https://www.solidot.org/story?sid=64389"
-    },
-    {
-      "name":"黑客入侵多台超算挖门罗币",
-      "url":"https://www.solidot.org/story?sid=64388"
-    },
-    {
-      "name":"黑客通过多个交易所尝试洗掉窃取的以太坊",
-      "url":"https://www.solidot.org/story?sid=64387"
     }
   ]
 }
