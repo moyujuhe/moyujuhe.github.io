@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 08:37:17",
+  "time":"2020-05-19 08:41:32",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"Adobe预告Premiere Pro 14.2更新将大幅提升视频编码速度",
+      "url":"https://www.cnbeta.com/articles/tech/980701.htm"
     },
     {
       "name":"[图]摩根大通：iPhone SE 2全球供需关系趋稳 国内平均8天交付",
@@ -237,10 +241,6 @@
     {
       "name":"苹果发布了两款新的Pride版Apple Watch表带",
       "url":"https://www.cnbeta.com/articles/tech/980585.htm"
-    },
-    {
-      "name":"荣耀首款WiFi 6+路由发布：3Gbps网速、到手199元",
-      "url":"https://www.cnbeta.com/articles/tech/980583.htm"
     }
   ]
 }
