@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-19 11:22:45",
+  "time":"2020-05-19 11:25:04",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"IDC：受疫情影响 2020年中国存储软件出货量将出现负增长",
+      "url":"https://tech.sina.com.cn/it/2020-05-19/doc-iircuyvi3867747.shtml"
+    },
     {
       "name":"一图看懂B站Q1财报：营收23.2亿元 同比增长69%",
       "url":"https://tech.sina.com.cn/i/2020-05-19/doc-iircuyvi3867177.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"停摆100多天后影院复工在即 各家争夺暑期档首部新片",
       "url":"https://tech.sina.com.cn/i/2020-05-19/doc-iirczymk2348994.shtml"
-    },
-    {
-      "name":"任天堂起诉Switch破解工具零售商 每单索赔一万八",
-      "url":"https://tech.sina.com.cn/roll/2020-05-19/doc-iirczymk2349811.shtml"
     }
   ]
 }
