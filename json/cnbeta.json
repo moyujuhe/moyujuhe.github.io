@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-19 16:44:26",
+  "time":"2020-05-19 16:48:50",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"美团版“花呗”正式征名：这月花下月还 90后用户已超六成",
+      "url":"https://www.cnbeta.com/articles/tech/980965.htm"
+    },
+    {
+      "name":"华为：HMS全球注册开发者达140万 接入应用数量超6万",
+      "url":"https://www.cnbeta.com/articles/tech/980963.htm"
+    },
+    {
+      "name":"开发商：PS5手柄的触觉反馈甚至能让你感受到游戏中的天气",
+      "url":"https://hot.cnbeta.com/articles/game/980961.htm"
     },
     {
       "name":"Windows 10 2004已重新支持蓝牙A2DP音频串流接收功能",
@@ -229,18 +241,6 @@
     {
       "name":"科学家发现飓风不断变强将成未来趋势",
       "url":"https://www.cnbeta.com/articles/science/980845.htm"
-    },
-    {
-      "name":"NASA分享火星探测器“毅力号”绝对测试集锦视频",
-      "url":"https://www.cnbeta.com/articles/science/980843.htm"
-    },
-    {
-      "name":"科学家称太阳活动正进入极小期",
-      "url":"https://www.cnbeta.com/articles/science/980841.htm"
-    },
-    {
-      "name":"华硕发布Google Meet企业视频会议硬件套装",
-      "url":"https://www.cnbeta.com/articles/tech/980839.htm"
     }
   ]
 }

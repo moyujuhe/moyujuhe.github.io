@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-19 16:44:25",
+  "time":"2020-05-19 16:48:49",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -27,16 +27,16 @@
       "url":"https://www.zhihu.com/question/386258652"
     },
     {
-      "name":"如何评价《王者荣耀》新皮肤「时之恋人」？",
-      "url":"https://www.zhihu.com/question/395224563"
-    },
-    {
       "name":"自助餐 50 / 位，为什么吃不倒闭？",
       "url":"https://www.zhihu.com/question/265015624"
     },
     {
       "name":"漂亮女孩生在穷人家是一种怎样的体验？",
       "url":"https://www.zhihu.com/question/30917738"
+    },
+    {
+      "name":"如何评价《王者荣耀》新皮肤「时之恋人」？",
+      "url":"https://www.zhihu.com/question/395224563"
     },
     {
       "name":"有哪些在国内不起眼的东西，却被外国人买空的？",
@@ -47,12 +47,12 @@
       "url":"https://www.zhihu.com/question/325398192"
     },
     {
-      "name":"如何看待特朗普声称自己已经坚持服用羟氯喹预防新冠病毒，并称很多一线医护人员也在服用?",
-      "url":"https://www.zhihu.com/question/395780990"
-    },
-    {
       "name":"如何试探男朋友的家底？",
       "url":"https://www.zhihu.com/question/26498728"
+    },
+    {
+      "name":"如何看待特朗普声称自己已经坚持服用羟氯喹预防新冠病毒，并称很多一线医护人员也在服用?",
+      "url":"https://www.zhihu.com/question/395780990"
     },
     {
       "name":"天门山失联翼装女孩已找到，降落伞未打开不幸遇难，我们应该怎样看待极限运动？",
@@ -71,10 +71,6 @@
       "url":"https://www.zhihu.com/question/395559051"
     },
     {
-      "name":"如何评价 2020 年 5 月 13 号发生在巴西的 UFO 事件？从视频条件看是真的吗？",
-      "url":"https://www.zhihu.com/question/395343204"
-    },
-    {
       "name":"如何评价张子枫在《向往的生活》第四季中的表现，不会耽误她的高考吗？",
       "url":"https://www.zhihu.com/question/387351090"
     },
@@ -91,6 +87,10 @@
       "url":"https://www.zhihu.com/question/362922531"
     },
     {
+      "name":"美国疫情会严重到何种程度？",
+      "url":"https://www.zhihu.com/question/377935555"
+    },
+    {
       "name":"35 岁的你想告诉 28 岁的我什么人生道理？",
       "url":"https://www.zhihu.com/question/345832687"
     },
@@ -99,48 +99,56 @@
       "url":"https://www.zhihu.com/question/393358026"
     },
     {
-      "name":"为什么《明星大侦探》我渐渐不那么喜欢了？",
-      "url":"https://www.zhihu.com/question/386148316"
+      "name":"如何评价 2020 年 5 月 13 号发生在巴西的 UFO 事件？从视频条件看是真的吗？",
+      "url":"https://www.zhihu.com/question/395343204"
+    },
+    {
+      "name":"迪士尼流媒体业务高管将出任 Tiktok 的新 CEO，透露了哪些信息？",
+      "url":"https://www.zhihu.com/question/395786197"
     },
     {
       "name":"你写过贫困生申请书吗？",
       "url":"https://www.zhihu.com/question/386741776"
     },
     {
-      "name":"你如何看待QQ的这次更新？",
-      "url":"https://www.zhihu.com/question/388042640"
-    },
-    {
       "name":"如果只凭兴趣，你愿意从事什么职业？",
       "url":"https://www.zhihu.com/question/389340808"
-    },
-    {
-      "name":"2020 年 618 买手机有哪些建议和推荐？",
-      "url":"https://www.zhihu.com/question/393044483"
     },
     {
       "name":"如何看待杨超越透露明星代言的产品可以免费使用？",
       "url":"https://www.zhihu.com/question/395311212"
     },
     {
-      "name":"如何看待青海女牧民被棕熊叼走咬死 棕熊被击毙？",
-      "url":"https://www.zhihu.com/question/394989615"
+      "name":"你如何看待QQ的这次更新？",
+      "url":"https://www.zhihu.com/question/388042640"
     },
     {
-      "name":"普通人面对职业门将，踢 100 个点球能进去 1 个吗？",
-      "url":"https://www.zhihu.com/question/391477802"
+      "name":"2020 年 618 买手机有哪些建议和推荐？",
+      "url":"https://www.zhihu.com/question/393044483"
+    },
+    {
+      "name":"为什么《明星大侦探》我渐渐不那么喜欢了？",
+      "url":"https://www.zhihu.com/question/386148316"
+    },
+    {
+      "name":"如何看待青海女牧民被棕熊叼走咬死 棕熊被击毙？",
+      "url":"https://www.zhihu.com/question/394989615"
     },
     {
       "name":"线上考试真的好多人作弊吗?",
       "url":"https://www.zhihu.com/question/391343268"
     },
     {
-      "name":"iPhone 12 值得等待吗?",
-      "url":"https://www.zhihu.com/question/366574366"
+      "name":"普通人面对职业门将，踢 100 个点球能进去 1 个吗？",
+      "url":"https://www.zhihu.com/question/391477802"
     },
     {
       "name":"如何看待 26 岁女生靠朋友圈「完美人设」集资 1400 多万？",
       "url":"https://www.zhihu.com/question/395501064"
+    },
+    {
+      "name":"iPhone 12 值得等待吗?",
+      "url":"https://www.zhihu.com/question/366574366"
     },
     {
       "name":"如何看待李永乐和郭威之争？",
@@ -159,14 +167,6 @@
       "url":"https://www.zhihu.com/question/59671442"
     },
     {
-      "name":"如何评价 5 月 18 日发布的荣耀平板 V6？有什么亮点和不足？",
-      "url":"https://www.zhihu.com/question/395487588"
-    },
-    {
-      "name":"有消息称华为向台积电紧急下 7 亿美元大单，生产 5nm/7nm 芯片，这意味着什么？",
-      "url":"https://www.zhihu.com/question/395565512"
-    },
-    {
       "name":"黄景瑜是什么情况？",
       "url":"https://www.zhihu.com/question/395568046"
     },
@@ -179,12 +179,16 @@
       "url":"https://www.zhihu.com/question/393811606"
     },
     {
-      "name":"历史上有哪些本为一时权宜制定的法令，最后却因相沿成习成为了尾大不掉的弊政？",
-      "url":"https://www.zhihu.com/question/395195832"
+      "name":"如何评价 5 月 18 日发布的荣耀平板 V6？有什么亮点和不足？",
+      "url":"https://www.zhihu.com/question/395487588"
     },
     {
       "name":"生活中有哪些实用的心理学知识？",
       "url":"https://www.zhihu.com/question/63794110"
+    },
+    {
+      "name":"历史上有哪些本为一时权宜制定的法令，最后却因相沿成习成为了尾大不掉的弊政？",
+      "url":"https://www.zhihu.com/question/395195832"
     },
     {
       "name":"高三的你一天睡几小时?",
@@ -197,10 +201,6 @@
     {
       "name":"有哪一瞬间让你感受到科技带来的温暖?",
       "url":"https://www.zhihu.com/question/395645547"
-    },
-    {
-      "name":"电竞职业选手打路人玩家，为什么打不出NBA球员打野球的效果？",
-      "url":"https://www.zhihu.com/question/393249351"
     }
   ]
 }
