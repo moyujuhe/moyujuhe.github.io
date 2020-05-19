@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-19 09:19:43",
+  "time":"2020-05-19 09:23:54",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"MIT “AI 种菜”项目失败，还因环保问题被罚25125美元",
+      "url":"https://www.cnbeta.com/articles/science/980747.htm"
+    },
+    {
+      "name":"那些想要替代 C 与 Java 们的后浪，如今混得怎么样？",
+      "url":"https://www.cnbeta.com/articles/tech/980745.htm"
+    },
+    {
+      "name":"《细胞》发表北大谢晓亮领衔最新重要进展：研制新冠强效药",
+      "url":"https://www.cnbeta.com/articles/science/980743.htm"
     },
     {
       "name":"亚马逊法国仓库本周二复工 30%员工重返岗位",
@@ -229,18 +241,6 @@
     {
       "name":"跟谁学回应浑水做空：数据来源混乱 对公司业务无知",
       "url":"https://www.cnbeta.com/articles/tech/980629.htm"
-    },
-    {
-      "name":"跟谁学再遭浑水做空：约80%的用户和营收造假",
-      "url":"https://www.cnbeta.com/articles/tech/980627.htm"
-    },
-    {
-      "name":"火星神秘熔岩流可能是由泥浆火山形成",
-      "url":"https://www.cnbeta.com/articles/science/980625.htm"
-    },
-    {
-      "name":"联想智能相框在Indiegogo发起众筹预购 半价即可买到",
-      "url":"https://www.cnbeta.com/articles/tech/980623.htm"
     }
   ]
 }
