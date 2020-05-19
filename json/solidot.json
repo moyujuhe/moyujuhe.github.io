@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-19 22:19:32",
+  "time":"2020-05-19 22:24:12",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"台积电与华为的关系悬而未决",
+      "url":"https://www.solidot.org/story?sid=64407"
+    },
     {
       "name":"中芯南方获 22.5 亿美元增资",
       "url":"https://www.solidot.org/story?sid=64405"
@@ -77,10 +81,6 @@
     {
       "name":"黑客通过多个交易所尝试洗掉窃取的以太坊",
       "url":"https://www.solidot.org/story?sid=64387"
-    },
-    {
-      "name":"美国第一季度游戏销售额创下记录",
-      "url":"https://www.solidot.org/story?sid=64386"
     }
   ]
 }
