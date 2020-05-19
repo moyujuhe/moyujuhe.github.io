@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 01:20:39",
+  "time":"2020-05-20 01:25:17",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://www.cnbeta.com/articles/tech/981067.htm"
+    },
+    {
+      "name":"戴尔新款Precision移动工作站体积更小功能更强大",
+      "url":"https://www.cnbeta.com/articles/tech/981077.htm"
     },
     {
       "name":"戴尔更新Latitude商用笔电系列 加入英特尔第十代 处理器和5G功能",
@@ -237,10 +241,6 @@
     {
       "name":"[图]Windows Sandbox迎来重大更新：支持配置文件调用",
       "url":"https://www.cnbeta.com/articles/tech/980953.htm"
-    },
-    {
-      "name":"丰田拉罗拉姊妹车新款亮相：车尾还有尾翼",
-      "url":"https://www.cnbeta.com/articles/tech/980951.htm"
     }
   ]
 }
