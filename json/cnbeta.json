@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 00:27:56",
+  "time":"2020-05-20 00:32:33",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"微软为Surface平板电脑申请了主动冷却解决方案专利",
+      "url":"https://www.cnbeta.com/articles/tech/981061.htm"
     },
     {
       "name":"[图]iPhone 12的逻辑主板图像似乎已经泄露",
@@ -237,10 +241,6 @@
     {
       "name":"全球10款新新冠病毒疫苗 中国占了50% 5大路线推进",
       "url":"https://www.cnbeta.com/articles/science/980937.htm"
-    },
-    {
-      "name":"字节跳动“挖角”迪士尼高管，张一鸣在想什么？",
-      "url":"https://www.cnbeta.com/articles/tech/980935.htm"
     }
   ]
 }
