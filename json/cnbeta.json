@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 15:44:32",
+  "time":"2020-05-19 15:48:47",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"全球10款新新冠病毒疫苗 中国占了50% 5大路线推进",
+      "url":"https://www.cnbeta.com/articles/science/980937.htm"
     },
     {
       "name":"字节跳动“挖角”迪士尼高管，张一鸣在想什么？",
@@ -237,10 +241,6 @@
     {
       "name":"特朗普声称服用羟氯喹 美媒惊呼“这会要你命！”",
       "url":"https://www.cnbeta.com/articles/tech/980819.htm"
-    },
-    {
-      "name":"Elemental的这张图显示了迄今已知的几乎所有新冠症状",
-      "url":"https://www.cnbeta.com/articles/science/980753.htm"
     }
   ]
 }
