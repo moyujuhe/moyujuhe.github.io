@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 13:38:30",
+  "time":"2020-05-19 13:42:42",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"全球第二大咖啡集团寻求上市 星巴克雀巢紧张了吗？",
+      "url":"https://www.cnbeta.com/articles/tech/980857.htm"
     },
     {
       "name":"山东的风有多大？最大阵风9级 太阳能被吹上电线",
@@ -237,10 +241,6 @@
     {
       "name":"亚马逊法国仓库本周二复工 30%员工重返岗位",
       "url":"https://www.cnbeta.com/articles/tech/980741.htm"
-    },
-    {
-      "name":"我们其实并不需要摄入那么多蛋白质",
-      "url":"https://www.cnbeta.com/articles/science/980739.htm"
     }
   ]
 }

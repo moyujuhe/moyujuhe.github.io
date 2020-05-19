@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 13:38:36",
+  "time":"2020-05-19 13:42:48",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"CF能否把直接输入网址的流量走验证码，放行其它流量",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691453&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"v2-ui怎么添加一个功能单端口多用户",
@@ -109,10 +113,6 @@
     {
       "name":"5元收个DO50美刀的码子",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691426&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"【出】搬瓦工2018双11款",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691425&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
