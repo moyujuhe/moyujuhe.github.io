@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 12:37:56",
+  "time":"2020-05-19 12:42:09",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"你们用Windows用得舒坦吗？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691423&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"又一个传家宝系列，永久域名，COM买断399刀",
@@ -109,10 +113,6 @@
     {
       "name":"国外服务器都没有防cc",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691389&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"免费一年的azure莫名其妙就开始扣费了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691388&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
