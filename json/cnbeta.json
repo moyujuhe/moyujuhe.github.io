@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 01:07:48",
+  "time":"2020-05-20 01:12:06",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"苹果新专利让整个MacBook Pro掌托可作为触控板使用",
+      "url":"https://www.cnbeta.com/articles/tech/981065.htm"
     },
     {
       "name":"Adobe宣布对iPad上的Fresco和Photoshop进行更新",
@@ -237,10 +241,6 @@
     {
       "name":"调查：3/4美国人认为无人驾驶汽车还未准备好",
       "url":"https://www.cnbeta.com/articles/tech/980941.htm"
-    },
-    {
-      "name":"外媒：特斯拉如果本季度盈利 则有望被纳入标普500指数",
-      "url":"https://www.cnbeta.com/articles/tech/980939.htm"
     }
   ]
 }
