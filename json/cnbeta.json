@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 15:57:29",
+  "time":"2020-05-19 16:01:39",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"外媒：特斯拉如果本季度盈利 则有望被纳入标普500指数",
+      "url":"https://www.cnbeta.com/articles/tech/980939.htm"
     },
     {
       "name":"全球10款新新冠病毒疫苗 中国占了50% 5大路线推进",
@@ -237,10 +241,6 @@
     {
       "name":"华为的“求生存”之路上，能有哪些帮手？",
       "url":"https://www.cnbeta.com/articles/tech/980821.htm"
-    },
-    {
-      "name":"特朗普声称服用羟氯喹 美媒惊呼“这会要你命！”",
-      "url":"https://www.cnbeta.com/articles/tech/980819.htm"
     }
   ]
 }
