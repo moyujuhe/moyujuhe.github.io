@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 10:41:22",
+  "time":"2020-05-19 10:45:30",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"美病毒专家认为有效的新冠治疗方法或在今年年底出现",
+      "url":"https://www.cnbeta.com/articles/science/980783.htm"
+    },
+    {
+      "name":"Grayshift新间谍软件已可更快地窃取iPhone密码",
+      "url":"https://www.cnbeta.com/articles/tech/980781.htm"
     },
     {
       "name":"被指在彭萨科拉枪击案不作为 苹果公开谴责DOJ虚假指控",
@@ -233,14 +241,6 @@
     {
       "name":"比尔盖茨2020年夏季书单出炉：首次推荐在线游戏",
       "url":"https://www.cnbeta.com/articles/tech/980667.htm"
-    },
-    {
-      "name":"SpaceX“星链”卫星第八次发射被推迟 将于5月19日重新发射",
-      "url":"https://www.cnbeta.com/articles/tech/980665.htm"
-    },
-    {
-      "name":"百度第一季度营收225亿元 同比扭亏为盈",
-      "url":"https://www.cnbeta.com/articles/tech/980663.htm"
     }
   ]
 }
