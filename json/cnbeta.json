@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-19 15:09:05",
+  "time":"2020-05-19 15:13:20",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"什么显卡能流畅搞定虚幻5引擎？RTX 2070 Super起步",
+      "url":"https://hot.cnbeta.com/articles/game/980907.htm"
+    },
+    {
+      "name":"特斯拉上海超级工厂Model 3产能提升速度远快于弗里蒙特工厂",
+      "url":"https://www.cnbeta.com/articles/tech/980905.htm"
+    },
+    {
+      "name":"华为消费者业务Q1业绩曝光：手机下滑17% PC增长120%",
+      "url":"https://www.cnbeta.com/articles/tech/980903.htm"
     },
     {
       "name":"分析师：为抢占中端市场份额 苹果降低iPhone SE利润率",
@@ -229,18 +241,6 @@
     {
       "name":"纳斯达克拟设置IPO融资门槛 或影响中概股上市",
       "url":"https://www.cnbeta.com/articles/tech/980811.htm"
-    },
-    {
-      "name":"Grayshift新间谍软件已可更快地窃取iPhone密码",
-      "url":"https://www.cnbeta.com/articles/tech/980781.htm"
-    },
-    {
-      "name":"《动物森友会》迎来世界博物馆日特殊活动 下月还有婚礼季",
-      "url":"https://hot.cnbeta.com/articles/game/980771.htm"
-    },
-    {
-      "name":"美一新冠确诊患者参加礼拜：致180名会众暴露在新冠病毒之下",
-      "url":"https://www.cnbeta.com/articles/science/980785.htm"
     }
   ]
 }
