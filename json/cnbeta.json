@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 16:18:35",
+  "time":"2020-05-19 16:22:54",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"澳洲科学家开发新型可回收橡胶材料  可按需自我修复",
+      "url":"https://www.cnbeta.com/articles/science/980955.htm"
+    },
+    {
+      "name":"[图]Windows Sandbox迎来重大更新：支持配置文件调用",
+      "url":"https://www.cnbeta.com/articles/tech/980953.htm"
     },
     {
       "name":"丰田拉罗拉姊妹车新款亮相：车尾还有尾翼",
@@ -233,14 +241,6 @@
     {
       "name":"再度盈利：松下和特斯拉或将扩张1号超级工厂产能",
       "url":"https://www.cnbeta.com/articles/tech/980835.htm"
-    },
-    {
-      "name":"三星发布5000万像素图像传感器GN1：1亿个对焦点、可四合一2.4μm大像素",
-      "url":"https://www.cnbeta.com/articles/tech/980833.htm"
-    },
-    {
-      "name":"披萨店老板只花16美元从DoorDash订购自家24美元的披萨",
-      "url":"https://www.cnbeta.com/articles/tech/980831.htm"
     }
   ]
 }
