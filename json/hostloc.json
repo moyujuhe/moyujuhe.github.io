@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 22:46:43",
+  "time":"2020-05-19 22:52:05",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"Scaleway 48h Deals",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691733&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"阿里云国际新手套餐每个账户的确只能再新开一台了",
@@ -109,10 +113,6 @@
     {
       "name":"请教下office365的f3为何没法用onedrive和SharePoint",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691706&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"吃个瓜",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691705&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
