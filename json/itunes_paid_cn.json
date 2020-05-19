@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-05-19 16:27:07",
+  "time":"2020-05-19 16:31:28",
   "data":[
     {
       "name":"我叫MT2 重制版",
@@ -165,12 +165,6 @@
       "description":"最新版本:  6.3.1\n更新时间:  2019-11-22 04:52:45 (北京时间)\n\niOS 13, WatchOS 6\n环境噪音 (Series 4+)"
     },
     {
-      "name":"山海经异兽：吞噬进阶",
-      "url":"https://apps.apple.com/cn/app/%E5%B1%B1%E6%B5%B7%E7%BB%8F%E5%BC%82%E5%85%BD-%E5%90%9E%E5%99%AC%E8%BF%9B%E9%98%B6/id1510553935?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.0\n更新时间:  2020-05-14 20:59:43 (北京时间)\n\n"
-    },
-    {
       "name":"航旅纵横PRO-官方航班动态、手机值机、机票",
       "url":"https://apps.apple.com/cn/app/%E8%88%AA%E6%97%85%E7%BA%B5%E6%A8%AApro-%E5%AE%98%E6%96%B9%E8%88%AA%E7%8F%AD%E5%8A%A8%E6%80%81-%E6%89%8B%E6%9C%BA%E5%80%BC%E6%9C%BA-%E6%9C%BA%E7%A5%A8/id768160271?uo=4",
       "num":"旅游",
@@ -229,6 +223,12 @@
       "url":"https://apps.apple.com/cn/app/posing-app/id492085243?uo=4",
       "num":"摄影与录像",
       "description":"最新版本:  5.1\n更新时间:  2015-08-01 07:34:29 (北京时间)\n\nBugfix for iPhone4 / iOS 7.1"
+    },
+    {
+      "name":"伏魔群侠传-大型武侠单机手游",
+      "url":"https://apps.apple.com/cn/app/%E4%BC%8F%E9%AD%94%E7%BE%A4%E4%BE%A0%E4%BC%A0-%E5%A4%A7%E5%9E%8B%E6%AD%A6%E4%BE%A0%E5%8D%95%E6%9C%BA%E6%89%8B%E6%B8%B8/id1314820874?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  2.7.4\n更新时间:  2020-02-01 03:51:35 (北京时间)\n\n1.修复封印词条“裂创”的效果bug，修复后效果为普攻有一定几率造成敌人当前生命一定比例的伤害。\n2.添加装备锁定功能。"
     },
     {
       "name":"永不言弃！！",
