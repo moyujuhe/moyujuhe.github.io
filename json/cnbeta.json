@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-19 09:23:54",
+  "time":"2020-05-19 09:28:06",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"Rust 发行 5 周年",
+      "url":"https://www.cnbeta.com/articles/tech/980751.htm"
+    },
+    {
+      "name":"GCC 11 在 C++20 模式下将启用协程支持",
+      "url":"https://www.cnbeta.com/articles/tech/980749.htm"
     },
     {
       "name":"MIT “AI 种菜”项目失败，还因环保问题被罚25125美元",
@@ -233,14 +241,6 @@
     {
       "name":"Uber再裁员3000人 关闭45个办公室",
       "url":"https://www.cnbeta.com/articles/tech/980633.htm"
-    },
-    {
-      "name":"跟谁学CFO称正在看浑水报告 官方表示会发更详细说明",
-      "url":"https://www.cnbeta.com/articles/tech/980631.htm"
-    },
-    {
-      "name":"跟谁学回应浑水做空：数据来源混乱 对公司业务无知",
-      "url":"https://www.cnbeta.com/articles/tech/980629.htm"
     }
   ]
 }
