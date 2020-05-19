@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 07:59:22",
+  "time":"2020-05-19 08:03:27",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"奇特太阳之旅：Atlas的“内部彗星”被激活",
+      "url":"https://www.cnbeta.com/articles/science/980687.htm"
     },
     {
       "name":"[图]2020年款iPhone全系配柔性OLED面板 供货方包括京东方",
@@ -237,10 +241,6 @@
     {
       "name":"得力推出新型无线充电插座 可同时充6六台设备",
       "url":"https://www.cnbeta.com/articles/tech/980573.htm"
-    },
-    {
-      "name":"2020年《财富》美国500强排行榜：苹果未进前三",
-      "url":"https://www.cnbeta.com/articles/tech/980571.htm"
     }
   ]
 }
