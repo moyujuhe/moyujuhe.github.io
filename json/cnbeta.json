@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-19 08:03:27",
+  "time":"2020-05-19 08:07:34",
   "title":"cnBeta",
   "data":[
     {
       "name":"苹果发布iOS和iPadOS 13.5的GM版本 带来Face ID Mask更新等改进",
       "url":"https://www.cnbeta.com/articles/tech/980639.htm"
+    },
+    {
+      "name":"美CDC拟进行大规模新冠病毒抗体试验 32.5万人参与",
+      "url":"https://www.cnbeta.com/articles/tech/980689.htm"
     },
     {
       "name":"奇特太阳之旅：Atlas的“内部彗星”被激活",
@@ -237,10 +241,6 @@
     {
       "name":"软银拟向德国电信出售T-Mobile股份 后者将持五成股",
       "url":"https://www.cnbeta.com/articles/tech/980575.htm"
-    },
-    {
-      "name":"得力推出新型无线充电插座 可同时充6六台设备",
-      "url":"https://www.cnbeta.com/articles/tech/980573.htm"
     }
   ]
 }
