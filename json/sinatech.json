@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-20 07:46:01",
+  "time":"2020-05-20 07:50:01",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"美多家科技企业高管呼吁国会提供1万亿美元疫情救济金",
+      "url":"https://tech.sina.com.cn/i/2020-05-20/doc-iircuyvi4011347.shtml"
+    },
     {
       "name":"疫情影响，苹果斥资7000万美元购买索尼《灰狗》版权",
       "url":"https://tech.sina.com.cn/it/2020-05-20/doc-iirczymk2539028.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"刘强东内部信重新定义京东：逐梦者、坚守者、众行者",
       "url":"https://tech.sina.com.cn/i/2020-05-19/doc-iirczymk2513760.shtml"
-    },
-    {
-      "name":"阿里与宁波达成合作 张勇:中小企业目前最需要帮助",
-      "url":"https://tech.sina.com.cn/i/2020-05-19/doc-iircuyvi3984678.shtml"
     }
   ]
 }
