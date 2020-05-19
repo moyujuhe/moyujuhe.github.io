@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 00:23:26",
+  "time":"2020-05-20 00:28:00",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"JD两年会员+1年腾讯视频",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691766&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"打算提供国外网站的代上传/代下载/代转发服务",
@@ -109,10 +113,6 @@
     {
       "name":"求NAT中转合租",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691735&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"Scaleway 48h Deals",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=691733&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
