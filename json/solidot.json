@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-19 15:22:29",
+  "time":"2020-05-19 15:26:45",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"微软 CEO 认为长期远程工作对心理健康有害",
+      "url":"https://www.solidot.org/story?sid=64404"
+    },
+    {
+      "name":"特朗普再次威胁退出世卫组织",
+      "url":"https://www.solidot.org/story?sid=64403"
+    },
     {
       "name":"Moderna 称其疫苗测试取得良好成果",
       "url":"https://www.solidot.org/story?sid=64402"
@@ -73,14 +81,6 @@
     {
       "name":"科技公司雇员考虑离开房租高昂的硅谷",
       "url":"https://www.solidot.org/story?sid=64385"
-    },
-    {
-      "name":"勒索软件攻击者向纽约律所勒索 4200 万美元",
-      "url":"https://www.solidot.org/story?sid=64384"
-    },
-    {
-      "name":"Swift 5.3 将支持 Windows 和 Linux 发行版",
-      "url":"https://www.solidot.org/story?sid=64383"
     }
   ]
 }
