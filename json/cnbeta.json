@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-20 17:43:57",
+  "time":"2020-05-20 17:48:11",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"微信macOS 2.4.1版发布：支持群音频、群视频",
+      "url":"https://www.cnbeta.com/articles/soft/981413.htm"
+    },
+    {
+      "name":"为求自保罗罗将削去9000工作岗位 并收缩其他投资",
+      "url":"https://www.cnbeta.com/articles/tech/981411.htm"
     },
     {
       "name":"瑞幸回应裁员：个别部门人员转岗优化 离职员工依法赔偿",
@@ -233,14 +241,6 @@
     {
       "name":"《后浪》之后 B站发布毕业季主题曲《入海》 毛不易演唱",
       "url":"https://hot.cnbeta.com/articles/music/981299.htm"
-    },
-    {
-      "name":"青桔、国网什马战略合作 将共同运营共享电单车业务",
-      "url":"https://www.cnbeta.com/articles/tech/981297.htm"
-    },
-    {
-      "name":"华为造“芯” 还有120天缓冲期",
-      "url":"https://www.cnbeta.com/articles/tech/981295.htm"
     }
   ]
 }
