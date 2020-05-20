@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 01:02:10",
+  "time":"2020-05-21 01:06:27",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"法国富豪建议卖掉《蒙娜丽莎》缓解经济压力 估值达500亿欧元",
+      "url":"https://hot.cnbeta.com/articles/funny/981485.htm"
     },
     {
       "name":"瑞幸咖啡复牌暴跌 投资者急于在其退市前清仓离场",
@@ -237,10 +241,6 @@
     {
       "name":"美国议员要求行政分支公布台积电在美建厂细节 包括融资、补贴等方面",
       "url":"https://www.cnbeta.com/articles/tech/981373.htm"
-    },
-    {
-      "name":"EmbraerX eVTOL概念展示：能让空中和地面交通无缝对接",
-      "url":"https://www.cnbeta.com/articles/tech/981371.htm"
     }
   ]
 }
