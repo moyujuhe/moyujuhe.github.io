@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 03:24:11",
+  "time":"2020-05-21 03:28:15",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"放个日本机的测速结果",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692311&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"请教安卓开发大屌",
@@ -109,10 +113,6 @@
     {
       "name":"出个云筏的德国kvm",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692278&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"问下dalao们,有哪里能搞到国内Anycast节点么",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692277&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
