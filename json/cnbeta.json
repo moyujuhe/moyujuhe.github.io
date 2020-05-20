@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-20 12:00:51",
+  "time":"2020-05-20 12:05:00",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"京东Plus+腾讯视频VIP年卡特惠：仅售148元 还送一年Plus会员",
       "url":"https://plus.m.jd.com/index?channel=hzdm468"
+    },
+    {
+      "name":"在欧空局测试中 石墨烯显示出作为太阳帆材料的前景",
+      "url":"https://www.cnbeta.com/articles/science/981303.htm"
+    },
+    {
+      "name":"浑水回应跟谁学：陈向东“勇气可嘉” 下场就是瑞幸",
+      "url":"https://www.cnbeta.com/articles/tech/981301.htm"
     },
     {
       "name":"《后浪》之后 B站发布毕业季主题曲《入海》 毛不易演唱",
@@ -233,14 +241,6 @@
     {
       "name":"微软宣布几周内正式推送新版Edge浏览器 带来一系列新功能",
       "url":"https://www.cnbeta.com/articles/tech/981185.htm"
-    },
-    {
-      "name":"韩国疾控中心研究发现新冠复阳患者不具有传染性",
-      "url":"https://www.cnbeta.com/articles/science/981183.htm"
-    },
-    {
-      "name":"松下宣布本周恢复在特斯拉纽约太阳能电池工厂的生产",
-      "url":"https://www.cnbeta.com/articles/tech/981181.htm"
     }
   ]
 }
