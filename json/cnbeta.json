@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 17:27:03",
+  "time":"2020-05-20 17:31:28",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"中国移动宣布与广电开展5G共建共享",
+      "url":"https://www.cnbeta.com/articles/tech/981407.htm"
     },
     {
       "name":"百度输入法Linux版本发布",
@@ -237,10 +241,6 @@
     {
       "name":"谷歌应用已全面支持Android和iOS的黑暗模式",
       "url":"https://www.cnbeta.com/articles/tech/981293.htm"
-    },
-    {
-      "name":"英国学生打造出一款能收集汽车轮胎微塑料的原型设备",
-      "url":"https://www.cnbeta.com/articles/tech/981291.htm"
     }
   ]
 }
