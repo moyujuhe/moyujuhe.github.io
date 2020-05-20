@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-20 08:50:55",
+  "time":"2020-05-20 08:55:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"微软发10项新品：28.5万个核心的AI超算机，最大语言模型",
+      "url":"https://www.cnbeta.com/articles/tech/981155.htm"
+    },
+    {
+      "name":"《坎巴拉太空计划》免费升级将引入欧航局任务和火箭",
+      "url":"https://hot.cnbeta.com/articles/game/981153.htm"
     },
     {
       "name":"美CDC将进行大规模的COVID-19研究 旨在回答新冠病毒免疫问题",
@@ -233,14 +241,6 @@
     {
       "name":"智能手机顾客满意度调查：苹果继续保持第一",
       "url":"https://www.cnbeta.com/articles/tech/981037.htm"
-    },
-    {
-      "name":"NVIDIA安培架构深入分析：显著增加云端AI芯片门槛",
-      "url":"https://www.cnbeta.com/articles/tech/981035.htm"
-    },
-    {
-      "name":"AMD Zen3工程样品首曝：8核心冲到4.6GHz",
-      "url":"https://www.cnbeta.com/articles/tech/981033.htm"
     }
   ]
 }
