@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-05-20 22:21:13",
+  "time":"2020-05-20 22:25:38",
   "data":[
     {
       "name":"我叫MT2 重制版",
@@ -489,6 +489,12 @@
       "description":"最新版本:  1.0.51\n更新时间:  2020-05-18 09:39:10 (北京时间)\n\nFinal Preparations for Draft PvP"
     },
     {
+      "name":"深渊大主宰",
+      "url":"https://apps.apple.com/cn/app/%E6%B7%B1%E6%B8%8A%E5%A4%A7%E4%B8%BB%E5%AE%B0/id1460759917?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  2.7\n更新时间:  2019-06-18 14:30:52 (北京时间)\n\n"
+    },
+    {
       "name":"Analog Paris",
       "url":"https://apps.apple.com/cn/app/analog-paris/id1035219562?uo=4",
       "num":"摄影与录像",
@@ -595,12 +601,6 @@
       "url":"https://apps.apple.com/cn/app/%E8%8D%92%E5%B2%9B%E6%B1%82%E7%94%9F-%E7%A5%9E%E7%A7%98%E5%B2%9B/id1493482957?uo=4",
       "num":"游戏",
       "description":"最新版本:  1.0.16\n更新时间:  2020-04-15 11:32:56 (北京时间)\n\n-优化界面显示\n-优化渲染效率"
-    },
-    {
-      "name":"Kingdom Rush Frontiers",
-      "url":"https://apps.apple.com/cn/app/kingdom-rush-frontiers/id598581396?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  2.8\n更新时间:  2019-12-20 02:19:02 (北京时间)\n\n小漏洞修复和改进。"
     }
   ]
 }
