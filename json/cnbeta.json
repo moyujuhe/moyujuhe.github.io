@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 01:23:36",
+  "time":"2020-05-21 01:27:43",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"NASA好奇号实验让火星老问题有了新答案",
+      "url":"https://www.cnbeta.com/articles/science/981489.htm"
     },
     {
       "name":"传苹果高端耳机AirPods Studio和AirPods X下月发布",
@@ -237,10 +241,6 @@
     {
       "name":"李彦宏两会提案：谈新基建、智能交通、继续教育及个人信息保护",
       "url":"https://www.cnbeta.com/articles/tech/981377.htm"
-    },
-    {
-      "name":"联想CEO杨元庆提议：PC作为战略必需品 国家应扶植、保护",
-      "url":"https://www.cnbeta.com/articles/tech/981375.htm"
     }
   ]
 }
