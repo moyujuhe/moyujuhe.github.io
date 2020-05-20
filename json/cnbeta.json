@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-20 13:52:50",
+  "time":"2020-05-20 13:57:10",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"京东Plus+腾讯视频VIP年卡特惠：仅售148元 还送一年Plus会员",
       "url":"https://plus.m.jd.com/index?channel=hzdm468"
+    },
+    {
+      "name":"通用汽车称将研发成功百万英里续航电池",
+      "url":"https://www.cnbeta.com/articles/tech/981323.htm"
     },
     {
       "name":"Netflix真人电视剧版《海贼王》剧本已完工 制作规模宏大",
@@ -237,10 +241,6 @@
     {
       "name":"美药企称新冠疫苗产生免疫反应被质疑：无评估有效性关键证据",
       "url":"https://www.cnbeta.com/articles/science/981205.htm"
-    },
-    {
-      "name":"特斯拉国内4月销量暴跌6成 曾一月多次调价惹怒车主",
-      "url":"https://www.cnbeta.com/articles/tech/981203.htm"
     }
   ]
 }
