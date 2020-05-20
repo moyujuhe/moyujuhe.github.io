@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-20 08:42:26",
+  "time":"2020-05-20 08:46:34",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"美CDC将进行大规模的COVID-19研究 旨在回答新冠病毒免疫问题",
+      "url":"http://www.cnbeta.com/articles/science/981151.htm"
+    },
+    {
+      "name":"[图]微软启动Project Reunion：整合统一Win32和UWP API",
+      "url":"http://www.cnbeta.com/articles/tech/981149.htm"
     },
     {
       "name":"惠普全新无线4K显示器曝光：延迟降至1/3",
@@ -35,7 +43,7 @@
       "url":"http://www.cnbeta.com/articles/tech/981135.htm"
     },
     {
-      "name":"[图]Chrome设置改版：大幅优化隐私和安全保护",
+      "name":"Google Chrome设置页改版：大幅优化隐私和安全保护",
       "url":"http://www.cnbeta.com/articles/tech/981133.htm"
     },
     {
@@ -45,6 +53,10 @@
     {
       "name":"汤姆·汉克斯主演的二战电影《灰狗》将在Apple TV+上首映",
       "url":"https://hot.cnbeta.com/articles/movie/981129.htm"
+    },
+    {
+      "name":"微软Build大会转战线上：完全纯粹的开发者大会",
+      "url":"http://www.cnbeta.com/articles/tech/981089.htm"
     },
     {
       "name":"德法院：情报机构BND将不能再随意监控全球互联网流量",
@@ -121,10 +133,6 @@
     {
       "name":"谷歌Pixel 5确认无缘旗舰处理器而改用骁龙765G",
       "url":"http://www.cnbeta.com/articles/tech/981091.htm"
-    },
-    {
-      "name":"微软Build大会转战线上：完全纯粹的开发者大会",
-      "url":"http://www.cnbeta.com/articles/tech/981089.htm"
     },
     {
       "name":"爆料人称苹果公司可能要到今年10月份才会发布iPhone 12",
@@ -233,14 +241,6 @@
     {
       "name":"AMD Zen3工程样品首曝：8核心冲到4.6GHz",
       "url":"http://www.cnbeta.com/articles/tech/981033.htm"
-    },
-    {
-      "name":"多方订单补缺口 台积电或早对华为订单归零做了几手准备",
-      "url":"http://www.cnbeta.com/articles/tech/981031.htm"
-    },
-    {
-      "name":"《最后的生还者2》限量版PS4 Pro捆绑套装公布",
-      "url":"https://hot.cnbeta.com/articles/game/981029.htm"
     }
   ]
 }
