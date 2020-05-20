@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-20 11:18:17",
+  "time":"2020-05-20 11:21:30",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"闻库：加速5G应用由2C向2B拓展助传统产业数字化转型",
+      "url":"https://tech.sina.com.cn/5g/i/2020-05-20/doc-iircuyvi4057436.shtml"
+    },
     {
       "name":"工信部苗圩:4月份我国汽车产量210.2万辆 同比增2.3%",
       "url":"https://tech.sina.com.cn/it/2020-05-20/doc-iirczymk2584749.shtml"
@@ -23,7 +27,7 @@
       "url":"https://tech.sina.com.cn/i/2020-05-20/doc-iirczymk2581962.shtml"
     },
     {
-      "name":"微软推出Azure超级计算机 拥有28.5万CPU核心和1万GPU",
+      "name":"微软推出Azure超算 拥有28.5万CPU核心和1万GPU",
       "url":"https://tech.sina.com.cn/roll/2020-05-20/doc-iirczymk2581824.shtml"
     },
     {
@@ -197,10 +201,6 @@
     {
       "name":"美多家科技企业高管呼吁国会提供1万亿美元疫情救济金",
       "url":"https://tech.sina.com.cn/i/2020-05-20/doc-iircuyvi4011347.shtml"
-    },
-    {
-      "name":"疫情影响，苹果斥资7000万美元购买索尼《灰狗》版权",
-      "url":"https://tech.sina.com.cn/it/2020-05-20/doc-iirczymk2539028.shtml"
     }
   ]
 }
