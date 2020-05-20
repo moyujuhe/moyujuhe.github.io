@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-21 07:28:28",
+  "time":"2020-05-21 07:32:39",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"花点时间CEO：100%退款并追加同等现金赔偿 谢谢老罗敲响警钟",
+      "url":"https://www.cnbeta.com/articles/tech/981523.htm"
+    },
+    {
+      "name":"移动广电联姻 中国5G确立“2+2”竞争格局",
+      "url":"https://www.cnbeta.com/articles/tech/981521.htm"
     },
     {
       "name":"美法官再次搁置特斯拉股东诉讼 马斯克可以继续发布推文",
@@ -233,14 +241,6 @@
     {
       "name":"中国移动宣布与广电开展5G共建共享",
       "url":"https://www.cnbeta.com/articles/tech/981407.htm"
-    },
-    {
-      "name":"百度输入法Linux版本发布",
-      "url":"https://www.cnbeta.com/articles/soft/981405.htm"
-    },
-    {
-      "name":"凯文·梅耶尔谈为何选择字节跳动：TikTok潜力巨大",
-      "url":"https://www.cnbeta.com/articles/tech/981403.htm"
     }
   ]
 }
