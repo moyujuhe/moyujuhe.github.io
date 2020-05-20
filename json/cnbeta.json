@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 08:25:34",
+  "time":"2020-05-20 08:29:41",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://www.cnbeta.com/articles/tech/981067.htm"
+    },
+    {
+      "name":"摩根士丹利分析师认为6种新冠候选疫苗最有可能获得成功",
+      "url":"https://www.cnbeta.com/articles/science/981145.htm"
     },
     {
       "name":"科学家提出木星卫星形成的新理论",
@@ -237,10 +241,6 @@
     {
       "name":"百度CIO李莹升为集团副总裁 在百度成长起来的领军人物",
       "url":"https://www.cnbeta.com/articles/tech/981027.htm"
-    },
-    {
-      "name":"瑞幸咖啡接到纳斯达克摘牌警告 要求举行听证会",
-      "url":"https://www.cnbeta.com/articles/tech/981025.htm"
     }
   ]
 }
