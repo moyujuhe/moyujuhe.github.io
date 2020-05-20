@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-20 09:03:27",
+  "time":"2020-05-20 09:07:38",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]Edge将获Sidebar Search功能：不跳转页面就能快速搜索内容",
+      "url":"https://www.cnbeta.com/articles/tech/981175.htm"
+    },
+    {
+      "name":"“岭南通 · 羊城通”正式加入 Apple Pay 交通卡",
+      "url":"https://www.cnbeta.com/articles/tech/981173.htm"
+    },
+    {
+      "name":"远古南极区域发现白垩纪早期“怪异恐龙”残骸",
+      "url":"https://www.cnbeta.com/articles/science/981171.htm"
+    },
     {
       "name":"全球首个羟氯喹治疗新冠肺炎多中心临床结果发布",
       "url":"https://www.cnbeta.com/articles/science/981169.htm"
@@ -229,18 +241,6 @@
     {
       "name":"NVIDIA低调放弃Tesla品牌：因其与知名电动车撞名",
       "url":"https://www.cnbeta.com/articles/tech/981057.htm"
-    },
-    {
-      "name":"AMD官宣：B450、X470主板可支持Zen3锐龙处理器",
-      "url":"https://www.cnbeta.com/articles/tech/981055.htm"
-    },
-    {
-      "name":"台积电不得不暂停接受华为新订单",
-      "url":"https://www.cnbeta.com/articles/tech/981053.htm"
-    },
-    {
-      "name":"SD 8.0标准发布：引入PCIe 4.0、最高速度达4GB/s",
-      "url":"https://www.cnbeta.com/articles/tech/981051.htm"
     }
   ]
 }
