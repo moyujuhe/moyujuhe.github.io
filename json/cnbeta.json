@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 11:10:20",
+  "time":"2020-05-20 11:14:27",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"存在安全隐患：Harbor Freight宣布召回45.4万个千斤顶产品",
+      "url":"https://www.cnbeta.com/articles/tech/981265.htm"
     },
     {
       "name":"日文部科学省：中国新冠论文数全球第一",
@@ -237,10 +241,6 @@
     {
       "name":"[图]微软启动Project Reunion：整合统一Win32和UWP API",
       "url":"https://www.cnbeta.com/articles/tech/981149.htm"
-    },
-    {
-      "name":"惠普全新无线4K显示器曝光：延迟降至1/3",
-      "url":"https://www.cnbeta.com/articles/tech/981147.htm"
     }
   ]
 }
