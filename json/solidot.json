@@ -1,7 +1,23 @@
 {
-  "time":"2020-05-20 14:44:21",
+  "time":"2020-05-20 14:53:21",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"AMD 宣布下一代 CPU 将支持 B450 和 X470 主板",
+      "url":"https://www.solidot.org/story?sid=64414"
+    },
+    {
+      "name":"台积电无法再站在中美的中间地带",
+      "url":"https://www.solidot.org/story?sid=64413"
+    },
+    {
+      "name":"科学家称患过普通感冒可能能对新冠提供部分保护",
+      "url":"https://www.solidot.org/story?sid=64412"
+    },
+    {
+      "name":"瑞幸咖啡面临被纳斯达克摘牌",
+      "url":"https://www.solidot.org/story?sid=64411"
+    },
     {
       "name":"美国不太愿意与穷国分享新冠疫苗知识产权",
       "url":"https://www.solidot.org/story?sid=64410"
@@ -65,22 +81,6 @@
     {
       "name":"伽利略可能从未说过“地球仍然在动”",
       "url":"https://www.solidot.org/story?sid=64394"
-    },
-    {
-      "name":"猎豹清理大师和印象笔记被指违规收集用户信息",
-      "url":"https://www.solidot.org/story?sid=64393"
-    },
-    {
-      "name":"华为 Mate30 的美国零部件使用率降至 1%",
-      "url":"https://www.solidot.org/story?sid=64392"
-    },
-    {
-      "name":"SpaceX 发布模拟器演示载人飞船如何与空间站对接",
-      "url":"https://www.solidot.org/story?sid=64391"
-    },
-    {
-      "name":"蟒蛇不可思议的新陈代谢",
-      "url":"https://www.solidot.org/story?sid=64390"
     }
   ]
 }
