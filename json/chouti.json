@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-21 06:30:05",
+  "time":"2020-05-21 07:00:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"【微信群聊不是法外之地：用通知滤盒降低敏感词「炸群」风险】作为群主，如何对每天数以百计的群聊进行管理、维护秩序呢？这款Android应用原本是避免「垃圾」通知影响用户的，而通过设置正则表达式和JSON，可以用来提醒群主及时空降。",
+      "url":"https://sspai.com/post/60536"
+    },
     {
       "name":"打工诗人周启早：我在流水线上拧螺丝，螺丝在流水线上拧我",
       "url":"https://mp.weixin.qq.com/s/FNpsYVVtcSpLfzCWvdAt6g"
@@ -85,10 +89,6 @@
     {
       "name":"公安部明确，6月1日起，执法处罚的范围限定为骑摩托车不佩戴安全头盔；暂不处罚骑乘电动车不佩戴安全头盔的行为，继续以宣传引导为主。",
       "url":"http://www.bjnews.com.cn/wevideo/2020/05/20/729502.html"
-    },
-    {
-      "name":"【剑桥要把网课开到2021年夏天了】剑桥取消的是lectures，各种tutorial, practical class ,workshop将在符合社交隔离规定的前提下面授进行。如果政府疫情防控措施有所改变，学校将会重新讨论这一安排。",
-      "url":"https://mp.weixin.qq.com/s/SLKmRJDa3TZKkPbX6RnD-Q"
     }
   ]
 }
