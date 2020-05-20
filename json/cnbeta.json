@@ -1,18 +1,30 @@
 {
-  "time":"2020-05-20 10:14:34",
+  "time":"2020-05-20 10:18:45",
   "title":"cnBeta",
   "data":[
     {
+      "name":"微软Surface Go 2国行正式开卖 售价2988元起",
+      "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"相互宝入门版来了：一年只需一顿午餐的钱",
+      "url":"http://www.cnbeta.com/articles/tech/981221.htm"
+    },
+    {
+      "name":"美国兔群出现致命病毒：具有高度传染性",
+      "url":"http://www.cnbeta.com/articles/science/981219.htm"
+    },
+    {
       "name":"美法官搁置特斯拉股东诉讼：马斯克可以继续发推",
-      "url":"https://www.cnbeta.com/articles/tech/981217.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981217.htm"
     },
     {
       "name":"视频显示波士顿动力的机器狗Spot能像放牧人员一样牧羊",
-      "url":"https://www.cnbeta.com/articles/tech/981215.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981215.htm"
     },
     {
       "name":"[图]苹果AR眼镜信息曝光：无摄像头+手势控制 预估售价499美元",
-      "url":"https://www.cnbeta.com/articles/tech/981213.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981213.htm"
     },
     {
       "name":"Ampere Analysis：新冠大流行致60%电视节目延期至2021年播出",
@@ -20,119 +32,115 @@
     },
     {
       "name":"BIAS蓝牙身份欺骗攻击波及大量设备",
-      "url":"https://www.cnbeta.com/articles/tech/981209.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981209.htm"
     },
     {
       "name":"科学家计算出宇宙中外星生命常见的概率",
-      "url":"https://www.cnbeta.com/articles/science/981207.htm"
+      "url":"http://www.cnbeta.com/articles/science/981207.htm"
     },
     {
       "name":"美药企称新冠疫苗产生免疫反应被质疑：无评估有效性关键证据",
-      "url":"https://www.cnbeta.com/articles/science/981205.htm"
+      "url":"http://www.cnbeta.com/articles/science/981205.htm"
     },
     {
       "name":"特斯拉国内4月销量暴跌6成 曾一月多次调价惹怒车主",
-      "url":"https://www.cnbeta.com/articles/tech/981203.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981203.htm"
     },
     {
       "name":"以色列发明机械嘴口罩：吃饭张口不用摘 只需6元起",
-      "url":"https://www.cnbeta.com/articles/tech/981201.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981201.htm"
     },
     {
       "name":"[图]iFixit打造最全医疗设备维修资源库 更好抗击新冠疫情",
-      "url":"https://www.cnbeta.com/articles/tech/981199.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981199.htm"
     },
     {
       "name":"《科学》：防控新冠不能指望天热",
-      "url":"https://www.cnbeta.com/articles/science/981197.htm"
+      "url":"http://www.cnbeta.com/articles/science/981197.htm"
     },
     {
       "name":"谷歌展示I/O Braid智能触感编织线原型 可用于音乐播放控制",
-      "url":"https://www.cnbeta.com/articles/tech/981195.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981195.htm"
     },
     {
       "name":"重头再来一次，地球生命进化成功的概率仅为33%",
-      "url":"https://www.cnbeta.com/articles/science/981193.htm"
+      "url":"http://www.cnbeta.com/articles/science/981193.htm"
     },
     {
       "name":"NASA人类探索项目负责人宣布辞职：上任不到六个月",
-      "url":"https://www.cnbeta.com/articles/science/981191.htm"
+      "url":"http://www.cnbeta.com/articles/science/981191.htm"
     },
     {
       "name":"研究称新冠大流行导致碳排放大幅减少  但这些变化可能是暂时的",
-      "url":"https://www.cnbeta.com/articles/science/981189.htm"
+      "url":"http://www.cnbeta.com/articles/science/981189.htm"
     },
     {
       "name":"[图]WSL 2计划支持Linux GUI应用 可和Windows应用同时使用",
-      "url":"https://www.cnbeta.com/articles/tech/981187.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981187.htm"
     },
     {
       "name":"微软宣布几周内正式推送新版Edge浏览器 带来一系列新功能",
-      "url":"https://www.cnbeta.com/articles/tech/981185.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981185.htm"
     },
     {
       "name":"韩国疾控中心研究发现新冠复阳患者不具有传染性",
-      "url":"https://www.cnbeta.com/articles/science/981183.htm"
+      "url":"http://www.cnbeta.com/articles/science/981183.htm"
     },
     {
       "name":"松下宣布本周恢复在特斯拉纽约太阳能电池工厂的生产",
-      "url":"https://www.cnbeta.com/articles/tech/981181.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981181.htm"
     },
     {
       "name":"[图]Windows Terminal 1.0正式发布 准备好供企业用户使用了",
-      "url":"https://www.cnbeta.com/articles/tech/981179.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981179.htm"
     },
     {
       "name":"iPhone SE物料成本1500元  苹果卖你三千多是贵是贱？",
-      "url":"https://www.cnbeta.com/articles/tech/981177.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981177.htm"
     },
     {
       "name":"[图]Edge将获Sidebar Search功能：不跳转页面就能快速搜索内容",
-      "url":"https://www.cnbeta.com/articles/tech/981175.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981175.htm"
     },
     {
       "name":"“岭南通 · 羊城通”正式加入 Apple Pay 交通卡",
-      "url":"https://www.cnbeta.com/articles/tech/981173.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981173.htm"
     },
     {
       "name":"远古南极区域发现白垩纪早期“怪异恐龙”残骸",
-      "url":"https://www.cnbeta.com/articles/science/981171.htm"
+      "url":"http://www.cnbeta.com/articles/science/981171.htm"
     },
     {
       "name":"全球首个羟氯喹治疗新冠肺炎多中心临床结果发布",
-      "url":"https://www.cnbeta.com/articles/science/981169.htm"
+      "url":"http://www.cnbeta.com/articles/science/981169.htm"
     },
     {
       "name":"联想19/20财年营收3531亿元 净利润46.3亿同比增12%",
-      "url":"https://www.cnbeta.com/articles/tech/981167.htm"
-    },
-    {
-      "name":"微软Surface Go 2国行正式开卖 售价2988元起",
-      "url":"https://url.cnbetacdn.com/HBVU1d"
+      "url":"http://www.cnbeta.com/articles/tech/981167.htm"
     },
     {
       "name":"长效注射药物可有效预防HIV感染",
-      "url":"https://www.cnbeta.com/articles/science/981165.htm"
+      "url":"http://www.cnbeta.com/articles/science/981165.htm"
     },
     {
       "name":"Facebook：扎克伯格出品",
-      "url":"https://www.cnbeta.com/articles/tech/981163.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981163.htm"
     },
     {
       "name":"奇怪的知识增加了：新冠疫情令碳排放降至2006年水平",
-      "url":"https://www.cnbeta.com/articles/science/981161.htm"
+      "url":"http://www.cnbeta.com/articles/science/981161.htm"
     },
     {
       "name":"珠峰“身高”从黄海测？ 专家解读珠峰测高原理",
-      "url":"https://www.cnbeta.com/articles/science/981159.htm"
+      "url":"http://www.cnbeta.com/articles/science/981159.htm"
     },
     {
       "name":"Windows 10 PowerToys运行启动器迎来0.18版本更新 引入键盘管理器功能",
-      "url":"https://www.cnbeta.com/articles/tech/981157.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981157.htm"
     },
     {
       "name":"微软发10项新品：28.5万个核心的AI超算机，最大语言模型",
-      "url":"https://www.cnbeta.com/articles/tech/981155.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981155.htm"
     },
     {
       "name":"《坎巴拉太空计划》免费升级将引入欧航局任务和火箭",
@@ -140,47 +148,47 @@
     },
     {
       "name":"美CDC将进行大规模的COVID-19研究 旨在回答新冠病毒免疫问题",
-      "url":"https://www.cnbeta.com/articles/science/981151.htm"
+      "url":"http://www.cnbeta.com/articles/science/981151.htm"
     },
     {
       "name":"[图]微软启动Project Reunion：整合统一Win32和UWP API",
-      "url":"https://www.cnbeta.com/articles/tech/981149.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981149.htm"
     },
     {
       "name":"惠普全新无线4K显示器曝光：延迟降至1/3",
-      "url":"https://www.cnbeta.com/articles/tech/981147.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981147.htm"
     },
     {
       "name":"摩根士丹利分析师认为6种新冠候选疫苗最有可能获得成功",
-      "url":"https://www.cnbeta.com/articles/science/981145.htm"
+      "url":"http://www.cnbeta.com/articles/science/981145.htm"
     },
     {
       "name":"科学家提出木星卫星形成的新理论",
-      "url":"https://www.cnbeta.com/articles/science/981143.htm"
+      "url":"http://www.cnbeta.com/articles/science/981143.htm"
     },
     {
       "name":"“不该上架的玩具 ” 一加8 Pro红外透视的秘密",
-      "url":"https://www.cnbeta.com/articles/tech/981141.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981141.htm"
     },
     {
       "name":"荷兰发现水貂传人新冠病毒感染病例",
-      "url":"https://www.cnbeta.com/articles/science/981139.htm"
+      "url":"http://www.cnbeta.com/articles/science/981139.htm"
     },
     {
       "name":"股神巴菲特被曝曾遭德国企业巨额诈骗 怎么中招的？",
-      "url":"https://www.cnbeta.com/articles/tech/981137.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981137.htm"
     },
     {
       "name":"美多家科技企业高管呼吁国会提供1万亿美元疫情救济金",
-      "url":"https://www.cnbeta.com/articles/tech/981135.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981135.htm"
     },
     {
       "name":"Google Chrome设置页改版：大幅优化隐私和安全保护",
-      "url":"https://www.cnbeta.com/articles/tech/981133.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981133.htm"
     },
     {
       "name":"加州州长：不担心特斯拉搬迁至其他地方",
-      "url":"https://www.cnbeta.com/articles/tech/981131.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981131.htm"
     },
     {
       "name":"汤姆·汉克斯主演的二战电影《灰狗》将在Apple TV+上首映",
@@ -188,59 +196,51 @@
     },
     {
       "name":"微软Build大会转战线上：完全纯粹的开发者大会",
-      "url":"https://www.cnbeta.com/articles/tech/981089.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981089.htm"
     },
     {
       "name":"德法院：情报机构BND将不能再随意监控全球互联网流量",
-      "url":"https://www.cnbeta.com/articles/tech/981127.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981127.htm"
     },
     {
       "name":"英国易捷航空遭黑客入侵 约900万客户个人信息被窃取",
-      "url":"https://www.cnbeta.com/articles/tech/981125.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981125.htm"
     },
     {
       "name":"新的安全漏洞让攻击者伪造出可信的蓝牙外设",
-      "url":"https://www.cnbeta.com/articles/tech/981123.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981123.htm"
     },
     {
       "name":"美国白宫咨询委员会呼吁对数字基础设施进行投资",
-      "url":"https://www.cnbeta.com/articles/tech/981121.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981121.htm"
     },
     {
       "name":"欧盟反对特朗普威胁断供世卫：支持世卫组织 已为其提供额外资金",
-      "url":"https://www.cnbeta.com/articles/tech/981119.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981119.htm"
     },
     {
       "name":"特斯拉柏林工厂即将破土动工 土地准备工作似乎已完成",
-      "url":"https://www.cnbeta.com/articles/tech/981117.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981117.htm"
     },
     {
       "name":"特朗普\"以身试药\"震惊美国 美媒称其行为堪称\"从愚蠢走向疯狂\"",
-      "url":"https://www.cnbeta.com/articles/tech/981115.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981115.htm"
     },
     {
       "name":"特朗普回应是否在参观工厂时戴口罩 “我们走着瞧”",
-      "url":"https://www.cnbeta.com/articles/tech/981113.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981113.htm"
     },
     {
       "name":"强生停止在美加销售婴儿爽身粉 仍坚称不致癌",
-      "url":"https://www.cnbeta.com/articles/tech/981111.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981111.htm"
     },
     {
       "name":"纽交所评瑞幸摘牌：与中国沟通良好 IPO仍然强劲",
-      "url":"https://www.cnbeta.com/articles/tech/981109.htm"
+      "url":"http://www.cnbeta.com/articles/tech/981109.htm"
     },
     {
       "name":"《守望先锋》2020周年庆典开启 6月前免费试玩",
       "url":"https://hot.cnbeta.com/articles/game/981107.htm"
-    },
-    {
-      "name":"网飞《巫师》第二季演员阵容确定将出现新猎魔人",
-      "url":"https://hot.cnbeta.com/articles/movie/981105.htm"
-    },
-    {
-      "name":"inXile正式确认《废土3》后续新作将上马虚幻5引擎",
-      "url":"https://hot.cnbeta.com/articles/game/981103.htm"
     }
   ]
 }
