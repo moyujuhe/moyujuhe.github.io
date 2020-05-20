@@ -1,9 +1,13 @@
 {
-  "time":"2020-05-20 17:00:30",
+  "time":"2020-05-20 17:10:40",
   "title":"新浪科技",
   "data":[
     {
-      "name":"中国移动：母公司与中国广播电视网络订立合作协议",
+      "name":"“再中心化”是当前直播带货的陷阱",
+      "url":"http://tech.sina.com.cn/csj/2020-05-20/doc-iircuyvi4123221.shtml"
+    },
+    {
+      "name":"继联通和电信后 中国移动与中国广电开展5G共建共享",
       "url":"https://tech.sina.com.cn/5g/i/2020-05-20/doc-iirczymk2648577.shtml"
     },
     {
@@ -13,6 +17,10 @@
     {
       "name":"中国电信4月末移动电信业务用户总数达到3.39亿",
       "url":"https://tech.sina.com.cn/t/2020-05-20/doc-iircuyvi4120621.shtml"
+    },
+    {
+      "name":"李彦宏建议：针对疫情期间采集的个人信息设立退出机制",
+      "url":"https://tech.sina.com.cn/roll/2020-05-20/doc-iircuyvi4121175.shtml"
     },
     {
       "name":"珠峰高程测量登山队再冲顶，来看数百年珠峰测量史",
@@ -193,14 +201,6 @@
     {
       "name":"张亚勤寄语哥伦比亚大学2020年毕业生：引领未知时代",
       "url":"https://tech.sina.com.cn/it/2020-05-20/doc-iirczymk2590936.shtml"
-    },
-    {
-      "name":"百度王海峰：深度学习平台是产业智能化的基础技术底座",
-      "url":"https://tech.sina.com.cn/i/2020-05-20/doc-iircuyvi4062828.shtml"
-    },
-    {
-      "name":"GSA：全球有384家运营商正在投资5G网络",
-      "url":"https://tech.sina.com.cn/roll/2020-05-20/doc-iirczymk2591590.shtml"
     }
   ]
 }

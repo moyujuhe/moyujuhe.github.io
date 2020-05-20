@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 17:10:21",
+  "time":"2020-05-20 17:14:28",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"百度输入法Linux版本发布",
+      "url":"https://www.cnbeta.com/articles/soft/981405.htm"
     },
     {
       "name":"凯文·梅耶尔谈为何选择字节跳动：TikTok潜力巨大",
@@ -237,10 +241,6 @@
     {
       "name":"英国学生打造出一款能收集汽车轮胎微塑料的原型设备",
       "url":"https://www.cnbeta.com/articles/tech/981291.htm"
-    },
-    {
-      "name":"地球以外的星球存在智慧生命的几率有多大？",
-      "url":"https://www.cnbeta.com/articles/science/981287.htm"
     }
   ]
 }
