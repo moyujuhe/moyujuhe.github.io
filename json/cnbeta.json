@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-20 09:28:30",
+  "time":"2020-05-20 09:32:38",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"研究称新冠大流行导致碳排放大幅减少  但这些变化可能是暂时的",
+      "url":"https://www.cnbeta.com/articles/science/981189.htm"
+    },
     {
       "name":"[图]WSL 2计划支持Linux GUI应用 可和Windows应用同时使用",
       "url":"https://www.cnbeta.com/articles/tech/981187.htm"
@@ -237,10 +241,6 @@
     {
       "name":"《模拟人生4》新资料片“绿色生活”中字实机预告片",
       "url":"https://hot.cnbeta.com/articles/game/981073.htm"
-    },
-    {
-      "name":"刘强东内部信重新定义京东：逐梦者、坚守者、众行者",
-      "url":"https://www.cnbeta.com/articles/tech/981071.htm"
     }
   ]
 }
