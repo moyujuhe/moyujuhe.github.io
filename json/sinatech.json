@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-20 08:07:38",
+  "time":"2020-05-20 08:11:52",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"Facebook：扎克伯格出品",
+      "url":"https://tech.sina.com.cn/i/2020-05-20/doc-iircuyvi4015038.shtml"
+    },
+    {
+      "name":"微软推出Project Reunion计划：将统一Win32和UWP应用",
+      "url":"https://tech.sina.com.cn/n/n/2020-05-20/doc-iirczymk2542939.shtml"
+    },
     {
       "name":"苹果头戴式耳机新消息 或将于六月WWDC大会发布",
       "url":"https://tech.sina.com.cn/mobile/n/n/2020-05-20/doc-iircuyvi4014288.shtml"
@@ -193,14 +201,6 @@
     {
       "name":"纳斯达克就瑞幸摘牌一事作出回应",
       "url":"https://tech.sina.com.cn/i/2020-05-20/doc-iircuyvi3991960.shtml"
-    },
-    {
-      "name":"瑞幸咖啡面临强制退市，挡不住中概股的未来",
-      "url":"https://tech.sina.com.cn/roll/2020-05-20/doc-iirczymk2514843.shtml"
-    },
-    {
-      "name":"最高法：未成年人参与网络打赏可退还",
-      "url":"https://tech.sina.com.cn/i/2020-05-20/doc-iirczymk2514817.shtml"
     }
   ]
 }
