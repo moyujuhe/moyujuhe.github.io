@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-20 09:15:55",
+  "time":"2020-05-20 09:20:09",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"韩国疾控中心研究发现新冠复阳患者不具有传染性",
+      "url":"https://www.cnbeta.com/articles/science/981183.htm"
+    },
     {
       "name":"松下宣布本周恢复在特斯拉纽约太阳能电池工厂的生产",
       "url":"https://www.cnbeta.com/articles/tech/981181.htm"
@@ -237,10 +241,6 @@
     {
       "name":"苹果新专利让整个MacBook Pro掌托可作为触控板使用",
       "url":"https://www.cnbeta.com/articles/tech/981065.htm"
-    },
-    {
-      "name":"Adobe发布iPad上的新版Fresco和Photoshop",
-      "url":"https://www.cnbeta.com/articles/tech/981063.htm"
     }
   ]
 }
