@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-20 08:00:32",
+  "time":"2020-05-20 08:04:43",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://www.cnbeta.com/articles/tech/981067.htm"
+    },
+    {
+      "name":"德法院：情报机构BND将不能再随意监控全球互联网流量",
+      "url":"https://www.cnbeta.com/articles/tech/981127.htm"
+    },
+    {
+      "name":"英国易捷航空遭黑客入侵 约900万客户个人信息被窃取",
+      "url":"https://www.cnbeta.com/articles/tech/981125.htm"
     },
     {
       "name":"新的安全漏洞让攻击者伪造出可信的蓝牙外设",
@@ -233,14 +241,6 @@
     {
       "name":"当电动车轻松跑赢你 小钢炮还有什么意义？",
       "url":"https://www.cnbeta.com/articles/tech/981005.htm"
-    },
-    {
-      "name":"沃尔玛公布财报：一季度电商销售额激增74% 并宣布关闭Jet.com",
-      "url":"https://www.cnbeta.com/articles/tech/981003.htm"
-    },
-    {
-      "name":"《GTA Online》涌入大量作弊玩家 群魔乱舞花式搞破坏",
-      "url":"https://hot.cnbeta.com/articles/game/981001.htm"
     }
   ]
 }
