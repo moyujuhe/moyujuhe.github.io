@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-20 23:10:39",
+  "time":"2020-05-20 23:15:30",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"英国新增新冠肺炎确诊病例2412例，累计248818例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7482962"
+    },
+    {
+      "name":"中核集团新添两名副总经理，曾长期任核燃料、核电站业务高管",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7482960"
+    },
     {
       "name":"2020520！上海2567对新人今日登记结婚",
       "url":"https://www.thepaper.cn/newsDetail_forward_7482945"
@@ -73,14 +81,6 @@
     {
       "name":"吉林市部分企业停业，商户：为了安全值得",
       "url":"https://www.thepaper.cn/newsDetail_forward_7481002"
-    },
-    {
-      "name":"官方否认“吉林疫情传播断链”：病例实际活动轨迹与自述不符",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7482749"
-    },
-    {
-      "name":"月入过万，责任心强，疫情中的一线外卖员在相亲会上受到欢迎",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7482191"
     }
   ]
 }
