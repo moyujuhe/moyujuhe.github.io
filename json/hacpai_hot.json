@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-20 18:29:50",
+  "time":"2020-05-20 18:34:08",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -65,10 +65,6 @@
     {
       "name":"别人眼中的程序员 VS 实际中的程序员",
       "url":"https://hacpai.com/article/1588948174026"
-    },
-    {
-      "name":"思否社区因用户发布 fq 技术负责人被请喝茶",
-      "url":"https://hacpai.com/article/1587379664460"
     },
     {
       "name":"Solo 网站数据备份求助",
@@ -241,6 +237,10 @@
     {
       "name":"游戏记忆 - 生化危机 2 重置版",
       "url":"https://hacpai.com/article/1589704482553"
+    },
+    {
+      "name":"关于 Solo 的主题 Casper 修改问题",
+      "url":"https://hacpai.com/article/1589362437664"
     }
   ]
 }
