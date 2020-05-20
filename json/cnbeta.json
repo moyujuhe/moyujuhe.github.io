@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-20 09:11:48",
+  "time":"2020-05-20 09:15:55",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"松下宣布本周恢复在特斯拉纽约太阳能电池工厂的生产",
+      "url":"https://www.cnbeta.com/articles/tech/981181.htm"
+    },
+    {
+      "name":"[图]Windows Terminal 1.0正式发布 准备好供企业用户使用了",
+      "url":"https://www.cnbeta.com/articles/tech/981179.htm"
+    },
     {
       "name":"iPhone SE物料成本1500元  苹果卖你三千多是贵是贱？",
       "url":"https://www.cnbeta.com/articles/tech/981177.htm"
@@ -233,14 +241,6 @@
     {
       "name":"Adobe发布iPad上的新版Fresco和Photoshop",
       "url":"https://www.cnbeta.com/articles/tech/981063.htm"
-    },
-    {
-      "name":"微软为Surface平板电脑申请了主动散热专利",
-      "url":"https://www.cnbeta.com/articles/tech/981061.htm"
-    },
-    {
-      "name":"[图]iPhone 12的逻辑主板图像似乎已经泄露",
-      "url":"https://www.cnbeta.com/articles/tech/981059.htm"
     }
   ]
 }
