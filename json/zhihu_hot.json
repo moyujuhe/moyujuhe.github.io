@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-20 12:09:18",
+  "time":"2020-05-20 12:13:26",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -83,12 +83,12 @@
       "url":"https://www.zhihu.com/question/392807779"
     },
     {
-      "name":"日本影视剧中家里都有浴缸，日本的水费贵吗？为什么中国现在基本不用浴缸了呢？",
-      "url":"https://www.zhihu.com/question/300730379"
-    },
-    {
       "name":"为什么「中国有很多人」不能翻译成「China has many people.」？",
       "url":"https://www.zhihu.com/question/393113543"
+    },
+    {
+      "name":"日本影视剧中家里都有浴缸，日本的水费贵吗？为什么中国现在基本不用浴缸了呢？",
+      "url":"https://www.zhihu.com/question/300730379"
     },
     {
       "name":"如何看待瑞幸咖啡收到纳斯达克交易所的退市通知？",
@@ -151,10 +151,6 @@
       "url":"https://www.zhihu.com/question/391996916"
     },
     {
-      "name":"如何巧妙化解生活中的尴尬时刻？",
-      "url":"https://www.zhihu.com/question/395483146"
-    },
-    {
       "name":"职场中，为什么有些能力最强的人往往做不了大领导？",
       "url":"https://www.zhihu.com/question/376627540"
     },
@@ -171,12 +167,12 @@
       "url":"https://www.zhihu.com/question/394477481"
     },
     {
-      "name":"视频打卡：如何用你的专业或兴趣特长拍一段视频表达 520？",
-      "url":"https://www.zhihu.com/question/396021183"
-    },
-    {
       "name":"任嘉伦在薇娅直播间表现怎么样？",
       "url":"https://www.zhihu.com/question/394632643"
+    },
+    {
+      "name":"视频打卡：如何用你的专业或兴趣特长拍一段视频表达 520？",
+      "url":"https://www.zhihu.com/question/396021183"
     },
     {
       "name":"你见过最欠打的影视角色是谁？",
@@ -201,6 +197,10 @@
     {
       "name":"如何评价国产动画《百妖谱》？",
       "url":"https://www.zhihu.com/question/390463129"
+    },
+    {
+      "name":"人工智能将会如何影响和服务医疗行业？未来十年会有哪些值得期待的应用？",
+      "url":"https://www.zhihu.com/question/395814804"
     }
   ]
 }
