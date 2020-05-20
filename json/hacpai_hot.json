@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-20 09:20:10",
+  "time":"2020-05-20 09:24:22",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -51,12 +51,12 @@
       "url":"https://hacpai.com/article/1588062008746"
     },
     {
-      "name":"WebSocket 能否完全承担后端 Controller 的角色呢？",
-      "url":"https://hacpai.com/article/1588667920510"
-    },
-    {
       "name":"穷尽一生，我们追求的是什么？",
       "url":"https://hacpai.com/article/1589769521216"
+    },
+    {
+      "name":"WebSocket 能否完全承担后端 Controller 的角色呢？",
+      "url":"https://hacpai.com/article/1588667920510"
     },
     {
       "name":"Solo 的 Meta 资源引用异常，建议禁用",

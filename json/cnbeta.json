@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-20 09:20:09",
+  "time":"2020-05-20 09:24:21",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]WSL 2计划支持Linux GUI应用 可和Windows应用同时使用",
+      "url":"https://www.cnbeta.com/articles/tech/981187.htm"
+    },
+    {
+      "name":"微软宣布几周内正式推送新版Edge浏览器 带来一系列新功能",
+      "url":"https://www.cnbeta.com/articles/tech/981185.htm"
+    },
     {
       "name":"韩国疾控中心研究发现新冠复阳患者不具有传染性",
       "url":"https://www.cnbeta.com/articles/science/981183.htm"
@@ -233,14 +241,6 @@
     {
       "name":"刘强东内部信重新定义京东：逐梦者、坚守者、众行者",
       "url":"https://www.cnbeta.com/articles/tech/981071.htm"
-    },
-    {
-      "name":"百度掉队？疫情下净利翻番 李彦宏一夜身家暴涨63亿",
-      "url":"https://www.cnbeta.com/articles/tech/981069.htm"
-    },
-    {
-      "name":"苹果新专利让整个MacBook Pro掌托可作为触控板使用",
-      "url":"https://www.cnbeta.com/articles/tech/981065.htm"
     }
   ]
 }
