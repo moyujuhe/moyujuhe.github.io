@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-20 11:14:27",
+  "time":"2020-05-20 11:18:35",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"奔驰维权女车主所涉公司被限制高消费时隔一年再上热搜",
+      "url":"https://www.cnbeta.com/articles/tech/981271.htm"
+    },
+    {
+      "name":"[图]低成本新技术可通过磁性来追踪柔性外科机器人",
+      "url":"https://www.cnbeta.com/articles/science/981269.htm"
+    },
+    {
+      "name":"澳大利亚档案学家修复了塔斯马尼亚虎的最后一段已知视频",
+      "url":"https://www.cnbeta.com/articles/science/981267.htm"
     },
     {
       "name":"存在安全隐患：Harbor Freight宣布召回45.4万个千斤顶产品",
@@ -229,18 +241,6 @@
     {
       "name":"微软发10项新品：28.5万个核心的AI超算机，最大语言模型",
       "url":"https://www.cnbeta.com/articles/tech/981155.htm"
-    },
-    {
-      "name":"《坎巴拉太空计划》免费升级将引入欧航局任务和火箭",
-      "url":"https://hot.cnbeta.com/articles/game/981153.htm"
-    },
-    {
-      "name":"美CDC将进行大规模的COVID-19研究 旨在回答新冠病毒免疫问题",
-      "url":"https://www.cnbeta.com/articles/science/981151.htm"
-    },
-    {
-      "name":"[图]微软启动Project Reunion：整合统一Win32和UWP API",
-      "url":"https://www.cnbeta.com/articles/tech/981149.htm"
     }
   ]
 }
