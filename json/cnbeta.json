@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 08:29:41",
+  "time":"2020-05-20 08:33:48",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://www.cnbeta.com/articles/tech/981067.htm"
+    },
+    {
+      "name":"惠普全新无线4K显示器曝光：延迟降至1/3",
+      "url":"https://www.cnbeta.com/articles/tech/981147.htm"
     },
     {
       "name":"摩根士丹利分析师认为6种新冠候选疫苗最有可能获得成功",
@@ -237,10 +241,6 @@
     {
       "name":"《最后的生还者2》限量版PS4 Pro捆绑套装公布",
       "url":"https://hot.cnbeta.com/articles/game/981029.htm"
-    },
-    {
-      "name":"百度CIO李莹升为集团副总裁 在百度成长起来的领军人物",
-      "url":"https://www.cnbeta.com/articles/tech/981027.htm"
     }
   ]
 }
