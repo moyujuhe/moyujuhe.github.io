@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-20 22:34:29",
+  "time":"2020-05-20 22:39:04",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"谷歌承诺不再为石油和天然气公司开发AI工具",
+      "url":"https://www.cnbeta.com/articles/tech/981455.htm"
+    },
+    {
+      "name":"集邦咨询：到2022年Mini LED背光显示器成本有望低于OLED",
+      "url":"https://www.cnbeta.com/articles/tech/981453.htm"
     },
     {
       "name":"中国联通的5G用户数依然是个谜",
@@ -233,14 +241,6 @@
     {
       "name":"瑞幸造假引发美国上市新规？纽约律所第一时间解读",
       "url":"https://www.cnbeta.com/articles/tech/981341.htm"
-    },
-    {
-      "name":"跳过82：谷歌正式发布Google Chrome 83稳定版",
-      "url":"https://www.cnbeta.com/articles/tech/981339.htm"
-    },
-    {
-      "name":"郭明錤：iPhone 12或取消附赠有线耳机 将拉动AirPods 2需求",
-      "url":"https://www.cnbeta.com/articles/tech/981337.htm"
     }
   ]
 }
