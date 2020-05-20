@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 23:20:01",
+  "time":"2020-05-20 23:24:17",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"阿联酋航空据称寻求取消接收最后5架A380飞机",
+      "url":"https://www.cnbeta.com/articles/tech/981459.htm"
     },
     {
       "name":"小米高管解读财报：西欧市场占有率首次突破10%",
@@ -237,10 +241,6 @@
     {
       "name":"北京：今起到月底 早晚高峰可免费骑共享单车",
       "url":"https://www.cnbeta.com/articles/tech/981345.htm"
-    },
-    {
-      "name":"IEA：今年可再生能源新增装机量或20年来首次下降",
-      "url":"https://www.cnbeta.com/articles/tech/981343.htm"
     }
   ]
 }
