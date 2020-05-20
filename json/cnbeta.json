@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 17:35:36",
+  "time":"2020-05-20 17:39:45",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"瑞幸回应裁员：个别部门人员转岗优化 离职员工依法赔偿",
+      "url":"https://www.cnbeta.com/articles/tech/981409.htm"
     },
     {
       "name":"中国移动宣布与广电开展5G共建共享",
@@ -237,10 +241,6 @@
     {
       "name":"华为造“芯” 还有120天缓冲期",
       "url":"https://www.cnbeta.com/articles/tech/981295.htm"
-    },
-    {
-      "name":"谷歌应用已全面支持Android和iOS的黑暗模式",
-      "url":"https://www.cnbeta.com/articles/tech/981293.htm"
     }
   ]
 }
