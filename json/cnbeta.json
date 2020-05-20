@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-20 23:51:34",
+  "time":"2020-05-20 23:56:00",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"剑桥大学将全年上网课但不减学费",
+      "url":"https://www.cnbeta.com/articles/tech/981477.htm"
     },
     {
       "name":"LG电子将把两条电视生产线从韩国迁往印尼 以提高全球生产效率",
@@ -237,10 +241,6 @@
     {
       "name":"谷歌CEO皮查伊专访：希望年底前可让60%员工轮换上班",
       "url":"https://www.cnbeta.com/articles/tech/981363.htm"
-    },
-    {
-      "name":"Facebook进军电商领域 允许企业建立免费店面",
-      "url":"https://www.cnbeta.com/articles/tech/981361.htm"
     }
   ]
 }
