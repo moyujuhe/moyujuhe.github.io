@@ -1,7 +1,31 @@
 {
-  "time":"2020-05-20 22:57:06",
+  "time":"2020-05-20 23:01:33",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"研究生解决了有数十年历史的 Conway 扭结问题",
+      "url":"https://www.solidot.org/story?sid=64421"
+    },
+    {
+      "name":"剑桥大学将全年上网课但不减学费",
+      "url":"https://www.solidot.org/story?sid=64420"
+    },
+    {
+      "name":"广告商因疫情放弃百度",
+      "url":"https://www.solidot.org/story?sid=64419"
+    },
+    {
+      "name":"微软将统一 Windows 桌面和 UWP 应用",
+      "url":"https://www.solidot.org/story?sid=64418"
+    },
+    {
+      "name":"微软发布 Windows 包管理器",
+      "url":"https://www.solidot.org/story?sid=64417"
+    },
+    {
+      "name":"OpenBSD 6.7 发布",
+      "url":"https://www.solidot.org/story?sid=64416"
+    },
     {
       "name":"DirectX 将进入 Windows Subsystem for Linux",
       "url":"https://www.solidot.org/story?sid=64415"
@@ -57,30 +81,6 @@
     {
       "name":"欧洲五眼情报联盟帮助英国破解阿根廷密码",
       "url":"https://www.solidot.org/story?sid=64401"
-    },
-    {
-      "name":"美国空军神秘太空飞机 X-37B 开始执行第六次任务",
-      "url":"https://www.solidot.org/story?sid=64400"
-    },
-    {
-      "name":"华为称美国阻止芯片供应会影响业务",
-      "url":"https://www.solidot.org/story?sid=64399"
-    },
-    {
-      "name":"美国男子击落无人机，受到重罪指控",
-      "url":"https://www.solidot.org/story?sid=64398"
-    },
-    {
-      "name":"核辐射尘埃能造雨",
-      "url":"https://www.solidot.org/story?sid=64397"
-    },
-    {
-      "name":"基因分析揭示肉食植物起源",
-      "url":"https://www.solidot.org/story?sid=64396"
-    },
-    {
-      "name":"微软总裁表示对待开源它曾站在错误的一边",
-      "url":"https://www.solidot.org/story?sid=64395"
     }
   ]
 }
