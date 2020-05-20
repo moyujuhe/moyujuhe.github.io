@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-20 15:01:53",
+  "time":"2020-05-20 15:15:00",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"DirectX 将进入 Windows Subsystem for Linux",
+      "url":"https://www.solidot.org/story?sid=64415"
+    },
     {
       "name":"AMD 宣布下一代 CPU 将支持 B450 和 X470 主板",
       "url":"https://www.solidot.org/story?sid=64414"
@@ -77,10 +81,6 @@
     {
       "name":"微软总裁表示对待开源它曾站在错误的一边",
       "url":"https://www.solidot.org/story?sid=64395"
-    },
-    {
-      "name":"伽利略可能从未说过“地球仍然在动”",
-      "url":"https://www.solidot.org/story?sid=64394"
     }
   ]
 }
