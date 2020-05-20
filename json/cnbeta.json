@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-20 15:14:51",
+  "time":"2020-05-20 15:19:31",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"京东Plus+腾讯视频VIP年卡特惠：仅售148元 还送一年Plus会员",
       "url":"https://plus.m.jd.com/index?channel=hzdm468"
+    },
+    {
+      "name":"科学家建立了一套能“解码”系外行星是否宜居的模型",
+      "url":"https://www.cnbeta.com/articles/science/981365.htm"
     },
     {
       "name":"谷歌CEO皮查伊专访：希望年底前可让60%员工轮换上班",
@@ -237,10 +241,6 @@
     {
       "name":"研究称在SARS康复者中发现的抗体或能抑制新冠病毒",
       "url":"https://www.cnbeta.com/articles/science/981247.htm"
-    },
-    {
-      "name":"微软Surface Go 2中国开启预售 Surface Earbuds正式上市",
-      "url":"https://www.cnbeta.com/articles/tech/981245.htm"
     }
   ]
 }
