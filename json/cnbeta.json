@@ -1,7 +1,31 @@
 {
-  "time":"2020-05-20 09:45:08",
+  "time":"2020-05-20 09:49:28",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"科学家计算出宇宙中外星生命常见的概率",
+      "url":"https://www.cnbeta.com/articles/science/981207.htm"
+    },
+    {
+      "name":"美药企称新冠疫苗产生免疫反应被质疑：无评估有效性关键证据",
+      "url":"https://www.cnbeta.com/articles/science/981205.htm"
+    },
+    {
+      "name":"特斯拉国内4月销量暴跌6成 曾一月多次调价惹怒车主",
+      "url":"https://www.cnbeta.com/articles/tech/981203.htm"
+    },
+    {
+      "name":"以色列发明机械嘴口罩：吃饭张口不用摘 只需6元起",
+      "url":"https://www.cnbeta.com/articles/tech/981201.htm"
+    },
+    {
+      "name":"[图]iFixit打造最全医疗设备维修资源库 更好抗击新冠疫情",
+      "url":"https://www.cnbeta.com/articles/tech/981199.htm"
+    },
+    {
+      "name":"《科学》：防控新冠不能指望天热",
+      "url":"https://www.cnbeta.com/articles/science/981197.htm"
+    },
     {
       "name":"谷歌展示I/O Braid智能触感编织线原型 可用于音乐播放控制",
       "url":"https://www.cnbeta.com/articles/tech/981195.htm"
@@ -217,30 +241,6 @@
     {
       "name":"培训机构盯上主播培训这块蛋糕 费用几百元到数万元不等",
       "url":"https://www.cnbeta.com/articles/tech/981093.htm"
-    },
-    {
-      "name":"谷歌Pixel 5确认无缘旗舰处理器而改用骁龙765G",
-      "url":"https://www.cnbeta.com/articles/tech/981091.htm"
-    },
-    {
-      "name":"爆料人称苹果公司可能要到今年10月份才会发布iPhone 12",
-      "url":"https://www.cnbeta.com/articles/tech/981087.htm"
-    },
-    {
-      "name":"陆正耀回应瑞幸将退市：深感失望遗憾 全力维持门店运营",
-      "url":"https://www.cnbeta.com/articles/tech/981085.htm"
-    },
-    {
-      "name":"微软打造全新超算 拥有超过28.5万个CPU核心和1万个GPU",
-      "url":"https://www.cnbeta.com/articles/tech/981083.htm"
-    },
-    {
-      "name":"微软HoloLens 2现在可以通过插卡获得5G支持",
-      "url":"https://www.cnbeta.com/articles/tech/981081.htm"
-    },
-    {
-      "name":"苹果公司计划在越南生产 AirPods Studio 耳机",
-      "url":"https://www.cnbeta.com/articles/tech/981079.htm"
     }
   ]
 }
