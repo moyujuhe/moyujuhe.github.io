@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-21 15:48:36",
+  "time":"2020-05-21 15:53:10",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"工信部发超高清视频标准 2022年产业规模将超4万亿元",
+      "url":"https://www.cnbeta.com/articles/tech/981827.htm"
+    },
+    {
+      "name":"早期做空瑞幸咖啡的对冲基金押注将来还会更糟",
+      "url":"https://www.cnbeta.com/articles/tech/981825.htm"
     },
     {
       "name":"网易游戏旗下全部80余款在线运营网游升级防沉迷系统",
@@ -233,14 +241,6 @@
     {
       "name":"外媒：智能手机屏幕价格正在下降 包括OLED屏幕",
       "url":"https://www.cnbeta.com/articles/tech/981711.htm"
-    },
-    {
-      "name":"研究发现生酮饮食有助减少炎症",
-      "url":"https://www.cnbeta.com/articles/science/981709.htm"
-    },
-    {
-      "name":"官宣：7大手机品牌共组互传联盟 无需装应用一键互传",
-      "url":"https://www.cnbeta.com/articles/tech/981707.htm"
     }
   ]
 }
