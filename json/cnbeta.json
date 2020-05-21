@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-21 14:12:10",
+  "time":"2020-05-21 14:16:22",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"随着云游戏技术发展 索尼与微软的联系正在加深",
+      "url":"https://hot.cnbeta.com/articles/game/981785.htm"
+    },
+    {
+      "name":"[图]微软引入云Email签名功能 解决电子邮件的一大痛点",
+      "url":"https://www.cnbeta.com/articles/tech/981783.htm"
+    },
+    {
+      "name":"显示恒星周围“扭曲”的图像可能是首张展现系外行星诞生的图像",
+      "url":"https://www.cnbeta.com/articles/science/981781.htm"
     },
     {
       "name":"Realme TV上市在即：采用MTK处理器和无边框设计",
@@ -229,18 +241,6 @@
     {
       "name":"雷军两会建议：重点发展卫星互联网，开放民企准入",
       "url":"https://www.cnbeta.com/articles/tech/981667.htm"
-    },
-    {
-      "name":"研究提出采用封锁50天和30天开放的交替进行方案 以更好地控制新冠传播",
-      "url":"https://www.cnbeta.com/articles/science/981665.htm"
-    },
-    {
-      "name":"中科大33岁教授再发《自然》：实现原子与分子间的量子纠缠",
-      "url":"https://www.cnbeta.com/articles/science/981663.htm"
-    },
-    {
-      "name":"中国团队设计新冠疫苗新平台，发布mRNA首个动物实验数据",
-      "url":"https://www.cnbeta.com/articles/science/981661.htm"
     }
   ]
 }
