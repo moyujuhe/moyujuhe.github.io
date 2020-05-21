@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-05-21 11:51:15",
+  "time":"2020-05-21 11:55:26",
   "data":[
     {
       "name":"Minecraft",
@@ -132,7 +132,7 @@
       "name":"Forest - Stay focused",
       "url":"https://apps.apple.com/us/app/forest-stay-focused/id866450515?uo=4",
       "num":"Productivity",
-      "description":"最新版本:  4.17.1\n更新时间:  2020-05-16 09:41:17 (北京时间)\n\n• Some bug fixes."
+      "description":"最新版本:  4.17.2\n更新时间:  2020-05-21 09:00:31 (北京时间)\n\n• Some bug fixes."
     },
     {
       "name":"Five Nights at Freddy's",
@@ -414,7 +414,7 @@
       "name":"Notability",
       "url":"https://apps.apple.com/us/app/notability/id360593530?uo=4",
       "num":"Productivity",
-      "description":"最新版本:  9.3.4\n更新时间:  2020-04-16 00:49:11 (北京时间)\n\n*** What's New in 9.3.4 ***\n• Improved iOS 13.4 mouse support\n\n*** What's New in 9.3.3 ***\n• Added an option to draw text boxes when using the text tool\n• Added 4 laser pointer colors and the ability to hold the laser tail\n• Password protected PDFs can now be unlocked on import\n• Image captions are now optional\n• Added an option to hide the preview when playing back audio\n• Added multiple screen display size options to Presentation Mode\n• Miscellaneous bug fixes\n\n***What’s new in Notability 9.3***\nPresentation Mode: \n• Present a note to an external display in full screen without toolbars and menus\n• Note will crop to the external display aspect ratio so you know what’s being presented\n• Laser Pointer \n• Use Multi-Note to view a secondary note that stays hidden from the audience while presenting  \n\nSingle Page Mode: \n• Flip through a note horizontally one page at a time \n• Works well with Presentation Mode, so pages feel like slides \n\nOther fixes: \n• Larger page up/down arrows\n• Zoom Box can now be enabled with a finger tap while using Apple Pencil"
+      "description":"最新版本:  9.3.5\n更新时间:  2020-05-21 09:44:34 (北京时间)\n\n*** What's New in 9.3.5 ***\n• Fixed an issue where the toolbar could become unresponsive\n• Fixed a potential crash when dismissing a tooltip\n• Fixed an issue where zooming could cause the note contents to disappear\n\n***What’s new in Notability 9.3***\nPresentation Mode: \n• Present a note to an external display in full screen without toolbars and menus\n• Note will crop to the external display aspect ratio so you know what’s being presented\n• Laser Pointer \n• Use Multi-Note to view a secondary note that stays hidden from the audience while presenting  \n\nSingle Page Mode: \n• Flip through a note horizontally one page at a time \n• Works well with Presentation Mode, so pages feel like slides \n\nOther fixes: \n• Larger page up/down arrows\n• Zoom Box can now be enabled with a finger tap while using Apple Pencil"
     },
     {
       "name":"Pro Camera by Moment",
