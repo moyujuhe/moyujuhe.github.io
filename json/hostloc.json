@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-22 05:04:40",
+  "time":"2020-05-22 05:08:53",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"出点东西了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692771&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"multi-v2**** 怎么添加多用户的？",
@@ -109,10 +113,6 @@
     {
       "name":"人都傻了大热天。打雷断电没有风扇今晚怎么睡",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692743&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"套cloudflare还好吗，我这连大佬的CFP都打不开了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692742&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
