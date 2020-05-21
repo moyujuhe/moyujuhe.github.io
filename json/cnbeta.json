@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-21 15:26:00",
+  "time":"2020-05-21 15:30:32",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"新研究表明移植某些脑细胞可逆转小鼠的多发性硬化症损伤",
+      "url":"https://www.cnbeta.com/articles/science/981819.htm"
+    },
+    {
+      "name":"南极突现怪异“绿雪”：世界气候变暖所致",
+      "url":"https://www.cnbeta.com/articles/science/981817.htm"
     },
     {
       "name":"网友硬核进行三元锂电池穿刺测试 实验画面：瞬间起火爆炸",
@@ -233,14 +241,6 @@
     {
       "name":"车太耐撞了也要被扣分 E-NCAP碰撞规则迎十年来最大变化",
       "url":"https://www.cnbeta.com/articles/tech/981703.htm"
-    },
-    {
-      "name":"[图]玩具公司Sphero拆分出新公司 专注于急救机器人和AI软件开发",
-      "url":"https://www.cnbeta.com/articles/tech/981701.htm"
-    },
-    {
-      "name":"NASA确定Osiris-Rex小行星TAG任务时间",
-      "url":"https://www.cnbeta.com/articles/science/981699.htm"
     }
   ]
 }
