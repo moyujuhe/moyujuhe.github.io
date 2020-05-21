@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-21 08:14:35",
+  "time":"2020-05-21 08:18:53",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"三星Galaxy S20战术版发布：硬核军迷必备 军用标准手机",
+      "url":"https://www.cnbeta.com/articles/tech/981567.htm"
+    },
+    {
+      "name":"小区不刷脸不让进 这样“强行采脸”到底违法吗？",
+      "url":"https://www.cnbeta.com/articles/tech/981565.htm"
     },
     {
       "name":"三星将于9月推出Micro LED电视 抗衡OLED阵营",
@@ -233,14 +241,6 @@
     {
       "name":"中国联通的5G用户数依然是个谜",
       "url":"https://www.cnbeta.com/articles/tech/981451.htm"
-    },
-    {
-      "name":"暴风集团涉嫌信披违法违规 遭证监会立案调查",
-      "url":"https://www.cnbeta.com/articles/tech/981449.htm"
-    },
-    {
-      "name":"520预购玫瑰花变烂花 罗永浩宣布赔偿：所有用户双倍返还",
-      "url":"https://www.cnbeta.com/articles/tech/981447.htm"
     }
   ]
 }
