@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 12:33:08",
+  "time":"2020-05-21 12:37:28",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"第一次玩HZ 请教大佬装系统得多久啊",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692463&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"让vultr纯ipv6小鸡用上ovh的ipv4",
@@ -109,10 +113,6 @@
     {
       "name":"大家购汇都写的什么理由呢？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692430&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"国区paypal付款被发卡机构拒绝",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692428&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
