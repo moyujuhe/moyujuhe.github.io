@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 12:20:32",
+  "time":"2020-05-21 12:24:43",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"基准测试表明Tiger Lake芯片图形性能较Ice Lake翻番",
+      "url":"https://www.cnbeta.com/articles/tech/981729.htm"
     },
     {
       "name":"拒绝熬夜：新版YouTube移动App已加入就寝提醒功能",
@@ -237,10 +241,6 @@
     {
       "name":"Chrome 83稳定版发布：新的跨域政策、表单控件，改进Web 体验",
       "url":"https://www.cnbeta.com/articles/tech/981609.htm"
-    },
-    {
-      "name":"Signal推出PIN码新方案 不再将电话号码作为用户的唯一ID",
-      "url":"https://www.cnbeta.com/articles/tech/981607.htm"
     }
   ]
 }
