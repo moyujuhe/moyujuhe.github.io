@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-22 07:38:00",
+  "time":"2020-05-22 07:54:31",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"液晶显示出货量大涨 三星暂缓退出LCD计划",
+      "url":"https://tech.sina.com.cn/e/2020-05-22/doc-iircuyvi4378655.shtml"
+    },
+    {
+      "name":"Netflix将取消非活跃用户订阅 彰显“一切为用户着想”",
+      "url":"https://tech.sina.com.cn/i/2020-05-22/doc-iircuyvi4378467.shtml"
+    },
     {
       "name":"蓝牙技术联盟曝光一加电视新型号 或具备独特连接功能",
       "url":"https://tech.sina.com.cn/elec/product/2020-05-22/doc-iircuyvi4377170.shtml"
@@ -45,6 +53,10 @@
     {
       "name":"英伟达第一季度营收30.8亿美元 净利同比增133%",
       "url":"https://tech.sina.com.cn/it/2020-05-22/doc-iircuyvi4367500.shtml"
+    },
+    {
+      "name":"滴滴将在京开展自动驾驶测试 将加速落地北京",
+      "url":"https://tech.sina.com.cn/roll/2020-05-22/doc-iirczymk2894978.shtml"
     },
     {
       "name":"瑞幸咖啡复牌第二日 股价再次大跌28.72%",
@@ -189,18 +201,6 @@
     {
       "name":"小米收购Zifone 27.44%销售股份 总价约1.03亿美元",
       "url":"https://tech.sina.com.cn/i/2020-05-21/doc-iirczymk2879445.shtml"
-    },
-    {
-      "name":"Uber欲收购美国最大外卖平台GrubHub 已接近达成交易",
-      "url":"https://tech.sina.com.cn/i/2020-05-21/doc-iirczymk2878354.shtml"
-    },
-    {
-      "name":"你再不努力，可能连机器狗都不如了",
-      "url":"http://tech.sina.com.cn/csj/2020-05-21/doc-iirczymk2874472.shtml"
-    },
-    {
-      "name":"瑞幸咖啡跌幅扩大至20%，昨日复牌收跌逾35%",
-      "url":"https://tech.sina.com.cn/i/2020-05-21/doc-iircuyvi4344661.shtml"
     }
   ]
 }
