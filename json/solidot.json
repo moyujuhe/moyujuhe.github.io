@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-21 19:38:41",
+  "time":"2020-05-21 19:43:38",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"基因分析揭示新冠的不同类型",
+      "url":"https://www.solidot.org/story?sid=64433"
+    },
+    {
+      "name":"人工眼未来有望胜过人眼",
+      "url":"https://www.solidot.org/story?sid=64432"
+    },
+    {
+      "name":"Coinbase 宣布成为远程优先的企业",
+      "url":"https://www.solidot.org/story?sid=64431"
+    },
     {
       "name":"乌克兰逮捕黑客 Sanix",
       "url":"https://www.solidot.org/story?sid=64430"
@@ -69,18 +81,6 @@
     {
       "name":"AMD 宣布下一代 CPU 将支持 B450 和 X470 主板",
       "url":"https://www.solidot.org/story?sid=64414"
-    },
-    {
-      "name":"台积电无法再站在中美的中间地带",
-      "url":"https://www.solidot.org/story?sid=64413"
-    },
-    {
-      "name":"科学家称患过普通感冒可能能对新冠提供部分保护",
-      "url":"https://www.solidot.org/story?sid=64412"
-    },
-    {
-      "name":"瑞幸咖啡面临被纳斯达克摘牌",
-      "url":"https://www.solidot.org/story?sid=64411"
     }
   ]
 }
