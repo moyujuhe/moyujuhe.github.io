@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-22 07:14:14",
+  "time":"2020-05-22 07:18:26",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"使用 ZFS 的 Ubuntu 20.10 安装工具默认启用 TRIM",
+      "url":"https://www.cnbeta.com/articles/soft/981935.htm"
+    },
+    {
+      "name":"用错字体被告到破产？一款万能的良心字体神器",
+      "url":"https://www.cnbeta.com/articles/soft/981933.htm"
     },
     {
       "name":"宝马iX3全电动SUV将于2020年夏季在中国投产",
@@ -233,14 +241,6 @@
     {
       "name":"南极突现怪异“绿雪”：世界气候变暖所致",
       "url":"https://www.cnbeta.com/articles/science/981817.htm"
-    },
-    {
-      "name":"网友硬核进行三元锂电池穿刺测试 实验画面：瞬间起火爆炸",
-      "url":"https://www.cnbeta.com/articles/tech/981815.htm"
-    },
-    {
-      "name":"韩国灾难电影代表作《釜山行》加长版将上映：包含续集《半岛》彩蛋",
-      "url":"https://hot.cnbeta.com/articles/movie/981813.htm"
     }
   ]
 }
