@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 09:14:28",
+  "time":"2020-05-21 09:18:52",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"百度文库文档全变成VIP专享了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692353&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"知识量为0的小白求教oneindex假设",
@@ -105,10 +109,6 @@
     {
       "name":"某些免费车不要瞎上了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692324&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"Cloudflare workers的路由问题（已解决）有替代方法",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692323&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
