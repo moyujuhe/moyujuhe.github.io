@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 13:20:30",
+  "time":"2020-05-21 13:24:44",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"新内核漏洞利用曝光：unc0ver预告iOS 13.5越狱方案发布在即",
+      "url":"https://www.cnbeta.com/articles/tech/981735.htm"
     },
     {
       "name":"哈雷计划年内大幅减少产能和经销商库存",
@@ -237,10 +241,6 @@
     {
       "name":"美已有三个州宣布使用苹果和谷歌开发的新冠接触者通知系统",
       "url":"https://www.cnbeta.com/articles/tech/981615.htm"
-    },
-    {
-      "name":"Twitter正测试新功能  让用户限制谁可以回复推文",
-      "url":"https://www.cnbeta.com/articles/tech/981613.htm"
     }
   ]
 }
