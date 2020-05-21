@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 17:34:17",
+  "time":"2020-05-21 17:38:35",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"乌克兰逮捕不太高明的黑客Sanix",
+      "url":"https://www.cnbeta.com/articles/tech/981851.htm"
     },
     {
       "name":"16寸新款RedmiBook笔记本亮屏照曝光：15寸大小、突破屏占比极限",
@@ -237,10 +241,6 @@
     {
       "name":"新内核漏洞利用曝光：unc0ver预告iOS 13.5越狱方案发布在即",
       "url":"https://www.cnbeta.com/articles/tech/981735.htm"
-    },
-    {
-      "name":"哈雷计划年内大幅减少产能和经销商库存",
-      "url":"https://www.cnbeta.com/articles/tech/981733.htm"
     }
   ]
 }
