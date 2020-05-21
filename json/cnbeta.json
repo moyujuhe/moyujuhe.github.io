@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 11:04:45",
+  "time":"2020-05-21 11:08:58",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"美国Centivax公司正研究一种新冠抗体疗法  有望在8月进入临床试验",
+      "url":"https://www.cnbeta.com/articles/science/981695.htm"
     },
     {
       "name":"微软宣布与OpenAI合建一台人工智能超级计算机",
@@ -237,10 +241,6 @@
     {
       "name":"疫情放大美国数字鸿沟 贫困人群难用上宽带服务",
       "url":"https://www.cnbeta.com/articles/tech/981577.htm"
-    },
-    {
-      "name":"WHO总干事确定参加Collision虚拟大会：将着重介绍新冠大流行",
-      "url":"https://www.cnbeta.com/articles/tech/981575.htm"
     }
   ]
 }
