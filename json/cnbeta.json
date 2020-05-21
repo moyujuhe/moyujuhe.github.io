@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 11:17:26",
+  "time":"2020-05-21 11:21:40",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"[图]玩具公司Sphero拆分出新公司 专注于急救机器人和AI软件开发",
+      "url":"https://www.cnbeta.com/articles/tech/981701.htm"
     },
     {
       "name":"NASA确定Osiris-Rex小行星TAG任务时间",
@@ -237,10 +241,6 @@
     {
       "name":"SpaceX月底发射载人火箭 揭秘担此重任的两名宇航员",
       "url":"https://www.cnbeta.com/articles/science/981581.htm"
-    },
-    {
-      "name":"微软在 Build 2020 上“展示”新版 Edge for Linux",
-      "url":"https://www.cnbeta.com/articles/tech/981579.htm"
     }
   ]
 }
