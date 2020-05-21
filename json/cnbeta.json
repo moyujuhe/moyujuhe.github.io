@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-21 11:25:50",
+  "time":"2020-05-21 11:30:05",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"英特尔收购Rivet Networks“杀手”网卡已纳入蓝队麾下",
+      "url":"https://www.cnbeta.com/articles/tech/981715.htm"
+    },
+    {
+      "name":"Galaxy Note 20/Fold 2发布会将采取线上直播方式 具体时间未确定",
+      "url":"https://www.cnbeta.com/articles/tech/981713.htm"
+    },
+    {
+      "name":"外媒：智能手机屏幕价格正在下降 包括OLED屏幕",
+      "url":"https://www.cnbeta.com/articles/tech/981711.htm"
     },
     {
       "name":"研究发现生酮饮食有助减少炎症",
@@ -229,18 +241,6 @@
     {
       "name":"两名涉嫌帮助戈恩逃离日本的男子在美国被捕",
       "url":"https://www.cnbeta.com/articles/tech/981595.htm"
-    },
-    {
-      "name":"佩戴口罩的自拍照正在被AI公司用来重新训练人脸识别系统",
-      "url":"https://www.cnbeta.com/articles/tech/981593.htm"
-    },
-    {
-      "name":"[图]“海洋巨舰”霸鱼最新发现：基本无攻击性 以浮游生物为食",
-      "url":"https://www.cnbeta.com/articles/science/981591.htm"
-    },
-    {
-      "name":"CDC发布60页指南 详细说明美国如何在新冠大流行中重新开放",
-      "url":"https://www.cnbeta.com/articles/tech/981589.htm"
     }
   ]
 }
