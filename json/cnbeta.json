@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-21 15:21:40",
+  "time":"2020-05-21 15:26:00",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"网友硬核进行三元锂电池穿刺测试 实验画面：瞬间起火爆炸",
+      "url":"https://www.cnbeta.com/articles/tech/981815.htm"
+    },
+    {
+      "name":"韩国灾难电影代表作《釜山行》加长版将上映：包含续集《半岛》彩蛋",
+      "url":"https://hot.cnbeta.com/articles/movie/981813.htm"
     },
     {
       "name":"李彦宏谈直播带货：不一定亲自带货 百度将提升直播带货功能",
@@ -233,14 +241,6 @@
     {
       "name":"NASA确定Osiris-Rex小行星TAG任务时间",
       "url":"https://www.cnbeta.com/articles/science/981699.htm"
-    },
-    {
-      "name":"美国Centivax公司正研究一种新冠抗体疗法  有望在8月进入临床试验",
-      "url":"https://www.cnbeta.com/articles/science/981695.htm"
-    },
-    {
-      "name":"微软宣布与OpenAI合建一台人工智能超级计算机",
-      "url":"https://www.cnbeta.com/articles/tech/981693.htm"
     }
   ]
 }
