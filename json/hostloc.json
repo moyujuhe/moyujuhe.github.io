@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-22 04:35:18",
+  "time":"2020-05-22 04:39:30",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"multi-v2**** 怎么添加多用户的？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692770&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"我们这暴雨都停电了。。",
@@ -109,10 +113,6 @@
     {
       "name":"套cloudflare还好吗，我这连大佬的CFP都打不开了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692742&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"什么情况？良心云内存会缩水？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692741&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
