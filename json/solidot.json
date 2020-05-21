@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-21 14:29:13",
+  "time":"2020-05-21 14:33:37",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"企业加强安全以防内部泄密",
+      "url":"https://www.solidot.org/story?sid=64429"
+    },
+    {
+      "name":"美国参议院通过议案限制中国公司在美上市",
+      "url":"https://www.solidot.org/story?sid=64428"
+    },
     {
       "name":"肺炎疫情应对与政治立场",
       "url":"https://www.solidot.org/story?sid=64427"
@@ -73,14 +81,6 @@
     {
       "name":"美国不太愿意与穷国分享新冠疫苗知识产权",
       "url":"https://www.solidot.org/story?sid=64410"
-    },
-    {
-      "name":"巴基斯坦限制 Twitter、Periscope 和 Zoom",
-      "url":"https://www.solidot.org/story?sid=64409"
-    },
-    {
-      "name":"全球研究再次确认展望理论",
-      "url":"https://www.solidot.org/story?sid=64408"
     }
   ]
 }
