@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-22 01:34:17",
+  "time":"2020-05-22 01:38:43",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"三星宣布扩大晶圆代工产能 5nm EUV工艺将打造新一代芯片产品",
+      "url":"https://www.cnbeta.com/articles/tech/981919.htm"
     },
     {
       "name":"微软Xbox和Windows NT 3.5源码在互联网上泄露",
@@ -237,10 +241,6 @@
     {
       "name":"NVIDIA发言人确认两年前公司已放弃Tesla品牌",
       "url":"https://www.cnbeta.com/articles/tech/981801.htm"
-    },
-    {
-      "name":"诺基亚北美研发实验室飙出了4.7Gbps的5G速率",
-      "url":"https://www.cnbeta.com/articles/tech/981799.htm"
     }
   ]
 }
