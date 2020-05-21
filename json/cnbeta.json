@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 15:08:45",
+  "time":"2020-05-21 15:13:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"NVIDIA发言人确认两年前公司已放弃Tesla品牌",
+      "url":"https://www.cnbeta.com/articles/tech/981801.htm"
     },
     {
       "name":"诺基亚北美研发实验室飙出了4.7Gbps的5G速率",
@@ -237,10 +241,6 @@
     {
       "name":"联想成绩单：PC独大移动业务亏损收窄 不确定性犹在",
       "url":"https://www.cnbeta.com/articles/tech/981683.htm"
-    },
-    {
-      "name":"业绩下滑近五成市值缩水3000亿，三六零好日子到头了？",
-      "url":"https://www.cnbeta.com/articles/tech/981681.htm"
     }
   ]
 }
