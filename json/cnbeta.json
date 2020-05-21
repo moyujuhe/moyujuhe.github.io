@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-21 11:30:05",
+  "time":"2020-05-21 11:34:19",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"剁手准备！索尼2020年Days of Play或于5月25日开启",
+      "url":"https://hot.cnbeta.com/articles/game/981721.htm"
+    },
+    {
+      "name":"暴风集团开盘大跌 涉嫌信披违规遭证监会立案调查",
+      "url":"https://www.cnbeta.com/articles/tech/981719.htm"
+    },
+    {
+      "name":"《命令与征服：重制版》暂不支持局域网：MOD制作者可自定义游戏",
+      "url":"https://hot.cnbeta.com/articles/game/981717.htm"
     },
     {
       "name":"英特尔收购Rivet Networks“杀手”网卡已纳入蓝队麾下",
@@ -229,18 +241,6 @@
     {
       "name":"纪念“哈勃望远镜之母” NASA将Wfirst更名为南希·罗曼太空望远镜",
       "url":"https://www.cnbeta.com/articles/science/981601.htm"
-    },
-    {
-      "name":"[图]微软有望在ARM64设备上为Hyper-V发布Windows 10 VHDX",
-      "url":"https://www.cnbeta.com/articles/tech/981599.htm"
-    },
-    {
-      "name":"Origin推出EON17-X与NS-17笔记本新品 采用酷睿i9-10900KF处理器",
-      "url":"https://www.cnbeta.com/articles/tech/981597.htm"
-    },
-    {
-      "name":"两名涉嫌帮助戈恩逃离日本的男子在美国被捕",
-      "url":"https://www.cnbeta.com/articles/tech/981595.htm"
     }
   ]
 }

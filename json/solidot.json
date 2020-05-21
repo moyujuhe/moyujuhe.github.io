@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-21 11:30:05",
+  "time":"2020-05-21 11:34:19",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"肺炎疫情应对与政治立场",
+      "url":"https://www.solidot.org/story?sid=64427"
+    },
+    {
+      "name":"EA 将在 GPL 下公开红警和泰伯利亚黎明源代码",
+      "url":"https://www.solidot.org/story?sid=64425"
+    },
     {
       "name":"研究生解决了有数十年历史的 Conway 扭结问题",
       "url":"https://www.solidot.org/story?sid=64421"
@@ -73,14 +81,6 @@
     {
       "name":"特朗普再次威胁退出世卫组织",
       "url":"https://www.solidot.org/story?sid=64403"
-    },
-    {
-      "name":"Moderna 称其疫苗测试取得良好成果",
-      "url":"https://www.solidot.org/story?sid=64402"
-    },
-    {
-      "name":"欧洲五眼情报联盟帮助英国破解阿根廷密码",
-      "url":"https://www.solidot.org/story?sid=64401"
     }
   ]
 }
