@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 09:27:28",
+  "time":"2020-05-21 09:31:40",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"[图]微软有望在ARM64设备上为Hyper-V发布Windows 10 VHDX",
+      "url":"https://www.cnbeta.com/articles/tech/981599.htm"
     },
     {
       "name":"Origin推出EON17-X与NS-17笔记本新品 采用酷睿i9-10900KF处理器",
@@ -237,10 +241,6 @@
     {
       "name":"瑞幸咖啡复牌暴跌 投资者急于在其退市前清仓离场",
       "url":"https://www.cnbeta.com/articles/tech/981483.htm"
-    },
-    {
-      "name":"微信安全中心发布提醒：严厉打击租售微信帐号行为",
-      "url":"https://www.cnbeta.com/articles/tech/981481.htm"
     }
   ]
 }
