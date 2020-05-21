@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-21 10:39:22",
+  "time":"2020-05-21 10:43:36",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"中科大33岁教授再发《自然》：实现原子与分子间的量子纠缠",
+      "url":"https://www.cnbeta.com/articles/science/981663.htm"
+    },
+    {
+      "name":"中国团队设计新冠疫苗新平台，发布mRNA首个动物实验数据",
+      "url":"https://www.cnbeta.com/articles/science/981661.htm"
     },
     {
       "name":"走上巅峰之后的苹果智能手表，下个目标会是儿童吗？",
@@ -233,14 +241,6 @@
     {
       "name":"1英里宽的潜在危险小行星将在周四与地球擦肩而过",
       "url":"https://www.cnbeta.com/articles/science/981545.htm"
-    },
-    {
-      "name":"[图]iOS/iPadOS 13.5发布：引入暴露通知API 戴口罩时加快密码栏显示",
-      "url":"https://www.cnbeta.com/articles/tech/981543.htm"
-    },
-    {
-      "name":"仓鼠实验证明口罩能在防止新冠病毒传播上起到有效作用",
-      "url":"https://www.cnbeta.com/articles/science/981541.htm"
     }
   ]
 }
