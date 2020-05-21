@@ -1,10 +1,30 @@
 {
-  "time":"2020-05-21 10:43:36",
+  "time":"2020-05-21 10:47:51",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"新作要来了？《GT赛车 7》有希望于2020年内公布",
+      "url":"https://hot.cnbeta.com/articles/game/981673.htm"
+    },
+    {
+      "name":"三星Galaxy Book S新机曝光 采用Lakefield酷睿i5-L16G7处理器",
+      "url":"https://www.cnbeta.com/articles/tech/981671.htm"
+    },
+    {
+      "name":"华为发布自动驾驶网络解决方案白皮书 呼吁产业达成共识",
+      "url":"https://www.cnbeta.com/articles/tech/981669.htm"
+    },
+    {
+      "name":"雷军两会建议：重点发展卫星互联网，开放民企准入",
+      "url":"https://www.cnbeta.com/articles/tech/981667.htm"
+    },
+    {
+      "name":"研究提出采用封锁50天和30天开放的交替进行方案 以更好地控制新冠传播",
+      "url":"https://www.cnbeta.com/articles/science/981665.htm"
     },
     {
       "name":"中科大33岁教授再发《自然》：实现原子与分子间的量子纠缠",
@@ -221,26 +241,6 @@
     {
       "name":"Build 2020新消息一览：WSL2已在路上 即将支持GPU和Linux GUI",
       "url":"https://www.cnbeta.com/articles/tech/981555.htm"
-    },
-    {
-      "name":"Visual Studio 2019 for Mac 8.6 发布",
-      "url":"https://www.cnbeta.com/articles/soft/981553.htm"
-    },
-    {
-      "name":"苹果不忘老机型推出iOS 12.4.7安全更新：建议所有用户安装",
-      "url":"https://www.cnbeta.com/articles/tech/981551.htm"
-    },
-    {
-      "name":"Apple TV+将推全新纪录片《Greatness Code》 讲述著名运动员的故事",
-      "url":"https://hot.cnbeta.com/articles/movie/981549.htm"
-    },
-    {
-      "name":"美限制华为新规有漏洞：华为客户可直接买芯片组装",
-      "url":"https://www.cnbeta.com/articles/tech/981547.htm"
-    },
-    {
-      "name":"1英里宽的潜在危险小行星将在周四与地球擦肩而过",
-      "url":"https://www.cnbeta.com/articles/science/981545.htm"
     }
   ]
 }
