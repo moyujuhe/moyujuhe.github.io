@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-21 16:24:54",
+  "time":"2020-05-21 16:29:07",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"谷歌云与美国防部签署合约：帮助检测和应对网络威胁",
+      "url":"https://www.cnbeta.com/articles/tech/981833.htm"
+    },
+    {
+      "name":"瑞幸复牌继续重挫，集体诉讼开启“首席原告”争夺18进6",
+      "url":"https://www.cnbeta.com/articles/tech/981831.htm"
     },
     {
       "name":"国产内存高光！威刚全面导入长鑫DDR4颗粒",
@@ -233,14 +241,6 @@
     {
       "name":"《命令与征服：重制版》暂不支持局域网：MOD制作者可自定义游戏",
       "url":"https://hot.cnbeta.com/articles/game/981717.htm"
-    },
-    {
-      "name":"英特尔收购Rivet Networks“杀手”网卡已纳入蓝队麾下",
-      "url":"https://www.cnbeta.com/articles/tech/981715.htm"
-    },
-    {
-      "name":"Galaxy Note 20/Fold 2发布会将采取线上直播方式 具体时间未确定",
-      "url":"https://www.cnbeta.com/articles/tech/981713.htm"
     }
   ]
 }
