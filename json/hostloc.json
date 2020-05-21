@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 10:05:23",
+  "time":"2020-05-21 10:09:35",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"chrome 无法连接",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692383&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"最近酸酸**还可以用么，可以得话求个正确姿势",
@@ -109,10 +113,6 @@
     {
       "name":"新手套餐不能买了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692346&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"新开的阿里云国际买不了新手套餐了吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692345&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
