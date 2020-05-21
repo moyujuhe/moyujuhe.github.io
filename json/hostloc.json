@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 08:10:28",
+  "time":"2020-05-21 08:14:38",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"不懂就问，为什么要搭建telegram服务器",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692325&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"某些免费车不要瞎上了",
@@ -109,10 +113,6 @@
     {
       "name":"求个55 r 一键",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692293&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"KTS24免费提供DNS服务器群集",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692292&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
