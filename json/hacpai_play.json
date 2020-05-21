@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-05-21 23:34:59",
+  "time":"2020-05-21 23:39:32",
   "data":[
+    {
+      "name":"我的推荐——大合集来啦！",
+      "url":"https://hacpai.com/article/1590075078995"
+    },
     {
       "name":"Solo v4.1.0 发布，支持类似 Typora 的即时渲染模式",
       "url":"https://hacpai.com/article/1589859611671"
@@ -177,10 +181,6 @@
     {
       "name":"迷宫生成算法 prime，实现自动走迷宫",
       "url":"https://hacpai.com/article/1585631733196"
-    },
-    {
-      "name":"File Browser 文件浏览器 Dark Theme 暗黑模式主题样式分享",
-      "url":"https://hacpai.com/article/1585584555133"
     },
     {
       "name":"开发者福利：免费获取 JetBrains 全家桶",
