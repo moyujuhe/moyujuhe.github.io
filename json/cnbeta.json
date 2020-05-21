@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-21 09:40:10",
+  "time":"2020-05-21 09:44:26",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"Chrome 83稳定版发布：新的跨域政策、表单控件，改进Web 体验",
+      "url":"https://www.cnbeta.com/articles/tech/981609.htm"
+    },
+    {
+      "name":"Signal推出PIN码新方案 不再将电话号码作为用户的唯一ID",
+      "url":"https://www.cnbeta.com/articles/tech/981607.htm"
     },
     {
       "name":"跟谁学IR跟做空机构互撕 推特留言：等不及要打你脸",
@@ -233,14 +241,6 @@
     {
       "name":"iOS 13.5 发布 面容 ID 针对口罩优化",
       "url":"https://www.cnbeta.com/articles/tech/981493.htm"
-    },
-    {
-      "name":"苹果谷歌世纪联手 推出期待已久的疫情追踪App",
-      "url":"https://www.cnbeta.com/articles/tech/981491.htm"
-    },
-    {
-      "name":"NASA好奇号实验让火星老问题有了新答案",
-      "url":"https://www.cnbeta.com/articles/science/981489.htm"
     }
   ]
 }
