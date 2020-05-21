@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 13:07:21",
+  "time":"2020-05-21 13:11:42",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"哈雷计划年内大幅减少产能和经销商库存",
+      "url":"https://www.cnbeta.com/articles/tech/981733.htm"
     },
     {
       "name":"调查称70%受访者宁愿租碟也不想回影院看片",
@@ -237,10 +241,6 @@
     {
       "name":"Twitter正测试新功能  让用户限制谁可以回复推文",
       "url":"https://www.cnbeta.com/articles/tech/981613.htm"
-    },
-    {
-      "name":"小米这一年：5G手机求稳 IoT面临强敌",
-      "url":"https://www.cnbeta.com/articles/tech/981611.htm"
     }
   ]
 }
