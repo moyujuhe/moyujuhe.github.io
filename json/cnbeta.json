@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 09:44:26",
+  "time":"2020-05-21 09:48:35",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"小米这一年：5G手机求稳 IoT面临强敌",
+      "url":"https://www.cnbeta.com/articles/tech/981611.htm"
     },
     {
       "name":"Chrome 83稳定版发布：新的跨域政策、表单控件，改进Web 体验",
@@ -237,10 +241,6 @@
     {
       "name":"苹果Powerbeats Pro真无线耳机将有四种新颜色 泄露官方图已出现",
       "url":"https://www.cnbeta.com/articles/tech/981495.htm"
-    },
-    {
-      "name":"iOS 13.5 发布 面容 ID 针对口罩优化",
-      "url":"https://www.cnbeta.com/articles/tech/981493.htm"
     }
   ]
 }
