@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-21 08:18:53",
+  "time":"2020-05-21 08:23:22",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"银河系的“翘曲”形状可能源自星系碰撞",
+      "url":"https://www.cnbeta.com/articles/science/981571.htm"
+    },
+    {
+      "name":"马斯克为何一再上涨特斯拉全自动驾驶价格？",
+      "url":"https://www.cnbeta.com/articles/tech/981569.htm"
     },
     {
       "name":"三星Galaxy S20战术版发布：硬核军迷必备 军用标准手机",
@@ -233,14 +241,6 @@
     {
       "name":"谷歌承诺不再为石油和天然气公司开发AI工具",
       "url":"https://www.cnbeta.com/articles/tech/981455.htm"
-    },
-    {
-      "name":"集邦咨询：到2022年Mini LED背光显示器成本有望低于OLED",
-      "url":"https://www.cnbeta.com/articles/tech/981453.htm"
-    },
-    {
-      "name":"中国联通的5G用户数依然是个谜",
-      "url":"https://www.cnbeta.com/articles/tech/981451.htm"
     }
   ]
 }
