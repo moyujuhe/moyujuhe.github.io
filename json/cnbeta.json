@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 17:04:33",
+  "time":"2020-05-21 17:08:49",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"Sabrent发布首款8TB NVMe SSD：读速3400MB/s",
+      "url":"https://www.cnbeta.com/articles/tech/981843.htm"
     },
     {
       "name":"伊利高管：“一生饮奶计划”应纳入国家战略",
@@ -237,10 +241,6 @@
     {
       "name":"拒绝熬夜：新版YouTube移动App已加入就寝提醒功能",
       "url":"https://www.cnbeta.com/articles/tech/981727.htm"
-    },
-    {
-      "name":"雷克沙发布NM700系列NVMe固态硬盘新品",
-      "url":"https://www.cnbeta.com/articles/tech/981725.htm"
     }
   ]
 }

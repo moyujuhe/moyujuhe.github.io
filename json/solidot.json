@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-21 17:04:33",
+  "time":"2020-05-21 17:08:50",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"乌克兰逮捕黑客 Sanix",
+      "url":"https://www.solidot.org/story?sid=64430"
+    },
     {
       "name":"企业加强安全以防内部泄密",
       "url":"https://www.solidot.org/story?sid=64429"
@@ -77,10 +81,6 @@
     {
       "name":"瑞幸咖啡面临被纳斯达克摘牌",
       "url":"https://www.solidot.org/story?sid=64411"
-    },
-    {
-      "name":"美国不太愿意与穷国分享新冠疫苗知识产权",
-      "url":"https://www.solidot.org/story?sid=64410"
     }
   ]
 }
