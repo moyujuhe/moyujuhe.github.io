@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 04:47:55",
+  "time":"2020-05-22 06:00:40",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"荔枝发布首份财报：一季度营收同比增42% 净亏同比扩大",
+      "url":"https://tech.sina.com.cn/i/2020-05-22/doc-iirczymk2897894.shtml"
+    },
     {
       "name":"英伟达第一季度营收30.8亿美元 净利同比增133%",
       "url":"https://tech.sina.com.cn/it/2020-05-22/doc-iircuyvi4367500.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"业内人士：百度若退市所需资金量极大",
       "url":"https://tech.sina.com.cn/i/2020-05-21/doc-iirczymk2865010.shtml"
-    },
-    {
-      "name":"阿里天猫精灵的AIoT野心 能孵化10个“米家”吗？",
-      "url":"https://tech.sina.com.cn/i/2020-05-21/doc-iirczymk2862558.shtml"
     }
   ]
 }
