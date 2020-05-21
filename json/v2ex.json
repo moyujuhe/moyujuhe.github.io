@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-21 13:46:09",
+  "time":"2020-05-21 13:50:48",
   "title":"V2EX热帖",
   "data":[
     {
@@ -16,15 +16,19 @@
     },
     {
       "name":"数据库不是给开发用的？",
-      "url":"https://www.v2ex.com/t/673877#reply39"
+      "url":"https://www.v2ex.com/t/673877#reply41"
     },
     {
       "name":"怎么看这句话呢 ->“毕业前几年不要在意工资，我们应该更多的是学习”",
-      "url":"https://www.v2ex.com/t/673874#reply37"
+      "url":"https://www.v2ex.com/t/673874#reply38"
     },
     {
       "name":"大家列举一下自己从业这么多年学会的工作技能吧",
       "url":"https://www.v2ex.com/t/673913#reply35"
+    },
+    {
+      "name":"为什么 Linux 屏幕显示没有 Windows 清晰？？即使分辨率一样。",
+      "url":"https://www.v2ex.com/t/673914#reply34"
     },
     {
       "name":"库克发功了？ iPhoneX 频繁没信号！",
@@ -35,20 +39,16 @@
       "url":"https://www.v2ex.com/t/673882#reply32"
     },
     {
-      "name":"为什么 Linux 屏幕显示没有 Windows 清晰？？即使分辨率一样。",
-      "url":"https://www.v2ex.com/t/673914#reply31"
-    },
-    {
       "name":"macOS 10.15.4 现在建议升吗？问题还多吗？",
       "url":"https://www.v2ex.com/t/673852#reply28"
     },
     {
-      "name":"提了离职之后，交接快一个月 但是又不打算走 可以和 leader 说留下么",
-      "url":"https://www.v2ex.com/t/673921#reply26"
+      "name":"产品经理是不是程序员的领导？",
+      "url":"https://www.v2ex.com/t/673895#reply26"
     },
     {
-      "name":"产品经理是不是程序员的领导？",
-      "url":"https://www.v2ex.com/t/673895#reply25"
+      "name":"提了离职之后，交接快一个月 但是又不打算走 可以和 leader 说留下么",
+      "url":"https://www.v2ex.com/t/673921#reply26"
     },
     {
       "name":"开源项目是怎么得到第一批玩家的，又是怎么得到二次传播的",
@@ -75,6 +75,10 @@
       "url":"https://www.v2ex.com/t/673922#reply19"
     },
     {
+      "name":"考研二战失败，求职",
+      "url":"https://www.v2ex.com/t/673959#reply19"
+    },
+    {
       "name":"Spring 出现循环依赖 (Is there an unresolvable circular reference?) 哪种解决方式最好？",
       "url":"https://www.v2ex.com/t/673844#reply18"
     },
@@ -83,16 +87,12 @@
       "url":"https://www.v2ex.com/t/673863#reply18"
     },
     {
-      "name":"考研二战失败，求职",
-      "url":"https://www.v2ex.com/t/673959#reply18"
-    },
-    {
       "name":"iPhone 11 Pro Max 使用相机微信被杀",
       "url":"https://www.v2ex.com/t/673879#reply17"
     },
     {
       "name":"现在的房租为什么那么贵？",
-      "url":"https://www.v2ex.com/t/673896#reply15"
+      "url":"https://www.v2ex.com/t/673896#reply16"
     },
     {
       "name":"0 元薅咪咕 Kindle 阅读器，史诗级羊毛",
@@ -107,6 +107,10 @@
       "url":"https://www.v2ex.com/t/673847#reply12"
     },
     {
+      "name":"Apple Glass 今年下半年要出，诸位怎么看",
+      "url":"https://www.v2ex.com/t/673933#reply12"
+    },
+    {
       "name":"[广州][前端][4 年工作经验]求职 web 前端开发一职，有大佬内推不？",
       "url":"https://www.v2ex.com/t/673872#reply11"
     },
@@ -119,10 +123,6 @@
       "url":"https://www.v2ex.com/t/673891#reply11"
     },
     {
-      "name":"Apple Glass 今年下半年要出，诸位怎么看",
-      "url":"https://www.v2ex.com/t/673933#reply11"
-    },
-    {
       "name":"想把自己的老笔记本搞成小型的虚拟化平台",
       "url":"https://www.v2ex.com/t/673944#reply11"
     },
@@ -131,16 +131,12 @@
       "url":"https://www.v2ex.com/t/673949#reply11"
     },
     {
-      "name":"go mod 如何在无网情况下使用呢？",
-      "url":"https://www.v2ex.com/t/673881#reply9"
+      "name":"今年看到讨论 Vert.x 的比较多。所以来聊聊 Vert.x",
+      "url":"https://www.v2ex.com/t/673948#reply10"
     },
     {
-      "name":"MBP 强制使用集显会不会有副作用？",
-      "url":"https://www.v2ex.com/t/673902#reply9"
-    },
-    {
-      "name":"alpine Linux 跑 docker？",
-      "url":"https://www.v2ex.com/t/673940#reply9"
+      "name":"俄语专业能找什么工作？",
+      "url":"https://www.v2ex.com/t/673968#reply10"
     }
   ]
 }
