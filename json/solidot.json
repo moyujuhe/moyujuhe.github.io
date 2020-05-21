@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-21 21:24:09",
+  "time":"2020-05-21 21:28:33",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"英特尔第十代酷睿处理器 Comet Lake-S 发布",
+      "url":"https://www.solidot.org/story?sid=64434"
+    },
     {
       "name":"基因分析揭示新冠的不同类型",
       "url":"https://www.solidot.org/story?sid=64433"
@@ -77,10 +81,6 @@
     {
       "name":"DirectX 将进入 Windows Subsystem for Linux",
       "url":"https://www.solidot.org/story?sid=64415"
-    },
-    {
-      "name":"AMD 宣布下一代 CPU 将支持 B450 和 X470 主板",
-      "url":"https://www.solidot.org/story?sid=64414"
     }
   ]
 }
