@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-21 07:57:45",
+  "time":"2020-05-21 08:02:02",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"Cloudflare workers的路由问题",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692323&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"需要邀请码的导航",
@@ -109,10 +113,6 @@
     {
       "name":"255",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692290&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"请各位mjj们推荐个日本接码平台",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692289&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
