@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-22 01:47:47",
+  "time":"2020-05-22 01:52:00",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"天文学家发现首颗带有类似彗星尾巴的木星小行星",
+      "url":"https://www.cnbeta.com/articles/science/981927.htm"
+    },
+    {
+      "name":"拳头出品免费FPS《Valorant》将于6月2日推出",
+      "url":"https://hot.cnbeta.com/articles/game/981925.htm"
     },
     {
       "name":"真机图像确认开始有苹果AirPods Pro在越南组装",
@@ -233,14 +241,6 @@
     {
       "name":"抗体没有保护作用 英国牛津新冠疫苗宣告失败",
       "url":"https://www.cnbeta.com/articles/tech/981809.htm"
-    },
-    {
-      "name":"谷歌CEO：公司绝大多数员工可能要在家工作到年底",
-      "url":"https://www.cnbeta.com/articles/tech/981807.htm"
-    },
-    {
-      "name":"今生就玩它了：岛国终极玩家27年不间断执迷特鲁尼克大冒险",
-      "url":"https://hot.cnbeta.com/articles/game/981805.htm"
     }
   ]
 }
