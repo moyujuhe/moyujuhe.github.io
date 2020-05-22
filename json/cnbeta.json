@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 09:37:10",
+  "time":"2020-05-22 09:41:20",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[视频]Surface Earbuds和AirPods对比上手",
+      "url":"https://www.cnbeta.com/articles/tech/982039.htm"
+    },
     {
       "name":"索尼：定制SSD让PS5数据处理速度较PS4提升百倍",
       "url":"https://hot.cnbeta.com/articles/game/982037.htm"
@@ -237,10 +241,6 @@
     {
       "name":"新功能样样给力 微信安卓内测版7.0.15体验",
       "url":"https://www.cnbeta.com/articles/tech/981921.htm"
-    },
-    {
-      "name":"三星宣布扩大晶圆代工产能 5nm EUV工艺将打造新一代芯片产品",
-      "url":"https://www.cnbeta.com/articles/tech/981919.htm"
     }
   ]
 }
