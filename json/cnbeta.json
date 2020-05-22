@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-22 10:23:54",
+  "time":"2020-05-22 10:28:07",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"美国数州明文规定民众需在公共场合佩戴口罩",
+      "url":"https://www.cnbeta.com/articles/tech/982057.htm"
+    },
+    {
+      "name":"英特尔酷睿i9-10900K达成7.7GHz液氦超频纪录",
+      "url":"https://www.cnbeta.com/articles/tech/982055.htm"
+    },
     {
       "name":"美CDC针对与后院饲养鸡有关的沙门氏菌爆发发布新警告",
       "url":"https://www.cnbeta.com/articles/tech/982053.htm"
@@ -233,14 +241,6 @@
     {
       "name":"特斯拉CEO马斯克将向黑客俱乐部捐赠50万美元",
       "url":"https://www.cnbeta.com/articles/tech/981939.htm"
-    },
-    {
-      "name":"Redmi 10X真机现身：首发联发科天玑820 还有3.5mm耳机孔",
-      "url":"https://www.cnbeta.com/articles/tech/981937.htm"
-    },
-    {
-      "name":"使用 ZFS 的 Ubuntu 20.10 安装工具默认启用 TRIM",
-      "url":"https://www.cnbeta.com/articles/soft/981935.htm"
     }
   ]
 }
