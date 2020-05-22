@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-22 14:15:37",
+  "time":"2020-05-22 14:19:48",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]GNOME基金会和RPI的专利诉讼案达成和解",
+      "url":"https://www.cnbeta.com/articles/tech/982183.htm"
+    },
+    {
+      "name":"手机App可拍摄眼睑照片并分析是否贫血",
+      "url":"https://www.cnbeta.com/articles/science/982181.htm"
+    },
     {
       "name":"科学家设计的微型机器人可在血液中“逆流而上”输送药物 灵感来自白细胞",
       "url":"https://www.cnbeta.com/articles/science/982179.htm"
@@ -233,14 +241,6 @@
     {
       "name":"Facebook计划为员工提供永久性的远程办公岗位",
       "url":"https://www.cnbeta.com/articles/tech/982065.htm"
-    },
-    {
-      "name":"研究：庆幸木星没有变得更大",
-      "url":"https://www.cnbeta.com/articles/science/982063.htm"
-    },
-    {
-      "name":"Skyrora进行发射试验 标志着50年来在英国进行的首次太空火箭试验",
-      "url":"https://www.cnbeta.com/articles/science/982061.htm"
     }
   ]
 }
