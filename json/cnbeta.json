@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 07:38:34",
+  "time":"2020-05-23 07:42:41",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"新出现的iOS Bug阻止部分App打开 出现“此应用不再与您共享”提示",
+      "url":"https://www.cnbeta.com/articles/tech/982349.htm"
+    },
     {
       "name":"IBM宣布新任CEO柯世纳上任以来首次裁员",
       "url":"https://www.cnbeta.com/articles/tech/982347.htm"
@@ -237,10 +241,6 @@
     {
       "name":"中环花苑称自建快递驿站遭抵制  四通一达：不专业、不稳妥",
       "url":"https://www.cnbeta.com/articles/tech/982231.htm"
-    },
-    {
-      "name":"徒手救下悬空6楼女童 海尔小哥被公司奖励一套房",
-      "url":"https://www.cnbeta.com/articles/tech/982229.htm"
     }
   ]
 }
