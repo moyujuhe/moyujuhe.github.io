@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 00:11:20",
+  "time":"2020-05-23 00:15:54",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"普渡大学开发智能手机应用程序 帮助评估贫血症情况",
+      "url":"https://www.cnbeta.com/articles/tech/982309.htm"
+    },
     {
       "name":"香港大学尹国圣教授发布新冠肺炎AI成果 准确率达88%",
       "url":"https://www.cnbeta.com/articles/tech/982307.htm"
@@ -237,10 +241,6 @@
     {
       "name":"[图]开源办公套件LibreOffice 6.4.4维护版本更新发布",
       "url":"https://www.cnbeta.com/articles/tech/982187.htm"
-    },
-    {
-      "name":"SpaceX的第一次，NASA的最后一搏",
-      "url":"https://www.cnbeta.com/articles/science/982185.htm"
     }
   ]
 }
