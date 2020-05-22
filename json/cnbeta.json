@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-22 19:24:06",
+  "time":"2020-05-22 19:28:51",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Intel 10nm+功德圆满：11代酷睿轻薄本冲上5GHz",
+      "url":"https://www.cnbeta.com/articles/tech/982267.htm"
+    },
+    {
+      "name":"韩国研发世界最快电梯 ：每分钟1260米 世界第一高楼到顶仅需46秒",
+      "url":"https://www.cnbeta.com/articles/tech/982265.htm"
+    },
     {
       "name":"多种DNS解析程序被发现漏洞 允许攻击者发动拒绝服务攻击",
       "url":"https://www.cnbeta.com/articles/tech/982263.htm"
@@ -233,14 +241,6 @@
     {
       "name":"《魔兽世界》真爱玩家达成惊人伟业：练了49个满级战士角色",
       "url":"https://hot.cnbeta.com/articles/game/982145.htm"
-    },
-    {
-      "name":"连当83个月销量王 时隔九年终换代：全新一代哈弗H6“真容”曝光",
-      "url":"https://www.cnbeta.com/articles/tech/982143.htm"
-    },
-    {
-      "name":"京东自营房产正式上线：首批1000套、2万+北京安家",
-      "url":"https://www.cnbeta.com/articles/tech/982141.htm"
     }
   ]
 }
