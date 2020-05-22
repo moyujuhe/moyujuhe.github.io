@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 07:05:25",
+  "time":"2020-05-23 07:09:35",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"通用汽车将升级其超级巡航技术 以提供城市街道自动驾驶能力",
+      "url":"https://www.cnbeta.com/articles/tech/982335.htm"
+    },
     {
       "name":"美国增强现实初创公司Magic Leap宣布融资3.5亿美元",
       "url":"https://www.cnbeta.com/articles/tech/982333.htm"
@@ -237,10 +241,6 @@
     {
       "name":"国产动画《我为歌狂2》新海报公布 2020年内在B站独家首播",
       "url":"https://hot.cnbeta.com/articles/comic/982217.htm"
-    },
-    {
-      "name":"无人机337调查落幕：中国大疆胜 美指控三项专利侵权全部无效",
-      "url":"https://www.cnbeta.com/articles/tech/982215.htm"
     }
   ]
 }
