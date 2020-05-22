@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-22 10:19:40",
+  "time":"2020-05-22 10:23:54",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"美CDC针对与后院饲养鸡有关的沙门氏菌爆发发布新警告",
+      "url":"https://www.cnbeta.com/articles/tech/982053.htm"
+    },
+    {
+      "name":"妙龄女子常接到请愿上太空电话 原因竟是该号码曾被伊隆·马斯克用过",
+      "url":"https://hot.cnbeta.com/articles/funny/982051.htm"
+    },
     {
       "name":"多款AMD B550主板已抢先亮相 预计6月16日正式开售",
       "url":"https://www.cnbeta.com/articles/tech/982049.htm"
@@ -233,14 +241,6 @@
     {
       "name":"使用 ZFS 的 Ubuntu 20.10 安装工具默认启用 TRIM",
       "url":"https://www.cnbeta.com/articles/soft/981935.htm"
-    },
-    {
-      "name":"用错字体被告到破产？一款万能的良心字体神器",
-      "url":"https://www.cnbeta.com/articles/soft/981933.htm"
-    },
-    {
-      "name":"宝马iX3全电动SUV将于2020年夏季在中国投产",
-      "url":"https://www.cnbeta.com/articles/tech/981931.htm"
     }
   ]
 }
