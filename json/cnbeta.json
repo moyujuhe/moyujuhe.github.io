@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-22 11:02:48",
+  "time":"2020-05-22 11:07:00",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"博世：ESP二十五年间阻止50万起事故 拯救150000人生命",
+      "url":"https://www.cnbeta.com/articles/tech/982083.htm"
+    },
+    {
+      "name":"[图]微软发布Edge 83稳定版：跳过82 支持扩展程序同步",
+      "url":"https://www.cnbeta.com/articles/tech/982081.htm"
+    },
     {
       "name":"科学家研发能分析汗液的电子皮肤贴片  可测量佩戴者的维生素C水平",
       "url":"https://www.cnbeta.com/articles/science/982079.htm"
@@ -233,14 +241,6 @@
     {
       "name":"蓝牙技术联盟曝光一加电视新型号 或具备独特连接功能",
       "url":"https://www.cnbeta.com/articles/tech/981965.htm"
-    },
-    {
-      "name":"抗疫援助款怎么花？许多美国人将一部分钱用于炒股",
-      "url":"https://www.cnbeta.com/articles/tech/981963.htm"
-    },
-    {
-      "name":"索尼全新7寸车载中控发布：3200元 Android/iOS通吃",
-      "url":"https://www.cnbeta.com/articles/tech/981977.htm"
     }
   ]
 }
