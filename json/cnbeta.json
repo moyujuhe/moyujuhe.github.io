@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-22 11:37:35",
+  "time":"2020-05-22 11:41:53",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"苹果HEIC照片格式导致许多高中生的大学入学考试不合格",
+      "url":"https://www.cnbeta.com/articles/tech/982125.htm"
+    },
+    {
+      "name":"[图]熊蜂的特殊技能：咀嚼树叶能让植物提前30天开花",
+      "url":"https://www.cnbeta.com/articles/science/982123.htm"
+    },
     {
       "name":"Facebook Messenger的新安全功能将保护用户免受欺骗",
       "url":"https://www.cnbeta.com/articles/tech/982121.htm"
@@ -233,14 +241,6 @@
     {
       "name":"自然刊发上海团队研究：新冠进化稳定，两个分支临床区别不大",
       "url":"https://www.cnbeta.com/articles/science/982007.htm"
-    },
-    {
-      "name":"[视频]Firefox Reality首个正式版上架微软商城：支持HoloLens 2",
-      "url":"https://www.cnbeta.com/articles/tech/982005.htm"
-    },
-    {
-      "name":"诺兰新片《信条》新预告 马上要在《堡垒之夜》中首播",
-      "url":"https://hot.cnbeta.com/articles/movie/982003.htm"
     }
   ]
 }
