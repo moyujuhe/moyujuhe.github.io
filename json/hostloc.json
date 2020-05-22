@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-22 20:19:23",
+  "time":"2020-05-22 20:23:51",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"套CF，是不是亚洲的服务器就给亚洲的IP?",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693151&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"求教中转CF自选节点",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693150&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"谁有盖茨的tg，问问A3到底是啥个情况啊",
@@ -105,14 +113,6 @@
     {
       "name":"腾讯云的CDN流量包不能用于全站加速",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693124&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"255",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693123&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"来个便宜短域名后缀",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693122&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
