@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 12:28:57",
+  "time":"2020-05-22 12:33:10",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Fitbit发起一项新研究 欲开发检测COVID-19早期症状的算法",
+      "url":"https://www.cnbeta.com/articles/tech/982131.htm"
+    },
     {
       "name":"微软耳机新专利曝光 竟内置指纹识别传感器",
       "url":"https://www.cnbeta.com/articles/tech/982129.htm"
@@ -237,10 +241,6 @@
     {
       "name":"科学家开发出新型光伏发电工具：既要有光也要有阴影",
       "url":"https://www.cnbeta.com/articles/tech/982013.htm"
-    },
-    {
-      "name":"美股收盘全线下跌：百度上涨超1%，金山云跌近9%",
-      "url":"https://www.cnbeta.com/articles/tech/982011.htm"
     }
   ]
 }
