@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 19:19:54",
+  "time":"2020-05-22 19:24:06",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"多种DNS解析程序被发现漏洞 允许攻击者发动拒绝服务攻击",
+      "url":"https://www.cnbeta.com/articles/tech/982263.htm"
+    },
     {
       "name":"欧陆最强者！《实况足球2020》欧洲杯DLC宣传片公开",
       "url":"https://hot.cnbeta.com/articles/game/982261.htm"
@@ -237,10 +241,6 @@
     {
       "name":"京东自营房产正式上线：首批1000套、2万+北京安家",
       "url":"https://www.cnbeta.com/articles/tech/982141.htm"
-    },
-    {
-      "name":"Axiomtek推出基于嵌入式锐龙APU的单片机：支持四屏连接 碾压树莓派",
-      "url":"https://www.cnbeta.com/articles/tech/982139.htm"
     }
   ]
 }

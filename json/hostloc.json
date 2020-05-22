@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-22 19:19:57",
+  "time":"2020-05-22 19:24:09",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"腾讯云的CDN流量包不能用于全站加速",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693124&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"想买一直德国 法尔肯施泰因Hetzner做视频在线播放网站。",
@@ -109,10 +113,6 @@
     {
       "name":"推荐一个好的机场",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693095&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"低价出Gapps[Google Apps]1000户,有意大佬请联系",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693094&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
