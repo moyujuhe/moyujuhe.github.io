@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-22 08:04:22",
+  "time":"2020-05-22 08:08:35",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"索尼全新7寸车载中控发布：3200元 Android/iOS通吃",
+      "url":"https://www.cnbeta.com/articles/tech/981977.htm"
+    },
+    {
+      "name":"美国将从牛津大学获得3亿剂的新冠候选疫苗",
+      "url":"https://www.cnbeta.com/articles/science/981975.htm"
     },
     {
       "name":"Windows 10引入诸多PWA改进 会是微软应用生态的突破口吗？",
@@ -233,14 +241,6 @@
     {
       "name":"日本手工达人折出奇葩千纸鹤引网友追捧 折纸十级选手",
       "url":"https://hot.cnbeta.com/articles/comic/981859.htm"
-    },
-    {
-      "name":"52亿拿下中国三大电池厂？大众收购国轩高科或将成真",
-      "url":"https://www.cnbeta.com/articles/tech/981857.htm"
-    },
-    {
-      "name":"外媒：瑞幸事件调查律所同时代理Tim Hortons中国融资项目",
-      "url":"https://www.cnbeta.com/articles/tech/981855.htm"
     }
   ]
 }

@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 08:03:02",
+  "time":"2020-05-22 08:05:29",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"IBM将在美国至少五个州裁员 或达上千人",
+      "url":"https://tech.sina.com.cn/it/2020-05-22/doc-iircuyvi4380015.shtml"
+    },
     {
       "name":"丰巢缺钱吗？物流格局大变天",
       "url":"http://tech.sina.com.cn/csj/2020-05-22/doc-iirczymk2907386.shtml"
@@ -27,6 +31,10 @@
       "url":"https://tech.sina.com.cn/i/2020-05-22/doc-iirczymk2904695.shtml"
     },
     {
+      "name":"推特CEO承诺生前捐出全部财富 目前身价49亿美元",
+      "url":"https://tech.sina.com.cn/i/2020-05-22/doc-iircuyvi4379985.shtml"
+    },
+    {
       "name":"一季度家电销售断崖式下跌 线上市场反哺线下",
       "url":"https://tech.sina.com.cn/e/2020-05-22/doc-iircuyvi4376547.shtml"
     },
@@ -37,6 +45,10 @@
     {
       "name":"超高清到底是几K？工信部公布超高清视频标准",
       "url":"https://tech.sina.com.cn/e/2020-05-22/doc-iirczymk2904480.shtml"
+    },
+    {
+      "name":"索尼全新7寸车载中控发布：3200元 Android/iOS通吃",
+      "url":"https://tech.sina.com.cn/roll/2020-05-22/doc-iircuyvi4379332.shtml"
     },
     {
       "name":"两个组合两张大网：中国5G新玩家入场，电信业变局开始",
@@ -189,18 +201,6 @@
     {
       "name":"小米全面屏电视43英寸发布：砍掉蓝牙",
       "url":"https://tech.sina.com.cn/e/x/2020-05-22/doc-iircuyvi4296762.shtml"
-    },
-    {
-      "name":"雷军:建议推动卫星互联网行业发展",
-      "url":"https://tech.sina.com.cn/i/2020-05-22/doc-iircuyvi4366303.shtml"
-    },
-    {
-      "name":"小米集团斥资1亿美元增持紫米 持股比例将达49.91%",
-      "url":"https://tech.sina.com.cn/roll/2020-05-21/doc-iirczymk2882487.shtml"
-    },
-    {
-      "name":"亿航5月29日发布2020年第一季度财报",
-      "url":"https://tech.sina.com.cn/i/2020-05-21/doc-iirczymk2881382.shtml"
     }
   ]
 }
