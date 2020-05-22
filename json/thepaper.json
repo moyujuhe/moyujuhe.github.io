@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 07:26:10",
+  "time":"2020-05-23 07:30:20",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"巴西单日新增确诊首破2万，累计确诊超越俄罗斯成全球第二",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7524222"
+    },
     {
       "name":"石正丽新研究：病毒与宿主间有进化军备竞赛，需持续监控蝙蝠",
       "url":"https://www.thepaper.cn/newsDetail_forward_7524140"
@@ -19,6 +23,10 @@
       "url":"https://www.thepaper.cn/newsDetail_forward_7513519"
     },
     {
+      "name":"人民日报整版聚焦：民事权利保护即将进入法典时代",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7524003"
+    },
+    {
       "name":"人民日报：积极财政政策如何更积极有为",
       "url":"https://www.thepaper.cn/newsDetail_forward_7523934"
     },
@@ -31,7 +39,7 @@
       "url":"https://www.thepaper.cn/newsDetail_forward_7523740"
     },
     {
-      "name":"美国新冠肺炎确诊病例超159万",
+      "name":"美国新冠肺炎确诊病例超159万，死亡超9.5万",
       "url":"https://www.thepaper.cn/newsDetail_forward_7521612"
     },
     {
@@ -73,14 +81,6 @@
     {
       "name":"陈薇院士新冠疫苗临床试验结果发布：全部产生免疫应答！",
       "url":"https://www.thepaper.cn/newsDetail_forward_7516629"
-    },
-    {
-      "name":"上海体育职业学院被“撤销”？近2年前已并入上海体育学院",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7515313"
-    },
-    {
-      "name":"贾世瑞任新兴际华集团党委副书记、董事，提名为总经理人选",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7516137"
     }
   ]
 }
