@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 10:45:15",
+  "time":"2020-05-22 10:49:45",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Facebook计划为员工提供永久性的远程办公岗位",
+      "url":"https://www.cnbeta.com/articles/tech/982065.htm"
+    },
     {
       "name":"研究：庆幸木星没有变得更大",
       "url":"https://www.cnbeta.com/articles/science/982063.htm"
@@ -237,10 +241,6 @@
     {
       "name":"百度否认退市 “中概股将成历史”言过其实",
       "url":"https://www.cnbeta.com/articles/tech/981947.htm"
-    },
-    {
-      "name":"英伟达第一季度营收30.8亿美元 净利同比增133%",
-      "url":"https://www.cnbeta.com/articles/tech/981945.htm"
     }
   ]
 }
