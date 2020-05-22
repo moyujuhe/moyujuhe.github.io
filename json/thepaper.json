@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 23:39:57",
+  "time":"2020-05-22 23:44:21",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"世卫组织：全球新冠肺炎确诊病例超过500万例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7517146"
+    },
     {
       "name":"新三板重大资产重组指南修订，502家挂牌公司调入创新层",
       "url":"https://www.thepaper.cn/newsDetail_forward_7512544"
@@ -77,10 +81,6 @@
     {
       "name":"在美国清关严重受阻，中方近6万份“健康包”抵美后滞港月余",
       "url":"https://www.thepaper.cn/newsDetail_forward_7514202"
-    },
-    {
-      "name":"全球疫情晚报｜美确诊超160万，俄连三日新增低于九千例",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7513188"
     }
   ]
 }
