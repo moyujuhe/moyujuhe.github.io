@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-22 09:11:47",
+  "time":"2020-05-22 09:15:56",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"供应链爆料称苹果计划在2021年小批量生产智能眼镜",
+      "url":"https://www.cnbeta.com/articles/tech/982025.htm"
+    },
+    {
+      "name":"美CDC：确诊产妇产下的婴儿需接受新冠检测",
+      "url":"https://www.cnbeta.com/articles/tech/982023.htm"
+    },
     {
       "name":"[视频]谷歌发布Action Blocks：让Android机对老年人更友好",
       "url":"https://www.cnbeta.com/articles/tech/982021.htm"
@@ -233,14 +241,6 @@
     {
       "name":"瑞幸咖啡再度暴跌：股价跌破2美元 跌幅超30%",
       "url":"https://www.cnbeta.com/articles/tech/981907.htm"
-    },
-    {
-      "name":"传百度将从纳斯达克退市？官方回应称系谣言",
-      "url":"https://www.cnbeta.com/articles/tech/981905.htm"
-    },
-    {
-      "name":"从明星股坠落到垃圾股 被立案调查的暴风集团恐要凉了",
-      "url":"https://www.cnbeta.com/articles/tech/981903.htm"
     }
   ]
 }
