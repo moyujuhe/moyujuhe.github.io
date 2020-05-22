@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-22 16:32:21",
+  "time":"2020-05-22 16:36:29",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"hostsolutions pending 需要多久， 半天过去了，没反映",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693054&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"目前32G内存的国内服务器最低多少，不需要防御",
@@ -109,10 +113,6 @@
     {
       "name":"忘了版规",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693023&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"还记得前两天百度网盘领券那个活动不",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693021&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
