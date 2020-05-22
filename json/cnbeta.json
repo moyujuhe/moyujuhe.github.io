@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 12:20:25",
+  "time":"2020-05-22 12:24:36",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软耳机新专利曝光 竟内置指纹识别传感器",
+      "url":"https://www.cnbeta.com/articles/tech/982129.htm"
+    },
     {
       "name":"为吸引新工厂落地 塔尔萨市为钻井工雕像刷上了特斯拉超人外观",
       "url":"https://www.cnbeta.com/articles/tech/982127.htm"
@@ -237,10 +241,6 @@
     {
       "name":"美股收盘全线下跌：百度上涨超1%，金山云跌近9%",
       "url":"https://www.cnbeta.com/articles/tech/982011.htm"
-    },
-    {
-      "name":"IBM在美国至少五个州裁员 裁员人数或上千",
-      "url":"https://www.cnbeta.com/articles/tech/982009.htm"
     }
   ]
 }
