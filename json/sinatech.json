@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 23:19:05",
+  "time":"2020-05-23 02:53:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"Business Insider：据悉IBM裁员数千人",
+      "url":"https://tech.sina.com.cn/it/2020-05-23/doc-iirczymk3079324.shtml"
+    },
     {
       "name":"科大讯飞刘庆峰建言：深化人工智能应用 推动智慧教育发展",
       "url":"https://tech.sina.com.cn/i/2020-05-22/doc-iircuyvi4539561.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"小米三款冰箱齐发：两门、三门、双开门齐活了",
       "url":"https://tech.sina.com.cn/roll/2020-05-22/doc-iircuyvi4485277.shtml"
-    },
-    {
-      "name":"贾跃亭个人破产正式获法院批准 懒财等撤回反对动议",
-      "url":"https://tech.sina.com.cn/i/2020-05-22/doc-iircuyvi4482310.shtml"
     }
   ]
 }
