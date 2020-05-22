@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-22 13:36:36",
+  "time":"2020-05-22 13:40:58",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Axiomtek推出基于嵌入式锐龙APU的单片机：支持四屏连接 碾压树莓派",
+      "url":"https://www.cnbeta.com/articles/tech/982139.htm"
+    },
+    {
+      "name":"《漫威钢铁侠VR》试玩版实机演示 穿上盔甲刺激空战",
+      "url":"https://hot.cnbeta.com/articles/game/982137.htm"
+    },
     {
       "name":"微软宣布开源GW-BASIC解释器",
       "url":"https://www.cnbeta.com/articles/tech/982135.htm"
@@ -233,14 +241,6 @@
     {
       "name":"[视频]谷歌发布Action Blocks：让Android机对老年人更友好",
       "url":"https://www.cnbeta.com/articles/tech/982021.htm"
-    },
-    {
-      "name":"Facebook推出新安全功能  帮助印度女性轻松锁定账户",
-      "url":"https://www.cnbeta.com/articles/tech/982019.htm"
-    },
-    {
-      "name":"三星发布The Terrace户外电视新品：4K QLED高亮面板、IP55防护等级",
-      "url":"https://www.cnbeta.com/articles/tech/982017.htm"
     }
   ]
 }
