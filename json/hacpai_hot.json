@@ -1,7 +1,11 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-22 11:50:23",
+  "time":"2020-05-22 11:54:46",
   "data":[
+    {
+      "name":"GitHub “用爱发电” 组织邀请帖",
+      "url":"https://hacpai.com/article/1570552518797"
+    },
     {
       "name":"20200508 TGIF",
       "url":"https://hacpai.com/article/1588899788533"
@@ -237,10 +241,6 @@
     {
       "name":"api 接口有必要 restful 吗？",
       "url":"https://hacpai.com/article/1587629717195"
-    },
-    {
-      "name":"黑客派成员马上突破 6W 啦",
-      "url":"https://hacpai.com/article/1590027472618"
     }
   ]
 }
