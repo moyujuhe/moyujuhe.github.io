@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 09:07:35",
+  "time":"2020-05-22 09:11:47",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[视频]谷歌发布Action Blocks：让Android机对老年人更友好",
+      "url":"https://www.cnbeta.com/articles/tech/982021.htm"
+    },
     {
       "name":"Facebook推出新安全功能  帮助印度女性轻松锁定账户",
       "url":"https://www.cnbeta.com/articles/tech/982019.htm"
@@ -237,10 +241,6 @@
     {
       "name":"从明星股坠落到垃圾股 被立案调查的暴风集团恐要凉了",
       "url":"https://www.cnbeta.com/articles/tech/981903.htm"
-    },
-    {
-      "name":"Uber欲收购美国最大外卖平台GrubHub 已接近达成交易",
-      "url":"https://www.cnbeta.com/articles/tech/981901.htm"
     }
   ]
 }
