@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 00:38:23",
+  "time":"2020-05-23 00:43:03",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"一代经典游戏吃豆人将于6月登陆Twitch 成为网页版游戏",
+      "url":"https://hot.cnbeta.com/articles/game/982311.htm"
+    },
     {
       "name":"普渡大学开发智能手机应用程序 帮助评估贫血症情况",
       "url":"https://www.cnbeta.com/articles/tech/982309.htm"
@@ -237,10 +241,6 @@
     {
       "name":"Sensor Tower：2020年一季度 移动应用下载量激增52%",
       "url":"https://www.cnbeta.com/articles/tech/982189.htm"
-    },
-    {
-      "name":"[图]开源办公套件LibreOffice 6.4.4维护版本更新发布",
-      "url":"https://www.cnbeta.com/articles/tech/982187.htm"
     }
   ]
 }
