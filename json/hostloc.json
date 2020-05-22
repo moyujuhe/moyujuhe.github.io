@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-22 12:07:31",
+  "time":"2020-05-22 12:11:58",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"cloudflare的节点ip能ping通，但是访问不了，是不是？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692912&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"好奇你们换下来的内存条怎么处理",
@@ -109,10 +113,6 @@
     {
       "name":"3o能进BIOS开启虚拟化吗？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692881&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"贴身保镖第 求下载链接",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692880&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }

@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 12:07:25",
+  "time":"2020-05-22 12:11:55",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"为吸引新工厂落地 塔尔萨市为钻井工雕像刷上了特斯拉超人外观",
+      "url":"https://www.cnbeta.com/articles/tech/982127.htm"
+    },
     {
       "name":"苹果HEIC照片格式导致许多高中生的大学入学考试不合格",
       "url":"https://www.cnbeta.com/articles/tech/982125.htm"
@@ -237,10 +241,6 @@
     {
       "name":"IBM在美国至少五个州裁员 裁员人数或上千",
       "url":"https://www.cnbeta.com/articles/tech/982009.htm"
-    },
-    {
-      "name":"自然刊发上海团队研究：新冠进化稳定，两个分支临床区别不大",
-      "url":"https://www.cnbeta.com/articles/science/982007.htm"
     }
   ]
 }
