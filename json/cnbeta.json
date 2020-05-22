@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 17:30:52",
+  "time":"2020-05-22 17:35:02",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"实验性的光子芯片完成疯狂的44Terabit网速试验",
+      "url":"https://www.cnbeta.com/articles/tech/982249.htm"
+    },
     {
       "name":"传华为与联发科、紫光磋商采购更多芯片",
       "url":"https://www.cnbeta.com/articles/tech/982247.htm"
@@ -237,10 +241,6 @@
     {
       "name":"为吸引新工厂落地 塔尔萨市为钻井工雕像刷上了特斯拉超人外观",
       "url":"https://www.cnbeta.com/articles/tech/982127.htm"
-    },
-    {
-      "name":"苹果HEIC照片格式导致许多高中生的大学入学考试不合格",
-      "url":"https://www.cnbeta.com/articles/tech/982125.htm"
     }
   ]
 }
