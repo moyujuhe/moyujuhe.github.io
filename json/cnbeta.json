@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 22:33:25",
+  "time":"2020-05-22 22:38:06",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"柳叶刀发布一新冠疫苗I期临床试验结果 通讯作者是陈薇院士",
+      "url":"https://www.cnbeta.com/articles/tech/982303.htm"
+    },
     {
       "name":"瑞幸咖啡开盘再跌13.9% 昨日收跌28.72%",
       "url":"https://www.cnbeta.com/articles/tech/982301.htm"
@@ -237,10 +241,6 @@
     {
       "name":"手机App可拍摄眼睑照片并分析是否贫血",
       "url":"https://www.cnbeta.com/articles/science/982181.htm"
-    },
-    {
-      "name":"科学家设计的微型机器人可在血液中“逆流而上”输送药物 灵感来自白细胞",
-      "url":"https://www.cnbeta.com/articles/science/982179.htm"
     }
   ]
 }
