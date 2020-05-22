@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-22 23:04:09",
+  "time":"2020-05-22 23:08:30",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"香港大学尹国圣教授发布新冠肺炎AI成果 准确率达88%",
+      "url":"https://www.cnbeta.com/articles/tech/982307.htm"
+    },
+    {
+      "name":"Windows 10 2020年5月更新已在MSDN以ISO镜像形式提供",
+      "url":"https://www.cnbeta.com/articles/tech/982305.htm"
+    },
     {
       "name":"柳叶刀发布一新冠疫苗I期临床试验结果 通讯作者是陈薇院士",
       "url":"https://www.cnbeta.com/articles/tech/982303.htm"
@@ -233,14 +241,6 @@
     {
       "name":"SpaceX的第一次，NASA的最后一搏",
       "url":"https://www.cnbeta.com/articles/science/982185.htm"
-    },
-    {
-      "name":"[图]GNOME基金会和RPI的专利诉讼案达成和解",
-      "url":"https://www.cnbeta.com/articles/tech/982183.htm"
-    },
-    {
-      "name":"手机App可拍摄眼睑照片并分析是否贫血",
-      "url":"https://www.cnbeta.com/articles/science/982181.htm"
     }
   ]
 }
