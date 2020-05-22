@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 13:11:13",
+  "time":"2020-05-22 13:15:25",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软宣布开源GW-BASIC解释器",
+      "url":"https://www.cnbeta.com/articles/tech/982135.htm"
+    },
     {
       "name":"Windows Hello已可用于谷歌Chrome浏览器中的支付认证",
       "url":"https://www.cnbeta.com/articles/tech/982133.htm"
@@ -237,10 +241,6 @@
     {
       "name":"三星发布The Terrace户外电视新品：4K QLED高亮面板、IP55防护等级",
       "url":"https://www.cnbeta.com/articles/tech/982017.htm"
-    },
-    {
-      "name":"[图]Pixel 4a再推迟至7月发布 将有两种配色 没有XL大屏版本",
-      "url":"https://www.cnbeta.com/articles/tech/982015.htm"
     }
   ]
 }
