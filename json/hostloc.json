@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-22 12:24:38",
+  "time":"2020-05-22 12:29:00",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"cloudflare挂了，能ping通，无法访问了。。。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692921&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"pt站为啥要禁止用aria2    ？",
@@ -109,10 +113,6 @@
     {
       "name":"套路云新手套餐网络是不是有新策略",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692891&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"Cloudflare回源是什么线路",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=692890&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
