@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-23 07:13:42",
+  "time":"2020-05-23 07:17:51",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"特朗普违反禁令拒戴口罩 密歇根总检察长:感到羞耻",
+      "url":"https://www.cnbeta.com/articles/tech/982343.htm"
+    },
+    {
+      "name":"美租车巨头赫兹据称即将申请破产 盘后暴跌近40%",
+      "url":"https://www.cnbeta.com/articles/tech/982341.htm"
+    },
     {
       "name":"Twitter CEO：自动化会甚至会对编程工作构成威胁",
       "url":"https://www.cnbeta.com/articles/tech/982339.htm"
@@ -233,14 +241,6 @@
     {
       "name":"上汽董事长陈虹：建议允许提取住房公积金购车 逐步放开限行限购",
       "url":"https://www.cnbeta.com/articles/tech/982225.htm"
-    },
-    {
-      "name":"确认：AMD 7nm桌面锐龙APU无缘PCIe 4.0",
-      "url":"https://www.cnbeta.com/articles/tech/982223.htm"
-    },
-    {
-      "name":"专利曝光小米翻盖可折叠屏手机：摄像头可90度转体",
-      "url":"https://www.cnbeta.com/articles/tech/982221.htm"
     }
   ]
 }
