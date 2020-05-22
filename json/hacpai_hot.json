@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-22 11:58:58",
+  "time":"2020-05-22 12:03:16",
   "data":[
     {
       "name":"GitHub “用爱发电” 组织邀请帖",
@@ -215,6 +215,10 @@
       "url":"https://hacpai.com/article/1587656477399"
     },
     {
+      "name":"使用 Solo 静态站点功能部署站点到 gitee 上的 Pages",
+      "url":"https://hacpai.com/article/1589808850287"
+    },
+    {
       "name":"Solo 实现动态标题栏和页面樱花特效",
       "url":"https://hacpai.com/article/1589702789780"
     },
@@ -237,10 +241,6 @@
     {
       "name":"一款生成在线数据库文档的小工具（Golang）",
       "url":"https://hacpai.com/article/1587970215919"
-    },
-    {
-      "name":"api 接口有必要 restful 吗？",
-      "url":"https://hacpai.com/article/1587629717195"
     }
   ]
 }
