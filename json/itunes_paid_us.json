@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-05-22 15:28:28",
+  "time":"2020-05-22 15:32:42",
   "data":[
     {
       "name":"Minecraft",
@@ -21,22 +21,16 @@
       "description":"最新版本:  3.0.7\n更新时间:  2020-05-15 17:28:39 (北京时间)\n\nProcreate Pocket 3.0.7 gives you full compatibility support for the iPhone SE 2020, and a fix for palettes imported from Procreate 5.\n\nThere's also loads of goodies for you on our instagram channel. We're giving away artist-created coloring pages, skill-boosting live streams, and entries for the 2020 Art Prize open May 20!"
     },
     {
-      "name":"Plague Inc.",
-      "url":"https://apps.apple.com/us/app/plague-inc/id525818839?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.17.4\n更新时间:  2020-02-27 01:34:57 (北京时间)\n\nMutation 17 - The Fake News update\n\nFrom wild conspiracy theories to election campaign mudslinging, we now live in a post-fact world where falsehoods and misinformation can spread just like a disease.\n\nWith help from professional fact checking organisations like ‘Full Fact’ in the UK and ‘Politifact’ in the USA - we’ve designed a radically different scenario which lets you create your very own Fake News story and deceive the world with it.\n\nChoose your type of misinformation, decide a motive and then select who started it and who gets the blame then use a variety of modern tools and psychological tricks to go viral!\n\nCheck out www.fullfact.org and www.politifact.com to find and expose bad information.\n\nHotfix 1.17.2 - Localised the Fake News government actions and fixed a few bugs\nHotfix 1.17.3 - Fixed pie chart image and rare crash in Portuguese\nHotfix 1.17.4 - Small core simulation tweaks"
-    },
-    {
       "name":"TouchRetouch",
       "url":"https://apps.apple.com/us/app/touchretouch/id373311252?uo=4",
       "num":"Photo & Video",
       "description":"最新版本:  4.4.6\n更新时间:  2020-02-19 08:43:22 (北京时间)\n\n• Fixed an issue that would make the Home button not respond when trying to select another photo for editing after having edited and exported the previous one\n• Fixed an issue with the app not saving additional changes to a photo made when returning to the workspace from the Export menu\n• Fixed a crashing issue with reporting a problem to the developer\n• Made general performance and stability improvements"
     },
     {
-      "name":"Danganronpa: Trigger Happy Hav",
-      "url":"https://apps.apple.com/us/app/danganronpa-trigger-happy-hav/id1502232038?uo=4",
+      "name":"Plague Inc.",
+      "url":"https://apps.apple.com/us/app/plague-inc/id525818839?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.0.0\n更新时间:  2020-05-21 21:56:08 (北京时间)\n\n"
+      "description":"最新版本:  1.17.4\n更新时间:  2020-02-27 01:34:57 (北京时间)\n\nMutation 17 - The Fake News update\n\nFrom wild conspiracy theories to election campaign mudslinging, we now live in a post-fact world where falsehoods and misinformation can spread just like a disease.\n\nWith help from professional fact checking organisations like ‘Full Fact’ in the UK and ‘Politifact’ in the USA - we’ve designed a radically different scenario which lets you create your very own Fake News story and deceive the world with it.\n\nChoose your type of misinformation, decide a motive and then select who started it and who gets the blame then use a variety of modern tools and psychological tricks to go viral!\n\nCheck out www.fullfact.org and www.politifact.com to find and expose bad information.\n\nHotfix 1.17.2 - Localised the Fake News government actions and fixed a few bugs\nHotfix 1.17.3 - Fixed pie chart image and rare crash in Portuguese\nHotfix 1.17.4 - Small core simulation tweaks"
     },
     {
       "name":"Facetune",
@@ -51,6 +45,18 @@
       "description":"最新版本:  17.1\n更新时间:  2020-04-20 10:23:10 (北京时间)\n\nJukebox, Wizard, Darkshift, Achievement and Door Gunner fixes.\n\nSpringing at you with a big new content update, including:\n* The surprisingly delicious new map Candy Falls\n* 3 cool new Monkey Knowledges to unlock\n* The wickedly fun Gwendolin Hero skin - Harlegwen\n* Music playlist control with the Jukebox\n* Plus heaps of stability and balance improvements"
     },
     {
+      "name":"Geometry Dash",
+      "url":"https://apps.apple.com/us/app/geometry-dash/id625334537?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.11\n更新时间:  2017-11-17 02:43:46 (北京时间)\n\nUpdate 2.1.1 is here!\n\nThis update will function like a smaller \"pre-update\" before Update 2.2. Lots of fun stuff planned :)\n\n- iPhone X support!\n- New icons and effects!\n- New community shop!\n- Weekly Demon challenge!\n- Folders and level sorting!\n- New demon chests!\n- Level leaderboards!\n- Random other fun stuff.\n- Lots of bugfixes and tweaks.\n\n- There was an item duplication bug in version 2.1 that gave users extra rewards. This has been fixed in 2.11 and those rewards have been removed. So if you lose shards/diamonds etc after loading 2.11 its because they were bugged. Sorry :/\n\n/RubRub"
+    },
+    {
+      "name":"Grand Theft Auto: San Andreas",
+      "url":"https://apps.apple.com/us/app/grand-theft-auto-san-andreas/id763692274?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.2\n更新时间:  2019-04-12 21:42:33 (北京时间)\n\nPlease Note: For those currently progressing through the game, please load your game from a manual save slot instead of selecting “Resume”.  This only needs to done once after updating. Afterwards, “Resume” will function normally.\n\nGeneral bug fixes and improvements."
+    },
+    {
       "name":"FlickType Keyboard",
       "url":"https://apps.apple.com/us/app/flicktype-keyboard/id1359485719?uo=4",
       "num":"Productivity",
@@ -63,16 +69,16 @@
       "description":"最新版本:  4.134.0\n更新时间:  2020-05-16 14:22:31 (北京时间)\n\n-Various bug fixes and improvements\n-Thought of the week - “Sharks have been on earth longer than trees.\""
     },
     {
-      "name":"Geometry Dash",
-      "url":"https://apps.apple.com/us/app/geometry-dash/id625334537?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.11\n更新时间:  2017-11-17 02:43:46 (北京时间)\n\nUpdate 2.1.1 is here!\n\nThis update will function like a smaller \"pre-update\" before Update 2.2. Lots of fun stuff planned :)\n\n- iPhone X support!\n- New icons and effects!\n- New community shop!\n- Weekly Demon challenge!\n- Folders and level sorting!\n- New demon chests!\n- Level leaderboards!\n- Random other fun stuff.\n- Lots of bugfixes and tweaks.\n\n- There was an item duplication bug in version 2.1 that gave users extra rewards. This has been fixed in 2.11 and those rewards have been removed. So if you lose shards/diamonds etc after loading 2.11 its because they were bugged. Sorry :/\n\n/RubRub"
+      "name":"AutoSleep Track Sleep on Watch",
+      "url":"https://apps.apple.com/us/app/autosleep-track-sleep-on-watch/id1164801111?uo=4",
+      "num":"Health & Fitness",
+      "description":"最新版本:  6.3.1\n更新时间:  2019-11-22 04:52:45 (北京时间)\n\niOS 13, WatchOS 6.\nAuto dark, light mode setting option. \nEnvironmental noise on sleep session graph (requires Series 4 or higher). \nNew detailed export option in settings. \nYou can read more in \"What's New\" on the settings tab. \n\n6.3.1 - Small fix on the welcome screen for people that have native dark mode enabled. It changed the text to white on white. This made things somewhat hard to understand.\n\nNow back to the huge HeartWatch update for December!"
     },
     {
-      "name":"Grand Theft Auto: San Andreas",
-      "url":"https://apps.apple.com/us/app/grand-theft-auto-san-andreas/id763692274?uo=4",
+      "name":"The Game of Life",
+      "url":"https://apps.apple.com/us/app/the-game-of-life/id1117405948?uo=4",
       "num":"Games",
-      "description":"最新版本:  2.2\n更新时间:  2019-04-12 21:42:33 (北京时间)\n\nPlease Note: For those currently progressing through the game, please load your game from a manual save slot instead of selecting “Resume”.  This only needs to done once after updating. Afterwards, “Resume” will function normally.\n\nGeneral bug fixes and improvements."
+      "description":"最新版本:  2.2.2\n更新时间:  2019-03-18 23:29:14 (北京时间)\n\nHello Game of Life players! \nWe have issued some fixes to make your game more stable.\nEnjoy!"
     },
     {
       "name":"Terraria",
@@ -87,40 +93,10 @@
       "description":"最新版本:  1.04\n更新时间:  2020-03-28 09:12:43 (北京时间)\n\n• Roster Updated\n• Bug Fixes"
     },
     {
-      "name":"The Game of Life",
-      "url":"https://apps.apple.com/us/app/the-game-of-life/id1117405948?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.2.2\n更新时间:  2019-03-18 23:29:14 (北京时间)\n\nHello Game of Life players! \nWe have issued some fixes to make your game more stable.\nEnjoy!"
-    },
-    {
-      "name":"AutoSleep Track Sleep on Watch",
-      "url":"https://apps.apple.com/us/app/autosleep-track-sleep-on-watch/id1164801111?uo=4",
-      "num":"Health & Fitness",
-      "description":"最新版本:  6.3.1\n更新时间:  2019-11-22 04:52:45 (北京时间)\n\niOS 13, WatchOS 6.\nAuto dark, light mode setting option. \nEnvironmental noise on sleep session graph (requires Series 4 or higher). \nNew detailed export option in settings. \nYou can read more in \"What's New\" on the settings tab. \n\n6.3.1 - Small fix on the welcome screen for people that have native dark mode enabled. It changed the text to white on white. This made things somewhat hard to understand.\n\nNow back to the huge HeartWatch update for December!"
-    },
-    {
       "name":"Assassin's Creed Identity",
       "url":"https://apps.apple.com/us/app/assassins-creed-identity/id880971164?uo=4",
       "num":"Games",
       "description":"最新版本:  2.8.10\n更新时间:  2018-12-13 20:42:07 (北京时间)\n\nAhoy, Assassins!\nWe now support iPhone X too! Download now!\n\nFollow us on Facebook www.facebook.com/AssassinsCreedIdentity or Twitter https://twitter.com/ACIdentity to get the latest news !\nAnd thank you for your continuous feedback and support!\n\nHave fun!\nYour Assassin’s Creed Identity Team"
-    },
-    {
-      "name":"Forest - Stay focused",
-      "url":"https://apps.apple.com/us/app/forest-stay-focused/id866450515?uo=4",
-      "num":"Productivity",
-      "description":"最新版本:  4.17.2\n更新时间:  2020-05-21 09:00:31 (北京时间)\n\n• Some bug fixes."
-    },
-    {
-      "name":"Dark Sky Weather",
-      "url":"https://apps.apple.com/us/app/dark-sky-weather/id517329357?uo=4",
-      "num":"Weather",
-      "description":"最新版本:  6.8.4\n更新时间:  2020-04-01 01:26:20 (北京时间)\n\n- Bug fixes"
-    },
-    {
-      "name":"Evertale",
-      "url":"https://apps.apple.com/us/app/evertale/id1263365153?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.0.52\n更新时间:  2020-05-21 08:15:22 (北京时间)\n\nNew Feature Added: Mastery System"
     },
     {
       "name":"True Skate",
@@ -129,28 +105,22 @@
       "description":"最新版本:  1.5.15\n更新时间:  2020-04-11 09:24:57 (北京时间)\n\nFixed potential crash in the Live Event menu if notifications are enabled.\n\n1.5.14:\n- New SLS flow missions for all SLS parks.\n- Improved mission and event UI."
     },
     {
-      "name":"Five Nights at Freddy's",
-      "url":"https://apps.apple.com/us/app/five-nights-at-freddys/id912536422?uo=4",
+      "name":"Evertale",
+      "url":"https://apps.apple.com/us/app/evertale/id1263365153?uo=4",
       "num":"Games",
-      "description":"最新版本:  2.0.1\n更新时间:  2019-08-11 00:02:24 (北京时间)\n\nScott Cawthon and Clickteam bring the superior version of Five Nights at Freddy's to mobiles!\n- Remastered version from the PC version\n- High resolution graphics and visual effects\n- Survival Kit including activatable cheats (in-app purchase)\n- Plushies for your work desk (in-app purchase)\n- Improved UI ergonomics\n- Fixed the black screen issue that affected some older devices\n- Various bug fixes and improvements"
+      "description":"最新版本:  1.0.52\n更新时间:  2020-05-21 08:15:22 (北京时间)\n\nNew Feature Added: Mastery System"
+    },
+    {
+      "name":"Forest - Stay focused",
+      "url":"https://apps.apple.com/us/app/forest-stay-focused/id866450515?uo=4",
+      "num":"Productivity",
+      "description":"最新版本:  4.17.2\n更新时间:  2020-05-21 09:00:31 (北京时间)\n\n• Some bug fixes."
     },
     {
       "name":"J23 - Release Dates & Restocks",
       "url":"https://apps.apple.com/us/app/j23-release-dates-restocks/id497880658?uo=4",
       "num":"Sports",
       "description":"最新版本:  3.3.1\n更新时间:  2019-09-27 06:21:52 (北京时间)\n\n- Dark Mode (iOS 13)"
-    },
-    {
-      "name":"The Wonder Weeks",
-      "url":"https://apps.apple.com/us/app/the-wonder-weeks/id529815782?uo=4",
-      "num":"Health & Fitness",
-      "description":"最新版本:  9.1\n更新时间:  2020-04-01 21:13:57 (北京时间)\n\nMinor improvement"
-    },
-    {
-      "name":"Ultimate Custom Night",
-      "url":"https://apps.apple.com/us/app/ultimate-custom-night/id1499849161?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.0.2\n更新时间:  2020-05-17 09:30:46 (北京时间)\n\n- Improved user interface\n- Resampled some graphics at a higher resolution\n- Various fixes and improvements"
     },
     {
       "name":"Clue: The Classic Mystery Game",
@@ -165,16 +135,34 @@
       "description":"最新版本:  4.0.2\n更新时间:  2019-07-17 05:34:23 (北京时间)\n\n-Peer-to-peer networking bug fixed.\n\n\nNow play with friends in a car, on a plane, on a boat, or in a moat.*\n\n \n*Do not play this game in a moat."
     },
     {
+      "name":"Five Nights at Freddy's",
+      "url":"https://apps.apple.com/us/app/five-nights-at-freddys/id912536422?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.0.1\n更新时间:  2019-08-11 00:02:24 (北京时间)\n\nScott Cawthon and Clickteam bring the superior version of Five Nights at Freddy's to mobiles!\n- Remastered version from the PC version\n- High resolution graphics and visual effects\n- Survival Kit including activatable cheats (in-app purchase)\n- Plushies for your work desk (in-app purchase)\n- Improved UI ergonomics\n- Fixed the black screen issue that affected some older devices\n- Various bug fixes and improvements"
+    },
+    {
+      "name":"Dark Sky Weather",
+      "url":"https://apps.apple.com/us/app/dark-sky-weather/id517329357?uo=4",
+      "num":"Weather",
+      "description":"最新版本:  6.8.4\n更新时间:  2020-04-01 01:26:20 (北京时间)\n\n- Bug fixes"
+    },
+    {
+      "name":"The Wonder Weeks",
+      "url":"https://apps.apple.com/us/app/the-wonder-weeks/id529815782?uo=4",
+      "num":"Health & Fitness",
+      "description":"最新版本:  9.1\n更新时间:  2020-04-01 21:13:57 (北京时间)\n\nMinor improvement"
+    },
+    {
       "name":"Sezzy Timer",
       "url":"https://apps.apple.com/us/app/sezzy-timer/id1442742654?uo=4",
       "num":"Health & Fitness",
       "description":"最新版本:  2.0.0\n更新时间:  2020-05-15 18:18:50 (北京时间)\n\n- Support for iOS 13\n- Increased timer accuracy over long periods of time\n- Fixed background timer related issues"
     },
     {
-      "name":"VHS Camcorder - Retro 80s Cam",
-      "url":"https://apps.apple.com/us/app/vhs-camcorder-retro-80s-cam/id679454835?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  1.5.2\n更新时间:  2019-10-22 10:00:36 (北京时间)\n\nWe listened to you, and adjusted the filters:\n• Added a new Nuclear filter for edits\n• Reduced brightness for imported videos\n• Fixed bug that would cause a crash if device has a bad camera\n• Updated Spanish translation"
+      "name":"Ultimate Custom Night",
+      "url":"https://apps.apple.com/us/app/ultimate-custom-night/id1499849161?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.0.2\n更新时间:  2020-05-17 09:30:46 (北京时间)\n\n- Improved user interface\n- Resampled some graphics at a higher resolution\n- Various fixes and improvements"
     },
     {
       "name":"Skincare Routine",
@@ -183,22 +171,58 @@
       "description":"最新版本:  4.8.15\n更新时间:  2020-03-23 07:58:45 (北京时间)\n\nA few tweaks!\n-----\nYour feedback, suggestions and questions are more than welcome. Email me at any time or send a DM on Instagram.\n\nskincare.routine.app@gmail.com\nInstagram: @skincare.routine.app"
     },
     {
-      "name":"Arcadia - Arcade Watch Games",
-      "url":"https://apps.apple.com/us/app/arcadia-arcade-watch-games/id1479608271?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.6.3\n更新时间:  2020-05-09 00:50:17 (北京时间)\n\n• Added French, Spanish and Portuguese localizations\n• Added Complications support\n• Bug Fixes"
-    },
-    {
       "name":"Pocket City",
       "url":"https://apps.apple.com/us/app/pocket-city/id1330451888?uo=4",
       "num":"Games",
       "description":"最新版本:  1.0.32\n更新时间:  2020-02-27 00:42:04 (北京时间)\n\n- Fix bug where loading bar may get stuck if there are too many saved cities\n- Fix bug where sandbox setting for finite money would not propagate to neighbor region cities\n- Slightly improve memory usage"
     },
     {
+      "name":"VHS Camcorder - Retro 80s Cam",
+      "url":"https://apps.apple.com/us/app/vhs-camcorder-retro-80s-cam/id679454835?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  1.5.2\n更新时间:  2019-10-22 10:00:36 (北京时间)\n\nWe listened to you, and adjusted the filters:\n• Added a new Nuclear filter for edits\n• Reduced brightness for imported videos\n• Fixed bug that would cause a crash if device has a bad camera\n• Updated Spanish translation"
+    },
+    {
+      "name":"Arcadia - Arcade Watch Games",
+      "url":"https://apps.apple.com/us/app/arcadia-arcade-watch-games/id1479608271?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.6.3\n更新时间:  2020-05-09 00:50:17 (北京时间)\n\n• Added French, Spanish and Portuguese localizations\n• Added Complications support\n• Bug Fixes"
+    },
+    {
       "name":"ACNH Travel Guide",
       "url":"https://apps.apple.com/us/app/acnh-travel-guide/id1502818559?uo=4",
       "num":"Reference",
       "description":"最新版本:  2020.7.1\n更新时间:  2020-05-17 01:40:26 (北京时间)\n\nThank you all for sharing your ideas, suggestions, and feedback! This update brings several new features:\n\n- Turnip Price Tracker\nTrack and visualize your turnip prices throughout the week. Spot trends and know when to sell. You'll be a bell-ionaire in no-time!\n\n- Share Lists\nAll lists can now be exported and shared with others. You can optionally include only items with a checkmark, or items from one specific group.\n\n- Nook Miles Islands\nSee all the destinations where your Nook Miles tickets can take you, including what makes them special and their rarity.\n\nThere are several other smaller improvements to the app as well:\n- It is now possible to reorder the cards on the Home tab\n- Added collectable photos and posters to Villagers\n- C.J.'s and Flick's models are now in their own section\n- Search now also searches through item attributes, such as source and style\n- Group DIY Recipes by source\n- Added a task for visiting K.K.'s concert on Saturday\n- Added hobby and favorite song of Villagers\n- Clothing items now list in which season you can buy them\n- Quick shortcuts to the app when you long press on the app icon\n- Group Clothing by season (2020.7.1)\n\nIf you like the app, please help spread the word by telling other AC players about it, or by leaving a rating in the App Store. Thanks!\n\nJeffrey"
+    },
+    {
+      "name":"SkyView®",
+      "url":"https://apps.apple.com/us/app/skyview/id404990064?uo=4",
+      "num":"Education",
+      "description":"最新版本:  3.6.1\n更新时间:  2020-01-10 08:05:59 (北京时间)\n\nThis update addresses minor bugs present in iOS 13."
+    },
+    {
+      "name":"Pocket Build",
+      "url":"https://apps.apple.com/us/app/pocket-build/id1293681293?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.994\n更新时间:  2020-05-11 12:54:26 (北京时间)\n\n- Fixed a few silly bugs.\n- Added a social sharing feature to easily share screenshots of your worlds."
+    },
+    {
+      "name":"Sky Guide",
+      "url":"https://apps.apple.com/us/app/sky-guide/id576588894?uo=4",
+      "num":"Reference",
+      "description":"最新版本:  8.1.7\n更新时间:  2020-05-12 23:33:18 (北京时间)\n\n+ Updated Starlink satellites\n+ New asterisms: Spring Triangle, Winter Hexagon, Sickle, and others\n+ Bug fixes"
+    },
+    {
+      "name":"Bloons TD 5",
+      "url":"https://apps.apple.com/us/app/bloons-td-5/id563718995?uo=4",
+      "num":"Games",
+      "description":"最新版本:  3.25\n更新时间:  2020-05-14 18:57:09 (北京时间)\n\nThe Bloons are not messing around on this one! A map so tough, so brutal, it can only be called EXTREME! For the first time ever, we're adding an all new Extreme difficulty map: Toxic Waste. Four incredibly short paths that only the most skilled monkeys will be able to defend. Luckily, it takes more than some off-color water to scare your subs and buccaneers. And lets face it, you're going to need all the help you can get!"
+    },
+    {
+      "name":"Stardew Valley",
+      "url":"https://apps.apple.com/us/app/stardew-valley/id1406710800?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.4.5.145\n更新时间:  2020-03-22 16:08:48 (北京时间)\n\nFix for museum sometimes losing donations\nFix for issue where getting parsnip seeds in late game could start quests already completed\nOther minor bug fixes"
     },
     {
       "name":"Papa's Freezeria To Go!",
@@ -213,34 +237,10 @@
       "description":"最新版本:  2.0.1\n更新时间:  2019-11-01 06:26:08 (北京时间)\n\nScott Cawthon and Clickteam bring the superior version of Five Nights at Freddy's 2 to mobiles!\n- Remastered version from the PC version\n- High resolution graphics and visual effects\n- Survival Kit including activatable cheats (in-app purchase)\n- Improved UI ergonomics\n- Display options\n- Fixed the issue that prevented ending nights 5, 6 and 7\n- Fixed the issue that prevented the use of the left/right vent lights\n- Reduced the panning speed when looking in the office\n- The app can now switch from one landscape orientation to the other"
     },
     {
-      "name":"Bloons TD 5",
-      "url":"https://apps.apple.com/us/app/bloons-td-5/id563718995?uo=4",
-      "num":"Games",
-      "description":"最新版本:  3.25\n更新时间:  2020-05-14 18:57:09 (北京时间)\n\nThe Bloons are not messing around on this one! A map so tough, so brutal, it can only be called EXTREME! For the first time ever, we're adding an all new Extreme difficulty map: Toxic Waste. Four incredibly short paths that only the most skilled monkeys will be able to defend. Luckily, it takes more than some off-color water to scare your subs and buccaneers. And lets face it, you're going to need all the help you can get!"
-    },
-    {
-      "name":"Pocket Build",
-      "url":"https://apps.apple.com/us/app/pocket-build/id1293681293?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.994\n更新时间:  2020-05-11 12:54:26 (北京时间)\n\n- Fixed a few silly bugs.\n- Added a social sharing feature to easily share screenshots of your worlds."
-    },
-    {
       "name":"Farming Simulator 20",
       "url":"https://apps.apple.com/us/app/farming-simulator-20/id1478611992?uo=4",
       "num":"Games",
       "description":"最新版本:  1.0.4\n更新时间:  2020-04-20 13:29:53 (北京时间)\n\nImproved steering and added option to change sensitivity\nAdded option to change time scale\nAdded option to disable traffic\nAdded option to disable helpers buying seeds/fertilizer\nVarious saving improvements (cloud save still requires an unmetered connection though)\nVarious UI improvements\nVarious bug fixes\nPerformance improvements"
-    },
-    {
-      "name":"SkyView®",
-      "url":"https://apps.apple.com/us/app/skyview/id404990064?uo=4",
-      "num":"Education",
-      "description":"最新版本:  3.6.1\n更新时间:  2020-01-10 08:05:59 (北京时间)\n\nThis update addresses minor bugs present in iOS 13."
-    },
-    {
-      "name":"Sky Guide",
-      "url":"https://apps.apple.com/us/app/sky-guide/id576588894?uo=4",
-      "num":"Reference",
-      "description":"最新版本:  8.1.7\n更新时间:  2020-05-12 23:33:18 (北京时间)\n\n+ Updated Starlink satellites\n+ New asterisms: Spring Triangle, Winter Hexagon, Sickle, and others\n+ Bug fixes"
     },
     {
       "name":"Grand Theft Auto: Vice City",
@@ -249,16 +249,10 @@
       "description":"最新版本:  1.8\n更新时间:  2019-05-21 23:06:43 (北京时间)\n\nAddressed an issue with the MIXTAPE radio station not playing custom playlists."
     },
     {
-      "name":"Stardew Valley",
-      "url":"https://apps.apple.com/us/app/stardew-valley/id1406710800?uo=4",
+      "name":"Castlevania: SotN",
+      "url":"https://apps.apple.com/us/app/castlevania-sotn/id1435456830?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.4.5.145\n更新时间:  2020-03-22 16:08:48 (北京时间)\n\nFix for museum sometimes losing donations\nFix for issue where getting parsnip seeds in late game could start quests already completed\nOther minor bug fixes"
-    },
-    {
-      "name":"Scanner Pro: PDF Scanner App",
-      "url":"https://apps.apple.com/us/app/scanner-pro-pdf-scanner-app/id333710667?uo=4",
-      "num":"Business",
-      "description":"最新版本:  7.5.17\n更新时间:  2020-04-20 18:53:15 (北京时间)\n\nHello folks! \nToday's update contains a handful of important fixes including the issue where some customers were having troubles signing in to their OneNote account in Scanner app.\nThank you to everyone who wrote in and helped us track down the steps we needed to reproduce and squash this particular bug. \nIf you need us you can find us at rdsupport@readdle.com and we'll point you in the right direction. \nStay tuned! New exciting features are coming soon!"
+      "description":"最新版本:  1.0.1\n更新时间:  2020-04-15 09:32:19 (北京时间)\n\nPerformed a number of bug fixes."
     },
     {
       "name":"Papa's Sushiria To Go!",
@@ -279,88 +273,10 @@
       "description":"最新版本:  1.3.5\n更新时间:  2015-12-18 07:37:35 (北京时间)\n\n- Added Air 2 compatibility\n- Various bug fixes"
     },
     {
-      "name":"EpocCam Webcamera for Computer",
-      "url":"https://apps.apple.com/us/app/epoccam-webcamera-for-computer/id435355256?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  2020.1\n更新时间:  2020-04-16 23:37:41 (北京时间)\n\n-Fixes USB connectivity issues\n-Fixes WiFi connectivity issues"
-    },
-    {
-      "name":"Five Nights at Freddy's 4",
-      "url":"https://apps.apple.com/us/app/five-nights-at-freddys-4/id1023146677?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.0\n更新时间:  2020-01-17 01:20:19 (北京时间)\n\nScott Cawthon and Clickteam bring the superior version of Five Nights at Freddy's 4 to mobiles!\n- Remastered version from the PC version\n- High resolution graphics\n- High quality audio\n- Halloween update content\n- Options screen\n- Various bug fixes and improvements"
-    },
-    {
-      "name":"FiLMiC Pro－Video Camera",
-      "url":"https://apps.apple.com/us/app/filmic-pro-video-camera/id436577167?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  6.10.9\n更新时间:  2020-04-04 04:14:13 (北京时间)\n\nv6.10.9 of FiLMiC Pro includes numerous bug fixes and performance enhancements for a better shooting experience:\n\n- Zoom quality loss indicator restored to zoom rocker.\n- Resolves an issue where the preview could become choppy after rotating the device with a high speed framerate selected.\n- Improved handling of external audio devices.\n\nIf you have any questions, suggestions or findings please contact us at support@filmicpro.com"
-    },
-    {
-      "name":"Superimpose",
-      "url":"https://apps.apple.com/us/app/superimpose/id435913585?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  6.7.4\n更新时间:  2019-11-14 02:32:16 (北京时间)\n\nMore bug fixes.\n\nIf you like using Superimpose, please do write a review or leave a rating in the App Store!"
-    },
-    {
-      "name":"Cute CUT Pro",
-      "url":"https://apps.apple.com/us/app/cute-cut-pro/id618790117?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  1.8.10\n更新时间:  2018-10-14 10:15:01 (北京时间)\n\n• Fixed YouTube uploading error.\n• Changed Facebook uploading process.\n• Some bug fixes."
-    },
-    {
-      "name":"kirakira+",
-      "url":"https://apps.apple.com/us/app/kirakira/id955687901?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  2.1.2\n更新时间:  2019-01-06 05:45:28 (北京时间)\n\nFilter adjustment and bug fixes."
-    },
-    {
-      "name":"TonalEnergy Tuner & Metronome",
-      "url":"https://apps.apple.com/us/app/tonalenergy-tuner-metronome/id497716362?uo=4",
-      "num":"Music",
-      "description":"最新版本:  1.7.2\n更新时间:  2019-08-14 23:59:02 (北京时间)\n\n- Added Siri Shortcut support for several operations. See Prefs-Siri Shortcuts for setting them up.\n\n- Added additional single 16th note subdivisions\n- Added count-in option for X/8 meters to use a quarter note as the beat during the count-in\n- Added AirTurn background operation support\n- Fixed issue with quarter note triplets"
-    },
-    {
-      "name":"Castlevania: SotN",
-      "url":"https://apps.apple.com/us/app/castlevania-sotn/id1435456830?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.0.1\n更新时间:  2020-04-15 09:32:19 (北京时间)\n\nPerformed a number of bug fixes."
-    },
-    {
-      "name":"Mirror for Samsung TV",
-      "url":"https://apps.apple.com/us/app/mirror-for-samsung-tv/id1249385711?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  3.3.12\n更新时间:  2020-04-25 20:55:59 (北京时间)\n\n- Improvements in video streaming quality"
-    },
-    {
-      "name":"Five Nights at Freddy's: SL",
-      "url":"https://apps.apple.com/us/app/five-nights-at-freddys-sl/id1189781891?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.0\n更新时间:  2020-03-21 00:59:14 (北京时间)\n\nScott Cawthon and Clickteam bring the superior version of Five Nights at Freddy's: Sister Location to mobiles!\n- Remastered version from the PC version\n- High resolution graphics\n- High quality audio\n- Options screen\n- Various bug fixes and improvements"
-    },
-    {
       "name":"Superimpose X",
       "url":"https://apps.apple.com/us/app/superimpose-x/id1304177471?uo=4",
       "num":"Photo & Video",
       "description":"最新版本:  2.2.1\n更新时间:  2020-04-27 01:16:44 (北京时间)\n\n1. Undo/redo for filters. Filters however remain non-destructive.\n2. Improved ellipse masking tool.\n3. You can now add your own custom brush tip for painting.\n4. Option to save your own brush settings.\n5. Output getting pixelated? App will now warn and fix if you have low resolution canvas resulting in pixelated output.\n6. Added the missing heart shape in shape drawing tool.\n\nIf you like using Superimpose X please consider writing a review/rating the app in the App Store."
-    },
-    {
-      "name":"Human: Fall Flat",
-      "url":"https://apps.apple.com/us/app/human-fall-flat/id1438091392?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.2\n更新时间:  2020-05-11 22:58:59 (北京时间)\n\nNOW INCLUDES NEW ICE LEVEL"
-    },
-    {
-      "name":"My Macros+ | Diet & Calories",
-      "url":"https://apps.apple.com/us/app/my-macros-diet-calories/id475249619?uo=4",
-      "num":"Health & Fitness",
-      "description":"最新版本:  2020.15\n更新时间:  2020-05-07 00:49:06 (北京时间)\n\nThank you very much for your continued support! We're here with another great update.\n\nIn this update we vastly improved external keyboard and trackpad support on iOS 13.4.\n• Hold the cmd key on your iPads keyboard to see all the quick actions you can perform without your hands leaving the keys\n\nWe also added some nice features to the left side menu. Now you can:\n• Reorder the food categories to whatever order you want\n• Add new, smart menu categories to track food even faster if you are a Pro user\n\nAlso, squashed some bugs around login, adding custom foods and tracking water in the main page pop up"
-    },
-    {
-      "name":"Find My Bluetooth Device",
-      "url":"https://apps.apple.com/us/app/find-my-bluetooth-device/id1472217099?uo=4",
-      "num":"Utilities",
-      "description":"最新版本:  2.4.0\n更新时间:  2020-05-17 20:29:07 (北京时间)\n\n• Show when devices go offline\n• Improved distance reliability\n• Interface Improvements\n\nThanks for supporting independent student developers!\nAny questions or feedback? Email: findmyairpodsapp@gmail.com"
     },
     {
       "name":"Space Pioneer: Full Gear",
@@ -369,22 +285,34 @@
       "description":"最新版本:  1.0.1\n更新时间:  2020-05-13 23:58:48 (北京时间)\n\nXeldar is the villain of the game."
     },
     {
-      "name":"Heads Up! Kids",
-      "url":"https://apps.apple.com/us/app/heads-up-kids/id937976391?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.2\n更新时间:  2019-09-19 04:51:41 (北京时间)\n\nThis update contains bug fixes and improved screen compatibility for iPhone X and above. Happy Playing!"
+      "name":"Cute CUT Pro",
+      "url":"https://apps.apple.com/us/app/cute-cut-pro/id618790117?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  1.8.10\n更新时间:  2018-10-14 10:15:01 (北京时间)\n\n• Fixed YouTube uploading error.\n• Changed Facebook uploading process.\n• Some bug fixes."
     },
     {
-      "name":"Screen Mirroring+ for Roku",
-      "url":"https://apps.apple.com/us/app/screen-mirroring-for-roku/id1295610132?uo=4",
-      "num":"Productivity",
-      "description":"最新版本:  1.5\n更新时间:  2020-04-03 05:25:23 (北京时间)\n\n- Bug fixes\n\nPlease rate us on the App Store == It‘s very quick and will help us improve this app to provide you with better features and services"
+      "name":"Superimpose",
+      "url":"https://apps.apple.com/us/app/superimpose/id435913585?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  6.7.4\n更新时间:  2019-11-14 02:32:16 (北京时间)\n\nMore bug fixes.\n\nIf you like using Superimpose, please do write a review or leave a rating in the App Store!"
     },
     {
-      "name":"Five Nights at Freddy's 3",
-      "url":"https://apps.apple.com/us/app/five-nights-at-freddys-3/id973482987?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.0\n更新时间:  2020-02-05 01:44:13 (北京时间)\n\nScott Cawthon and Clickteam bring the superior version of Five Nights at Freddy's 3 to mobiles!\n- Remastered version from the PC version\n- High resolution graphics\n- High quality audio\n- All extras and minigames\n- Various bug fixes and improvements"
+      "name":"kirakira+",
+      "url":"https://apps.apple.com/us/app/kirakira/id955687901?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  2.1.2\n更新时间:  2019-01-06 05:45:28 (北京时间)\n\nFilter adjustment and bug fixes."
+    },
+    {
+      "name":"Find My Bluetooth Device",
+      "url":"https://apps.apple.com/us/app/find-my-bluetooth-device/id1472217099?uo=4",
+      "num":"Utilities",
+      "description":"最新版本:  2.4.0\n更新时间:  2020-05-17 20:29:07 (北京时间)\n\n• Show when devices go offline\n• Improved distance reliability\n• Interface Improvements\n\nThanks for supporting independent student developers!\nAny questions or feedback? Email: findmyairpodsapp@gmail.com"
+    },
+    {
+      "name":"FiLMiC Pro－Video Camera",
+      "url":"https://apps.apple.com/us/app/filmic-pro-video-camera/id436577167?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  6.10.9\n更新时间:  2020-04-04 04:14:13 (北京时间)\n\nv6.10.9 of FiLMiC Pro includes numerous bug fixes and performance enhancements for a better shooting experience:\n\n- Zoom quality loss indicator restored to zoom rocker.\n- Resolves an issue where the preview could become choppy after rotating the device with a high speed framerate selected.\n- Improved handling of external audio devices.\n\nIf you have any questions, suggestions or findings please contact us at support@filmicpro.com"
     },
     {
       "name":"Pou",
@@ -393,10 +321,16 @@
       "description":"最新版本:  1.4.77\n更新时间:  2018-05-26 03:32:03 (北京时间)\n\nUpdated our Privacy Policy\nNew Shoes! ^_^\nPolice Outfit & Hat! ^_^\nCheaper Outfits & Hats! ^_^\nGhost Halloween Outfit! ^_^\nWitch Dress Outfit! ^_^\nWitch Hat Colors! ^_^\nNew Food!^_^\nGame: Connect 2!^_^\nPou & Pet: Mask!^_^\nOutfit: Superhero!^_^\nGame: Beach Volley + PvP! ^_^\nHats: Head Bows & Crowns! ^_^\nPou: Headbands! ^_^\nSettings: Language! ^_^\nGame: Food Swap!^_^\nOutfits: Football Jerseys!^_^\nSorry for late updates, we're STILL working on something BIG! ^_^\n\nhttp://help.pou.me"
     },
     {
-      "name":"FNaF 6: Pizzeria Simulator",
-      "url":"https://apps.apple.com/us/app/fnaf-6-pizzeria-simulator/id1455781522?uo=4",
+      "name":"Five Nights at Freddy's 4",
+      "url":"https://apps.apple.com/us/app/five-nights-at-freddys-4/id1023146677?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.0\n更新时间:  2019-08-21 15:00:00 (北京时间)\n\n"
+      "description":"最新版本:  2.0\n更新时间:  2020-01-17 01:20:19 (北京时间)\n\nScott Cawthon and Clickteam bring the superior version of Five Nights at Freddy's 4 to mobiles!\n- Remastered version from the PC version\n- High resolution graphics\n- High quality audio\n- Halloween update content\n- Options screen\n- Various bug fixes and improvements"
+    },
+    {
+      "name":"Scanner Pro: PDF Scanner App",
+      "url":"https://apps.apple.com/us/app/scanner-pro-pdf-scanner-app/id333710667?uo=4",
+      "num":"Business",
+      "description":"最新版本:  7.5.17\n更新时间:  2020-04-20 18:53:15 (北京时间)\n\nHello folks! \nToday's update contains a handful of important fixes including the issue where some customers were having troubles signing in to their OneNote account in Scanner app.\nThank you to everyone who wrote in and helped us track down the steps we needed to reproduce and squash this particular bug. \nIf you need us you can find us at rdsupport@readdle.com and we'll point you in the right direction. \nStay tuned! New exciting features are coming soon!"
     },
     {
       "name":"Mirror for Roku - AirBeamTV",
@@ -405,28 +339,22 @@
       "description":"最新版本:  3.4.1\n更新时间:  2020-05-13 07:23:13 (北京时间)\n\n- Stability improvements and UI enhancements"
     },
     {
-      "name":"911 Operator",
-      "url":"https://apps.apple.com/us/app/911-operator/id1199822686?uo=4",
-      "num":"Games",
-      "description":"最新版本:  3.06.05\n更新时间:  2019-06-12 19:37:16 (北京时间)\n\nNew expansion is now available! \nSEARCH AND RESCUE DLC"
-    },
-    {
       "name":"CE5 Contact",
       "url":"https://apps.apple.com/us/app/ce5-contact/id1499236474?uo=4",
       "num":"Education",
       "description":"最新版本:  1.0.22\n更新时间:  2020-05-10 00:44:51 (北京时间)\n\nFIXED: editing / adding profile photo caused crashes for some users\n\nFIXED: users now alerted if the device \"location services\" aren't turned on, which was causing the dreaded \"spinning circle of sadness\" on the map screen for some \n\nFIXED: empty conversations are no longer showing up in messages list\n\nFIXED: user profile form is no longer visible in app settings before an account is created\n \nFIXED: searching on map screen stopped showing Google results\n\nNEW: additional guidance and checks for correct username format (lowercase, max #of characters, etc.)"
     },
     {
-      "name":"OneCast - Xbox Game Streaming",
-      "url":"https://apps.apple.com/us/app/onecast-xbox-game-streaming/id1398182637?uo=4",
-      "num":"Entertainment",
-      "description":"最新版本:  1.12\n更新时间:  2019-08-07 14:41:46 (北京时间)\n\n• Miscellaneous bug fixes and stability enhancements"
+      "name":"Mirror for Samsung TV",
+      "url":"https://apps.apple.com/us/app/mirror-for-samsung-tv/id1249385711?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  3.3.12\n更新时间:  2020-04-25 20:55:59 (北京时间)\n\n- Improvements in video streaming quality"
     },
     {
-      "name":"FL Studio Mobile",
-      "url":"https://apps.apple.com/us/app/fl-studio-mobile/id432850619?uo=4",
-      "num":"Music",
-      "description":"最新版本:  3.2.85\n更新时间:  2020-05-04 08:14:11 (北京时间)\n\nBug fixes and stability improvements\n\nNOTE: To report bugs please tap the HELP button and let us know in the USERS & SUPPORT FORUM thanks!"
+      "name":"Screen Mirroring+ for Roku",
+      "url":"https://apps.apple.com/us/app/screen-mirroring-for-roku/id1295610132?uo=4",
+      "num":"Productivity",
+      "description":"最新版本:  1.5\n更新时间:  2020-04-03 05:25:23 (北京时间)\n\n- Bug fixes\n\nPlease rate us on the App Store == It‘s very quick and will help us improve this app to provide you with better features and services"
     },
     {
       "name":"Bully: Anniversary Edition",
@@ -435,28 +363,22 @@
       "description":"最新版本:  1.1\n更新时间:  2019-02-22 00:16:40 (北京时间)\n\nFull screen support on iPhone X / XS and iPad Pro.\nGeneral bug fixes and improvements."
     },
     {
-      "name":"NBA JAM by EA SPORTS™",
-      "url":"https://apps.apple.com/us/app/nba-jam-by-ea-sports/id402370879?uo=4",
+      "name":"Five Nights at Freddy's: SL",
+      "url":"https://apps.apple.com/us/app/five-nights-at-freddys-sl/id1189781891?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.1.71\n更新时间:  2020-02-19 01:35:42 (北京时间)\n\nBoo-yah! We’ve made some courtside improvements to keep your slam dunks sky-high and on point."
+      "description":"最新版本:  2.0\n更新时间:  2020-03-21 00:59:14 (北京时间)\n\nScott Cawthon and Clickteam bring the superior version of Five Nights at Freddy's: Sister Location to mobiles!\n- Remastered version from the PC version\n- High resolution graphics\n- High quality audio\n- Options screen\n- Various bug fixes and improvements"
     },
     {
-      "name":"TurboScan™ Pro: PDF scanner",
-      "url":"https://apps.apple.com/us/app/turboscan-pro-pdf-scanner/id342548956?uo=4",
-      "num":"Business",
-      "description":"最新版本:  3.0.3\n更新时间:  2020-01-15 02:01:39 (北京时间)\n\n• Auto and manual shooting improvements\n• Option to update date when adding pages\n• Other fixes and improvements"
-    },
-    {
-      "name":"Lowriders Comeback 2: Cruising",
-      "url":"https://apps.apple.com/us/app/lowriders-comeback-2-cruising/id1291730054?uo=4",
+      "name":"911 Operator",
+      "url":"https://apps.apple.com/us/app/911-operator/id1199822686?uo=4",
       "num":"Games",
-      "description":"最新版本:  3.3.2\n更新时间:  2020-01-31 11:23:36 (北京时间)\n\n- updated game engine\n- minor fixes\n- added 3 new cars\n- fixed server regions selecting"
+      "description":"最新版本:  3.06.05\n更新时间:  2019-06-12 19:37:16 (北京时间)\n\nNew expansion is now available! \nSEARCH AND RESCUE DLC"
     },
     {
-      "name":"Hear My Baby Heartbeat App",
-      "url":"https://apps.apple.com/us/app/hear-my-baby-heartbeat-app/id1111420122?uo=4",
-      "num":"Medical",
-      "description":"最新版本:  1.4\n更新时间:  2019-05-04 06:51:51 (北京时间)\n\nOur new Chatbot feature designed to help customers answer the most commonly asked questions - with improved support to help get you a result faster. We'll be improving this over time and coming releases of the app. Any issues please do read the FAQ or contact support via the app. We're happy to help :)"
+      "name":"Human: Fall Flat",
+      "url":"https://apps.apple.com/us/app/human-fall-flat/id1438091392?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.2\n更新时间:  2020-05-11 22:58:59 (北京时间)\n\nNOW INCLUDES NEW ICE LEVEL"
     },
     {
       "name":"Pro Camera by Moment",
@@ -465,10 +387,124 @@
       "description":"最新版本:  4.0.5\n更新时间:  2020-05-05 00:48:00 (北京时间)\n\nFixes issues connecting to and updating the Moment Battery Case on the 2020 iPhone SE."
     },
     {
+      "name":"My Macros+ | Diet & Calories",
+      "url":"https://apps.apple.com/us/app/my-macros-diet-calories/id475249619?uo=4",
+      "num":"Health & Fitness",
+      "description":"最新版本:  2020.15\n更新时间:  2020-05-07 00:49:06 (北京时间)\n\nThank you very much for your continued support! We're here with another great update.\n\nIn this update we vastly improved external keyboard and trackpad support on iOS 13.4.\n• Hold the cmd key on your iPads keyboard to see all the quick actions you can perform without your hands leaving the keys\n\nWe also added some nice features to the left side menu. Now you can:\n• Reorder the food categories to whatever order you want\n• Add new, smart menu categories to track food even faster if you are a Pro user\n\nAlso, squashed some bugs around login, adding custom foods and tracking water in the main page pop up"
+    },
+    {
+      "name":"EpocCam Webcamera for Computer",
+      "url":"https://apps.apple.com/us/app/epoccam-webcamera-for-computer/id435355256?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  2020.1\n更新时间:  2020-04-16 23:37:41 (北京时间)\n\n-Fixes USB connectivity issues\n-Fixes WiFi connectivity issues"
+    },
+    {
+      "name":"NBA JAM by EA SPORTS™",
+      "url":"https://apps.apple.com/us/app/nba-jam-by-ea-sports/id402370879?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.1.71\n更新时间:  2020-02-19 01:35:42 (北京时间)\n\nBoo-yah! We’ve made some courtside improvements to keep your slam dunks sky-high and on point."
+    },
+    {
+      "name":"Lowriders Comeback 2: Cruising",
+      "url":"https://apps.apple.com/us/app/lowriders-comeback-2-cruising/id1291730054?uo=4",
+      "num":"Games",
+      "description":"最新版本:  3.3.2\n更新时间:  2020-01-31 11:23:36 (北京时间)\n\n- updated game engine\n- minor fixes\n- added 3 new cars\n- fixed server regions selecting"
+    },
+    {
+      "name":"Heads Up! Kids",
+      "url":"https://apps.apple.com/us/app/heads-up-kids/id937976391?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.2\n更新时间:  2019-09-19 04:51:41 (北京时间)\n\nThis update contains bug fixes and improved screen compatibility for iPhone X and above. Happy Playing!"
+    },
+    {
+      "name":"FNaF 6: Pizzeria Simulator",
+      "url":"https://apps.apple.com/us/app/fnaf-6-pizzeria-simulator/id1455781522?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.0\n更新时间:  2019-08-21 15:00:00 (北京时间)\n\n"
+    },
+    {
+      "name":"OneCast - Xbox Game Streaming",
+      "url":"https://apps.apple.com/us/app/onecast-xbox-game-streaming/id1398182637?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  1.12\n更新时间:  2019-08-07 14:41:46 (北京时间)\n\n• Miscellaneous bug fixes and stability enhancements"
+    },
+    {
+      "name":"TonalEnergy Tuner & Metronome",
+      "url":"https://apps.apple.com/us/app/tonalenergy-tuner-metronome/id497716362?uo=4",
+      "num":"Music",
+      "description":"最新版本:  1.7.2\n更新时间:  2019-08-14 23:59:02 (北京时间)\n\n- Added Siri Shortcut support for several operations. See Prefs-Siri Shortcuts for setting them up.\n\n- Added additional single 16th note subdivisions\n- Added count-in option for X/8 meters to use a quarter note as the beat during the count-in\n- Added AirTurn background operation support\n- Fixed issue with quarter note triplets"
+    },
+    {
       "name":"Rebel Inc.",
       "url":"https://apps.apple.com/us/app/rebel-inc/id1439187947?uo=4",
       "num":"Games",
       "description":"最新版本:  1.4.7\n更新时间:  2020-03-24 19:29:33 (北京时间)\n\nRebel Inc. Update 4 - The Azure Dam expansion\nNew map: Azure Dam - Rebuild a vast dam to prevent catastrophic floods and ensure stability in this arid region. Protect vulnerable supply convoys en route to the dam site, but beware - Insurgents forces will launch aggressive raids to destroy them!\n\nNew Governor: Development Director - This skilled micromanager deploys civilian experts to prioritise zones for development and rapidly stabilise key parts of the region. High performance. Delivered...\n\nAll new civilian ‘concerns’ mechanic - Wondering how to best win hearts and minds? Now you can gather intel on zones to discover if civilians need specific initiatives. Strategise and stabilise on a whole new level!\n\nNumerous balance tweaks, fixes and improvements including further AI enhancements.\n\nAs for the future, we’ve got a whole bunch more ideas for new maps, governors and more still to come. Let us know what you would most like to see!\n\nJames\n1.4.1 - New content automatically unlocks if previously bought\n1.4.2 - Fixed region zoom issue\n1.4.3 - Tweaks to game balance on lower difficulties\n1.4.5 - Fixed Warlord unlock bug, fixed Insurgent fleeing bug, improved Garrison placement AI\n1.4.6 - Added Turkish language support\n1.4.7 - Added Pashto and Dari language support"
+    },
+    {
+      "name":"Hear My Baby Heartbeat App",
+      "url":"https://apps.apple.com/us/app/hear-my-baby-heartbeat-app/id1111420122?uo=4",
+      "num":"Medical",
+      "description":"最新版本:  1.4\n更新时间:  2019-05-04 06:51:51 (北京时间)\n\nOur new Chatbot feature designed to help customers answer the most commonly asked questions - with improved support to help get you a result faster. We'll be improving this over time and coming releases of the app. Any issues please do read the FAQ or contact support via the app. We're happy to help :)"
+    },
+    {
+      "name":"FL Studio Mobile",
+      "url":"https://apps.apple.com/us/app/fl-studio-mobile/id432850619?uo=4",
+      "num":"Music",
+      "description":"最新版本:  3.2.85\n更新时间:  2020-05-04 08:14:11 (北京时间)\n\nBug fixes and stability improvements\n\nNOTE: To report bugs please tap the HELP button and let us know in the USERS & SUPPORT FORUM thanks!"
+    },
+    {
+      "name":"Five Nights at Freddy's 3",
+      "url":"https://apps.apple.com/us/app/five-nights-at-freddys-3/id973482987?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.0\n更新时间:  2020-02-05 01:44:13 (北京时间)\n\nScott Cawthon and Clickteam bring the superior version of Five Nights at Freddy's 3 to mobiles!\n- Remastered version from the PC version\n- High resolution graphics\n- High quality audio\n- All extras and minigames\n- Various bug fixes and improvements"
+    },
+    {
+      "name":"Cora — Organization tool",
+      "url":"https://apps.apple.com/us/app/cora-organization-tool/id1437303398?uo=4",
+      "num":"Utilities",
+      "description":"最新版本:  1.3.1\n更新时间:  2020-05-21 20:03:30 (北京时间)\n\n- Minor bug fixes"
+    },
+    {
+      "name":"The White Door",
+      "url":"https://apps.apple.com/us/app/the-white-door/id1472184189?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.3\n更新时间:  2020-01-29 08:17:07 (北京时间)\n\nThe White Door Basement has opened, are you ready to escape?\nThank you for playing The White Door! We fixed a few bugs in this new version."
+    },
+    {
+      "name":"Ticket to Ride - Train Game",
+      "url":"https://apps.apple.com/us/app/ticket-to-ride-train-game/id432504470?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.7.4\n更新时间:  2020-05-19 02:49:05 (北京时间)\n\nTurn banner has been removed"
+    },
+    {
+      "name":"Catan Classic",
+      "url":"https://apps.apple.com/us/app/catan-classic/id335029050?uo=4",
+      "num":"Games",
+      "description":"最新版本:  4.7.2\n更新时间:  2019-12-11 06:24:17 (北京时间)\n\nCatan Classic 4.7.2\n-Proper UI scaling on iPhone 11 device\n-Optimizations for iOS 13.X.X\n-Fixed display issues in Almanac"
+    },
+    {
+      "name":"Star Wars™: KOTOR",
+      "url":"https://apps.apple.com/us/app/star-wars-kotor/id611436052?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.2.7\n更新时间:  2019-12-03 04:07:06 (北京时间)\n\n- Bug fixes for the iPhone 11 Pro"
+    },
+    {
+      "name":"Need for Speed™ Most Wanted",
+      "url":"https://apps.apple.com/us/app/need-for-speed-most-wanted/id540925164?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.1.3\n更新时间:  2019-12-04 01:30:08 (北京时间)\n\nCheck out the changes we've made to improve your racing experience. Thanks for playing!"
+    },
+    {
+      "name":"Scribblenauts Unlimited",
+      "url":"https://apps.apple.com/us/app/scribblenauts-unlimited/id1030902626?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.22\n更新时间:  2018-06-05 06:04:58 (北京时间)\n\n- Bug Fixes\n - iPhone X Support"
+    },
+    {
+      "name":"Tiny Wings",
+      "url":"https://apps.apple.com/us/app/tiny-wings/id417817520?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.3\n更新时间:  2017-12-10 00:31:40 (北京时间)\n\n- iPhone X support\n- the app is now universal\n- split screen multiplayer on any iPad\n- bugfixes"
     },
     {
       "name":"Goat Simulator",
@@ -483,88 +519,16 @@
       "description":"最新版本:  1.4.17\n更新时间:  2019-11-26 07:02:46 (北京时间)\n\n- Performance improvements\n- Bug fixes"
     },
     {
-      "name":"Pocket God",
-      "url":"https://apps.apple.com/us/app/pocket-god/id301387274?uo=4",
-      "num":"Entertainment",
-      "description":"最新版本:  1.48.2\n更新时间:  2015-08-20 10:05:15 (北京时间)\n\n64 bit compatibility"
-    },
-    {
-      "name":"Toca Hair Salon 3",
-      "url":"https://apps.apple.com/us/app/toca-hair-salon-3/id1119482395?uo=4",
-      "num":"Education",
-      "description":"最新版本:  1.2.7\n更新时间:  2019-03-01 09:03:02 (北京时间)\n\nThanks for sharing your feedback and reporting bugs — we’ve made some updates. Get the latest version to have the best experience! And leave us a review — we read every one of them!"
+      "name":"Where's My Water?",
+      "url":"https://apps.apple.com/us/app/wheres-my-water/id449735650?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.18.3\n更新时间:  2020-05-05 00:06:27 (北京时间)\n\nMinor bug fixes"
     },
     {
       "name":"Scribblenauts Remix",
       "url":"https://apps.apple.com/us/app/scribblenauts-remix/id444844790?uo=4",
       "num":"Games",
       "description":"最新版本:  7.5\n更新时间:  2018-06-20 02:31:15 (北京时间)\n\nBug Fixes"
-    },
-    {
-      "name":"Need for Speed™ Most Wanted",
-      "url":"https://apps.apple.com/us/app/need-for-speed-most-wanted/id540925164?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.1.3\n更新时间:  2019-12-04 01:30:08 (北京时间)\n\nCheck out the changes we've made to improve your racing experience. Thanks for playing!"
-    },
-    {
-      "name":"WaterMinder®",
-      "url":"https://apps.apple.com/us/app/waterminder/id653031147?uo=4",
-      "num":"Health & Fitness",
-      "description":"最新版本:  4.1.7\n更新时间:  2020-04-28 00:59:16 (北京时间)\n\nThank you for staying hydrated with us! In today’s update: \n• Added ability to turn off Analytics/Reporting tools. You can find the toggle in Settings  Advanced.\n• Added ability to see description for inactive Achievements.\nPlease stay safe and remember to hydrate!"
-    },
-    {
-      "name":"The White Door",
-      "url":"https://apps.apple.com/us/app/the-white-door/id1472184189?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.4\n更新时间:  2020-05-22 08:29:12 (北京时间)\n\nThank you for playing The White Door! We fixed a few bugs in this new version."
-    },
-    {
-      "name":"Star Wars™: KOTOR",
-      "url":"https://apps.apple.com/us/app/star-wars-kotor/id611436052?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.2.7\n更新时间:  2019-12-03 04:07:06 (北京时间)\n\n- Bug fixes for the iPhone 11 Pro"
-    },
-    {
-      "name":"Grand Theft Auto III",
-      "url":"https://apps.apple.com/us/app/grand-theft-auto-iii/id479662730?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.5\n更新时间:  2019-06-05 05:39:40 (北京时间)\n\nFull screen support on iPhone X / XS and iPad Pro.\nGeneral bug fixes and improvements."
-    },
-    {
-      "name":"AnkiMobile Flashcards",
-      "url":"https://apps.apple.com/us/app/ankimobile-flashcards/id373493387?uo=4",
-      "num":"Education",
-      "description":"最新版本:  2.0.63\n更新时间:  2020-05-15 18:12:57 (北京时间)\n\n- Fixed slow deck expanding/collapsing.\n- Fixed unused tags not being removed in database check.\n- Fixed top bar not appearing in some configurations.\n- Assorted other bugfixes."
-    },
-    {
-      "name":"GoodNotes 5",
-      "url":"https://apps.apple.com/us/app/goodnotes-5/id1444383602?uo=4",
-      "num":"Productivity",
-      "description":"最新版本:  5.4.23\n更新时间:  2020-05-14 08:38:51 (北京时间)\n\n- Sort by Type: in addition to sorting your library by name or date, you can now sort it by type to separate folders and documents better.\n- Improved rectangle recognition from shape tool\n- Fixed some crashes and minor bugs"
-    },
-    {
-      "name":"Amazing Frog?",
-      "url":"https://apps.apple.com/us/app/amazing-frog/id1357696438?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.3.1\n更新时间:  2020-04-29 21:01:26 (北京时间)\n\nNew Content - Flight School\nSupports 2 Player Split screen with controllers\nTouch controls improvement and fixes (such as pouring paint and grapple release)\nFace masks unlockable\nFrog milk Coffee Co.\nFlys\nGiant Sand Aligator ;)\nShark blimp...\nXmas content relocated\n...and more."
-    },
-    {
-      "name":"Ticket to Ride - Train Game",
-      "url":"https://apps.apple.com/us/app/ticket-to-ride-train-game/id432504470?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.7.4\n更新时间:  2020-05-19 02:49:05 (北京时间)\n\nTurn banner has been removed"
-    },
-    {
-      "name":"Notability",
-      "url":"https://apps.apple.com/us/app/notability/id360593530?uo=4",
-      "num":"Productivity",
-      "description":"最新版本:  9.3.5\n更新时间:  2020-05-21 09:44:34 (北京时间)\n\n*** What's New in 9.3.5 ***\n• Fixed an issue where the toolbar could become unresponsive\n• Fixed a potential crash when dismissing a tooltip\n• Fixed an issue where zooming could cause the note contents to disappear\n\n***What’s new in Notability 9.3***\nPresentation Mode: \n• Present a note to an external display in full screen without toolbars and menus\n• Note will crop to the external display aspect ratio so you know what’s being presented\n• Laser Pointer \n• Use Multi-Note to view a secondary note that stays hidden from the audience while presenting  \n\nSingle Page Mode: \n• Flip through a note horizontally one page at a time \n• Works well with Presentation Mode, so pages feel like slides \n\nOther fixes: \n• Larger page up/down arrows\n• Zoom Box can now be enabled with a finger tap while using Apple Pencil"
-    },
-    {
-      "name":"Scribblenauts Unlimited",
-      "url":"https://apps.apple.com/us/app/scribblenauts-unlimited/id1030902626?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.22\n更新时间:  2018-06-05 06:04:58 (北京时间)\n\n- Bug Fixes\n - iPhone X Support"
     },
     {
       "name":"MyFLO Period Tracker",
@@ -579,16 +543,52 @@
       "description":"最新版本:  1.1.9\n更新时间:  2017-12-20 10:47:35 (北京时间)\n\nHope you're all enjoying the game and it's brought back many great memories of this all-time classic!\n\nThis update contains:\n\n- Dutch language added\n- Various fixes throughout to improve game performance\n\nFor discussion and information, try the official forums at: https://forum.rollercoastertycoon.com/forumdisplay.php?58-RollerCoaster-Tycoon-Classic\n\nPlease update your reviews and thanks for your continued support! Enjoy the game!"
     },
     {
-      "name":"Catan Classic",
-      "url":"https://apps.apple.com/us/app/catan-classic/id335029050?uo=4",
+      "name":"Grand Theft Auto III",
+      "url":"https://apps.apple.com/us/app/grand-theft-auto-iii/id479662730?uo=4",
       "num":"Games",
-      "description":"最新版本:  4.7.2\n更新时间:  2019-12-11 06:24:17 (北京时间)\n\nCatan Classic 4.7.2\n-Proper UI scaling on iPhone 11 device\n-Optimizations for iOS 13.X.X\n-Fixed display issues in Almanac"
+      "description":"最新版本:  1.5\n更新时间:  2019-06-05 05:39:40 (北京时间)\n\nFull screen support on iPhone X / XS and iPad Pro.\nGeneral bug fixes and improvements."
     },
     {
-      "name":"Where's My Water?",
-      "url":"https://apps.apple.com/us/app/wheres-my-water/id449735650?uo=4",
+      "name":"GoodNotes 5",
+      "url":"https://apps.apple.com/us/app/goodnotes-5/id1444383602?uo=4",
+      "num":"Productivity",
+      "description":"最新版本:  5.4.23\n更新时间:  2020-05-14 08:38:51 (北京时间)\n\n- Sort by Type: in addition to sorting your library by name or date, you can now sort it by type to separate folders and documents better.\n- Improved rectangle recognition from shape tool\n- Fixed some crashes and minor bugs"
+    },
+    {
+      "name":"Pocket God",
+      "url":"https://apps.apple.com/us/app/pocket-god/id301387274?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  1.48.2\n更新时间:  2015-08-20 10:05:15 (北京时间)\n\n64 bit compatibility"
+    },
+    {
+      "name":"WaterMinder®",
+      "url":"https://apps.apple.com/us/app/waterminder/id653031147?uo=4",
+      "num":"Health & Fitness",
+      "description":"最新版本:  4.1.7\n更新时间:  2020-04-28 00:59:16 (北京时间)\n\nThank you for staying hydrated with us! In today’s update: \n• Added ability to turn off Analytics/Reporting tools. You can find the toggle in Settings  Advanced.\n• Added ability to see description for inactive Achievements.\nPlease stay safe and remember to hydrate!"
+    },
+    {
+      "name":"Papa's Bakeria To Go!",
+      "url":"https://apps.apple.com/us/app/papas-bakeria-to-go/id1491196899?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.18.3\n更新时间:  2020-05-05 00:06:27 (北京时间)\n\nMinor bug fixes"
+      "description":"最新版本:  1.0.0\n更新时间:  2020-01-16 22:07:46 (北京时间)\n\n"
+    },
+    {
+      "name":"Shadowrocket",
+      "url":"https://apps.apple.com/us/app/shadowrocket/id932747118?uo=4",
+      "num":"Utilities",
+      "description":"最新版本:  2.1.52\n更新时间:  2020-04-09 02:41:26 (北京时间)\n\n* fix mux server tls handshake issue\n* fix http backend http pipeline issue\n* fix dns query key crash issue\n* fix http2 multiple authority issue\n* fix kcptun plugin options parse issue\n* fix feedback email compose issue\n* fix subscribe server remarks issue\n* fix server options dark mode issue"
+    },
+    {
+      "name":"Trivia Crack (No Ads)",
+      "url":"https://apps.apple.com/us/app/trivia-crack-no-ads/id723795263?uo=4",
+      "num":"Games",
+      "description":"最新版本:  3.70.0\n更新时间:  2020-05-20 07:31:38 (北京时间)\n\n-Bug fixes\n-User interface improvements"
+    },
+    {
+      "name":"AnkiMobile Flashcards",
+      "url":"https://apps.apple.com/us/app/ankimobile-flashcards/id373493387?uo=4",
+      "num":"Education",
+      "description":"最新版本:  2.0.63\n更新时间:  2020-05-15 18:12:57 (北京时间)\n\n- Fixed slow deck expanding/collapsing.\n- Fixed unused tags not being removed in database check.\n- Fixed top bar not appearing in some configurations.\n- Assorted other bugfixes."
     }
   ]
 }
