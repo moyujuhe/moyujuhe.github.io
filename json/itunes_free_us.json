@@ -1,6 +1,6 @@
 {
   "title":"AppStore免费排行榜(美区)",
-  "time":"2020-05-22 08:59:07",
+  "time":"2020-05-22 09:03:22",
   "data":[
     {
       "name":"ZOOM Cloud Meetings",
@@ -15,22 +15,28 @@
       "description":"最新版本:  16.0.0\n更新时间:  2020-05-08 15:24:07 (北京时间)\n\nUse brand new effects to make your videos shine!"
     },
     {
+      "name":"Recharge Please! - Puzzle Game",
+      "url":"https://apps.apple.com/us/app/recharge-please-puzzle-game/id1505770212?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.4\n更新时间:  2020-05-21 21:30:10 (北京时间)\n\nadded new levels."
+    },
+    {
       "name":"YouTube: Watch, Listen, Stream",
       "url":"https://apps.apple.com/us/app/youtube-watch-listen-stream/id544007664?uo=4",
       "num":"Photo & Video",
       "description":"最新版本:  15.20\n更新时间:  2020-05-20 07:22:49 (北京时间)\n\nBug fixes, stability improvements, repairs to time-space continuum, etc. etc."
     },
     {
+      "name":"Google Meet",
+      "url":"https://apps.apple.com/us/app/google-meet/id1013231476?uo=4",
+      "num":"Business",
+      "description":"最新版本:  41.0.0\n更新时间:  2020-05-01 02:25:18 (北京时间)\n\nMeet bug fixes and app improvements."
+    },
+    {
       "name":"SpongeBob: Krusty Cook-Off",
       "url":"https://apps.apple.com/us/app/spongebob-krusty-cook-off/id1433784188?uo=4",
       "num":"Games",
       "description":"最新版本:  1.0.15\n更新时间:  2020-05-12 15:00:00 (北京时间)\n\nHey, Fry Cooks! Get behind the grill and enjoy all-new optimizations, animations and customizations. We've cleaned the kitchens, washed the dishes and stocked the refrigerators, now get ready to delight your customers with the tastiest treats in Bikini Bottom! Thanks for playing!"
-    },
-    {
-      "name":"Recharge Please! - Puzzle Game",
-      "url":"https://apps.apple.com/us/app/recharge-please-puzzle-game/id1505770212?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.3.2\n更新时间:  2020-05-18 01:48:02 (北京时间)\n\nminor bug fix."
     },
     {
       "name":"Instagram",
@@ -42,7 +48,7 @@
       "name":"Facebook",
       "url":"https://apps.apple.com/us/app/facebook/id284882215?uo=4",
       "num":"Social Networking",
-      "description":"最新版本:  270.1\n更新时间:  2020-05-18 05:40:46 (北京时间)\n\nWe update the app regularly so we can make it better for you. Get the latest version for all of the available Facebook features. This version includes several bug fixes and performance improvements."
+      "description":"最新版本:  271.0\n更新时间:  2020-05-22 00:22:29 (北京时间)\n\nWe update the app regularly so we can make it better for you. Get the latest version for all of the available Facebook features. This version includes several bug fixes and performance improvements."
     },
     {
       "name":"Messenger",
@@ -51,10 +57,10 @@
       "description":"最新版本:  264.0\n更新时间:  2020-05-13 23:34:09 (北京时间)\n\nWe update the app regularly so that we can make it better for you. Get the latest version for all of the available Messenger features. This version includes several bug fixes and performance improvements. Thanks for using Messenger!"
     },
     {
-      "name":"Snapchat",
-      "url":"https://apps.apple.com/us/app/snapchat/id447188370?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  10.82.5.78\n更新时间:  2020-05-18 19:08:03 (北京时间)\n\nBug fixes"
+      "name":"Gmail - Email by Google",
+      "url":"https://apps.apple.com/us/app/gmail-email-by-google/id422689480?uo=4",
+      "num":"Productivity",
+      "description":"最新版本:  6.0.200412\n更新时间:  2020-05-02 03:41:14 (北京时间)\n\nYou can now search for emails even without connection."
     },
     {
       "name":"Cash App",
@@ -63,10 +69,10 @@
       "description":"最新版本:  3.14\n更新时间:  2020-05-16 02:20:23 (北京时间)\n\nThis release includes bug fixes & performance improvements"
     },
     {
-      "name":"Gmail - Email by Google",
-      "url":"https://apps.apple.com/us/app/gmail-email-by-google/id422689480?uo=4",
-      "num":"Productivity",
-      "description":"最新版本:  6.0.200412\n更新时间:  2020-05-02 03:41:14 (北京时间)\n\nYou can now search for emails even without connection."
+      "name":"Snapchat",
+      "url":"https://apps.apple.com/us/app/snapchat/id447188370?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  10.82.5.78\n更新时间:  2020-05-18 19:08:03 (北京时间)\n\nBug fixes"
     },
     {
       "name":"Tower Run - Grow Your Tower",
@@ -81,12 +87,6 @@
       "description":"最新版本:  15.9.0\n更新时间:  2020-05-21 10:17:49 (北京时间)\n\nEnjoy our latest update where we have fixed some bugs and improved our app to provide you a seamless shopping experience."
     },
     {
-      "name":"Google Meet",
-      "url":"https://apps.apple.com/us/app/google-meet/id1013231476?uo=4",
-      "num":"Business",
-      "description":"最新版本:  41.0.0\n更新时间:  2020-05-01 02:25:18 (北京时间)\n\nMeet bug fixes and app improvements."
-    },
-    {
       "name":"Walmart - shopping & grocery",
       "url":"https://apps.apple.com/us/app/walmart-shopping-grocery/id338137227?uo=4",
       "num":"Shopping",
@@ -97,12 +97,6 @@
       "url":"https://apps.apple.com/us/app/netflix/id363590051?uo=4",
       "num":"Entertainment",
       "description":"最新版本:  12.32.0\n更新时间:  2020-05-19 00:00:20 (北京时间)\n\nYou worry about what to watch next, we’re busy making that experience even better.\n\nWe want to help you find your next favorite show. This update’s playback improvements will help make it look even better too."
-    },
-    {
-      "name":"Avatan - Photo Editor, Retouch",
-      "url":"https://apps.apple.com/us/app/avatan-photo-editor-retouch/id790284480?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  2.64\n更新时间:  2020-05-16 18:52:25 (北京时间)\n\nNow the App is translated into Polish"
     },
     {
       "name":"SHEIN-Fashion Shopping Online",
@@ -117,6 +111,30 @@
       "description":"最新版本:  8.5.58\n更新时间:  2020-05-18 15:33:21 (北京时间)\n\nWe’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on.\n\nBug fixes and improvements in this version include:\n- Fixed stability issues"
     },
     {
+      "name":"Microsoft Teams",
+      "url":"https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4",
+      "num":"Business",
+      "description":"最新版本:  2.0.10\n更新时间:  2020-05-08 10:59:16 (北京时间)\n\nBug fixes and performance improvements"
+    },
+    {
+      "name":"Google Maps - Transit & Food",
+      "url":"https://apps.apple.com/us/app/google-maps-transit-food/id585027354?uo=4",
+      "num":"Navigation",
+      "description":"最新版本:  5.44\n更新时间:  2020-05-20 02:43:09 (北京时间)\n\nThanks for using Google Maps! This release brings bug fixes and new features to help users during COVID-19."
+    },
+    {
+      "name":"Venmo",
+      "url":"https://apps.apple.com/us/app/venmo/id351727428?uo=4",
+      "num":"Finance",
+      "description":"最新版本:  7.51.0\n更新时间:  2020-05-13 06:32:26 (北京时间)\n\nVenmo cardholders can now set up Direct Deposit into their Venmo accounts. With Direct Deposit on Venmo, paychecks can show up in your account up to two days earlier* than your normal payday. Find your account & routing number today under Settings -- Direct Deposit."
+    },
+    {
+      "name":"Shop: delivery & order tracker",
+      "url":"https://apps.apple.com/us/app/shop-delivery-order-tracker/id1223471316?uo=4",
+      "num":"Shopping",
+      "description":"最新版本:  2.1.0\n更新时间:  2020-05-12 01:41:14 (北京时间)\n\nBug fixes and improvements"
+    },
+    {
       "name":"Repair Master 3D",
       "url":"https://apps.apple.com/us/app/repair-master-3d/id1508589901?uo=4",
       "num":"Games",
@@ -129,22 +147,22 @@
       "description":"最新版本:  3.2.8\n更新时间:  2020-05-19 09:22:36 (北京时间)\n\nMinor updates and performance improvements"
     },
     {
-      "name":"Venmo",
-      "url":"https://apps.apple.com/us/app/venmo/id351727428?uo=4",
+      "name":"PayPal: Mobile Cash",
+      "url":"https://apps.apple.com/us/app/paypal-mobile-cash/id283646709?uo=4",
       "num":"Finance",
-      "description":"最新版本:  7.51.0\n更新时间:  2020-05-13 06:32:26 (北京时间)\n\nVenmo cardholders can now set up Direct Deposit into their Venmo accounts. With Direct Deposit on Venmo, paychecks can show up in your account up to two days earlier* than your normal payday. Find your account & routing number today under Settings -- Direct Deposit."
+      "description":"最新版本:  7.24.1\n更新时间:  2020-05-15 01:01:06 (北京时间)\n\nOptimized checkout experience; launch of native app without leaving merchant websites.\nOptimization to allow consumers to add nicknames to their bank and cards.\nP2P Enable users to add Animated Stickers in P2P send/request money flows.\nEnable Casual Sellers and Merchants to accept payments with QRCode."
     },
     {
       "name":"WhatsApp Messenger",
       "url":"https://apps.apple.com/us/app/whatsapp-messenger/id310633997?uo=4",
       "num":"Social Networking",
-      "description":"最新版本:  2.20.51\n更新时间:  2020-05-08 05:05:04 (北京时间)\n\n* Group video and voice calls now support up to 8 participants. All participants need to be on the latest version of WhatsApp.\n* Visual improvements for iOS 13 users including updated message action menu."
+      "description":"最新版本:  2.20.52\n更新时间:  2020-05-22 02:11:43 (北京时间)\n\n* Group video and voice calls now support up to 8 participants. All participants need to be on the latest version of WhatsApp.\n* Visual improvements for iOS 13 users including updated message action menu."
     },
     {
-      "name":"PayPal: Mobile Cash",
-      "url":"https://apps.apple.com/us/app/paypal-mobile-cash/id283646709?uo=4",
-      "num":"Finance",
-      "description":"最新版本:  7.24.1\n更新时间:  2020-05-15 01:01:06 (北京时间)\n\nOptimized checkout experience; launch of native app without leaving merchant websites.\nOptimization to allow consumers to add nicknames to their bank and cards.\nP2P Enable users to add Animated Stickers in P2P send/request money flows.\nEnable Casual Sellers and Merchants to accept payments with QRCode."
+      "name":"Avatan - Photo Editor, Retouch",
+      "url":"https://apps.apple.com/us/app/avatan-photo-editor-retouch/id790284480?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  2.64\n更新时间:  2020-05-16 18:52:25 (北京时间)\n\nNow the App is translated into Polish"
     },
     {
       "name":"Coin Master",
@@ -153,34 +171,28 @@
       "description":"最新版本:  3.5.100\n更新时间:  2020-05-12 16:23:34 (北京时间)\n\nThanks for playing Coin Master!\n\nIn this version, we’ve implemented updates to improve your overall experience.\n\nEnjoy a world of fun, thrills, and huge rewards right at your fingertips. Be sure your game is up to date so you can truly experience all there is to offer. \n\nInvite your friends to play Coin Master & get your FREE REWARDS! We also recommend joining our community on Facebook, Twitter, and Instagram for more fun & excitement.\n\nEnjoying Coin Master? Leave a review :)"
     },
     {
-      "name":"Shop: delivery & order tracker",
-      "url":"https://apps.apple.com/us/app/shop-delivery-order-tracker/id1223471316?uo=4",
-      "num":"Shopping",
-      "description":"最新版本:  2.1.0\n更新时间:  2020-05-12 01:41:14 (北京时间)\n\nBug fixes and improvements"
-    },
-    {
-      "name":"Hulu: Stream TV shows & movies",
-      "url":"https://apps.apple.com/us/app/hulu-stream-tv-shows-movies/id376510438?uo=4",
-      "num":"Entertainment",
-      "description":"最新版本:  7.0\n更新时间:  2020-05-19 03:33:49 (北京时间)\n\nWe can’t let those pesky bugs get in the way of your TV time! In this latest update, we took care of some bug-squashing duties and made improvements to account creation and sign up for users who may have been having issues. Download this latest version to get back to binging!"
-    },
-    {
       "name":"Wayfair – Shop All Things Home",
       "url":"https://apps.apple.com/us/app/wayfair-shop-all-things-home/id836767708?uo=4",
       "num":"Shopping",
       "description":"最新版本:  5.46.2\n更新时间:  2020-05-20 18:40:38 (北京时间)\n\nThank you for updating the Wayfair app! This version has more performance improvements and bug fixes than ever before!"
     },
     {
-      "name":"Google Maps - Transit & Food",
-      "url":"https://apps.apple.com/us/app/google-maps-transit-food/id585027354?uo=4",
-      "num":"Navigation",
-      "description":"最新版本:  5.44\n更新时间:  2020-05-20 02:43:09 (北京时间)\n\nThanks for using Google Maps! This release brings bug fixes and new features to help users during COVID-19."
-    },
-    {
       "name":"Pinterest",
       "url":"https://apps.apple.com/us/app/pinterest/id429047995?uo=4",
       "num":"Lifestyle",
       "description":"最新版本:  8.17\n更新时间:  2020-05-12 04:05:23 (北京时间)\n\nEvery week, we polish up the Pinterest app. This update includes:\n- Bug fixes\n- Performance improvements\n\nTell us if you like this latest version at https://help.pinterest.com/contact"
+    },
+    {
+      "name":"Google Chrome",
+      "url":"https://apps.apple.com/us/app/google-chrome/id535886823?uo=4",
+      "num":"Utilities",
+      "description":"最新版本:  83.0.4103.63\n更新时间:  2020-05-21 08:43:28 (北京时间)\n\nThanks for choosing Chrome! This version includes:\n•If you're signed in with your Google account, you can see your last 5 search queries by tapping the address bar in a new tab. \n•Prompts and messages from Chrome have a refreshed look. \n•On your iPhone, you can change webpage text to a comfortable size by opening Chrome's menu and tapping \"Zoom Text...\" or by going to your Accessibility settings. \n•Chrome updated its Terms of Service. To view them, go to Chrome's Settings  Google Chrome  Terms of Service. "
+    },
+    {
+      "name":"Hulu: Stream TV shows & movies",
+      "url":"https://apps.apple.com/us/app/hulu-stream-tv-shows-movies/id376510438?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  7.0\n更新时间:  2020-05-19 03:33:49 (北京时间)\n\nWe can’t let those pesky bugs get in the way of your TV time! In this latest update, we took care of some bug-squashing duties and made improvements to account creation and sign up for users who may have been having issues. Download this latest version to get back to binging!"
     },
     {
       "name":"Wish - Shopping Made Fun",
@@ -195,10 +207,10 @@
       "description":"最新版本:  8.19\n更新时间:  2020-05-18 20:56:58 (北京时间)\n\nWe made improvements and squashed bugs so Twitter is even better for you."
     },
     {
-      "name":"Roblox",
-      "url":"https://apps.apple.com/us/app/roblox/id431946152?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.431.404520\n更新时间:  2020-05-07 22:54:00 (北京时间)\n\nTo make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+      "name":"Google Duo",
+      "url":"https://apps.apple.com/us/app/google-duo/id1096918571?uo=4",
+      "num":"Social Networking",
+      "description":"最新版本:  89.0\n更新时间:  2020-05-22 02:06:38 (北京时间)\n\n• Make group video calls with up to 12 people\n• Send video and voice messages, photos and notes to a group\n• Quickly react to video messages with emojis\n• Create personalized notes when you can't call or record a message"
     },
     {
       "name":"Discord",
@@ -210,13 +222,7 @@
       "name":"DOP: Draw One Part",
       "url":"https://apps.apple.com/us/app/dop-draw-one-part/id1504434984?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.0.4\n更新时间:  2020-05-15 18:54:37 (北京时间)\n\n- Added 20 levels\n- Minor bug fix\n- Gameplay improvements\n- Added new levels in challenge mode\n- Enjoy the game!"
-    },
-    {
-      "name":"Google Duo",
-      "url":"https://apps.apple.com/us/app/google-duo/id1096918571?uo=4",
-      "num":"Social Networking",
-      "description":"最新版本:  88.0\n更新时间:  2020-05-15 08:37:35 (北京时间)\n\n• Make group video calls with up to 12 people\n• Send video and voice messages, photos and notes to a group\n• Quickly react to video messages with emojis\n• Create personalized notes when you can't call or record a message"
+      "description":"最新版本:  1.0.5\n更新时间:  2020-05-21 18:17:41 (北京时间)\n\n- Minor bug fix"
     },
     {
       "name":"Hyper Life",
@@ -225,22 +231,10 @@
       "description":"最新版本:  0.6\n更新时间:  2020-05-17 15:53:50 (北京时间)\n\n- New Content\n- NoAds.\n\n\nThank you for playing"
     },
     {
-      "name":"Google Chrome",
-      "url":"https://apps.apple.com/us/app/google-chrome/id535886823?uo=4",
-      "num":"Utilities",
-      "description":"最新版本:  83.0.4103.63\n更新时间:  2020-05-21 08:43:28 (北京时间)\n\nThanks for choosing Chrome! This version includes:\n•If you're signed in with your Google account, you can see your last 5 search queries by tapping the address bar in a new tab. \n•Prompts and messages from Chrome have a refreshed look. \n•On your iPhone, you can change webpage text to a comfortable size by opening Chrome's menu and tapping \"Zoom Text...\" or by going to your Accessibility settings. \n•Chrome updated its Terms of Service. To view them, go to Chrome's Settings  Google Chrome  Terms of Service. "
-    },
-    {
-      "name":"Call of Duty®: Mobile",
-      "url":"https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214?uo=4",
+      "name":"Roblox",
+      "url":"https://apps.apple.com/us/app/roblox/id431946152?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.0.12\n更新时间:  2020-04-29 11:45:09 (北京时间)\n\nWelcome to Season 6: ONCE UPON A TIME IN RUST. This is where legends are made. All new characters, weapons, premium and free Battle Pass with 50 tiers of rewards and more. Take on enemies in the new Rust map or 1v1 Duels in the new Saloon map. Play all new modes including Capture the Flag and Kill Confirmed. Season 6, only available on Call Of Duty Mobile. Download Now and Play Free."
-    },
-    {
-      "name":"Disney+",
-      "url":"https://apps.apple.com/us/app/disney/id1446075923?uo=4",
-      "num":"Entertainment",
-      "description":"最新版本:  1.5.1\n更新时间:  2020-04-27 23:01:47 (北京时间)\n\nWhat's new:\n• We added an extra layer of security for you. Now when you reset your email or password, you can also choose to log out of your account across all devices.\n• Data caps got you down? Now, you can choose video playback quality on your home network to help save data."
+      "description":"最新版本:  2.431.404520\n更新时间:  2020-05-07 22:54:00 (北京时间)\n\nTo make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
     },
     {
       "name":"Google",
@@ -252,37 +246,13 @@
       "name":"Fitness Coach",
       "url":"https://apps.apple.com/us/app/fitness-coach/id1472638797?uo=4",
       "num":"Health & Fitness",
-      "description":"最新版本:  1.4.13\n更新时间:  2020-05-13 03:46:52 (北京时间)\n\nMaintenant disponible en Français !"
+      "description":"最新版本:  1.4.14\n更新时间:  2020-05-21 14:10:32 (北京时间)\n\nFix onboarding"
     },
     {
-      "name":"Microsoft Teams",
-      "url":"https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4",
-      "num":"Business",
-      "description":"最新版本:  2.0.10\n更新时间:  2020-05-08 10:59:16 (北京时间)\n\nBug fixes and performance improvements"
-    },
-    {
-      "name":"Calm",
-      "url":"https://apps.apple.com/us/app/calm/id571800810?uo=4",
-      "num":"Health & Fitness",
-      "description":"最新版本:  4.26\n更新时间:  2020-05-16 00:54:41 (北京时间)\n\nThanks for using Calm! This update contains multiple bug fixes and performance improvements.\n\nBe sure to listen to our newest Sleep Stories including “The Natural Wonders of the World,” the second Sleep Story narrated by award-winning actress Eva Green, where you’ll experience the breathtaking beauty of the Northern Lights and the awe-inspiring landscape of the Grand Canyon as you drift off to dreamland. And don’t forget to listen to world-renowned actor Matthew McConaughey’s dreamy story about the mysteries of the universe in “Wonder.”\n\nNow you can practice Mindfulness with your children in a way that they understand and can enjoy too! Calm’s Head of Mindfulness, Tamara Levitt, teamed up with the Thomas and Friends™ engines to help little ones to manage difficult emotions and inspire kindness toward others. And enjoy even more Thomas and Friends™ fun with our newest Sleep Story, “Return to Sodor.”\n\nBe sure to check out our newest music track, “The Mosaic of Transformation,” where composer Kaitlyn Aurelia Smith explores the endless possibilities of electronic instruments.\n\nAs always, you can expect an original Daily Calm every day, new Sleep Stories every week, and new meditation programs.\nWhile you’re waiting for this update to download, take a few deep breaths and notice what is happening at this moment."
-    },
-    {
-      "name":"Amazon Prime Video",
-      "url":"https://apps.apple.com/us/app/amazon-prime-video/id545519333?uo=4",
-      "num":"Entertainment",
-      "description":"最新版本:  8.5\n更新时间:  2020-05-11 19:20:09 (北京时间)\n\nPress-and-hold (long-press) on videos to see the actions menu which includes play, add to Watchlist, download, share, and view details."
-    },
-    {
-      "name":"Fortnite",
-      "url":"https://apps.apple.com/us/app/fortnite/id1261357853?uo=4",
+      "name":"Call of Duty®: Mobile",
+      "url":"https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214?uo=4",
       "num":"Games",
-      "description":"最新版本:  12.60\n更新时间:  2020-05-20 13:49:41 (北京时间)\n\nThe top secret Fortnite Chapter 2 - Season 2 has been activated. Make sure you download the latest update to stay on top of all the new gadgets, Spy Games modes, and more!\n\nHaven't tried Fortnite before? The best time to start is… well, now!"
-    },
-    {
-      "name":"Twitch: Live Game Streaming",
-      "url":"https://apps.apple.com/us/app/twitch-live-game-streaming/id460177396?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  9.0.1\n更新时间:  2020-05-13 01:07:06 (北京时间)\n\nBug fixes, stability fixes, and app optimizations"
+      "description":"最新版本:  1.0.12\n更新时间:  2020-04-29 11:45:09 (北京时间)\n\nWelcome to Season 6: ONCE UPON A TIME IN RUST. This is where legends are made. All new characters, weapons, premium and free Battle Pass with 50 tiers of rewards and more. Take on enemies in the new Rust map or 1v1 Duels in the new Saloon map. Play all new modes including Capture the Flag and Kill Confirmed. Season 6, only available on Call Of Duty Mobile. Download Now and Play Free."
     },
     {
       "name":"Google Drive",
@@ -291,28 +261,16 @@
       "description":"最新版本:  4.2020.20202\n更新时间:  2020-05-18 23:35:06 (北京时间)\n\n* Bug fixes and performance improvements"
     },
     {
-      "name":"Flick Chess!!",
-      "url":"https://apps.apple.com/us/app/flick-chess/id1462269620?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.4.5\n更新时间:  2020-05-17 09:11:07 (北京时间)\n\n- Small issue fixed\n- New levels added"
-    },
-    {
-      "name":"Roku",
-      "url":"https://apps.apple.com/us/app/roku/id482066631?uo=4",
+      "name":"Disney+",
+      "url":"https://apps.apple.com/us/app/disney/id1446075923?uo=4",
       "num":"Entertainment",
-      "description":"最新版本:  6.3.5\n更新时间:  2020-05-08 01:20:27 (北京时间)\n\n- Fixed an error on the Help page."
+      "description":"最新版本:  1.5.1\n更新时间:  2020-04-27 23:01:47 (北京时间)\n\nWhat's new:\n• We added an extra layer of security for you. Now when you reset your email or password, you can also choose to log out of your account across all devices.\n• Data caps got you down? Now, you can choose video playback quality on your home network to help save data."
     },
     {
-      "name":"Enlight Videoleap Video Editor",
-      "url":"https://apps.apple.com/us/app/enlight-videoleap-video-editor/id1255135442?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  1.12.10\n更新时间:  2020-05-18 10:09:34 (北京时间)\n\nDear Videoleapers,\n\nHave you put away your winter sweaters yet? We're just in the process of bringing out our summer wardrobe as the sun comes out...\n\nStay healthy, stay warm, and enjoy the performance improvements we've worked on for this update!\n\nYours, \nThe Videoleap Team"
-    },
-    {
-      "name":"Nike",
-      "url":"https://apps.apple.com/us/app/nike/id1095459556?uo=4",
-      "num":"Shopping",
-      "description":"最新版本:  2.111.0\n更新时间:  2020-05-14 01:52:25 (北京时间)\n\n• Addressed various bugs and performance issues to improve the overall experience."
+      "name":"Starbucks",
+      "url":"https://apps.apple.com/us/app/starbucks/id331177714?uo=4",
+      "num":"Food & Drink",
+      "description":"最新版本:  5.18.2\n更新时间:  2020-05-17 01:00:18 (北京时间)\n\nWe made some changes to make things run smoothly."
     },
     {
       "name":"Google Classroom",
@@ -321,16 +279,52 @@
       "description":"最新版本:  2.2020.18205\n更新时间:  2020-05-04 23:28:48 (北京时间)\n\n* We've updated the look and feel of our grading pages\n* For easier navigation, we've updated the pages for joining a class\n* Plus, we've made additional bug fixes and performance improvements"
     },
     {
-      "name":"Go Knots 3D",
-      "url":"https://apps.apple.com/us/app/go-knots-3d/id1503028915?uo=4",
-      "num":"Games",
-      "description":"最新版本:  6.2\n更新时间:  2020-05-16 21:02:14 (北京时间)\n\nWe hope you're having fun playing Go Knots 3D!\n\nThis version includes:\n- Improvements on challenge levels\n- Bugfixes"
+      "name":"Enlight Videoleap Video Editor",
+      "url":"https://apps.apple.com/us/app/enlight-videoleap-video-editor/id1255135442?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  1.12.10\n更新时间:  2020-05-18 10:09:34 (北京时间)\n\nDear Videoleapers,\n\nHave you put away your winter sweaters yet? We're just in the process of bringing out our summer wardrobe as the sun comes out...\n\nStay healthy, stay warm, and enjoy the performance improvements we've worked on for this update!\n\nYours, \nThe Videoleap Team"
     },
     {
-      "name":"Whooo?",
-      "url":"https://apps.apple.com/us/app/whooo/id1509471075?uo=4",
+      "name":"Microsoft Outlook",
+      "url":"https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4",
+      "num":"Productivity",
+      "description":"最新版本:  4.38.0\n更新时间:  2020-05-18 23:33:09 (北京时间)\n\nOutlook helps you stay on top of upcoming meetings by highlighting relevant documents and slides.\n\nFeel free to send us any comments or questions by going to Settings  Help & Feedback – we’d love to hear from you."
+    },
+    {
+      "name":"Fortnite",
+      "url":"https://apps.apple.com/us/app/fortnite/id1261357853?uo=4",
       "num":"Games",
-      "description":"最新版本:  0.1.8\n更新时间:  2020-05-19 18:43:39 (北京时间)\n\nAdd mode tournament"
+      "description":"最新版本:  12.60\n更新时间:  2020-05-20 13:49:41 (北京时间)\n\nThe top secret Fortnite Chapter 2 - Season 2 has been activated. Make sure you download the latest update to stay on top of all the new gadgets, Spy Games modes, and more!\n\nHaven't tried Fortnite before? The best time to start is… well, now!"
+    },
+    {
+      "name":"Amazon Prime Video",
+      "url":"https://apps.apple.com/us/app/amazon-prime-video/id545519333?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  8.5\n更新时间:  2020-05-11 19:20:09 (北京时间)\n\nPress-and-hold (long-press) on videos to see the actions menu which includes play, add to Watchlist, download, share, and view details."
+    },
+    {
+      "name":"Calm",
+      "url":"https://apps.apple.com/us/app/calm/id571800810?uo=4",
+      "num":"Health & Fitness",
+      "description":"最新版本:  4.26\n更新时间:  2020-05-16 00:54:41 (北京时间)\n\nThanks for using Calm! This update contains multiple bug fixes and performance improvements.\n\nBe sure to listen to our newest Sleep Stories including “The Natural Wonders of the World,” the second Sleep Story narrated by award-winning actress Eva Green, where you’ll experience the breathtaking beauty of the Northern Lights and the awe-inspiring landscape of the Grand Canyon as you drift off to dreamland. And don’t forget to listen to world-renowned actor Matthew McConaughey’s dreamy story about the mysteries of the universe in “Wonder.”\n\nNow you can practice Mindfulness with your children in a way that they understand and can enjoy too! Calm’s Head of Mindfulness, Tamara Levitt, teamed up with the Thomas and Friends™ engines to help little ones to manage difficult emotions and inspire kindness toward others. And enjoy even more Thomas and Friends™ fun with our newest Sleep Story, “Return to Sodor.”\n\nBe sure to check out our newest music track, “The Mosaic of Transformation,” where composer Kaitlyn Aurelia Smith explores the endless possibilities of electronic instruments.\n\nAs always, you can expect an original Daily Calm every day, new Sleep Stories every week, and new meditation programs.\nWhile you’re waiting for this update to download, take a few deep breaths and notice what is happening at this moment."
+    },
+    {
+      "name":"Twitch: Live Game Streaming",
+      "url":"https://apps.apple.com/us/app/twitch-live-game-streaming/id460177396?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  9.0.1\n更新时间:  2020-05-13 01:07:06 (北京时间)\n\nBug fixes, stability fixes, and app optimizations"
+    },
+    {
+      "name":"Google Docs: Sync, Edit, Share",
+      "url":"https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640?uo=4",
+      "num":"Productivity",
+      "description":"最新版本:  1.2020.18201\n更新时间:  2020-05-06 23:13:50 (北京时间)\n\n* You can now tap on links to see a title and thumbnail preview\n* Bug fixes and performance improvements"
+    },
+    {
+      "name":"Nike",
+      "url":"https://apps.apple.com/us/app/nike/id1095459556?uo=4",
+      "num":"Shopping",
+      "description":"最新版本:  2.112.1\n更新时间:  2020-05-22 05:04:44 (北京时间)\n\n• Addressed various bugs and performance issues to improve the overall experience."
     },
     {
       "name":"eBay",
@@ -339,22 +333,22 @@
       "description":"最新版本:  6.1.0\n更新时间:  2020-05-12 01:43:34 (北京时间)\n\n• Bug fixes and performance improvements\n\nYour feedback is important to us. Please contact us by tweeting @askebay or visiting www.ebay.com/ios"
     },
     {
+      "name":"Go Knots 3D",
+      "url":"https://apps.apple.com/us/app/go-knots-3d/id1503028915?uo=4",
+      "num":"Games",
+      "description":"最新版本:  6.2\n更新时间:  2020-05-16 21:02:14 (北京时间)\n\nWe hope you're having fun playing Go Knots 3D!\n\nThis version includes:\n- Improvements on challenge levels\n- Bugfixes"
+    },
+    {
+      "name":"Flick Chess!!",
+      "url":"https://apps.apple.com/us/app/flick-chess/id1462269620?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.4.5\n更新时间:  2020-05-17 09:11:07 (北京时间)\n\n- Small issue fixed\n- New levels added"
+    },
+    {
       "name":"Google Photos",
       "url":"https://apps.apple.com/us/app/google-photos/id962194608?uo=4",
       "num":"Photo & Video",
       "description":"最新版本:  4.51\n更新时间:  2020-05-15 04:24:18 (北京时间)\n\nWe made improvements to our suggested actions so you can get things done faster."
-    },
-    {
-      "name":"Super Salon",
-      "url":"https://apps.apple.com/us/app/super-salon/id1493911570?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.2.0\n更新时间:  2020-05-12 09:40:13 (北京时间)\n\nNew male customers!\nAwesome new procedures!\nAccessorize your customers after completing their makeover"
-    },
-    {
-      "name":"OfferUp - Buy. Sell. Simple.",
-      "url":"https://apps.apple.com/us/app/offerup-buy-sell-simple/id468996152?uo=4",
-      "num":"Shopping",
-      "description":"最新版本:  3.58.0\n更新时间:  2020-05-08 02:21:30 (北京时间)\n\nThanks for using OfferUp! We've made updates to many of our existing features to make the app faster and more fun to use than ever before.\nWhat's new?\n- Minor bug fixes."
     },
     {
       "name":"PicsArt Photo & Video Editor",
@@ -369,130 +363,22 @@
       "description":"最新版本:  2005.1\n更新时间:  2020-05-20 00:14:53 (北京时间)\n\nBug fixes and feature improvements to reduce crashes and improve your overall listening experience."
     },
     {
-      "name":"Google Docs: Sync, Edit, Share",
-      "url":"https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640?uo=4",
-      "num":"Productivity",
-      "description":"最新版本:  1.2020.18201\n更新时间:  2020-05-06 23:13:50 (北京时间)\n\n* You can now tap on links to see a title and thumbnail preview\n* Bug fixes and performance improvements"
-    },
-    {
-      "name":"Fix the Item",
-      "url":"https://apps.apple.com/us/app/fix-the-item/id1506770503?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.0.4\n更新时间:  2020-05-15 19:22:29 (北京时间)\n\n- More items\n- Improvements in gameplay\n- Minor fixes"
-    },
-    {
-      "name":"Microsoft Outlook",
-      "url":"https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4",
-      "num":"Productivity",
-      "description":"最新版本:  4.38.0\n更新时间:  2020-05-18 23:33:09 (北京时间)\n\nOutlook helps you stay on top of upcoming meetings by highlighting relevant documents and slides.\n\nFeel free to send us any comments or questions by going to Settings  Help & Feedback – we’d love to hear from you."
-    },
-    {
-      "name":"Save The Girl!",
-      "url":"https://apps.apple.com/us/app/save-the-girl/id1490384223?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.1.3\n更新时间:  2020-05-18 09:49:34 (北京时间)\n\n- New levels.\n- Gameplay Optimization."
-    },
-    {
-      "name":"Target",
-      "url":"https://apps.apple.com/us/app/target/id297430070?uo=4",
+      "name":"OfferUp - Buy. Sell. Simple.",
+      "url":"https://apps.apple.com/us/app/offerup-buy-sell-simple/id468996152?uo=4",
       "num":"Shopping",
-      "description":"最新版本:  2020.8\n更新时间:  2020-05-06 20:36:36 (北京时间)\n\nWe’re making improvements with your health and safety in mind:\n\n• We’re making it even easier to place Drive Up orders, with improved availability filtering and easy reordering based on your past purchases. Start your next order on the Discover tab.\n• Same Day Delivery orders can now be scheduled up to 4 days in advance in select markets."
+      "description":"最新版本:  3.58.0\n更新时间:  2020-05-08 02:21:30 (北京时间)\n\nThanks for using OfferUp! We've made updates to many of our existing features to make the app faster and more fun to use than ever before.\nWhat's new?\n- Minor bug fixes."
     },
     {
-      "name":"SoundCloud - Music & Audio",
-      "url":"https://apps.apple.com/us/app/soundcloud-music-audio/id336353151?uo=4",
-      "num":"Music",
-      "description":"最新版本:  5.93.1\n更新时间:  2020-05-14 16:01:45 (北京时间)\n\nFixes a crash on your User Profile"
-    },
-    {
-      "name":"Robinhood: Invest. Save. Earn.",
-      "url":"https://apps.apple.com/us/app/robinhood-invest-save-earn/id938003185?uo=4",
-      "num":"Finance",
-      "description":"最新版本:  8.28.0\n更新时间:  2020-05-19 09:28:36 (北京时间)\n\nHere's what's under the hood in our latest update:\n- Bug fixes and improvements"
-    },
-    {
-      "name":"YOLO: Anonymous Q&A",
-      "url":"https://apps.apple.com/us/app/yolo-anonymous-q-a/id1462082664?uo=4",
-      "num":"Social Networking",
-      "description":"最新版本:  4.0.2\n更新时间:  2020-05-18 19:52:59 (北京时间)\n\n(New) Add friends to your stickers and receive anonymous messages together!"
-    },
-    {
-      "name":"Fishdom",
-      "url":"https://apps.apple.com/us/app/fishdom/id664575829?uo=4",
+      "name":"Super Salon",
+      "url":"https://apps.apple.com/us/app/super-salon/id1493911570?uo=4",
       "num":"Games",
-      "description":"最新版本:  4.8.0\n更新时间:  2020-05-06 16:56:10 (北京时间)\n\nDive into the latest Fishdom update!\n\nTHE SWEETEST PARTY\n- Host a soirée in the Candy Kingdom aquarium.\n- Get the stunning Candy Queen fish and her loyal pages!\n- Complete all the tasks in the Sweet Feat event to win a special decoration!\n\nA CASCADE OF EVENTS\n- Join the Fireworks Festival event to win heaps of coins and other prizes!\n\nALSO FEATURING\n- The new Music Room aquarium and 17 themed decorations.\n- Three new fish: Royal Panaque, Electric Blue Hap and Opera Singer.\n- A new element: Lanterns.\n\nWe hope you enjoy the new update!\nHave fun playing!"
+      "description":"最新版本:  1.2.0\n更新时间:  2020-05-12 09:40:13 (北京时间)\n\nNew male customers!\nAwesome new procedures!\nAccessorize your customers after completing their makeover"
     },
     {
-      "name":"PREQUEL: 3D Photo & D3D Camera",
-      "url":"https://apps.apple.com/us/app/prequel-3d-photo-d3d-camera/id1325756279?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  1.17.42\n更新时间:  2020-05-15 16:56:01 (北京时间)\n\nHi! We hope you're doing well!\n\nIn this version:\n• New RIO filters collection: add summer vibes with bright orange and cyan hues\n• New STARDUST effects collection: let it shine\n• Minor bugs fixes\n\nThank you for your support and feedback! It inspires us to work on making Prequel even better.\nStay safe"
-    },
-    {
-      "name":"Houseparty",
-      "url":"https://apps.apple.com/us/app/houseparty/id1065781769?uo=4",
-      "num":"Social Networking",
-      "description":"最新版本:  1.43.5\n更新时间:  2020-05-18 22:51:01 (北京时间)\n\nQuick! If you're reading this, smile really widely and think about how many other people are doing the exact same thing, right now.\n\nWe've made some improvements to make your app experience even better."
-    },
-    {
-      "name":"Property Brothers Home Design",
-      "url":"https://apps.apple.com/us/app/property-brothers-home-design/id1466332776?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.6.6\n更新时间:  2020-05-15 18:10:57 (北京时间)\n\nNew levels! New makeovers!"
-    },
-    {
-      "name":"Tinder",
-      "url":"https://apps.apple.com/us/app/tinder/id547702041?uo=4",
-      "num":"Lifestyle",
-      "description":"最新版本:  11.15.0\n更新时间:  2020-05-11 23:48:41 (北京时间)\n\nPesky bugs have been exterminated. Continue as you were."
-    },
-    {
-      "name":"Videoshop - Video Editor",
-      "url":"https://apps.apple.com/us/app/videoshop-video-editor/id615563599?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  7.7.0.5\n更新时间:  2020-04-24 23:18:26 (北京时间)\n\nMinor upgrades\n1. Fixed the desynchronization!\n2. Fixed the Fugue music.\n\nFound a bug? Please let us know at bugs@videoshop.net\nPublishers and Business Development can reach me at joe@videoshop.net\nMarketing and Advertising can reach us at marketing@videoshop.net"
-    },
-    {
-      "name":"Ice Cream Roll",
-      "url":"https://apps.apple.com/us/app/ice-cream-roll/id1499507396?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.1.2\n更新时间:  2020-05-18 17:34:44 (北京时间)\n\n* gameplay improvements"
-    },
-    {
-      "name":"Wobble Man",
-      "url":"https://apps.apple.com/us/app/wobble-man/id1488581193?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.0.27\n更新时间:  2020-05-08 22:21:56 (北京时间)\n\nGame experience optimized."
-    },
-    {
-      "name":"Starbucks",
-      "url":"https://apps.apple.com/us/app/starbucks/id331177714?uo=4",
-      "num":"Food & Drink",
-      "description":"最新版本:  5.18.2\n更新时间:  2020-05-17 01:00:18 (北京时间)\n\nWe made some changes to make things run smoothly."
-    },
-    {
-      "name":"Uber Eats: Order Food Delivery",
-      "url":"https://apps.apple.com/us/app/uber-eats-order-food-delivery/id1058959277?uo=4",
-      "num":"Food & Drink",
-      "description":"最新版本:  1.241.10006\n更新时间:  2020-05-20 03:49:05 (北京时间)\n\nWe update the Uber Eats app as often as possible to make it faster and more reliable for you. Here are a couple of the enhancements you'll find in the latest update:\n\n- Performance improvements\n- Localization updates\n\nLove the app? Rate us! Your feedback keeps the Uber Eats engine running.\nHave a question? Tap Help in the Uber Eats app or visit help.uber.com."
-    },
-    {
-      "name":"PictureThis - Plant Identifier",
-      "url":"https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129?uo=4",
-      "num":"Education",
-      "description":"最新版本:  1.33.5\n更新时间:  2020-05-18 13:11:02 (北京时间)\n\nA few minor bugs have been fixed for smoother user experience."
-    },
-    {
-      "name":"Omegle",
-      "url":"https://apps.apple.com/us/app/omegle/id1051900871?uo=4",
-      "num":"Social Networking",
-      "description":"最新版本:  2.1.0\n更新时间:  2020-05-14 00:51:16 (北京时间)\n\nBug fixes and performance improvements."
-    },
-    {
-      "name":"Fonts",
-      "url":"https://apps.apple.com/us/app/fonts/id1454061614?uo=4",
-      "num":"Utilities",
-      "description":"最新版本:  7.1.2\n更新时间:  2020-04-09 21:45:21 (北京时间)\n\nBug fixes and improvements"
+      "name":"Roku",
+      "url":"https://apps.apple.com/us/app/roku/id482066631?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  6.3.5\n更新时间:  2020-05-08 01:20:27 (北京时间)\n\n- Fixed an error on the Help page."
     },
     {
       "name":"Chick-fil-A",
@@ -501,76 +387,76 @@
       "description":"最新版本:  2020.5.0\n更新时间:  2020-05-06 21:58:24 (北京时间)\n\nThank you for downloading the Chick-fil-A App!\n- Customers can now specify their vehicle’s make to help Team Members more quickly identify them when placing drive-thru and curbside orders.\n- As always, we’ve added other less-visible bug fixes and performance improvements to further enhance your app experience."
     },
     {
-      "name":"Ultimate Disc",
-      "url":"https://apps.apple.com/us/app/ultimate-disc/id1497873581?uo=4",
+      "name":"Target",
+      "url":"https://apps.apple.com/us/app/target/id297430070?uo=4",
+      "num":"Shopping",
+      "description":"最新版本:  2020.8\n更新时间:  2020-05-06 20:36:36 (北京时间)\n\nWe’re making improvements with your health and safety in mind:\n\n• We’re making it even easier to place Drive Up orders, with improved availability filtering and easy reordering based on your past purchases. Start your next order on the Discover tab.\n• Same Day Delivery orders can now be scheduled up to 4 days in advance in select markets."
+    },
+    {
+      "name":"Whooo?",
+      "url":"https://apps.apple.com/us/app/whooo/id1509471075?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.2.11\n更新时间:  2020-05-13 04:49:45 (北京时间)\n\nBugfixes and performance improvements.\n\nThanks for playing!"
+      "description":"最新版本:  0.1.8\n更新时间:  2020-05-19 18:43:39 (北京时间)\n\nAdd mode tournament"
     },
     {
-      "name":"Zillow Real Estate & Rentals",
-      "url":"https://apps.apple.com/us/app/zillow-real-estate-rentals/id310738695?uo=4",
-      "num":"Lifestyle",
-      "description":"最新版本:  13.2.11\n更新时间:  2020-05-20 08:04:52 (北京时间)\n\nWe’ve made some updates to our app to help you in your home search. With this release we’ve made it easier to begin finding the home of your dreams by bringing the iPhone onboarding experience to your iPad. Download the app, sign in, and get started. We always welcome feedback, so feel free to reach out to us at iphonefeedback@zillow.com. Thanks!"
-    },
-    {
-      "name":"Reddit",
-      "url":"https://apps.apple.com/us/app/reddit/id1064216828?uo=4",
-      "num":"News",
-      "description":"最新版本:  2020.17.0\n更新时间:  2020-05-12 02:17:06 (北京时间)\n\n• New! Now you can easily follow broadcasters in RPAN\n• Design Update: Community selection on RPAN has a new look\n• Minor fixes and improvements—In an effort to be more transparent, we’ll admit that we only put this here in case we forgot something"
-    },
-    {
-      "name":"Randonautica",
-      "url":"https://apps.apple.com/us/app/randonautica/id1493743521?uo=4",
-      "num":"Travel",
-      "description":"最新版本:  1.0.2\n更新时间:  2020-04-14 01:15:09 (北京时间)\n\nAdd the new \"Temporal\" entropy source which uses your CPU clock as a local and physically based random number generator."
-    },
-    {
-      "name":"Color Flow 3D",
-      "url":"https://apps.apple.com/us/app/color-flow-3d/id1506390987?uo=4",
+      "name":"Fix the Item",
+      "url":"https://apps.apple.com/us/app/fix-the-item/id1506770503?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.10\n更新时间:  2020-05-14 03:04:48 (北京时间)\n\nNew levels!\nBug fixes and improvements."
+      "description":"最新版本:  1.0.4\n更新时间:  2020-05-15 19:22:29 (北京时间)\n\n- More items\n- Improvements in gameplay\n- Minor fixes"
     },
     {
-      "name":"Photomath",
-      "url":"https://apps.apple.com/us/app/photomath/id919087726?uo=4",
+      "name":"Save The Girl!",
+      "url":"https://apps.apple.com/us/app/save-the-girl/id1490384223?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.1.3\n更新时间:  2020-05-18 09:49:34 (北京时间)\n\n- New levels.\n- Gameplay Optimization."
+    },
+    {
+      "name":"Robinhood: Invest. Save. Earn.",
+      "url":"https://apps.apple.com/us/app/robinhood-invest-save-earn/id938003185?uo=4",
+      "num":"Finance",
+      "description":"最新版本:  8.28.0\n更新时间:  2020-05-19 09:28:36 (北京时间)\n\nHere's what's under the hood in our latest update:\n- Bug fixes and improvements"
+    },
+    {
+      "name":"Solitaire·",
+      "url":"https://apps.apple.com/us/app/solitaire/id593715088?uo=4",
+      "num":"Games",
+      "description":"最新版本:  7.2.0\n更新时间:  2020-05-14 14:09:53 (北京时间)\n\nDaily Challenge Fixes and Improvements"
+    },
+    {
+      "name":"PictureThis - Plant Identifier",
+      "url":"https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129?uo=4",
       "num":"Education",
-      "description":"最新版本:  6.13.0\n更新时间:  2020-05-16 14:09:06 (北京时间)\n\nWe update the app regularly to make studying as smooth as possible. Get the latest version which includes bug fixes and general improvements. Get unstuck faster, learn better, and get more time back for the other things in your life!"
+      "description":"最新版本:  1.33.5\n更新时间:  2020-05-18 13:11:02 (北京时间)\n\nA few minor bugs have been fixed for smoother user experience."
     },
     {
-      "name":"Bitmoji",
-      "url":"https://apps.apple.com/us/app/bitmoji/id868077558?uo=4",
-      "num":"Utilities",
-      "description":"最新版本:  10.82.1\n更新时间:  2020-05-15 09:49:52 (北京时间)\n\n*We fixed a few pesky bugs and spruced up the app."
+      "name":"SoundCloud - Music & Audio",
+      "url":"https://apps.apple.com/us/app/soundcloud-music-audio/id336353151?uo=4",
+      "num":"Music",
+      "description":"最新版本:  5.93.1\n更新时间:  2020-05-14 16:01:45 (北京时间)\n\nFixes a crash on your User Profile"
     },
     {
-      "name":"Celebs - Celebrity Look Alike",
-      "url":"https://apps.apple.com/us/app/celebs-celebrity-look-alike/id1488127870?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  1.2.12\n更新时间:  2020-05-05 05:55:11 (北京时间)\n\n- Bug fixes"
-    },
-    {
-      "name":"Grubhub: Local Food Delivery",
-      "url":"https://apps.apple.com/us/app/grubhub-local-food-delivery/id302920553?uo=4",
-      "num":"Food & Drink",
-      "description":"最新版本:  7.83\n更新时间:  2020-05-19 23:24:44 (北京时间)\n\nIntroducing Contact-free delivery, a new feature created for your safety and your driver’s. Opt in at checkout and your driver will call/text when they arrive and drop off your order."
-    },
-    {
-      "name":"ASMR Slicing",
-      "url":"https://apps.apple.com/us/app/asmr-slicing/id1494458254?uo=4",
+      "name":"Ice Cream Roll",
+      "url":"https://apps.apple.com/us/app/ice-cream-roll/id1499507396?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.2.2\n更新时间:  2020-05-05 15:38:11 (北京时间)\n\nBug patrol was here. The game is now better."
+      "description":"最新版本:  1.1.3\n更新时间:  2020-05-21 17:43:11 (北京时间)\n\n* Bug fixes\n* Localization added"
     },
     {
-      "name":"letgo: Sell & Buy Used Stuff",
-      "url":"https://apps.apple.com/us/app/letgo-sell-buy-used-stuff/id986339882?uo=4",
-      "num":"Shopping",
-      "description":"最新版本:  1.129.0\n更新时间:  2020-05-18 17:38:56 (北京时间)\n\n- ID verification: Verify your identity with an official ID, and see when other users have done the same\n- Revamped user reviews: Buyers and sellers will now have 7 days to review one another after completing a transaction - and your reviews won’t be visible until you’ve both completed one or the 7-day window has ended\n\nIf you have any suggestions, give us a shout at support@letgo.com!\n\nthe letgo team"
+      "name":"Fishdom",
+      "url":"https://apps.apple.com/us/app/fishdom/id664575829?uo=4",
+      "num":"Games",
+      "description":"最新版本:  4.8.0\n更新时间:  2020-05-06 16:56:10 (北京时间)\n\nDive into the latest Fishdom update!\n\nTHE SWEETEST PARTY\n- Host a soirée in the Candy Kingdom aquarium.\n- Get the stunning Candy Queen fish and her loyal pages!\n- Complete all the tasks in the Sweet Feat event to win a special decoration!\n\nA CASCADE OF EVENTS\n- Join the Fireworks Festival event to win heaps of coins and other prizes!\n\nALSO FEATURING\n- The new Music Room aquarium and 17 themed decorations.\n- Three new fish: Royal Panaque, Electric Blue Hap and Opera Singer.\n- A new element: Lanterns.\n\nWe hope you enjoy the new update!\nHave fun playing!"
     },
     {
-      "name":"Nike SNKRS: Sneaker Release",
-      "url":"https://apps.apple.com/us/app/nike-snkrs-sneaker-release/id911130812?uo=4",
-      "num":"Shopping",
-      "description":"最新版本:  4.6.0\n更新时间:  2020-04-28 23:29:42 (北京时间)\n\nBug fixes and enhancements."
+      "name":"Videoshop - Video Editor",
+      "url":"https://apps.apple.com/us/app/videoshop-video-editor/id615563599?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  7.7.0.5\n更新时间:  2020-04-24 23:18:26 (北京时间)\n\nMinor upgrades\n1. Fixed the desynchronization!\n2. Fixed the Fugue music.\n\nFound a bug? Please let us know at bugs@videoshop.net\nPublishers and Business Development can reach me at joe@videoshop.net\nMarketing and Advertising can reach us at marketing@videoshop.net"
+    },
+    {
+      "name":"PREQUEL: 3D Photo & D3D Camera",
+      "url":"https://apps.apple.com/us/app/prequel-3d-photo-d3d-camera/id1325756279?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  1.17.42\n更新时间:  2020-05-15 16:56:01 (北京时间)\n\nHi! We hope you're doing well!\n\nIn this version:\n• New RIO filters collection: add summer vibes with bright orange and cyan hues\n• New STARDUST effects collection: let it shine\n• Minor bugs fixes\n\nThank you for your support and feedback! It inspires us to work on making Prequel even better.\nStay safe"
     },
     {
       "name":"Escape Masters",
@@ -579,28 +465,142 @@
       "description":"最新版本:  1.1\n更新时间:  2020-05-16 19:47:52 (北京时间)\n\nWe are ready to make your game experience even greater. Bugs are fixed and game performance is optimized. Enjoy.\n\nOur team reads all reviews and always tries to make the game better. Please leave us some feedback if you love what we do and feel free to suggest any improvements."
     },
     {
-      "name":"PUBG MOBILE - Mad Miramar",
-      "url":"https://apps.apple.com/us/app/pubg-mobile-mad-miramar/id1330123889?uo=4",
-      "num":"Games",
-      "description":"最新版本:  0.18.0\n更新时间:  2020-05-07 11:01:56 (北京时间)\n\nPlay the most popular mobile game in the world for the best Battle Royale experience! \nExplore new areas and items in the updated Miramar map! \nA sandstorm is coming! Prepare well to survive in the extreme climate!\n\nUpgrades to Classic Maps\n1. Miramar Updates\n- A new Oasis in the northern part of the map and Ruins in the northwest are waiting for you to explore. More housing areas, roads, and resources have been added so that you can pick your landing spot and battles wisely.\n- A race track now runs through the whole map and is perfect for motorheads.\n- New Miramar vehicle: Golden Mirado. Only 1 will spawn on the map. Show off your riches in the desert!\n- Miramar's new Vending Machine: Get energy drinks or painkillers from Vending Machines scattered around the map. You might even be lucky enough to get 8 drinks at a time.\n- The Win94 comes with its own 2.7x Scope and only spawns in Miramar.\n2. Sandstorm Incoming\nThere is a chance that some areas in Miramar and the Main Menu will be ravaged by Sandstorms.\n3. Miramar Main Menu Theme\nUpdate and download the base map to get the Miramar Main Lobby and music.\n4. Miramar Achievements\nPlay the new Miramar map and complete the objectives to get these achievements.\n5. Miramar Events\nComplete new events for great rewards!\n\nUpdates to Classic Gameplay\n1. Bluehole Mode (coming soon)\n- Added Bluehole Mode to EvoGround: Erangel will now have 2 zones, an outer and inner zone. The inner zone is the newest addition which will represent the next play zone location. Players will lose health while in this inner zone as long as the outer zone is present. Once the outer zone finishes shrinking to the inner circle, a new inner zone will appear.\n- All supplies spawn with a 50% increase over the Classic Mode Erangel map. Players can revive a teammate in 4 seconds.\n2. Jungle Adventure (coming soon)\nDuring this event, when finding a match in Sanhok there is a random chance to enter Jungle Adventure Mode.\n- Totems: Find ancient totems and invoke their power for a chance to receive a blessing or item.\n- Jungle Food: Fruit and other foods grow in the wild. Eating them may grant mysterious effects.\n- Hot Air Balloon: Control the Hot Air Balloon to survey the battlefield.\nNew Arena Weapon\nNew Weapon: P90\n- The P90 has been added to the Arena and it is a fearsome weapon in close quarters.\n- Fires 9mm rounds and has a default magazine capacity of up to 50 shots. It has a single shot, burst shot, and full auto mode.\n- Equip the P90 with all SMG Muzzle attachments, 1x-6x Scope, and Laser Sight.\nBrand New Content\n1. Cheer Park:\nCheer Park is a social area that can accommodate 20 players at any time. It has most of the basic Training Ground features and lets players interact with other players in real-time!\n- Players can view the information of other players, chat, interact with Emotes, and add friends.\n- Players can team up with other players and play matches in various modes.\n- Invite friends to interact and roast chicken together in Cheer Park.\nPlayers can also engage in other interactions in Cheer Park:\n- Quick Draw: Players can have 1v1 duels with other players.\n- Hunt Game: The Hunt Game that was featured in the anniversary celebration is also available in Cheer Park. Give it a try!\n- The Shooting Range is a way to show off your shooting skills and compete against the other players in the Cheer Park. You can also share your results in chats.\n2. Guncraft Finishes\n- Players can customize the colors, patterns, and emblems of their weapons after obtaining customizable finishes.\n- Players can create custom Emblems to truly personalize their weapons.\n- Guncraft materials are obtained from Lucky Spin. Some materials can also be purchased directly.\n- Graffiti can be exchanged for Guncraft stickers and applied to weapons as a finish."
+      "name":"Photomath",
+      "url":"https://apps.apple.com/us/app/photomath/id919087726?uo=4",
+      "num":"Education",
+      "description":"最新版本:  6.13.0\n更新时间:  2020-05-16 14:09:06 (北京时间)\n\nWe update the app regularly to make studying as smooth as possible. Get the latest version which includes bug fixes and general improvements. Get unstuck faster, learn better, and get more time back for the other things in your life!"
     },
     {
-      "name":"Subway Surfers",
-      "url":"https://apps.apple.com/us/app/subway-surfers/id512939461?uo=4",
+      "name":"Property Brothers Home Design",
+      "url":"https://apps.apple.com/us/app/property-brothers-home-design/id1466332776?uo=4",
       "num":"Games",
-      "description":"最新版本:  2.0.2\n更新时间:  2020-05-18 22:43:26 (北京时间)\n\n- The Subway Surfers World Tour continues in vibrant Marrakesh\n- Explore sandy deserts, relaxing spas and colorful markets\n- Enjoy the astonishing surroundings with Salma and the rest of the crew\n- Unlock the Birthday board for a festive ride down the tracks\n- Collect the yummy Birthday Cake tokens and win fun Season Hunt prizes"
+      "description":"最新版本:  1.6.6\n更新时间:  2020-05-15 18:10:57 (北京时间)\n\nNew levels! New makeovers!"
     },
     {
-      "name":"YouTube Music",
-      "url":"https://apps.apple.com/us/app/youtube-music/id1017492454?uo=4",
-      "num":"Music",
-      "description":"最新版本:  3.67\n更新时间:  2020-05-21 01:03:39 (北京时间)\n\nExplore new releases, new music videos, playlists by mood, and more"
+      "name":"Cisco Webex Meetings",
+      "url":"https://apps.apple.com/us/app/cisco-webex-meetings/id298844386?uo=4",
+      "num":"Business",
+      "description":"最新版本:  40.4.0\n更新时间:  2020-04-30 11:57:34 (北京时间)\n\n﻿•Additional language support (Polish, Czech, Hungarian, Romanian)\n•Virtual background support for Webex Training and Webex Events\n•Smart Meeting improvement – low battery detection\n•iPad keyboard spacebar mute/unmute support\n•iPad split screen layout optimizations\n•Ford SYNC 3 active speaker name support\n•Usability improvements\n•Bug fixes"
     },
     {
-      "name":"Match 3D",
-      "url":"https://apps.apple.com/us/app/match-3d/id1502447854?uo=4",
+      "name":"Reddit",
+      "url":"https://apps.apple.com/us/app/reddit/id1064216828?uo=4",
+      "num":"News",
+      "description":"最新版本:  2020.17.0\n更新时间:  2020-05-12 02:17:06 (北京时间)\n\n• New! Now you can easily follow broadcasters in RPAN\n• Design Update: Community selection on RPAN has a new look\n• Minor fixes and improvements—In an effort to be more transparent, we’ll admit that we only put this here in case we forgot something"
+    },
+    {
+      "name":"Fetch Rewards: Shop, Snap, Win",
+      "url":"https://apps.apple.com/us/app/fetch-rewards-shop-snap-win/id1182474649?uo=4",
+      "num":"Shopping",
+      "description":"最新版本:  2.33.0\n更新时间:  2020-05-18 22:55:38 (北京时间)\n\nWe're always looking for ways to make the Fetch app better and easier to use. With this update we made a few improvements to make that happen, including adding Featured Rewards call-outs in the Rewards tab and making the handling of non-grocery receipts better. Plus, you'll notice we addressed some stability issues and added some polish to the app's design, creating a more consistent experience for you."
+    },
+    {
+      "name":"Uber Eats: Order Food Delivery",
+      "url":"https://apps.apple.com/us/app/uber-eats-order-food-delivery/id1058959277?uo=4",
+      "num":"Food & Drink",
+      "description":"最新版本:  1.241.10006\n更新时间:  2020-05-20 03:49:05 (北京时间)\n\nWe update the Uber Eats app as often as possible to make it faster and more reliable for you. Here are a couple of the enhancements you'll find in the latest update:\n\n- Performance improvements\n- Localization updates\n\nLove the app? Rate us! Your feedback keeps the Uber Eats engine running.\nHave a question? Tap Help in the Uber Eats app or visit help.uber.com."
+    },
+    {
+      "name":"Celebs - Celebrity Look Alike",
+      "url":"https://apps.apple.com/us/app/celebs-celebrity-look-alike/id1488127870?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  1.2.12\n更新时间:  2020-05-05 05:55:11 (北京时间)\n\n- Bug fixes"
+    },
+    {
+      "name":"Ultimate Disc",
+      "url":"https://apps.apple.com/us/app/ultimate-disc/id1497873581?uo=4",
       "num":"Games",
-      "description":"最新版本:  52\n更新时间:  2020-05-20 03:26:05 (北京时间)\n\nLevel improvements!"
+      "description":"最新版本:  1.2.11\n更新时间:  2020-05-13 04:49:45 (北京时间)\n\nBugfixes and performance improvements.\n\nThanks for playing!"
+    },
+    {
+      "name":"Lucky Plinko - Big Win",
+      "url":"https://apps.apple.com/us/app/lucky-plinko-big-win/id1508061181?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.0.5\n更新时间:  2020-05-16 23:48:23 (北京时间)\n\nFix some bugs."
+    },
+    {
+      "name":"Tinder",
+      "url":"https://apps.apple.com/us/app/tinder/id547702041?uo=4",
+      "num":"Lifestyle",
+      "description":"最新版本:  11.15.0\n更新时间:  2020-05-11 23:48:41 (北京时间)\n\nPesky bugs have been exterminated. Continue as you were."
+    },
+    {
+      "name":"Nike SNKRS: Sneaker Release",
+      "url":"https://apps.apple.com/us/app/nike-snkrs-sneaker-release/id911130812?uo=4",
+      "num":"Shopping",
+      "description":"最新版本:  4.6.0\n更新时间:  2020-04-28 23:29:42 (北京时间)\n\nBug fixes and enhancements."
+    },
+    {
+      "name":"YOLO: Anonymous Q&A",
+      "url":"https://apps.apple.com/us/app/yolo-anonymous-q-a/id1462082664?uo=4",
+      "num":"Social Networking",
+      "description":"最新版本:  4.0.2\n更新时间:  2020-05-18 19:52:59 (北京时间)\n\n(New) Add friends to your stickers and receive anonymous messages together!"
+    },
+    {
+      "name":"Fresh EBT - Food Stamp Balance",
+      "url":"https://apps.apple.com/us/app/fresh-ebt-food-stamp-balance/id1112719759?uo=4",
+      "num":"Finance",
+      "description":"最新版本:  3.6.7\n更新时间:  2020-05-19 04:15:32 (北京时间)\n\nLayout fixes, performance improvements"
+    },
+    {
+      "name":"Color Flow 3D",
+      "url":"https://apps.apple.com/us/app/color-flow-3d/id1506390987?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.0\n更新时间:  2020-05-22 04:41:40 (北京时间)\n\nNew levels!\nBug fixes and improvements."
+    },
+    {
+      "name":"Omegle",
+      "url":"https://apps.apple.com/us/app/omegle/id1051900871?uo=4",
+      "num":"Social Networking",
+      "description":"最新版本:  2.1.0\n更新时间:  2020-05-14 00:51:16 (北京时间)\n\nBug fixes and performance improvements."
+    },
+    {
+      "name":"Zillow Real Estate & Rentals",
+      "url":"https://apps.apple.com/us/app/zillow-real-estate-rentals/id310738695?uo=4",
+      "num":"Lifestyle",
+      "description":"最新版本:  13.2.11\n更新时间:  2020-05-20 08:04:52 (北京时间)\n\nWe’ve made some updates to our app to help you in your home search. With this release we’ve made it easier to begin finding the home of your dreams by bringing the iPhone onboarding experience to your iPad. Download the app, sign in, and get started. We always welcome feedback, so feel free to reach out to us at iphonefeedback@zillow.com. Thanks!"
+    },
+    {
+      "name":"Wobble Man",
+      "url":"https://apps.apple.com/us/app/wobble-man/id1488581193?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.0.27\n更新时间:  2020-05-08 22:21:56 (北京时间)\n\nGame experience optimized."
+    },
+    {
+      "name":"ASMR Slicing",
+      "url":"https://apps.apple.com/us/app/asmr-slicing/id1494458254?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.2.2\n更新时间:  2020-05-05 15:38:11 (北京时间)\n\nBug patrol was here. The game is now better."
+    },
+    {
+      "name":"Houseparty",
+      "url":"https://apps.apple.com/us/app/houseparty/id1065781769?uo=4",
+      "num":"Social Networking",
+      "description":"最新版本:  1.43.5\n更新时间:  2020-05-18 22:51:01 (北京时间)\n\nQuick! If you're reading this, smile really widely and think about how many other people are doing the exact same thing, right now.\n\nWe've made some improvements to make your app experience even better."
+    },
+    {
+      "name":"Google Slides",
+      "url":"https://apps.apple.com/us/app/google-slides/id879478102?uo=4",
+      "num":"Productivity",
+      "description":"最新版本:  1.2020.18202\n更新时间:  2020-05-06 23:16:10 (北京时间)\n\n* Bug fixes and performance improvements"
+    },
+    {
+      "name":"McDonald's",
+      "url":"https://apps.apple.com/us/app/mcdonalds/id922103212?uo=4",
+      "num":"Food & Drink",
+      "description":"最新版本:  6.6.1\n更新时间:  2020-05-07 04:13:39 (北京时间)\n\nIntroducing Siri Shortcuts. Add your order to Siri and reorder faster with voice command.\nUpdates to registration (now with Apple Sign In), account and Mobile Order & Pay — the smartest way to get your favorites.\nComing soon: Help Center, the place to find answers to your questions about the App, your account, McCafé Rewards and more.\nVisit www.mcdonalds.com/ccpa-rights-center URL link for Do Not Sell."
+    },
+    {
+      "name":"Bitmoji",
+      "url":"https://apps.apple.com/us/app/bitmoji/id868077558?uo=4",
+      "num":"Utilities",
+      "description":"最新版本:  10.82.1\n更新时间:  2020-05-15 09:49:52 (北京时间)\n\n*We fixed a few pesky bugs and spruced up the app."
+    },
+    {
+      "name":"letgo: Sell & Buy Used Stuff",
+      "url":"https://apps.apple.com/us/app/letgo-sell-buy-used-stuff/id986339882?uo=4",
+      "num":"Shopping",
+      "description":"最新版本:  1.129.0\n更新时间:  2020-05-18 17:38:56 (北京时间)\n\n- ID verification: Verify your identity with an official ID, and see when other users have done the same\n- Revamped user reviews: Buyers and sellers will now have 7 days to review one another after completing a transaction - and your reviews won’t be visible until you’ve both completed one or the 7-day window has ended\n\nIf you have any suggestions, give us a shout at support@letgo.com!\n\nthe letgo team"
     }
   ]
 }
