@@ -1,7 +1,11 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-22 12:16:16",
+  "time":"2020-05-22 12:20:26",
   "data":[
+    {
+      "name":"solo-blog 仓库同步功能回来了！",
+      "url":"https://hacpai.com/article/1589995001682"
+    },
     {
       "name":"GitHub “用爱发电” 组织邀请帖",
       "url":"https://hacpai.com/article/1570552518797"
@@ -237,10 +241,6 @@
     {
       "name":"微粒贷刷屏裂变，做了个闭环啊",
       "url":"https://hacpai.com/article/1588042911073"
-    },
-    {
-      "name":"一款生成在线数据库文档的小工具（Golang）",
-      "url":"https://hacpai.com/article/1587970215919"
     }
   ]
 }
