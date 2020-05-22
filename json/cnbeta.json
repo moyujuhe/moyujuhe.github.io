@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 02:52:28",
+  "time":"2020-05-23 02:56:37",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"美国增强现实初创公司Magic Leap宣布融资3.5亿美元",
+      "url":"https://www.cnbeta.com/articles/tech/982333.htm"
+    },
     {
       "name":"三星2020年电视和音箱新产品详解",
       "url":"https://www.cnbeta.com/articles/tech/982331.htm"
@@ -237,10 +241,6 @@
     {
       "name":"无人机337调查落幕：中国大疆胜 美指控三项专利侵权全部无效",
       "url":"https://www.cnbeta.com/articles/tech/982215.htm"
-    },
-    {
-      "name":"美法院：执法部门查看锁屏也需要搜查令",
-      "url":"https://www.cnbeta.com/articles/tech/982213.htm"
     }
   ]
 }
