@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 02:23:08",
+  "time":"2020-05-23 02:27:18",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"三星2020年电视和音箱新产品详解",
+      "url":"https://www.cnbeta.com/articles/tech/982331.htm"
+    },
     {
       "name":"据报道苹果AirPods Studio耳机已经开始生产",
       "url":"https://www.cnbeta.com/articles/tech/982329.htm"
@@ -237,10 +241,6 @@
     {
       "name":"美法院：执法部门查看锁屏也需要搜查令",
       "url":"https://www.cnbeta.com/articles/tech/982213.htm"
-    },
-    {
-      "name":"Sonos中国：未曾与小米展开合作",
-      "url":"https://www.cnbeta.com/articles/tech/982211.htm"
     }
   ]
 }
