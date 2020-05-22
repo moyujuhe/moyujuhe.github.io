@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-23 07:09:35",
+  "time":"2020-05-23 07:13:42",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Twitter CEO：自动化会甚至会对编程工作构成威胁",
+      "url":"https://www.cnbeta.com/articles/tech/982339.htm"
+    },
+    {
+      "name":"福特预计今年底开始在美交付野马Mach-E",
+      "url":"https://www.cnbeta.com/articles/tech/982337.htm"
+    },
     {
       "name":"通用汽车将升级其超级巡航技术 以提供城市街道自动驾驶能力",
       "url":"https://www.cnbeta.com/articles/tech/982335.htm"
@@ -47,7 +55,7 @@
       "url":"https://hot.cnbeta.com/articles/game/982315.htm"
     },
     {
-      "name":"瑞幸咖啡跌超30% 总市值不足4亿美元",
+      "name":"瑞幸咖啡再度大跌30.85%收报1.39美元 总市值剩3.5亿美元",
       "url":"https://www.cnbeta.com/articles/tech/982313.htm"
     },
     {
@@ -233,14 +241,6 @@
     {
       "name":"专利曝光小米翻盖可折叠屏手机：摄像头可90度转体",
       "url":"https://www.cnbeta.com/articles/tech/982221.htm"
-    },
-    {
-      "name":"三星新建5nm生产线 台积电：有信心技术上持续领先",
-      "url":"https://www.cnbeta.com/articles/tech/982219.htm"
-    },
-    {
-      "name":"国产动画《我为歌狂2》新海报公布 2020年内在B站独家首播",
-      "url":"https://hot.cnbeta.com/articles/comic/982217.htm"
     }
   ]
 }
