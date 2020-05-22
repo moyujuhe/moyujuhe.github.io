@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 12:54:13",
+  "time":"2020-05-22 12:58:28",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Windows Hello已可用于谷歌Chrome浏览器中的支付认证",
+      "url":"https://www.cnbeta.com/articles/tech/982133.htm"
+    },
     {
       "name":"Fitbit发起一项新研究 欲开发检测COVID-19早期症状的算法",
       "url":"https://www.cnbeta.com/articles/tech/982131.htm"
@@ -237,10 +241,6 @@
     {
       "name":"[图]Pixel 4a再推迟至7月发布 将有两种配色 没有XL大屏版本",
       "url":"https://www.cnbeta.com/articles/tech/982015.htm"
-    },
-    {
-      "name":"科学家开发出新型光伏发电工具：既要有光也要有阴影",
-      "url":"https://www.cnbeta.com/articles/tech/982013.htm"
     }
   ]
 }
