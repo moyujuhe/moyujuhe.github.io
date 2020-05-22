@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-22 14:28:29",
+  "time":"2020-05-22 14:33:01",
   "data":[
     {
       "name":"solo-blog 仓库同步功能回来了！",
@@ -199,10 +199,6 @@
       "url":"https://hacpai.com/article/1587548843086"
     },
     {
-      "name":"电瓶赋 -- 窃·格瓦拉",
-      "url":"https://hacpai.com/article/1587537209270"
-    },
-    {
       "name":"黑客派成员马上突破 6W 啦",
       "url":"https://hacpai.com/article/1590027472618"
     },
@@ -221,6 +217,10 @@
     {
       "name":"Solo 80 端口不好使了",
       "url":"https://hacpai.com/article/1587656477399"
+    },
+    {
+      "name":"现代前端技术体系，你怎么看",
+      "url":"https://hacpai.com/article/1589990326052"
     },
     {
       "name":"使用 Solo 静态站点功能部署站点到 gitee 上的 Pages",
