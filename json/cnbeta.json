@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-22 17:22:27",
+  "time":"2020-05-22 17:26:39",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"传华为与联发科、紫光磋商采购更多芯片",
+      "url":"https://www.cnbeta.com/articles/tech/982247.htm"
+    },
     {
       "name":"[视频]庆祝《纸牌》30周年 微软号召玩家打破单日玩家最多游戏记录",
       "url":"https://hot.cnbeta.com/articles/game/982245.htm"
@@ -237,10 +241,6 @@
     {
       "name":"苹果HEIC照片格式导致许多高中生的大学入学考试不合格",
       "url":"https://www.cnbeta.com/articles/tech/982125.htm"
-    },
-    {
-      "name":"[图]熊蜂的特殊技能：咀嚼树叶能让植物提前30天开花",
-      "url":"https://www.cnbeta.com/articles/science/982123.htm"
     }
   ]
 }
