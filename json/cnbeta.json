@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-22 08:42:10",
+  "time":"2020-05-22 08:46:24",
   "title":"cnBeta",
   "data":[
     {
       "name":"微软Surface Go 2国行正式开卖 售价2988元起",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"美股收盘全线下跌：百度上涨超1%，金山云跌近9%",
+      "url":"https://www.cnbeta.com/articles/tech/982011.htm"
+    },
+    {
+      "name":"IBM在美国至少五个州裁员 裁员人数或上千",
+      "url":"https://www.cnbeta.com/articles/tech/982009.htm"
+    },
+    {
+      "name":"自然刊发上海团队研究：新冠进化稳定，两个分支临床区别不大",
+      "url":"https://www.cnbeta.com/articles/science/982007.htm"
     },
     {
       "name":"[视频]Firefox Reality首个正式版上架微软商城：支持HoloLens 2",
@@ -229,18 +241,6 @@
     {
       "name":"纽约州长感慨：中国人是对的 戴口罩确实有保护作用",
       "url":"https://www.cnbeta.com/articles/tech/981893.htm"
-    },
-    {
-      "name":"70%手机已支持北斗却没感受到？下载个App查证下",
-      "url":"https://www.cnbeta.com/articles/tech/981891.htm"
-    },
-    {
-      "name":"格芯纽约州晶圆厂Fab 8将被实施出口管制",
-      "url":"https://www.cnbeta.com/articles/tech/981889.htm"
-    },
-    {
-      "name":"京东：5月以来，摩托车及电动车头盔成交额增长近400%",
-      "url":"https://www.cnbeta.com/articles/tech/981887.htm"
     }
   ]
 }
