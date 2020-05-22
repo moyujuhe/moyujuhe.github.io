@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 02:53:00",
+  "time":"2020-05-23 03:51:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"蔚来汽车艰难的未来",
+      "url":"https://tech.sina.com.cn/i/2020-05-23/doc-iircuyvi4552764.shtml"
+    },
     {
       "name":"Business Insider：据悉IBM裁员数千人",
       "url":"https://tech.sina.com.cn/it/2020-05-23/doc-iirczymk3079324.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"华为就采购更多芯片展开磋商？联发科：和多家手机厂长期合作",
       "url":"https://tech.sina.com.cn/t/2020-05-22/doc-iircuyvi4486937.shtml"
-    },
-    {
-      "name":"为什么我们看不懂小米？",
-      "url":"https://tech.sina.com.cn/i/2020-05-22/doc-iirczymk3021418.shtml"
     }
   ]
 }
