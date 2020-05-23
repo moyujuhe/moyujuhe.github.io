@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 11:59:18",
+  "time":"2020-05-23 12:03:26",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"火箭发射后产生的太空垃圾照亮澳大利亚夜空",
+      "url":"https://www.cnbeta.com/articles/science/982493.htm"
+    },
     {
       "name":"软件代码曝光：索尼WH-1000XM4可同时与两个设备配对",
       "url":"https://www.cnbeta.com/articles/tech/982491.htm"
@@ -237,10 +241,6 @@
     {
       "name":"谷歌CEO称该公司员工将来不会全部采用远程办公",
       "url":"https://www.cnbeta.com/articles/tech/982373.htm"
-    },
-    {
-      "name":"微软：警惕利用COVID-19和Excel文件散播恐慌的大规模网络钓鱼活动",
-      "url":"https://www.cnbeta.com/articles/tech/982371.htm"
     }
   ]
 }
