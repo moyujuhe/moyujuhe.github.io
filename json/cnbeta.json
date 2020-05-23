@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-24 07:36:27",
+  "time":"2020-05-24 07:40:34",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"纽约时报提前公布24日头版：美国近10万人死亡 无法计算的损失",
+      "url":"https://www.cnbeta.com/articles/tech/982615.htm"
+    },
+    {
+      "name":"中国四大家鱼主宰美国:政府砸20亿美元治理 抓了没人吃",
+      "url":"https://www.cnbeta.com/articles/tech/982613.htm"
+    },
     {
       "name":"纯国产光威弈Pro SSD开卖：长江存储闪存＋联芸主控",
       "url":"https://www.cnbeta.com/articles/tech/982611.htm"
@@ -233,14 +241,6 @@
     {
       "name":"财务压力迫使编程平台Glitch裁员1/3",
       "url":"https://www.cnbeta.com/articles/tech/982495.htm"
-    },
-    {
-      "name":"火箭发射后产生的太空垃圾照亮澳大利亚夜空",
-      "url":"https://www.cnbeta.com/articles/science/982493.htm"
-    },
-    {
-      "name":"软件代码曝光：索尼WH-1000XM4可同时与两个设备配对",
-      "url":"https://www.cnbeta.com/articles/tech/982491.htm"
     }
   ]
 }
