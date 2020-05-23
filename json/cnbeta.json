@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 09:35:09",
+  "time":"2020-05-23 09:39:24",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软与联合健康集团推出工作场所健康应用ProtectWell",
+      "url":"https://www.cnbeta.com/articles/tech/982385.htm"
+    },
     {
       "name":"微软正在调查Windows 10 KB4556799更新导致的一些问题",
       "url":"https://www.cnbeta.com/articles/tech/982383.htm"
@@ -237,10 +241,6 @@
     {
       "name":"Intel 10nm+功德圆满：11代酷睿轻薄本冲上5GHz",
       "url":"https://www.cnbeta.com/articles/tech/982267.htm"
-    },
-    {
-      "name":"韩国研发世界最快电梯 ：每分钟1260米 世界第一高楼到顶仅需46秒",
-      "url":"https://www.cnbeta.com/articles/tech/982265.htm"
     }
   ]
 }
