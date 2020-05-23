@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 19:21:04",
+  "time":"2020-05-23 19:25:15",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"AMD锐龙3000 XT突然现身 XT后缀意义不明",
+      "url":"https://www.cnbeta.com/articles/tech/982579.htm"
+    },
     {
       "name":"360回应被美列\"实体清单\"：坚决反对这一不负责任的指责",
       "url":"https://www.cnbeta.com/articles/tech/982577.htm"
@@ -237,10 +241,6 @@
     {
       "name":"Loup Ventures分析师：苹果或借AR智能眼镜引领未来个人计算设备市场",
       "url":"https://www.cnbeta.com/articles/tech/982459.htm"
-    },
-    {
-      "name":"惠普企业公布新计划 目标是到2022年至少节省10亿美元的总开支",
-      "url":"https://www.cnbeta.com/articles/tech/982457.htm"
     }
   ]
 }
