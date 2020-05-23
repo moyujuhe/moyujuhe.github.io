@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 11:08:38",
+  "time":"2020-05-23 11:12:52",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软计划6月开测Windows 10 21H1更新",
+      "url":"https://www.cnbeta.com/articles/tech/982469.htm"
+    },
     {
       "name":"美国海军使用高能舰载激光武器击毁一架无人机",
       "url":"https://www.cnbeta.com/articles/tech/982467.htm"
@@ -237,10 +241,6 @@
     {
       "name":"新出现的iOS Bug阻止部分App打开 出现“此应用不再与您共享”提示",
       "url":"https://www.cnbeta.com/articles/tech/982349.htm"
-    },
-    {
-      "name":"IBM宣布新任CEO柯世纳上任以来首次裁员",
-      "url":"https://www.cnbeta.com/articles/tech/982347.htm"
     }
   ]
 }
