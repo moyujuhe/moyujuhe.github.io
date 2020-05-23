@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-23 18:16:25",
+  "time":"2020-05-23 18:21:12",
   "title":"V2EX热帖",
   "data":[
     {
@@ -12,7 +12,7 @@
     },
     {
       "name":"公司来了个\"大佬\" 大家来判断下是不是真大佬",
-      "url":"https://www.v2ex.com/t/674581#reply55"
+      "url":"https://www.v2ex.com/t/674581#reply58"
     },
     {
       "name":"初中毕业读技师学院还是中专、职校好？",
@@ -28,7 +28,7 @@
     },
     {
       "name":"照抄 Notion 界面、代码、接口的产品：寒舟 hanzhou.work",
-      "url":"https://www.v2ex.com/t/674611#reply31"
+      "url":"https://www.v2ex.com/t/674611#reply32"
     },
     {
       "name":"从开发角度上来讲 感觉 Win 和 Mac 系统差距越来越小了~",
@@ -36,11 +36,11 @@
     },
     {
       "name":"三星大量手机于今日（5.23）凌晨崩溃",
-      "url":"https://www.v2ex.com/t/674643#reply30"
+      "url":"https://www.v2ex.com/t/674643#reply31"
     },
     {
       "name":"《入栈》献给失业季的程序员们",
-      "url":"https://www.v2ex.com/t/674566#reply25"
+      "url":"https://www.v2ex.com/t/674566#reply26"
     },
     {
       "name":"快到 6.18 了，有没有什么最值得买的东西？",
@@ -52,7 +52,7 @@
     },
     {
       "name":"为什么大多数 Web 页面，在页面跳转时不能像 APP 一样使用过渡动画",
-      "url":"https://www.v2ex.com/t/674644#reply21"
+      "url":"https://www.v2ex.com/t/674644#reply22"
     },
     {
       "name":"话说 douyu 或者 bilibili 这种模式下使用版权音乐使自己盈利属于侵权么？",
@@ -95,6 +95,10 @@
       "url":"https://www.v2ex.com/t/674586#reply13"
     },
     {
+      "name":"提醒一下， PowerToys 新的 release 已经可以使用 PowerToys Run 了",
+      "url":"https://www.v2ex.com/t/674638#reply13"
+    },
+    {
       "name":"新规 6.1 之后骑电动必须带头盔，共享电动车怎么办？",
       "url":"https://www.v2ex.com/t/674681#reply13"
     },
@@ -109,10 +113,6 @@
     {
       "name":"求免费薅的 jdk-8u202- Linux -x64 下载地址",
       "url":"https://www.v2ex.com/t/674628#reply12"
-    },
-    {
-      "name":"提醒一下， PowerToys 新的 release 已经可以使用 PowerToys Run 了",
-      "url":"https://www.v2ex.com/t/674638#reply12"
     },
     {
       "name":"各位内网穿透/远程桌面用的什么服务器？",
@@ -131,24 +131,24 @@
       "url":"https://www.v2ex.com/t/674647#reply11"
     },
     {
+      "name":"Java 中多个项目同时执行，如何避免同时扫描到同一条数据",
+      "url":"https://www.v2ex.com/t/674673#reply11"
+    },
+    {
+      "name":"校招 offer 选择，阿里 vs 头条，技术栈 vs 户口",
+      "url":"https://www.v2ex.com/t/674704#reply11"
+    },
+    {
       "name":"dell 3219 还是 dell 2720",
       "url":"https://www.v2ex.com/t/674637#reply10"
     },
     {
-      "name":"android: 同一个 xml 布局文件，放在两个不同的项目之中，在 android studio 中预览的效果不一样，颜色深浅相差很多。",
-      "url":"https://www.v2ex.com/t/674570#reply9"
-    },
-    {
-      "name":"Java 中多个项目同时执行，如何避免同时扫描到同一条数据",
-      "url":"https://www.v2ex.com/t/674673#reply9"
-    },
-    {
       "name":"rbac 权限系统不用外键以后，关联操作变麻烦了(救救纠结的孩子吧)",
-      "url":"https://www.v2ex.com/t/674677#reply9"
+      "url":"https://www.v2ex.com/t/674677#reply10"
     },
     {
-      "name":"618 想组装一台黑苹果,单主机预算 4-5k,求推荐配置",
-      "url":"https://www.v2ex.com/t/674686#reply9"
+      "name":"Cpu 自带核显 hd530 可以硬解 4k 视频么",
+      "url":"https://www.v2ex.com/t/674678#reply10"
     }
   ]
 }
