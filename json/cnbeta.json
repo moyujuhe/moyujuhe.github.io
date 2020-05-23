@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 21:26:16",
+  "time":"2020-05-23 21:30:30",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Windows自带的聚合搜索来了 与Mac的Spotlight相比体验如何？",
+      "url":"https://www.cnbeta.com/articles/tech/982583.htm"
+    },
     {
       "name":"微软为内置指纹识别装置的耳机申请了专利",
       "url":"https://www.cnbeta.com/articles/tech/982581.htm"
@@ -237,10 +241,6 @@
     {
       "name":"离目的地更进一步：SpaceX载人龙飞船任务正按计划展开",
       "url":"https://www.cnbeta.com/articles/science/982463.htm"
-    },
-    {
-      "name":"新研究发现氯喹对COVID-19患者没有帮助  甚至可能会造成伤害",
-      "url":"https://www.cnbeta.com/articles/science/982461.htm"
     }
   ]
 }
