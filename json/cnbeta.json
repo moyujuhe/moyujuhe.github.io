@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 12:37:40",
+  "time":"2020-05-23 12:41:52",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Securonix：即将离职的员工对企业数据安全造成较大威胁",
+      "url":"https://www.cnbeta.com/articles/tech/982497.htm"
+    },
     {
       "name":"财务压力迫使编程平台Glitch裁员1/3",
       "url":"https://www.cnbeta.com/articles/tech/982495.htm"
@@ -237,10 +241,6 @@
     {
       "name":"报道称供应链管控不严致iOS 14内部早期版本泄露",
       "url":"https://www.cnbeta.com/articles/tech/982377.htm"
-    },
-    {
-      "name":"劳斯莱斯推出Cullinan SUV 1:8模型车：售价与全尺寸雅力士旗鼓相当",
-      "url":"https://www.cnbeta.com/articles/tech/982375.htm"
     }
   ]
 }
