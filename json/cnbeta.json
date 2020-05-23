@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-23 10:17:12",
+  "time":"2020-05-23 10:21:20",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"加州启动COVID-19接触者追踪计划",
+      "url":"https://www.cnbeta.com/articles/tech/982451.htm"
+    },
+    {
+      "name":"Mozilla呼吁美国国会保护用户线上浏览记录隐私",
+      "url":"https://www.cnbeta.com/articles/tech/982449.htm"
+    },
     {
       "name":"无线充电，对电动汽车来说有用么？",
       "url":"https://www.cnbeta.com/articles/tech/982447.htm"
@@ -233,14 +241,6 @@
     {
       "name":"三星2020年电视和音箱新产品详解",
       "url":"https://www.cnbeta.com/articles/tech/982331.htm"
-    },
-    {
-      "name":"据报道苹果AirPods Studio耳机已经开始生产",
-      "url":"https://www.cnbeta.com/articles/tech/982329.htm"
-    },
-    {
-      "name":"殿堂级经典游戏40年后重生 NVIDIA AI再现初代《吃豆人》",
-      "url":"https://www.cnbeta.com/articles/tech/982327.htm"
     }
   ]
 }
