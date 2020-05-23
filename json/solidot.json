@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-23 17:13:05",
+  "time":"2020-05-23 17:17:20",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"新西兰总理提议四天工作制",
+      "url":"https://www.solidot.org/story?sid=64448"
+    },
+    {
+      "name":"三星手机因锁屏 APP 闰月 bug 无限重启",
+      "url":"https://www.solidot.org/story?sid=64447"
+    },
     {
       "name":"中国黑客组织入侵网游开发商",
       "url":"https://www.solidot.org/story?sid=64446"
@@ -73,14 +81,6 @@
     {
       "name":"企业加强安全以防内部泄密",
       "url":"https://www.solidot.org/story?sid=64429"
-    },
-    {
-      "name":"美国参议院通过议案限制中国公司在美上市",
-      "url":"https://www.solidot.org/story?sid=64428"
-    },
-    {
-      "name":"肺炎疫情应对与政治立场",
-      "url":"https://www.solidot.org/story?sid=64427"
     }
   ]
 }
