@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 11:38:26",
+  "time":"2020-05-23 11:42:37",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"为火星探索做准备 NASA招募一小群人展开8个月隔离",
+      "url":"https://www.cnbeta.com/articles/science/982485.htm"
+    },
     {
       "name":"FDA：受欢迎的“天然”甲状腺产品因含过多甲状腺激素被召回",
       "url":"https://www.cnbeta.com/articles/science/982483.htm"
@@ -237,10 +241,6 @@
     {
       "name":"Windows 10大更新将引入Windows 10X的诸多功能",
       "url":"https://www.cnbeta.com/articles/tech/982365.htm"
-    },
-    {
-      "name":"美CDC揭示新冠传播速度如此之快的原因：35%感染者是无症状患者",
-      "url":"https://www.cnbeta.com/articles/science/982363.htm"
     }
   ]
 }
