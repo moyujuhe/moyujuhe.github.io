@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 12:50:15",
+  "time":"2020-05-23 12:54:26",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Disney+推Zenimation系列短剧：让迪士尼动画来帮你放松",
+      "url":"https://hot.cnbeta.com/articles/comic/982499.htm"
+    },
     {
       "name":"Securonix：即将离职的员工对企业数据安全造成较大威胁",
       "url":"https://www.cnbeta.com/articles/tech/982497.htm"
@@ -237,10 +241,6 @@
     {
       "name":"牧羊人：没人想要、需要机器人牧羊犬",
       "url":"https://www.cnbeta.com/articles/tech/982379.htm"
-    },
-    {
-      "name":"报道称供应链管控不严致iOS 14内部早期版本泄露",
-      "url":"https://www.cnbeta.com/articles/tech/982377.htm"
     }
   ]
 }
