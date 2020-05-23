@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-24 01:59:38",
+  "time":"2020-05-24 02:03:54",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"AWS免费一年的EC2每个月流量是多少？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693659&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"aws可以用国内普通信用卡付款吗？",
@@ -109,10 +113,6 @@
     {
       "name":"小白驾到，统统闪开",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693626&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"勒索病毒来袭。。。",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693627&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
