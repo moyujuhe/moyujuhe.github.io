@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 10:13:01",
+  "time":"2020-05-23 10:17:12",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"无线充电，对电动汽车来说有用么？",
+      "url":"https://www.cnbeta.com/articles/tech/982447.htm"
+    },
     {
       "name":"替换华为中兴设备恶果初现：美国运营商为新法规所困 要求供20亿美元资金",
       "url":"https://www.cnbeta.com/articles/tech/982445.htm"
@@ -237,10 +241,6 @@
     {
       "name":"殿堂级经典游戏40年后重生 NVIDIA AI再现初代《吃豆人》",
       "url":"https://www.cnbeta.com/articles/tech/982327.htm"
-    },
-    {
-      "name":"台积电紧急接受华为7亿美元订单 9月禁令生效前出货",
-      "url":"https://www.cnbeta.com/articles/tech/982325.htm"
     }
   ]
 }
