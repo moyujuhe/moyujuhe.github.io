@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-23 08:03:21",
+  "time":"2020-05-23 08:07:28",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"第45次中国互联网发展状况统计报告",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693271&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"天翼云30t确实猛，转了一堆资源，才消耗15t",
@@ -109,10 +113,6 @@
     {
       "name":"5万条数据的wordpress用1g1核能带动吗？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693239&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"香港好像没那家做Hybrid Servers的大鸡？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693238&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
