@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-23 19:11:47",
+  "time":"2020-05-23 19:16:45",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"CloudFlare (CF) CDN开通伪Biz服务 Railgun|WAF|30PageRules|Pollish|Mirage",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693536&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"腾讯云CDN的后台出问题了",
@@ -109,10 +113,6 @@
     {
       "name":"良心云288 3年有多少人上车了？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693508&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"现在哪个论坛讨论asp和perl",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693507&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
