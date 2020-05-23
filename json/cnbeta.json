@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 09:30:37",
+  "time":"2020-05-23 09:35:09",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软正在调查Windows 10 KB4556799更新导致的一些问题",
+      "url":"https://www.cnbeta.com/articles/tech/982383.htm"
+    },
     {
       "name":"研究发现：特朗普大力推广的羟氯喹对新冠患者的危害性大于益处",
       "url":"https://www.cnbeta.com/articles/science/982381.htm"
@@ -237,10 +241,6 @@
     {
       "name":"韩国研发世界最快电梯 ：每分钟1260米 世界第一高楼到顶仅需46秒",
       "url":"https://www.cnbeta.com/articles/tech/982265.htm"
-    },
-    {
-      "name":"多种DNS解析程序被发现漏洞 允许攻击者发动拒绝服务攻击",
-      "url":"https://www.cnbeta.com/articles/tech/982263.htm"
     }
   ]
 }
