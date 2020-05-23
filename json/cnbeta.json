@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 11:55:11",
+  "time":"2020-05-23 11:59:18",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"软件代码曝光：索尼WH-1000XM4可同时与两个设备配对",
+      "url":"https://www.cnbeta.com/articles/tech/982491.htm"
+    },
     {
       "name":"科学家开发可在水中“自由落体”的生物探测器 以寻找浮游生物",
       "url":"https://www.cnbeta.com/articles/science/982489.htm"
@@ -237,10 +241,6 @@
     {
       "name":"微软：警惕利用COVID-19和Excel文件散播恐慌的大规模网络钓鱼活动",
       "url":"https://www.cnbeta.com/articles/tech/982371.htm"
-    },
-    {
-      "name":"新冠研究模型显示：若美国提前1周启动封锁 或可挽救3.6万人的生命",
-      "url":"https://www.cnbeta.com/articles/science/982369.htm"
     }
   ]
 }
