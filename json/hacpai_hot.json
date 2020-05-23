@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-23 09:14:01",
+  "time":"2020-05-23 09:18:11",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -211,6 +211,10 @@
       "url":"https://hacpai.com/article/1587656477399"
     },
     {
+      "name":"solo-blog 仓库同步功能回来了！",
+      "url":"https://hacpai.com/article/1589995001682"
+    },
+    {
       "name":"现代前端技术体系，你怎么看",
       "url":"https://hacpai.com/article/1589990326052"
     },
@@ -237,10 +241,6 @@
     {
       "name":"一款生成在线数据库文档的小工具（Golang）",
       "url":"https://hacpai.com/article/1587970215919"
-    },
-    {
-      "name":"api 接口有必要 restful 吗？",
-      "url":"https://hacpai.com/article/1587629717195"
     }
   ]
 }
