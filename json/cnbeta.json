@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 08:32:31",
+  "time":"2020-05-23 08:36:42",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Windows 10大更新将引入Windows 10X的诸多功能",
+      "url":"https://www.cnbeta.com/articles/tech/982365.htm"
+    },
     {
       "name":"美CDC揭示新冠传播速度如此之快的原因：35%感染者是无症状患者",
       "url":"https://www.cnbeta.com/articles/science/982363.htm"
@@ -237,10 +241,6 @@
     {
       "name":"传华为与联发科、紫光磋商采购更多芯片",
       "url":"https://www.cnbeta.com/articles/tech/982247.htm"
-    },
-    {
-      "name":"[视频]庆祝《纸牌》30周年 微软号召玩家打破单日玩家最多游戏记录",
-      "url":"https://hot.cnbeta.com/articles/game/982245.htm"
     }
   ]
 }

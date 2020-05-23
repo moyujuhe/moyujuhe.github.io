@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-23 08:32:34",
+  "time":"2020-05-23 08:36:44",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"华为云不用北岸接入吗？附上1M小水管的探针",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693276&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"腾讯云618活动 1核2G1M三年288 4核8G5M 三年1999",
@@ -109,10 +113,6 @@
     {
       "name":"Vultr的这三个位置网络那个更好？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693244&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"（此贴已废）气死我了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693243&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
