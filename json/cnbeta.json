@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-24 07:48:52",
+  "time":"2020-05-24 07:53:01",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"美国实体清单上，到底有哪三类中国科技公司？",
+      "url":"https://www.cnbeta.com/articles/tech/982619.htm"
+    },
     {
       "name":"5G时代，华为在汽车领域下一盘什么棋？",
       "url":"https://www.cnbeta.com/articles/tech/982617.htm"
@@ -237,10 +241,6 @@
     {
       "name":"Disney+推Zenimation系列短剧：让迪士尼动画来帮你放松",
       "url":"https://hot.cnbeta.com/articles/comic/982499.htm"
-    },
-    {
-      "name":"Securonix：即将离职的员工对企业数据安全造成较大威胁",
-      "url":"https://www.cnbeta.com/articles/tech/982497.htm"
     }
   ]
 }
