@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 11:17:12",
+  "time":"2020-05-23 11:21:32",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"研究人员在进行深海探测时发现神秘的“海底龙卷风”",
+      "url":"https://www.cnbeta.com/articles/science/982471.htm"
+    },
     {
       "name":"微软计划6月开测Windows 10 21H1更新",
       "url":"https://www.cnbeta.com/articles/tech/982469.htm"
@@ -237,10 +241,6 @@
     {
       "name":"骚扰电话、虚假宣传等问题成顽疾 三大电信运营商屡次整而不改",
       "url":"https://www.cnbeta.com/articles/tech/982351.htm"
-    },
-    {
-      "name":"新出现的iOS Bug阻止部分App打开 出现“此应用不再与您共享”提示",
-      "url":"https://www.cnbeta.com/articles/tech/982349.htm"
     }
   ]
 }

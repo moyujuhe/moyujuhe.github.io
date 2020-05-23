@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-23 11:17:12",
+  "time":"2020-05-23 11:21:32",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -219,6 +219,10 @@
       "url":"https://hacpai.com/article/1589990326052"
     },
     {
+      "name":"Solo 页脚配置问题",
+      "url":"https://hacpai.com/article/1589948209783"
+    },
+    {
       "name":"使用 Solo 静态站点功能部署站点到 gitee 上的 Pages",
       "url":"https://hacpai.com/article/1589808850287"
     },
@@ -237,10 +241,6 @@
     {
       "name":"微粒贷刷屏裂变，做了个闭环啊",
       "url":"https://hacpai.com/article/1588042911073"
-    },
-    {
-      "name":"一款生成在线数据库文档的小工具（Golang）",
-      "url":"https://hacpai.com/article/1587970215919"
     }
   ]
 }
