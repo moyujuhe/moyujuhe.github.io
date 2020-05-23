@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-23 10:30:23",
+  "time":"2020-05-23 10:34:41",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"惠普企业公布新计划 目标是到2022年至少节省10亿美元的总开支",
+      "url":"https://www.cnbeta.com/articles/tech/982457.htm"
+    },
+    {
+      "name":"美冒出新阴谋论：比尔·盖茨将利用新冠疫苗在人体内植入微芯片",
+      "url":"https://www.cnbeta.com/articles/tech/982455.htm"
+    },
     {
       "name":"《Mythic Quest》演员职工为新冠肺炎救济基金筹到60万美元善款",
       "url":"https://hot.cnbeta.com/articles/movie/982453.htm"
@@ -233,14 +241,6 @@
     {
       "name":"福特预计今年底开始在美交付野马Mach-E",
       "url":"https://www.cnbeta.com/articles/tech/982337.htm"
-    },
-    {
-      "name":"通用汽车将升级其超级巡航技术 以提供城市街道自动驾驶能力",
-      "url":"https://www.cnbeta.com/articles/tech/982335.htm"
-    },
-    {
-      "name":"美国增强现实初创公司Magic Leap宣布融资3.5亿美元",
-      "url":"https://www.cnbeta.com/articles/tech/982333.htm"
     }
   ]
 }
