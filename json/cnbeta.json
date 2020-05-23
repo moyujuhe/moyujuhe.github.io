@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-23 11:42:37",
+  "time":"2020-05-23 11:46:48",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"科学家开发可在水中“自由落体”的生物探测器 以寻找浮游生物",
+      "url":"https://www.cnbeta.com/articles/science/982489.htm"
+    },
+    {
+      "name":"向Gmail看齐：微软计划为Outlook添加智能输入建议功能",
+      "url":"https://www.cnbeta.com/articles/tech/982487.htm"
+    },
     {
       "name":"为火星探索做准备 NASA招募一小群人展开8个月隔离",
       "url":"https://www.cnbeta.com/articles/science/982485.htm"
@@ -233,14 +241,6 @@
     {
       "name":"新冠研究模型显示：若美国提前1周启动封锁 或可挽救3.6万人的生命",
       "url":"https://www.cnbeta.com/articles/science/982369.htm"
-    },
-    {
-      "name":"性能升级包现成为特斯拉Model 3性能版标配功能",
-      "url":"https://www.cnbeta.com/articles/tech/982367.htm"
-    },
-    {
-      "name":"Windows 10大更新将引入Windows 10X的诸多功能",
-      "url":"https://www.cnbeta.com/articles/tech/982365.htm"
     }
   ]
 }
