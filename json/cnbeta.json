@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 10:47:13",
+  "time":"2020-05-23 10:51:32",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"新研究发现氯喹对COVID-19患者没有帮助  甚至可能会造成伤害",
+      "url":"https://www.cnbeta.com/articles/science/982461.htm"
+    },
     {
       "name":"Loup Ventures分析师：苹果或借AR智能眼镜引领未来个人计算设备市场",
       "url":"https://www.cnbeta.com/articles/tech/982459.htm"
@@ -237,10 +241,6 @@
     {
       "name":"美租车巨头赫兹据称即将申请破产 盘后暴跌近40%",
       "url":"https://www.cnbeta.com/articles/tech/982341.htm"
-    },
-    {
-      "name":"Twitter CEO：自动化会甚至会对编程工作构成威胁",
-      "url":"https://www.cnbeta.com/articles/tech/982339.htm"
     }
   ]
 }
