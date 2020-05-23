@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-23 09:18:11",
+  "time":"2020-05-23 09:22:19",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"研究发现：特朗普大力推广的羟氯喹对新冠患者的危害性大于益处",
+      "url":"https://www.cnbeta.com/articles/science/982381.htm"
+    },
+    {
+      "name":"牧羊人：没人想要、需要机器人牧羊犬",
+      "url":"https://www.cnbeta.com/articles/tech/982379.htm"
+    },
+    {
+      "name":"报道称供应链管控不严致iOS 14内部早期版本泄露",
+      "url":"https://www.cnbeta.com/articles/tech/982377.htm"
+    },
     {
       "name":"劳斯莱斯推出Cullinan SUV 1:8模型车：售价与全尺寸雅力士旗鼓相当",
       "url":"https://www.cnbeta.com/articles/tech/982375.htm"
@@ -229,18 +241,6 @@
     {
       "name":"多种DNS解析程序被发现漏洞 允许攻击者发动拒绝服务攻击",
       "url":"https://www.cnbeta.com/articles/tech/982263.htm"
-    },
-    {
-      "name":"欧陆最强者！《实况足球2020》欧洲杯DLC宣传片公开",
-      "url":"https://hot.cnbeta.com/articles/game/982261.htm"
-    },
-    {
-      "name":"华为就采购更多芯片展开磋商？联发科:和多家手机厂商长期合作",
-      "url":"https://www.cnbeta.com/articles/tech/982259.htm"
-    },
-    {
-      "name":"裁员缩招屯人才 硅谷就业市场变了",
-      "url":"https://www.cnbeta.com/articles/tech/982257.htm"
     }
   ]
 }
