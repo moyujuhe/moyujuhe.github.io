@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-24 07:44:41",
+  "time":"2020-05-24 07:48:52",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"5G时代，华为在汽车领域下一盘什么棋？",
+      "url":"https://www.cnbeta.com/articles/tech/982617.htm"
+    },
     {
       "name":"纽约时报提前公布24日头版：美国近10万人死亡 无法计算的损失",
       "url":"https://www.cnbeta.com/articles/tech/982615.htm"
@@ -237,10 +241,6 @@
     {
       "name":"Securonix：即将离职的员工对企业数据安全造成较大威胁",
       "url":"https://www.cnbeta.com/articles/tech/982497.htm"
-    },
-    {
-      "name":"财务压力迫使编程平台Glitch裁员1/3",
-      "url":"https://www.cnbeta.com/articles/tech/982495.htm"
     }
   ]
 }
