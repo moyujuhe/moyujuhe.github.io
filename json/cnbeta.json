@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-23 08:20:05",
+  "time":"2020-05-23 08:24:14",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"美CDC揭示新冠传播速度如此之快的原因：35%感染者是无症状患者",
+      "url":"https://www.cnbeta.com/articles/science/982363.htm"
+    },
+    {
+      "name":"苹果AirPods创意广告《Bounce》斩获“最佳广告”奖",
+      "url":"https://hot.cnbeta.com/articles/comic/982361.htm"
+    },
     {
       "name":"福奇博士对Moderna的新冠候选疫苗持谨慎乐观态度",
       "url":"https://www.cnbeta.com/articles/science/982359.htm"
@@ -233,14 +241,6 @@
     {
       "name":"[视频]庆祝《纸牌》30周年 微软号召玩家打破单日玩家最多游戏记录",
       "url":"https://hot.cnbeta.com/articles/game/982245.htm"
-    },
-    {
-      "name":"2020年Q1最保值手机出炉：3999元小米10夺冠",
-      "url":"https://www.cnbeta.com/articles/tech/982243.htm"
-    },
-    {
-      "name":"Waymo首席安全官确认辞职 将继续担任公司顾问",
-      "url":"https://www.cnbeta.com/articles/tech/982241.htm"
     }
   ]
 }
