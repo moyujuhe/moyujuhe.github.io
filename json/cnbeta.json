@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 12:16:23",
+  "time":"2020-05-23 12:20:44",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"财务压力迫使编程平台Glitch裁员1/3",
+      "url":"https://www.cnbeta.com/articles/tech/982495.htm"
+    },
     {
       "name":"火箭发射后产生的太空垃圾照亮澳大利亚夜空",
       "url":"https://www.cnbeta.com/articles/science/982493.htm"
@@ -237,10 +241,6 @@
     {
       "name":"劳斯莱斯推出Cullinan SUV 1:8模型车：售价与全尺寸雅力士旗鼓相当",
       "url":"https://www.cnbeta.com/articles/tech/982375.htm"
-    },
-    {
-      "name":"谷歌CEO称该公司员工将来不会全部采用远程办公",
-      "url":"https://www.cnbeta.com/articles/tech/982373.htm"
     }
   ]
 }
