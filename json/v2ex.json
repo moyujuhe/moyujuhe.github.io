@@ -1,10 +1,10 @@
 {
-  "time":"2020-05-23 14:32:54",
+  "time":"2020-05-23 14:37:42",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"小白用 Linux 用哪个好，既能折腾，又能傻瓜式使用，而且稳定？",
-      "url":"https://www.v2ex.com/t/674584#reply85"
+      "url":"https://www.v2ex.com/t/674584#reply86"
     },
     {
       "name":"公司来了个\"大佬\" 大家来判断下是不是真大佬",
@@ -28,7 +28,11 @@
     },
     {
       "name":"照抄 Notion 界面、代码、接口的产品：寒舟 hanzhou.work",
-      "url":"https://www.v2ex.com/t/674611#reply24"
+      "url":"https://www.v2ex.com/t/674611#reply25"
+    },
+    {
+      "name":"为什么大多数 Web 页面，在页面跳转时不能像 APP 一样使用过渡动画",
+      "url":"https://www.v2ex.com/t/674644#reply18"
     },
     {
       "name":"快到 6.18 了，有没有什么最值得买的东西？",
@@ -37,10 +41,6 @@
     {
       "name":"话说 douyu 或者 bilibili 这种模式下使用版权音乐使自己盈利属于侵权么？",
       "url":"https://www.v2ex.com/t/674602#reply15"
-    },
-    {
-      "name":"为什么大多数 Web 页面，在页面跳转时不能像 APP 一样使用过渡动画",
-      "url":"https://www.v2ex.com/t/674644#reply15"
     },
     {
       "name":"关于相对论里面的双生子佯谬",
@@ -83,6 +83,10 @@
       "url":"https://www.v2ex.com/t/674638#reply9"
     },
     {
+      "name":"网易新游抄袭《赛博朋克 2077》",
+      "url":"https://www.v2ex.com/t/674645#reply9"
+    },
+    {
       "name":"android: 同一个 xml 布局文件，放在两个不同的项目之中，在 android studio 中预览的效果不一样，颜色深浅相差很多。",
       "url":"https://www.v2ex.com/t/674570#reply8"
     },
@@ -93,10 +97,6 @@
     {
       "name":"[求助] 2020 MBP 13 寸 蓝牙耳机连接不上",
       "url":"https://www.v2ex.com/t/674589#reply7"
-    },
-    {
-      "name":"网易新游抄袭《赛博朋克 2077》",
-      "url":"https://www.v2ex.com/t/674645#reply7"
     },
     {
       "name":"低调安利一款基于 gitops 的运维自动化产品",
@@ -139,8 +139,8 @@
       "url":"https://www.v2ex.com/t/674640#reply5"
     },
     {
-      "name":"在同样实现功能和 robust 的情况下，你倾向于如何写代码？",
-      "url":"https://www.v2ex.com/t/674603#reply4"
+      "name":"关于不锈钢的Watch 大家有没有什么推荐的表带呀",
+      "url":"https://www.v2ex.com/t/674647#reply5"
     }
   ]
 }
