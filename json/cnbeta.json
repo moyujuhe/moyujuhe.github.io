@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 09:39:24",
+  "time":"2020-05-23 09:43:42",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"GNYADA宣布正式取消2020年纽约车展",
+      "url":"https://www.cnbeta.com/articles/tech/982387.htm"
+    },
     {
       "name":"微软与联合健康集团推出工作场所健康应用ProtectWell",
       "url":"https://www.cnbeta.com/articles/tech/982385.htm"
@@ -237,10 +241,6 @@
     {
       "name":"15米长、近40吨重的抹香鲸塑化标本即将完成：千年不坏",
       "url":"https://www.cnbeta.com/articles/tech/982269.htm"
-    },
-    {
-      "name":"Intel 10nm+功德圆满：11代酷睿轻薄本冲上5GHz",
-      "url":"https://www.cnbeta.com/articles/tech/982267.htm"
     }
   ]
 }
