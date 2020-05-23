@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-23 19:46:22",
+  "time":"2020-05-23 19:50:31",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软为内置指纹识别装置的耳机申请了专利",
+      "url":"https://www.cnbeta.com/articles/tech/982581.htm"
+    },
     {
       "name":"AMD锐龙3000 XT突然现身 XT后缀意义不明",
       "url":"https://www.cnbeta.com/articles/tech/982579.htm"
@@ -237,10 +241,6 @@
     {
       "name":"新研究发现氯喹对COVID-19患者没有帮助  甚至可能会造成伤害",
       "url":"https://www.cnbeta.com/articles/science/982461.htm"
-    },
-    {
-      "name":"Loup Ventures分析师：苹果或借AR智能眼镜引领未来个人计算设备市场",
-      "url":"https://www.cnbeta.com/articles/tech/982459.htm"
     }
   ]
 }
