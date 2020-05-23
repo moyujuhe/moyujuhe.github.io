@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-23 09:52:02",
+  "time":"2020-05-23 09:56:10",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"对寨卡和埃博拉起作用的癌症药物可能成为新冠病毒的治疗方案",
+      "url":"https://www.cnbeta.com/articles/science/982405.htm"
+    },
+    {
+      "name":"阿里、拼多多财报“撞车”：暴增数字难掩增速低迷",
+      "url":"https://www.cnbeta.com/articles/tech/982403.htm"
+    },
+    {
+      "name":"PostgreSQL 13 Beta 1 发布 带来大量新特性",
+      "url":"https://www.cnbeta.com/articles/tech/982401.htm"
+    },
     {
       "name":"Adobe开始在Android分享和打开UI中塞入广告",
       "url":"https://www.cnbeta.com/articles/tech/982399.htm"
@@ -229,18 +241,6 @@
     {
       "name":"动画电影《杨戬》立项 《大圣归来》制作人任总制片",
       "url":"https://hot.cnbeta.com/articles/comic/982287.htm"
-    },
-    {
-      "name":"Mate家族新成员就位：华为注册Mate Watch商标",
-      "url":"https://www.cnbeta.com/articles/tech/982285.htm"
-    },
-    {
-      "name":"程序员用Windows记事本写出了光追演示程序：每秒30帧",
-      "url":"https://hot.cnbeta.com/articles/funny/982283.htm"
-    },
-    {
-      "name":"阿里年交易额破1万亿美元 张勇:新财年至少再增1万亿元",
-      "url":"https://www.cnbeta.com/articles/tech/982281.htm"
     }
   ]
 }
