@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-23 08:36:42",
+  "time":"2020-05-23 08:40:48",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"新冠研究模型显示：若美国提前1周启动封锁 或可挽救3.6万人的生命",
+      "url":"https://www.cnbeta.com/articles/science/982369.htm"
+    },
+    {
+      "name":"性能升级包现成为特斯拉Model 3性能版标配功能",
+      "url":"https://www.cnbeta.com/articles/tech/982367.htm"
+    },
     {
       "name":"Windows 10大更新将引入Windows 10X的诸多功能",
       "url":"https://www.cnbeta.com/articles/tech/982365.htm"
@@ -233,14 +241,6 @@
     {
       "name":"我国首型高原型无人直升机AR500C成功首飞",
       "url":"https://www.cnbeta.com/articles/tech/982251.htm"
-    },
-    {
-      "name":"实验性的光子芯片完成疯狂的44Terabit网速试验",
-      "url":"https://www.cnbeta.com/articles/tech/982249.htm"
-    },
-    {
-      "name":"传华为与联发科、紫光磋商采购更多芯片",
-      "url":"https://www.cnbeta.com/articles/tech/982247.htm"
     }
   ]
 }
