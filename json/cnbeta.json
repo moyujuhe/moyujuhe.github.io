@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-24 10:02:40",
+  "time":"2020-05-24 10:06:47",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]开源图形编辑器Krita首个测试版登陆Play商城 暂不支持Android手机",
+      "url":"https://www.cnbeta.com/articles/tech/982659.htm"
+    },
     {
       "name":"[图]惠普新款VR头显谍照曝光：配运动控制器 兼容SteamVR",
       "url":"https://www.cnbeta.com/articles/tech/982657.htm"
@@ -237,10 +241,6 @@
     {
       "name":"美版权局：是时候更新DMCA了",
       "url":"https://www.cnbeta.com/articles/tech/982541.htm"
-    },
-    {
-      "name":"瑞幸市值蒸发95% 将在近期举行听证会决定是否退市",
-      "url":"https://www.cnbeta.com/articles/tech/982539.htm"
     }
   ]
 }
