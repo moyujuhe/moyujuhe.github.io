@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-24 09:03:45",
+  "time":"2020-05-24 09:08:02",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"谷歌工程师：七成Chrome安全漏洞是内存安全问题，Rust 又成备选语言",
+      "url":"https://www.cnbeta.com/articles/tech/982651.htm"
+    },
     {
       "name":"维基百科新规将于年底前上线 更妥善保护女性和LGBTQ社区成员",
       "url":"https://www.cnbeta.com/articles/tech/982649.htm"
@@ -237,10 +241,6 @@
     {
       "name":"波兰男子解封后跟母熊打架 给熊留下“心理阴影”",
       "url":"https://hot.cnbeta.com/articles/funny/982533.htm"
-    },
-    {
-      "name":"医生或许已经找到如何让药物杀死新冠病病毒的方法",
-      "url":"https://www.cnbeta.com/articles/science/982531.htm"
     }
   ]
 }
