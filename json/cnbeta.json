@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-24 10:36:27",
+  "time":"2020-05-24 10:40:37",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"macOS Catalyst版Messages已在路上 和iOS/iPadOS共享代码",
+      "url":"https://www.cnbeta.com/articles/tech/982663.htm"
+    },
     {
       "name":"特朗普希望成立工作小组 调查社交平台上针对保守派人士的偏见投诉",
       "url":"https://www.cnbeta.com/articles/tech/982661.htm"
@@ -237,10 +241,6 @@
     {
       "name":"《正义联盟》导演剪辑版有郑恺 饰演四代原子侠",
       "url":"https://hot.cnbeta.com/articles/movie/982545.htm"
-    },
-    {
-      "name":"77位诺奖得主联名致信 谴责NIH停止资助冠状病毒研究",
-      "url":"https://www.cnbeta.com/articles/tech/982543.htm"
     }
   ]
 }
