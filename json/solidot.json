@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-24 21:52:01",
+  "time":"2020-05-24 21:56:16",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"呼吸习惯与身心健康相关",
+      "url":"https://www.solidot.org/story?sid=64454"
+    },
     {
       "name":"科学家发现帝企鹅粪便会制造笑气",
       "url":"https://www.solidot.org/story?sid=64453"
@@ -77,10 +81,6 @@
     {
       "name":"冷战卫星无意间跟踪到物种减少",
       "url":"https://www.solidot.org/story?sid=64435"
-    },
-    {
-      "name":"英特尔第十代酷睿处理器 Comet Lake-S 发布",
-      "url":"https://www.solidot.org/story?sid=64434"
     }
   ]
 }
