@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-24 15:33:00",
+  "time":"2020-05-24 15:37:55",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Switch成为美国今年4月最畅销主机 得益于动森热卖",
+      "url":"https://hot.cnbeta.com/articles/game/982769.htm"
+    },
+    {
+      "name":"一工程师因涉嫌欺诈150万美元抗疫贷款被捕",
+      "url":"https://www.cnbeta.com/articles/tech/982767.htm"
+    },
+    {
+      "name":"美国海军成功测试激光武器 击毁空中的无人机",
+      "url":"https://www.cnbeta.com/articles/tech/982765.htm"
+    },
     {
       "name":"借助氦气球 人们尝试站上天眼的表面做检查维修",
       "url":"https://www.cnbeta.com/articles/tech/982763.htm"
@@ -229,18 +241,6 @@
     {
       "name":"谷歌工程师：七成Chrome安全漏洞是内存安全问题，Rust 又成备选语言",
       "url":"https://www.cnbeta.com/articles/tech/982651.htm"
-    },
-    {
-      "name":"维基百科新规将于年底前上线 更妥善保护女性和LGBTQ社区成员",
-      "url":"https://www.cnbeta.com/articles/tech/982649.htm"
-    },
-    {
-      "name":"[图]毒蛇“之”字形图案新发现：兼具三种伪装作用",
-      "url":"https://www.cnbeta.com/articles/science/982633.htm"
-    },
-    {
-      "name":"如何区分MX350笔记本独显的满血版和残血版？",
-      "url":"https://www.cnbeta.com/articles/tech/982647.htm"
     }
   ]
 }
