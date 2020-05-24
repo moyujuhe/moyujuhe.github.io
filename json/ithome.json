@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-24 18:05:44",
+  "time":"2020-05-24 18:09:59",
   "title":"IT之家",
   "data":[
     {
@@ -27,10 +27,6 @@
       "url":"https://www.ithome.com/0/488/915.htm"
     },
     {
-      "name":"紫光推出 PCIe 4.0 SSD：最高4.5GB/s，1TB 1599元",
-      "url":"https://www.ithome.com/0/488/850.htm"
-    },
-    {
       "name":"微软 Win10 21H1 重磅系统曝光：代号 Iron（Fe） ，今年 6 月预览测试",
       "url":"https://www.ithome.com/0/488/893.htm"
     },
@@ -49,6 +45,10 @@
     {
       "name":"199 元，小米 Redmi 电视条形音箱上架：哑光黑，30W 扬声器搭配风管式音腔",
       "url":"https://www.ithome.com/0/488/909.htm"
+    },
+    {
+      "name":"奇瑞董事长：正研发中国汽车操作系统“雄狮”，把饭碗端在自己手里",
+      "url":"https://www.ithome.com/0/488/907.htm"
     },
     {
       "name":"苹果发布 iOS 13.5/iPadOS 13.5 正式版更新：面容 ID 针对口罩优化！",
@@ -187,12 +187,12 @@
       "url":"https://www.ithome.com/0/484/725.htm"
     },
     {
-      "name":"魅族17/17 Pro正式发布：全平衡设计/后置四摄，3699元起",
-      "url":"https://www.ithome.com/0/486/246.htm"
-    },
-    {
       "name":"微软 Win10 版本 2004 正式版 MSDN 官方 ISO 镜像上架",
       "url":"https://www.ithome.com/0/486/856.htm"
+    },
+    {
+      "name":"魅族17/17 Pro正式发布：全平衡设计/后置四摄，3699元起",
+      "url":"https://www.ithome.com/0/486/246.htm"
     }
   ]
 }
