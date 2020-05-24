@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-24 08:38:54",
+  "time":"2020-05-24 08:43:01",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"百度的免费CDN算啥CDN?",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693685&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"Cloudflareworker如何反代网站并替换内容？",
@@ -109,10 +113,6 @@
     {
       "name":"哪位MJJ会查看历史健康码？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693654&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"良心云1H2G 95元/年  代理折上折！",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693653&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
