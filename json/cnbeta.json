@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-24 23:44:08",
+  "time":"2020-05-24 23:48:57",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"呼吸习惯与身心健康相关",
+      "url":"https://www.cnbeta.com/articles/tech/982837.htm"
+    },
     {
       "name":"iPhone 12有了新变化：AirPods销量要涨 苹果故意为之",
       "url":"https://www.cnbeta.com/articles/tech/982835.htm"
@@ -237,10 +241,6 @@
     {
       "name":"分析师称苹果今年在汽车项目投入190亿美元",
       "url":"https://www.cnbeta.com/articles/tech/982719.htm"
-    },
-    {
-      "name":"杭州健康码未来可能出“渐变色” 可对个人与企业实现百分量化",
-      "url":"https://www.cnbeta.com/articles/tech/982717.htm"
     }
   ]
 }
