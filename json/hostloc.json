@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-24 08:55:30",
+  "time":"2020-05-24 08:59:39",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"奔牛cdn.bnxb.com新版即将上线",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693692&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"低价回收 一对一主控 ～～",
@@ -109,10 +113,6 @@
     {
       "name":"T楼送CloudFlare Railgun激活token*3枚",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693662&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"求个大佬帮忙看下怎么过gcp",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693660&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
