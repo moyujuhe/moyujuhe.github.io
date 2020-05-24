@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-25 07:52:15",
+  "time":"2020-05-25 07:56:27",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"诺贝尔经济学奖得主威廉姆森病逝 10年前曾到中国“布道”",
+      "url":"https://www.cnbeta.com/articles/tech/982861.htm"
+    },
+    {
+      "name":"美国临床试验显示：瑞德西韦未明显降低新冠病死率",
+      "url":"https://www.cnbeta.com/articles/tech/982859.htm"
+    },
     {
       "name":"苹果发布Apple TV+新广告 旨在推广儿童节目",
       "url":"https://hot.cnbeta.com/articles/movie/982857.htm"
@@ -233,14 +241,6 @@
     {
       "name":"暴雨导致电动车泡水 更换电池太贵致多数整车报废",
       "url":"https://www.cnbeta.com/articles/tech/982743.htm"
-    },
-    {
-      "name":"NVIDIA：笔记本GPU已占游戏业务30%",
-      "url":"https://www.cnbeta.com/articles/tech/982741.htm"
-    },
-    {
-      "name":"时隔两年 HTC旗舰手机归来：支持5G、今年7月见",
-      "url":"https://www.cnbeta.com/articles/tech/982739.htm"
     }
   ]
 }
