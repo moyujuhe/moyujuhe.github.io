@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-24 07:57:09",
+  "time":"2020-05-24 08:01:17",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"印度诺基亚一工厂18名员工新冠病毒检测呈阳性",
+      "url":"https://www.cnbeta.com/articles/tech/982625.htm"
+    },
     {
       "name":"广州暴雨突袭 网传广汽本田工厂新车被淹",
       "url":"https://www.cnbeta.com/articles/tech/982623.htm"
@@ -237,10 +241,6 @@
     {
       "name":"员工曝特斯拉弗里蒙特工厂环境不安全 称之为“现代血汗工厂”",
       "url":"https://www.cnbeta.com/articles/tech/982505.htm"
-    },
-    {
-      "name":"小米手环5将新增血氧饱和度测量功能",
-      "url":"https://www.cnbeta.com/articles/tech/982503.htm"
     }
   ]
 }
