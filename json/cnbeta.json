@@ -1,7 +1,23 @@
 {
-  "time":"2020-05-24 15:15:20",
+  "time":"2020-05-24 15:19:51",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"传奇CPU工程师Jim Keller发表主题演讲 Intel 8月揭秘10nm处理器",
+      "url":"https://www.cnbeta.com/articles/tech/982751.htm"
+    },
+    {
+      "name":"任天堂泄露事件愈演愈烈 3DS操作系统源代码泄露",
+      "url":"https://hot.cnbeta.com/articles/game/982749.htm"
+    },
+    {
+      "name":"Zen 3 IPC大涨20%  5nm Zen4要到2022年：AM4要延寿",
+      "url":"https://www.cnbeta.com/articles/tech/982747.htm"
+    },
+    {
+      "name":"传华为采购联发科芯片数量大涨300%",
+      "url":"https://www.cnbeta.com/articles/tech/982745.htm"
+    },
     {
       "name":"暴雨导致电动车泡水 更换电池太贵致多数整车报废",
       "url":"https://www.cnbeta.com/articles/tech/982743.htm"
@@ -225,22 +241,6 @@
     {
       "name":"盖茨基金会：新冠疫苗背后的国际难题",
       "url":"https://www.cnbeta.com/articles/tech/982639.htm"
-    },
-    {
-      "name":"柳叶刀：母乳首次测出新冠病毒阳性",
-      "url":"https://www.cnbeta.com/articles/tech/982637.htm"
-    },
-    {
-      "name":"摩托车头盔突遭疯抢 快递外卖骑手反而很淡定",
-      "url":"https://www.cnbeta.com/articles/tech/982635.htm"
-    },
-    {
-      "name":"特斯拉美国两大工厂正恢复正常运转 员工最多无薪休假至5月底",
-      "url":"https://www.cnbeta.com/articles/tech/982627.htm"
-    },
-    {
-      "name":"印度诺基亚一工厂18名员工新冠病毒检测呈阳性",
-      "url":"https://www.cnbeta.com/articles/tech/982625.htm"
     }
   ]
 }
