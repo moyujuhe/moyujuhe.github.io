@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-24 10:57:28",
+  "time":"2020-05-24 11:01:46",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"李书福：吉利希望深化与戴姆勒的合作",
+      "url":"https://www.cnbeta.com/articles/tech/982671.htm"
+    },
+    {
+      "name":"OpenCV 开源许可协议拟从 BSD 变更为 Apache 2",
+      "url":"https://www.cnbeta.com/articles/tech/982669.htm"
+    },
     {
       "name":"SpaceX下周迎来重要考验：首次送人上天",
       "url":"https://www.cnbeta.com/articles/science/982667.htm"
@@ -233,14 +241,6 @@
     {
       "name":"外媒盘点Xbox最佳游戏TOP10 《光环2》位列榜首",
       "url":"https://hot.cnbeta.com/articles/game/982553.htm"
-    },
-    {
-      "name":"外设厂商SCUF公布《NBA 2K》手柄产品线",
-      "url":"https://hot.cnbeta.com/articles/game/982551.htm"
-    },
-    {
-      "name":"PS Now可以跟XGP学到哪些东西？",
-      "url":"https://hot.cnbeta.com/articles/game/982549.htm"
     }
   ]
 }
