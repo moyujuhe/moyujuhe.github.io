@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-24 23:20:54",
+  "time":"2020-05-24 23:25:41",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"全球旅游业成2020年最大输家",
+      "url":"https://www.cnbeta.com/articles/tech/982831.htm"
+    },
     {
       "name":"英特尔为Windows 10系统更新了Wi-Fi和蓝牙驱动程序",
       "url":"https://www.cnbeta.com/articles/tech/982829.htm"
@@ -237,10 +241,6 @@
     {
       "name":"巴坠毁A320飞机飞行数据/座舱录音被发现：曾高喊引擎失效",
       "url":"https://www.cnbeta.com/articles/tech/982713.htm"
-    },
-    {
-      "name":"OPPO Reno 4海报曝光：65W超级闪充加持",
-      "url":"https://www.cnbeta.com/articles/tech/982711.htm"
     }
   ]
 }
