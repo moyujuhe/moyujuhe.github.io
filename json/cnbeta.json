@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-24 10:10:58",
+  "time":"2020-05-24 10:15:15",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"特朗普希望成立工作小组 调查社交平台上针对保守派人士的偏见投诉",
+      "url":"https://www.cnbeta.com/articles/tech/982661.htm"
+    },
     {
       "name":"[图]开源图形编辑器Krita首个测试版登陆Play商城 暂不支持Android手机",
       "url":"https://www.cnbeta.com/articles/tech/982659.htm"
@@ -237,10 +241,6 @@
     {
       "name":"77位诺奖得主联名致信 谴责NIH停止资助冠状病毒研究",
       "url":"https://www.cnbeta.com/articles/tech/982543.htm"
-    },
-    {
-      "name":"美版权局：是时候更新DMCA了",
-      "url":"https://www.cnbeta.com/articles/tech/982541.htm"
     }
   ]
 }
