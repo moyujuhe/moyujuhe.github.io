@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-24 11:35:53",
+  "time":"2020-05-24 11:40:01",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"重金求阿里云CEN BUG，有得私聊TG",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693761&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"OVZ开启BBR脚本",
@@ -109,10 +113,6 @@
     {
       "name":"创业 做收费直播类 用什么方法比较好？ 不是一个人 是团队",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693732&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"centos下update和upgrade到底有没有区别",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693731&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
