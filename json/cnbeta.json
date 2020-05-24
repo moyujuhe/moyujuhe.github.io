@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-24 09:20:27",
+  "time":"2020-05-24 09:24:50",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"AMD K12 FFX处理器曝光：消失6年的ARM架构",
+      "url":"https://www.cnbeta.com/articles/tech/982653.htm"
+    },
     {
       "name":"谷歌工程师：七成Chrome安全漏洞是内存安全问题，Rust 又成备选语言",
       "url":"https://www.cnbeta.com/articles/tech/982651.htm"
@@ -237,10 +241,6 @@
     {
       "name":"大型水陆两栖飞机AG600今年将海上首飞",
       "url":"https://www.cnbeta.com/articles/tech/982535.htm"
-    },
-    {
-      "name":"波兰男子解封后跟母熊打架 给熊留下“心理阴影”",
-      "url":"https://hot.cnbeta.com/articles/funny/982533.htm"
     }
   ]
 }
