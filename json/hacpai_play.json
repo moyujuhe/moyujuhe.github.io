@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-05-24 11:05:58",
+  "time":"2020-05-24 11:10:14",
   "data":[
+    {
+      "name":"切尔诺贝利 - 真正危险的，是人的谎言",
+      "url":"https://hacpai.com/article/1590289702712"
+    },
     {
       "name":"20200522 TGIF",
       "url":"https://hacpai.com/article/1590114930519"
@@ -177,10 +181,6 @@
     {
       "name":"20200403 TGIF",
       "url":"https://hacpai.com/article/1585884064748"
-    },
-    {
-      "name":"gowork 的基本介绍（一）",
-      "url":"https://hacpai.com/article/1585743486381"
     },
     {
       "name":"开发者福利：免费获取 JetBrains 全家桶",
