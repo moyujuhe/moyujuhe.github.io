@@ -1,7 +1,27 @@
 {
-  "time":"2020-05-24 17:05:10",
+  "time":"2020-05-24 17:09:39",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"科学家发现帝企鹅粪便会制造笑气",
+      "url":"https://www.solidot.org/story?sid=64453"
+    },
+    {
+      "name":"瑞德西韦临床试验显示能缩短治疗时间",
+      "url":"https://www.solidot.org/story?sid=64452"
+    },
+    {
+      "name":"NASA 宣布 SpaceX 已经准备好首次载人飞行",
+      "url":"https://www.solidot.org/story?sid=64451"
+    },
+    {
+      "name":"Facebook 员工将可选择远程，但可能会降薪",
+      "url":"https://www.solidot.org/story?sid=64450"
+    },
+    {
+      "name":"考古学家可能发现了威廉华莱士的秘密要塞",
+      "url":"https://www.solidot.org/story?sid=64449"
+    },
     {
       "name":"新西兰总理提议四天工作制",
       "url":"https://www.solidot.org/story?sid=64448"
@@ -61,26 +81,6 @@
     {
       "name":"英特尔第十代酷睿处理器 Comet Lake-S 发布",
       "url":"https://www.solidot.org/story?sid=64434"
-    },
-    {
-      "name":"基因分析揭示新冠的不同类型",
-      "url":"https://www.solidot.org/story?sid=64433"
-    },
-    {
-      "name":"人工眼未来有望胜过人眼",
-      "url":"https://www.solidot.org/story?sid=64432"
-    },
-    {
-      "name":"Coinbase 宣布成为远程优先的企业",
-      "url":"https://www.solidot.org/story?sid=64431"
-    },
-    {
-      "name":"乌克兰逮捕黑客 Sanix",
-      "url":"https://www.solidot.org/story?sid=64430"
-    },
-    {
-      "name":"企业加强安全以防内部泄密",
-      "url":"https://www.solidot.org/story?sid=64429"
     }
   ]
 }
