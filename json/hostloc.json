@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-24 14:40:06",
+  "time":"2020-05-24 14:44:41",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"【出】QEXW 软银迁移后的日本三网 CN2",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693844&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"不懂就问，阿里云经典网络能干啥？",
@@ -109,10 +113,6 @@
     {
       "name":"求购能开阿里云经典网络的账号",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693817&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"cname记录和mx记录原来会冲突",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=693816&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
