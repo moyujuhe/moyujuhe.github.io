@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-24 11:23:15",
+  "time":"2020-05-24 11:27:27",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]Google Messages即将为RCS信息启用端到端加密",
+      "url":"https://www.cnbeta.com/articles/tech/982685.htm"
+    },
     {
       "name":"云南高黎贡山发现珍稀濒危植物滇桐野生居群",
       "url":"https://www.cnbeta.com/articles/science/982683.htm"
@@ -237,10 +241,6 @@
     {
       "name":"张文宏称全球疫情可能要连续一到两年：未来三个月世界会重启",
       "url":"https://www.cnbeta.com/articles/tech/982567.htm"
-    },
-    {
-      "name":"雷军：商业航天本质是从科研转为工业 差距可以被很快追上",
-      "url":"https://www.cnbeta.com/articles/tech/982565.htm"
     }
   ]
 }
