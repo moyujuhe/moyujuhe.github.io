@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-25 10:24:32",
+  "time":"2020-05-25 10:30:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"IDC：1-4月中国智能音箱销量达1056万台 同比降14.7%",
+      "url":"https://tech.sina.com.cn/i/2020-05-25/doc-iircuyvi4876969.shtml"
+    },
     {
       "name":"北京轻松筹入股银川朵尔互联网医院有限公司，持股70%",
       "url":"https://tech.sina.com.cn/i/2020-05-25/doc-iirczymk3400574.shtml"
@@ -13,6 +17,10 @@
     {
       "name":"外媒：受疫情冲击，美国老牌租车巨头申请破产",
       "url":"https://tech.sina.com.cn/it/2020-05-25/doc-iirczymk3401542.shtml"
+    },
+    {
+      "name":"台媒：台积电正协调高通AMD等厂商订单 先挪部分给华为",
+      "url":"https://tech.sina.com.cn/mobile/n/n/2020-05-25/doc-iircuyvi4872055.shtml"
     },
     {
       "name":"海底1万米，中国来了！",
@@ -193,14 +201,6 @@
     {
       "name":"汽车业进入平稳发展期 新能源汽车和充电桩迎发展风口",
       "url":"https://tech.sina.com.cn/it/2020-05-25/doc-iircuyvi4832945.shtml"
-    },
-    {
-      "name":"特斯拉概念股永利股份股价年内翻倍后又回原点",
-      "url":"https://tech.sina.com.cn/roll/2020-05-25/doc-iirczymk3355086.shtml"
-    },
-    {
-      "name":"租车巨头赫兹破产 新势力也扛不住了",
-      "url":"https://tech.sina.com.cn/i/2020-05-25/doc-iircuyvi4828525.shtml"
     }
   ]
 }
