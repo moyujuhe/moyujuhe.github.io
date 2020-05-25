@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-25 08:00:34",
+  "time":"2020-05-25 08:04:53",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"西班牙检测到首只新冠感染宠物猫：无症状，“患病率高”",
+      "url":"https://www.cnbeta.com/articles/tech/982867.htm"
+    },
+    {
+      "name":"60例新冠出院患者研究：10人复阳，病毒脱落最长56天",
+      "url":"https://www.cnbeta.com/articles/tech/982865.htm"
+    },
     {
       "name":"科学与伦理道德之争：让志愿者故意感染新冠",
       "url":"https://www.cnbeta.com/articles/tech/982863.htm"
@@ -233,14 +241,6 @@
     {
       "name":"任天堂泄露事件愈演愈烈 3DS操作系统源代码泄露",
       "url":"https://hot.cnbeta.com/articles/game/982749.htm"
-    },
-    {
-      "name":"Zen 3 IPC大涨20%  5nm Zen4要到2022年：AM4要延寿",
-      "url":"https://www.cnbeta.com/articles/tech/982747.htm"
-    },
-    {
-      "name":"传华为采购联发科芯片数量大涨300%",
-      "url":"https://www.cnbeta.com/articles/tech/982745.htm"
     }
   ]
 }
