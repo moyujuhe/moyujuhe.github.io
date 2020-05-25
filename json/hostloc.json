@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-25 13:21:34",
+  "time":"2020-05-25 13:25:51",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"求推荐一款CN2 GIA小鸡！",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694244&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"[不懂就问系列】教育tag 怎么看",
@@ -109,10 +113,6 @@
     {
       "name":"有试过这个易购卡(easypayx)的嘛,能不能过GCP或者Azure",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694212&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"200 收ion 20刀",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694209&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
