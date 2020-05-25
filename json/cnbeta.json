@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-25 09:09:00",
+  "time":"2020-05-25 09:13:22",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"亚马逊将一栋写字楼改造成无家可归者的收容所",
+      "url":"https://www.cnbeta.com/articles/tech/982907.htm"
+    },
     {
       "name":"TUXEDO推BA15：首款只搭载AMD、预装Linux的笔记本",
       "url":"https://www.cnbeta.com/articles/tech/982905.htm"
@@ -237,10 +241,6 @@
     {
       "name":"华为发布CableFree技术 取得5G时代天线设计重大突破",
       "url":"https://www.cnbeta.com/articles/tech/982789.htm"
-    },
-    {
-      "name":"SpaceX载人飞船下周发射：宇航员完成“飞天”前最后一次训练",
-      "url":"https://www.cnbeta.com/articles/science/982787.htm"
     }
   ]
 }
