@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-25 09:00:06",
+  "time":"2020-05-25 09:04:39",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"TUXEDO推BA15：首款只搭载AMD、预装Linux的笔记本",
+      "url":"https://www.cnbeta.com/articles/tech/982905.htm"
+    },
     {
       "name":"海底1万米！ 中国载人深潜将赴科研“无人区”",
       "url":"https://www.cnbeta.com/articles/science/982903.htm"
@@ -237,10 +241,6 @@
     {
       "name":"SpaceX载人飞船下周发射：宇航员完成“飞天”前最后一次训练",
       "url":"https://www.cnbeta.com/articles/science/982787.htm"
-    },
-    {
-      "name":"还能不能好好听歌了？网友爆料QQ音乐歌曲中间插广告",
-      "url":"https://hot.cnbeta.com/articles/music/982785.htm"
     }
   ]
 }
