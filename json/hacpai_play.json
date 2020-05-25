@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-05-26 07:26:20",
+  "time":"2020-05-26 07:30:27",
   "data":[
+    {
+      "name":"分享一个神奇的网站。前端、设计、后端、产品都可以进来进一下。",
+      "url":"https://hacpai.com/article/1590449413350"
+    },
     {
       "name":"好的开源项目一定要有一个好的示例",
       "url":"https://hacpai.com/article/1590401614487"
@@ -177,10 +181,6 @@
     {
       "name":"每周电影 EP16《一个叫欧维的男人决定去死》",
       "url":"https://hacpai.com/article/1586237217020"
-    },
-    {
-      "name":"试试 Matter.js 小游戏？",
-      "url":"https://hacpai.com/article/1586178121876"
     },
     {
       "name":"开发者福利：免费获取 JetBrains 全家桶",
