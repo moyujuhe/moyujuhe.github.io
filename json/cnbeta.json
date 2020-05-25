@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-25 10:04:40",
+  "time":"2020-05-25 10:09:10",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"Startup Genome：新冠危机爆发以来  全球风险投资资金下降20%",
+      "url":"https://www.cnbeta.com/articles/tech/982937.htm"
+    },
     {
       "name":"新冠大流行期间美国心理健康应用需求激增  专家呼吁对其加强监督",
       "url":"https://www.cnbeta.com/articles/tech/982935.htm"
@@ -237,10 +241,6 @@
     {
       "name":"华为可能成为第一家首发屏下摄像头技术的厂商",
       "url":"https://www.cnbeta.com/articles/tech/982819.htm"
-    },
-    {
-      "name":"华为Mate 40首发 麒麟1000基于5nm工艺打造",
-      "url":"https://www.cnbeta.com/articles/tech/982817.htm"
     }
   ]
 }
