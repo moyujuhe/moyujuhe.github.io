@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-26 07:10:12",
+  "time":"2020-05-26 07:20:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"2020年两会：家电大佬们带来什么提案和建议？",
+      "url":"https://tech.sina.com.cn/e/2020-05-26/doc-iirczymk3553199.shtml"
+    },
     {
       "name":"国内家电市场二季度或现“小高峰” 压力转向出口",
       "url":"https://tech.sina.com.cn/e/2020-05-26/doc-iirczymk3552070.shtml"
@@ -9,6 +13,10 @@
     {
       "name":"三星暂缓退出LCD计划 苏州工厂或将运营至2021年",
       "url":"https://tech.sina.com.cn/e/2020-05-26/doc-iirczymk3551836.shtml"
+    },
+    {
+      "name":"外媒：苹果或在AirPods中集成健康监测功能",
+      "url":"https://tech.sina.com.cn/roll/2020-05-26/doc-iirczymk3551886.shtml"
     },
     {
       "name":"或将发力智能音箱领域？微软最新专利曝光",
@@ -193,14 +201,6 @@
     {
       "name":"比亚迪与宁德时代为一根钢针开撕了",
       "url":"https://tech.sina.com.cn/it/2020-05-25/doc-iircuyvi4973108.shtml"
-    },
-    {
-      "name":"华米与中科大共建脑机智能实验室 将开展脑机接口研究",
-      "url":"https://tech.sina.com.cn/it/2020-05-25/doc-iircuyvi4965484.shtml"
-    },
-    {
-      "name":"IFR：京东新增超过10家银行为其处理赴港二次上市事宜",
-      "url":"https://tech.sina.com.cn/i/2020-05-25/doc-iircuyvi4964338.shtml"
     }
   ]
 }
