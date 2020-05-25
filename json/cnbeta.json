@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-25 09:17:35",
+  "time":"2020-05-25 09:21:48",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]Java迎来25岁生日 官方启动最佳JDK功能票选活动",
+      "url":"https://www.cnbeta.com/articles/tech/982909.htm"
+    },
     {
       "name":"亚马逊将一栋写字楼改造成无家可归者的收容所",
       "url":"https://www.cnbeta.com/articles/tech/982907.htm"
@@ -237,10 +241,6 @@
     {
       "name":"国际合作为新冠疫苗研发生产提供“加速度”",
       "url":"https://www.cnbeta.com/articles/tech/982791.htm"
-    },
-    {
-      "name":"华为发布CableFree技术 取得5G时代天线设计重大突破",
-      "url":"https://www.cnbeta.com/articles/tech/982789.htm"
     }
   ]
 }
