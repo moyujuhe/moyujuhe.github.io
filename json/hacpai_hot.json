@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-25 16:26:51",
+  "time":"2020-05-25 16:31:01",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -187,10 +187,6 @@
       "url":"https://hacpai.com/article/1588903845487"
     },
     {
-      "name":"记一次问题解决: 阿里云服务器 mysql 远程访问报错 - can not connect to mysql server on 10060",
-      "url":"https://hacpai.com/article/1587802759471"
-    },
-    {
       "name":"黑客派成员马上突破 6W 啦",
       "url":"https://hacpai.com/article/1590027472618"
     },
@@ -241,6 +237,10 @@
     {
       "name":"教你搭建 solo 博客站（像我酱紫的）",
       "url":"https://hacpai.com/article/1589816039114"
+    },
+    {
+      "name":"游戏记忆 - 生化危机 2 重置版",
+      "url":"https://hacpai.com/article/1589704482553"
     }
   ]
 }
