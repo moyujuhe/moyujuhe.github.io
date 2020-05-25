@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-25 08:39:02",
+  "time":"2020-05-25 08:43:13",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"[图]华为推自家“谷歌搜索”：弥补AppGallery应用不足",
+      "url":"https://www.cnbeta.com/articles/tech/982891.htm"
+    },
     {
       "name":"SQLite 3.32.0发布 世界上使用量最大的数据库引擎",
       "url":"https://www.cnbeta.com/articles/tech/982889.htm"
@@ -237,10 +241,6 @@
     {
       "name":"《动物森友会》内部机制：机场颜色决定其他物品颜色",
       "url":"https://hot.cnbeta.com/articles/game/982773.htm"
-    },
-    {
-      "name":"CDPR暗示《巫师4》主角不是杰洛特",
-      "url":"https://hot.cnbeta.com/articles/game/982771.htm"
     }
   ]
 }
