@@ -1,7 +1,47 @@
 {
-  "time":"2020-05-25 22:17:15",
+  "time":"2020-05-25 22:21:50",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"网易和京东将在香港二次上市",
+      "url":"https://www.solidot.org/story?sid=64465"
+    },
+    {
+      "name":"Windows 纸牌每月仍然有 3500 万玩家",
+      "url":"https://www.solidot.org/story?sid=64464"
+    },
+    {
+      "name":"阿里巴巴营收因疫情飙升",
+      "url":"https://www.solidot.org/story?sid=64463"
+    },
+    {
+      "name":"荷兰法庭裁决外祖母必须从其社交账号上移除孙辈的照片",
+      "url":"https://www.solidot.org/story?sid=64462"
+    },
+    {
+      "name":"Notion 被屏蔽",
+      "url":"https://www.solidot.org/story?sid=64461"
+    },
+    {
+      "name":"泰国移动运营商泄露 83 亿互联网记录",
+      "url":"https://www.solidot.org/story?sid=64460"
+    },
+    {
+      "name":"GitHub 恢复 Popcorn Time 代码库",
+      "url":"https://www.solidot.org/story?sid=64459"
+    },
+    {
+      "name":"Google Chrome 83 更新默认表单样式",
+      "url":"https://www.solidot.org/story?sid=64458"
+    },
+    {
+      "name":"Chromium 项目七成安全漏洞属于内存安全问题",
+      "url":"https://www.solidot.org/story?sid=64457"
+    },
+    {
+      "name":"Linus Torvalds 桌面计算机从英特尔切换到 AMD",
+      "url":"https://www.solidot.org/story?sid=64456"
+    },
     {
       "name":"英国首相计划减少华为参与 5G 建设",
       "url":"https://www.solidot.org/story?sid=64455"
@@ -41,46 +81,6 @@
     {
       "name":"中国黑客组织入侵网游开发商",
       "url":"https://www.solidot.org/story?sid=64446"
-    },
-    {
-      "name":"开源软件供应链攻击",
-      "url":"https://www.solidot.org/story?sid=64445"
-    },
-    {
-      "name":"微软开源 1983 年的 GW-BASIC",
-      "url":"https://www.solidot.org/story?sid=64444"
-    },
-    {
-      "name":"DNS 解析程序漏洞允许攻击者发动拒绝服务攻击",
-      "url":"https://www.solidot.org/story?sid=64443"
-    },
-    {
-      "name":"华为试图利用竞争对手的芯片应对美国禁令",
-      "url":"https://www.solidot.org/story?sid=64442"
-    },
-    {
-      "name":"雀巢将在中国上市人造肉",
-      "url":"https://www.solidot.org/story?sid=64441"
-    },
-    {
-      "name":"全球新冠感染人数超过 500 万",
-      "url":"https://www.solidot.org/story?sid=64440"
-    },
-    {
-      "name":"GNOME 基金会与 Rothschild 和解专利纠纷",
-      "url":"https://www.solidot.org/story?sid=64439"
-    },
-    {
-      "name":"Xbox 和 Windows NT 3.5 源代码泄露",
-      "url":"https://www.solidot.org/story?sid=64438"
-    },
-    {
-      "name":"百度考虑在香港二次上市",
-      "url":"https://www.solidot.org/story?sid=64437"
-    },
-    {
-      "name":"SpaceX 给 NASA 带来了巨大效益但也带来了风险",
-      "url":"https://www.solidot.org/story?sid=64436"
     }
   ]
 }
