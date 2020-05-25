@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-25 21:32:56",
+  "time":"2020-05-25 21:37:29",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"出售mtx.xyz mxn.xyz hyb.xyz ldg.xyz",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694473&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"CloudFlare Spectrum体验|CF免费SSH代理|拯救NAT小鸡",
@@ -109,10 +113,6 @@
     {
       "name":"求一个性价比高的代理平台",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694446&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"chicagovps 真狠，只要客户区登陆失败一次，IP就被封5天",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694445&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
