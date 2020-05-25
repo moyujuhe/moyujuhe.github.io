@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-25 07:56:27",
+  "time":"2020-05-25 08:00:34",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"科学与伦理道德之争：让志愿者故意感染新冠",
+      "url":"https://www.cnbeta.com/articles/tech/982863.htm"
+    },
     {
       "name":"诺贝尔经济学奖得主威廉姆森病逝 10年前曾到中国“布道”",
       "url":"https://www.cnbeta.com/articles/tech/982861.htm"
@@ -237,10 +241,6 @@
     {
       "name":"传华为采购联发科芯片数量大涨300%",
       "url":"https://www.cnbeta.com/articles/tech/982745.htm"
-    },
-    {
-      "name":"暴雨导致电动车泡水 更换电池太贵致多数整车报废",
-      "url":"https://www.cnbeta.com/articles/tech/982743.htm"
     }
   ]
 }
