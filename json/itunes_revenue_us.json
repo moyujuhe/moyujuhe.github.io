@@ -1,6 +1,6 @@
 {
   "title":"AppStore收入排行榜(美区)",
-  "time":"2020-05-25 13:34:28",
+  "time":"2020-05-25 13:38:47",
   "data":[
     {
       "name":"YouTube: Watch, Listen, Stream",
@@ -408,7 +408,7 @@
       "name":"Last Shelter: Survival",
       "url":"https://apps.apple.com/us/app/last-shelter-survival/id1342290011?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.250.180\n更新时间:  2020-05-25 10:27:07 (北京时间)\n\nVersion 1.250.180 Out Now\n\nDoomsday Conquest\nTotal War\n1. Gathering: Removed the no gathering 20km within alliance center rule\n2. Alliance: When leaving an alliance that belongs to a different zone, all territories will be abandoned\nEden\nAdjustments:\n1. Base Repair: disabled in the Eden\n2. Guild: Cannot kick members during the tally phase\n3. Rallies: Alliance rallies disabled in the Eden\n4. City: Truce time is now 2 hours\n5. Specialties: After attacking bases, specialties can be used to return instantly\nOptimizations:\nHonor structures: Optimizesd building procedure\nRewards Rules: When the season ends, if the leader didn't distribute rewards, they will be sent out automatically based on contributions.\nSeason Recruitment: Season Tickets can only be used at the current or later seasons\nFixes:\n1. Reinforcements: Bases that left Eden can now be reinforced\n2. Will: Fixed the garrison will issue\n3. Banners: Fixed the occasional ineffective issue\n4. Tally: Fixed the rank display error during distribution\n5. City Effect: Fixed the range effect ineffective issue\n6. Specialty: Fixed the development cost reduction specialty display issue\n\nAlliance\n1. Ally location can be found even if they're in another state now\n\nDecorations\n1. Bonus attributes will be given to some decorations (Base and APC)"
+      "description":"最新版本:  1.250.179\n更新时间:  2020-05-13 10:09:18 (北京时间)\n\nfix bug"
     },
     {
       "name":"Wordscapes",
