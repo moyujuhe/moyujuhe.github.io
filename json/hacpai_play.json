@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-05-25 16:48:00",
+  "time":"2020-05-25 16:52:14",
   "data":[
+    {
+      "name":"使用 OpenCV 机器视觉配合大疆的机甲大师做了个守门员",
+      "url":"https://hacpai.com/article/1590389247067"
+    },
     {
       "name":"切尔诺贝利 - 真正危险的，是人的谎言",
       "url":"https://hacpai.com/article/1590289702712"
@@ -177,10 +181,6 @@
     {
       "name":"关于香港老电影",
       "url":"https://hacpai.com/article/1586010304999"
-    },
-    {
-      "name":"20200403 TGIF",
-      "url":"https://hacpai.com/article/1585884064748"
     },
     {
       "name":"开发者福利：免费获取 JetBrains 全家桶",
