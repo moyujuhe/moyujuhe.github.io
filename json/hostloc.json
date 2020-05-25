@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-25 15:21:02",
+  "time":"2020-05-25 15:25:18",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"因为第一次T楼没看T楼规则 被大佬给帖子关闭了。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694307&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"腾讯云也出了轻量应用服务器，走的是啥线路？",
@@ -105,10 +109,6 @@
     {
       "name":"25块/月 NAT+1TB盘+512MB内存",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694274&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"路由表AS4134有可能是CN2 GIA么",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694273&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
