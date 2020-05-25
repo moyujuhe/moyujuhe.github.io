@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-25 13:12:38",
+  "time":"2020-05-25 13:17:28",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"英国首相计划减少华为参与 5G 建设",
+      "url":"https://www.solidot.org/story?sid=64455"
+    },
     {
       "name":"呼吸习惯与身心健康相关",
       "url":"https://www.solidot.org/story?sid=64454"
@@ -77,10 +81,6 @@
     {
       "name":"SpaceX 给 NASA 带来了巨大效益但也带来了风险",
       "url":"https://www.solidot.org/story?sid=64436"
-    },
-    {
-      "name":"冷战卫星无意间跟踪到物种减少",
-      "url":"https://www.solidot.org/story?sid=64435"
     }
   ]
 }
