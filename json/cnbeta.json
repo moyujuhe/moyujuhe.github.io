@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-25 09:26:00",
+  "time":"2020-05-25 09:30:18",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"科学家们解开一些珊瑚“受压时”会变色的谜团",
+      "url":"https://www.cnbeta.com/articles/science/982911.htm"
+    },
     {
       "name":"[图]Java迎来25岁生日 官方启动最佳JDK功能票选活动",
       "url":"https://www.cnbeta.com/articles/tech/982909.htm"
@@ -237,10 +241,6 @@
     {
       "name":"日本19岁少年天桥扔水泥块砸车被捕 网友热议暴力游戏影响",
       "url":"https://hot.cnbeta.com/articles/game/982793.htm"
-    },
-    {
-      "name":"国际合作为新冠疫苗研发生产提供“加速度”",
-      "url":"https://www.cnbeta.com/articles/tech/982791.htm"
     }
   ]
 }
