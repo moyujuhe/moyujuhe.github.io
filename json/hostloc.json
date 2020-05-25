@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-26 01:24:45",
+  "time":"2020-05-26 01:29:03",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"WHMCS马上要出8.0版本了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694544&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"帝都地震啦,初步测定3.6级",
@@ -109,10 +113,6 @@
     {
       "name":"illyhosting免费空间改了首页不生效",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694514&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"收个8.9刀的PR 1g内存款 有出的吗",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694512&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
