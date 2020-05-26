@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-26 19:33:42",
+  "time":"2020-05-26 19:38:00",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"pr  yum update 也被关机，你们呢？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694913&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"一台win系统，装hyper_v怎么样？",
@@ -109,10 +113,6 @@
     {
       "name":"ovh新账号注册",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694881&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"公司的克章有何作用？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694880&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
