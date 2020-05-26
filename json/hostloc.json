@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-26 17:21:22",
+  "time":"2020-05-26 17:25:48",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"shell脚本求助！",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694858&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"谁那里有【 美国 KINPONET CN2网络】机房的机器，速联",
@@ -109,10 +113,6 @@
     {
       "name":"OneDrive 不自动同步",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694830&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"大佬们求个插件 dns manager for whmcs",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694829&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
