@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-27 05:57:37",
+  "time":"2020-05-27 06:01:47",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"服务器用的腾讯云，CDN用的阿里云，北岸在腾讯云那边",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695057&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"奇怪的技术又增加了",
@@ -109,10 +113,6 @@
     {
       "name":"（反撸？）奇怪的商家又增加了，1元撸2H2G？？？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695028&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"腾讯云618云聚惠秒杀云服务器1核2G首年95元",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695027&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
