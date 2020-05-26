@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-26 20:42:32",
+  "time":"2020-05-26 20:46:55",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Virgin Orbit 的首次空中火箭发射失败",
+      "url":"https://www.solidot.org/story?sid=64473"
+    },
+    {
+      "name":"黑客组织窃取杀毒软件日志观察它的恶意程序有没有检测出",
+      "url":"https://www.solidot.org/story?sid=64472"
+    },
     {
       "name":"食用昆虫在欧洲有望走向主流",
       "url":"https://www.solidot.org/story?sid=64471"
@@ -73,14 +81,6 @@
     {
       "name":"科学家发现帝企鹅粪便会制造笑气",
       "url":"https://www.solidot.org/story?sid=64453"
-    },
-    {
-      "name":"瑞德西韦临床试验显示能缩短治疗时间",
-      "url":"https://www.solidot.org/story?sid=64452"
-    },
-    {
-      "name":"NASA 宣布 SpaceX 已经好首次载人飞行准备",
-      "url":"https://www.solidot.org/story?sid=64451"
     }
   ]
 }
