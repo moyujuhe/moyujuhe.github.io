@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-27 00:11:28",
+  "time":"2020-05-27 00:15:42",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"ARM Cortex-A78 CPU与Mali-G78 GPU将驱动明年旗舰Android手机",
       "url":"https://www.cnbeta.com/articles/tech/983599.htm"
+    },
+    {
+      "name":"Facebook宣布将数字钱包“Calibra”更名为“Novi”",
+      "url":"https://www.cnbeta.com/articles/tech/983631.htm"
     },
     {
       "name":"多版本十代酷睿桌面版，如何攒出更适合你的主机？",
@@ -237,10 +241,6 @@
     {
       "name":"西瓜视频诉爱奇艺盗播《一郭汇》终审判决：认定爱奇艺侵权",
       "url":"https://www.cnbeta.com/articles/tech/983511.htm"
-    },
-    {
-      "name":"《四海兄弟3》中出现柏林地图 或来自于开发商已取消游戏企划",
-      "url":"https://hot.cnbeta.com/articles/game/983509.htm"
     }
   ]
 }
