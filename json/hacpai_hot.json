@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-26 14:28:48",
+  "time":"2020-05-26 14:33:28",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -223,10 +223,6 @@
       "url":"https://hacpai.com/article/1587970215919"
     },
     {
-      "name":"Python 相比其他编程语言有什么独特的地方？",
-      "url":"https://hacpai.com/article/1587881177951"
-    },
-    {
       "name":"想在本地用 typora 编写 markdown, 如何设置黑客派为图床服务?",
       "url":"https://hacpai.com/article/1590311053592"
     },
@@ -241,6 +237,10 @@
     {
       "name":"游戏记忆 - 生化危机 2 重置版",
       "url":"https://hacpai.com/article/1589704482553"
+    },
+    {
+      "name":"初级前端的露脸贴，欢迎大家修改指正！",
+      "url":"https://hacpai.com/article/1589700993431"
     }
   ]
 }
