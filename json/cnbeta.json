@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-27 00:59:00",
+  "time":"2020-05-27 01:03:13",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"ARM Cortex-A78 CPU与Mali-G78 GPU将驱动明年旗舰Android手机",
       "url":"https://www.cnbeta.com/articles/tech/983599.htm"
+    },
+    {
+      "name":"苹果公司研究Apple Pencil笔尖适配器 增加力感应按键",
+      "url":"https://www.cnbeta.com/articles/tech/983637.htm"
     },
     {
       "name":"盖茨基金会上个季度购买了50万股的苹果股票",
@@ -237,10 +241,6 @@
     {
       "name":"Redmi 10X Pro体验：首发天玑820 实用性价比路线",
       "url":"https://www.cnbeta.com/articles/tech/983517.htm"
-    },
-    {
-      "name":"Redmi发X系列智能电视：新增MEMC动态补偿 全金属边框",
-      "url":"https://www.cnbeta.com/articles/tech/983515.htm"
     }
   ]
 }
