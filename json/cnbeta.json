@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-26 22:30:38",
+  "time":"2020-05-26 22:34:57",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"ARM Cortex-A78 CPU与Mali-G78 GPU将驱动明年旗舰Android手机",
       "url":"https://www.cnbeta.com/articles/tech/983599.htm"
+    },
+    {
+      "name":"ARM发布Cortex-A78参数细节：5nm、 CPU性能提升20%、功耗暴降50%",
+      "url":"https://www.cnbeta.com/articles/tech/983613.htm"
     },
     {
       "name":"诺兰新片《信条》曝新封面 约翰·华盛顿持枪",
@@ -237,10 +241,6 @@
     {
       "name":"新技术可利用手机检测由糖尿病引发的失明早期信号",
       "url":"https://www.cnbeta.com/articles/tech/983493.htm"
-    },
-    {
-      "name":"NASA下一代天文望远镜以“哈勃之母”命名",
-      "url":"https://www.cnbeta.com/articles/science/983491.htm"
     }
   ]
 }
