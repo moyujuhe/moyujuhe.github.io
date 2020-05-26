@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-27 00:28:49",
+  "time":"2020-05-27 00:33:00",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"ARM Cortex-A78 CPU与Mali-G78 GPU将驱动明年旗舰Android手机",
       "url":"https://www.cnbeta.com/articles/tech/983599.htm"
+    },
+    {
+      "name":"盖茨基金会上个季度购买了50万股的苹果股票",
+      "url":"https://www.cnbeta.com/articles/tech/983635.htm"
     },
     {
       "name":"惠普更新Elite商务PC阵容 同时采用AMD与Intel处理器",
@@ -237,10 +241,6 @@
     {
       "name":"Redmi发X系列智能电视：新增MEMC动态补偿 全金属边框",
       "url":"https://www.cnbeta.com/articles/tech/983515.htm"
-    },
-    {
-      "name":"《三国志14》新剧本“吕布讨伐战”OP动画 5月28日上线",
-      "url":"https://hot.cnbeta.com/articles/game/983513.htm"
     }
   ]
 }
