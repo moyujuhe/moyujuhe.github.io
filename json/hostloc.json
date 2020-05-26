@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-26 08:49:30",
+  "time":"2020-05-26 08:53:41",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"固态硬盘坏了能恢复出数据吗？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694579&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"收到个诈骗短信，但是这里链接看起来奇怪",
@@ -109,10 +113,6 @@
     {
       "name":"最近鸡迷路表现怎么样？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694548&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"全球测速论坛",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694547&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
