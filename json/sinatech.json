@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-26 08:32:27",
+  "time":"2020-05-26 08:35:45",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"比尔盖茨：我的2020年夏季图书推荐",
+      "url":"https://tech.sina.com.cn/i/2020-05-26/doc-iircuyvi5035927.shtml"
+    },
     {
       "name":"SpaceX首次载人火箭发射在即：已完成最后的飞行检查",
       "url":"https://tech.sina.com.cn/it/2020-05-26/doc-iirczymk3561630.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"全国政协委员张云勇：“新基建”要求5G网络加速覆盖",
       "url":"https://tech.sina.com.cn/5g/i/2020-05-25/doc-iirczymk3529988.shtml"
-    },
-    {
-      "name":"智能水表有望占据水表行业半壁江山",
-      "url":"https://tech.sina.com.cn/roll/2020-05-25/doc-iircuyvi5001960.shtml"
     }
   ]
 }
