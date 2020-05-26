@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-26 23:53:51",
+  "time":"2020-05-26 23:58:31",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"ARM Cortex-A78 CPU与Mali-G78 GPU将驱动明年旗舰Android手机",
       "url":"https://www.cnbeta.com/articles/tech/983599.htm"
+    },
+    {
+      "name":"苹果 Pro Display XDR 获得“年度最佳显示器”大奖",
+      "url":"https://www.cnbeta.com/articles/tech/983625.htm"
     },
     {
       "name":"Intel下代低功耗CPU现身中国卖场：10nm？14nm？",
@@ -237,10 +241,6 @@
     {
       "name":"Windows 10 2004更新为PacketMon网络诊断工具添加了新功能",
       "url":"https://www.cnbeta.com/articles/tech/983505.htm"
-    },
-    {
-      "name":"《漫威钢铁侠VR》沉浸效果幕后花絮 打造钢铁侠原创宇宙",
-      "url":"https://hot.cnbeta.com/articles/game/983503.htm"
     }
   ]
 }
