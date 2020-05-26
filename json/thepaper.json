@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-27 00:54:37",
+  "time":"2020-05-27 00:59:00",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美国新冠肺炎死亡病例超10万例，累计确诊病例逾171万例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7570025"
+    },
     {
       "name":"香港代表团就某法律团体对香港国安法的曲解发表声明",
       "url":"https://www.thepaper.cn/newsDetail_forward_7570016"
@@ -77,10 +81,6 @@
     {
       "name":"3万字解析何鸿燊家族传奇：赌王故事能否继续",
       "url":"https://www.thepaper.cn/newsDetail_forward_7569904"
-    },
-    {
-      "name":"广西壮族自治区党委书记、主席向梁小霞家人亲属表示诚挚慰问",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7569899"
     }
   ]
 }
