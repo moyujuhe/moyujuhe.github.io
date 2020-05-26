@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-26 21:18:32",
+  "time":"2020-05-26 21:22:46",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Google 从应用商店下架三款阴谋论应用",
+      "url":"https://www.solidot.org/story?sid=64475"
+    },
+    {
+      "name":"eBay 用脚本扫描访问者的端口寻找远程访问程序",
+      "url":"https://www.solidot.org/story?sid=64474"
+    },
     {
       "name":"Virgin Orbit 的首次空中火箭发射失败",
       "url":"https://www.solidot.org/story?sid=64473"
@@ -73,14 +81,6 @@
     {
       "name":"Linus Torvalds 桌面计算机从英特尔切换到 AMD",
       "url":"https://www.solidot.org/story?sid=64456"
-    },
-    {
-      "name":"英国首相计划减少华为参与 5G 建设",
-      "url":"https://www.solidot.org/story?sid=64455"
-    },
-    {
-      "name":"呼吸习惯与身心健康相关",
-      "url":"https://www.solidot.org/story?sid=64454"
     }
   ]
 }
