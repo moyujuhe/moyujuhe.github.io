@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-26 23:21:45",
+  "time":"2020-05-26 23:26:02",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"ARM Cortex-A78 CPU与Mali-G78 GPU将驱动明年旗舰Android手机",
       "url":"https://www.cnbeta.com/articles/tech/983599.htm"
+    },
+    {
+      "name":"Intel下代低功耗CPU现身中国卖场：10nm？14nm？",
+      "url":"https://www.cnbeta.com/articles/tech/983623.htm"
     },
     {
       "name":"ARM首次推出Cortex-X系列CPU：超大核诞生 IPC性能大涨30%",
@@ -237,10 +241,6 @@
     {
       "name":"《漫威钢铁侠VR》沉浸效果幕后花絮 打造钢铁侠原创宇宙",
       "url":"https://hot.cnbeta.com/articles/game/983503.htm"
-    },
-    {
-      "name":"协调AMD、NVIDIA等给华为5/7nm让产能？台积电回应",
-      "url":"https://www.cnbeta.com/articles/tech/983501.htm"
     }
   ]
 }
