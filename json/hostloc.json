@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-26 08:12:00",
+  "time":"2020-05-26 08:16:10",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"等一个大佬搭建 快乐二级域名分发系统",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694571&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"套了CF是不是就相当于支持IPv6访问了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694570&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"333元收3欧",
@@ -105,14 +113,6 @@
     {
       "name":"京东618自动叠蛋糕+自动完成任务，自动化APP，非JS版本",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694542&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"是香港机房，不过速度一般（看运气）",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694541&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"真的去美国社区大学上网课，收费不",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694540&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
