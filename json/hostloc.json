@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-26 08:32:56",
+  "time":"2020-05-26 08:37:02",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"OD哪些机房位置可以搞颜色",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694575&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"【出】quadranet杜甫4核8G，cn2 GT线路",
@@ -109,10 +113,6 @@
     {
       "name":"话说有没有老外说pr这破机子？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694545&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"WHMCS马上要出8.0版本了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=694544&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
