@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-26 23:16:50",
+  "time":"2020-05-26 23:21:45",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"ARM Cortex-A78 CPU与Mali-G78 GPU将驱动明年旗舰Android手机",
       "url":"https://www.cnbeta.com/articles/tech/983599.htm"
+    },
+    {
+      "name":"ARM首次推出Cortex-X系列CPU：超大核诞生 IPC性能大涨30%",
+      "url":"https://www.cnbeta.com/articles/tech/983621.htm"
     },
     {
       "name":"ARM发布旗舰级Mali-G78 GPU：史上首次24核心、性能猛增25％",
@@ -237,10 +241,6 @@
     {
       "name":"协调AMD、NVIDIA等给华为5/7nm让产能？台积电回应",
       "url":"https://www.cnbeta.com/articles/tech/983501.htm"
-    },
-    {
-      "name":"106亿元 工信部公示新能源补贴情况：一汽没有还被倒扣500万元",
-      "url":"https://www.cnbeta.com/articles/tech/983499.htm"
     }
   ]
 }
