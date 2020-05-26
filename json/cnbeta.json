@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-26 22:53:44",
+  "time":"2020-05-26 22:58:30",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"ARM Cortex-A78 CPU与Mali-G78 GPU将驱动明年旗舰Android手机",
       "url":"https://www.cnbeta.com/articles/tech/983599.htm"
+    },
+    {
+      "name":"瑞幸股价飙升一度涨超70% 部分投资者认为严重低估",
+      "url":"https://www.cnbeta.com/articles/tech/983615.htm"
     },
     {
       "name":"ARM发布Cortex-A78参数细节：5nm、 CPU性能提升20%、功耗暴降50%",
@@ -237,10 +241,6 @@
     {
       "name":"英国科学家：无证据表明新冠病毒突变更具传染性 大多数常见突变是中性的",
       "url":"https://www.cnbeta.com/articles/science/983495.htm"
-    },
-    {
-      "name":"新技术可利用手机检测由糖尿病引发的失明早期信号",
-      "url":"https://www.cnbeta.com/articles/tech/983493.htm"
     }
   ]
 }
