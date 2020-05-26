@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-26 08:55:55",
+  "time":"2020-05-26 08:59:57",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"韩国检方传唤三星掌门李在镕",
+      "url":"https://tech.sina.com.cn/it/2020-05-26/doc-iircuyvi5038914.shtml"
+    },
     {
       "name":"ThinkPad X1 Carbon 2020首发评测：硬核升级 4G成标配",
       "url":"https://tech.sina.com.cn/n/t/2020-05-26/doc-iircuyvi5038452.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"新基建：仅5G将带来300万岗位",
       "url":"https://tech.sina.com.cn/5g/i/2020-05-26/doc-iircuyvi5010549.shtml"
-    },
-    {
-      "name":"俞敏洪：5G应部署到农村教育密集区",
-      "url":"https://tech.sina.com.cn/it/2020-05-26/doc-iirczymk3537501.shtml"
     }
   ]
 }
