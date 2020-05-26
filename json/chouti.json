@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-26 08:32:11",
+  "time":"2020-05-26 08:45:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"Virgin Orbit (维珍轨道) 公司利用波音747飞机携带的 Launcherone 火箭于北京时间今天凌晨五点左右释放，在点火不久后一级发生异常，随后中止飞行，此次任务以失败告终。他们的下一发火箭已在组装中，该公司成立于2015年，这是他们首次尝试轨道发射。",
+      "url":"https://mp.weixin.qq.com/s/hAwIGb7-RskPb24FGMcygw"
+    },
     {
       "name":"国家卫健委：昨日新增确诊病例7例，均为境外输入病例（内蒙古5例，上海1例，福建1例）",
       "url":"https://www.thepaper.cn/newsDetail_forward_7561476"
@@ -85,10 +89,6 @@
     {
       "name":"女生的想法是希望两个人一起成长，但男生的状态是已经不需要成长了",
       "url":"https://weibo.com/5040955225/J3r9om7Cc"
-    },
-    {
-      "name":"【美国百年租车巨头申请破产的背后：疫情只是一个催化剂】事实上，早在疫情之前，赫兹国际就已经陷入了困境，包括与Enterprise Holdings、安飞士等同行的竞争，优步、Lyft等网约车新秀的挤压，以及管理层的频繁变动，未能适应市场趋势。",
-      "url":"https://cn.investing.com/analysis/article-200451264"
     }
   ]
 }
