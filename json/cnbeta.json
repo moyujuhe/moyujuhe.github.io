@@ -1,10 +1,22 @@
 {
-  "time":"2020-05-27 08:38:24",
+  "time":"2020-05-27 08:42:40",
   "title":"cnBeta",
   "data":[
     {
       "name":"史上最大规模天猫618启动：玩法公布 优惠力度空前",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"Microsoft Edge浏览器迎来“上网冲浪”游戏",
+      "url":"https://hot.cnbeta.com/articles/game/983737.htm"
+    },
+    {
+      "name":"Slack CEO：微软执着于用不健康手段杀死我们",
+      "url":"https://www.cnbeta.com/articles/tech/983735.htm"
+    },
+    {
+      "name":"欧洲研究称冠状病毒免疫力最短只能持续6个月",
+      "url":"https://www.cnbeta.com/articles/science/983733.htm"
     },
     {
       "name":"JK罗琳宣布将在网上免费发布新书《The Ickabog》",
@@ -229,18 +241,6 @@
     {
       "name":"Intel下代低功耗CPU现身中国卖场：10nm？14nm？",
       "url":"https://www.cnbeta.com/articles/tech/983623.htm"
-    },
-    {
-      "name":"ARM首次推出Cortex-X系列CPU：超大核诞生 IPC性能大涨30%",
-      "url":"https://www.cnbeta.com/articles/tech/983621.htm"
-    },
-    {
-      "name":"ARM发布旗舰级Mali-G78 GPU：史上首次24核心、性能猛增25％",
-      "url":"https://www.cnbeta.com/articles/tech/983619.htm"
-    },
-    {
-      "name":"传将进行香港二次上市聆讯:京东涨8.46% 网易涨5.23%",
-      "url":"https://www.cnbeta.com/articles/tech/983617.htm"
     }
   ]
 }
