@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-27 08:25:46",
+  "time":"2020-05-27 08:29:56",
   "title":"cnBeta",
   "data":[
     {
       "name":"史上最大规模天猫618启动：玩法公布 优惠力度空前",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"希捷发布面向游戏玩家的FireCuda 120 SATA固态硬盘",
+      "url":"https://www.cnbeta.com/articles/tech/983729.htm"
     },
     {
       "name":"俄罗斯公司计划在联合收割机中推广自动驾驶系统使用",
@@ -27,6 +31,10 @@
       "url":"https://www.cnbeta.com/articles/tech/983719.htm"
     },
     {
+      "name":"多版本十代酷睿桌面版，如何攒出更适合你的主机？",
+      "url":"https://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/983629.htm"
+    },
+    {
       "name":"英国顶级跑车制造商迈凯伦拟裁员四分之一",
       "url":"https://www.cnbeta.com/articles/tech/983717.htm"
     },
@@ -45,10 +53,6 @@
     {
       "name":"至少42名员工感染新冠 诺基亚关闭印度电信设备工厂",
       "url":"https://www.cnbeta.com/articles/tech/983709.htm"
-    },
-    {
-      "name":"多版本十代酷睿桌面版，如何攒出更适合你的主机？",
-      "url":"https://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/983629.htm"
     },
     {
       "name":"亚马逊宣传视频遭猛烈抨击：美化疫情中仓库工作环境",
@@ -237,10 +241,6 @@
     {
       "name":"瑞幸股价飙升一度涨超70% 部分投资者认为严重低估",
       "url":"https://www.cnbeta.com/articles/tech/983615.htm"
-    },
-    {
-      "name":"ARM发布Cortex-A78参数细节：5nm、 CPU性能提升20%、功耗暴降50%",
-      "url":"https://www.cnbeta.com/articles/tech/983613.htm"
     }
   ]
 }
