@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 03:39:46",
+  "time":"2020-05-28 03:43:56",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软正式发布Windows 10 2020年5月更新 现在即可下载",
       "url":"https://www.cnbeta.com/articles/tech/984111.htm"
+    },
+    {
+      "name":"世卫组织总干事谭德塞宣布成立世界卫生组织基金会",
+      "url":"https://www.cnbeta.com/articles/tech/984123.htm"
     },
     {
       "name":"网友做针刺试验 比亚迪和宁德时代为何都坐不住了？",
@@ -237,10 +241,6 @@
     {
       "name":"研究报告说巴西去年森林面积减少逾百万公顷",
       "url":"https://www.cnbeta.com/articles/science/984007.htm"
-    },
-    {
-      "name":"[图]惠普EliteDesk 800 G6系列升级：装备十代Comet Lake处理器",
-      "url":"https://www.cnbeta.com/articles/tech/984005.htm"
     }
   ]
 }
