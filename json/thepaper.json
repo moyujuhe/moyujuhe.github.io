@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-28 00:07:10",
+  "time":"2020-05-28 00:11:41",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"世卫总干事谭德塞宣布成立世界卫生组织基金会",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7587435"
+    },
     {
       "name":"约翰逊：英国新冠病毒警报系统将从四级降至三级",
       "url":"https://www.thepaper.cn/newsDetail_forward_7587429"
@@ -77,10 +81,6 @@
     {
       "name":"财务造假的瑞幸咖啡开盘又涨超40%，市场称或有“接盘侠”",
       "url":"https://www.thepaper.cn/newsDetail_forward_7587263"
-    },
-    {
-      "name":"星际荣耀火箭发动机二次启动试车成功，突破垂直回收核心技术",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7587253"
     }
   ]
 }
