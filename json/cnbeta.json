@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-27 08:42:40",
+  "time":"2020-05-27 08:47:01",
   "title":"cnBeta",
   "data":[
     {
       "name":"史上最大规模天猫618启动：玩法公布 优惠力度空前",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"瑞士率先推出基于苹果-谷歌API打造的新冠接触者追踪应用",
+      "url":"https://www.cnbeta.com/articles/tech/983739.htm"
     },
     {
       "name":"Microsoft Edge浏览器迎来“上网冲浪”游戏",
@@ -237,10 +241,6 @@
     {
       "name":"苹果 Pro Display XDR 获得“年度最佳显示器”大奖",
       "url":"https://www.cnbeta.com/articles/tech/983625.htm"
-    },
-    {
-      "name":"Intel下代低功耗CPU现身中国卖场：10nm？14nm？",
-      "url":"https://www.cnbeta.com/articles/tech/983623.htm"
     }
   ]
 }
