@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 04:12:52",
+  "time":"2020-05-28 04:16:59",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软正式发布Windows 10 2020年5月更新 现在即可下载",
       "url":"https://www.cnbeta.com/articles/tech/984111.htm"
+    },
+    {
+      "name":"三星开涉足个人理财服务 为Galaxy设备用户提供借记卡服务",
+      "url":"https://www.cnbeta.com/articles/tech/984127.htm"
     },
     {
       "name":"Windows Server版本2004今日随Windows 10一同更新",
@@ -237,10 +241,6 @@
     {
       "name":"格力申请“一种空调沙发”专利",
       "url":"https://www.cnbeta.com/articles/tech/984011.htm"
-    },
-    {
-      "name":"任天堂东京店6.1恢复营业 动森限定机健身环暂不销售",
-      "url":"https://hot.cnbeta.com/articles/game/984009.htm"
     }
   ]
 }
