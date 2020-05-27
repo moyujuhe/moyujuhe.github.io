@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-27 12:04:02",
+  "time":"2020-05-27 12:08:14",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"contabo vds开售",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695190&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"为什么服务器重装系统这么慢？",
@@ -109,10 +113,6 @@
     {
       "name":"550出天翼网盘30T，带10年VIP，不能说垃圾只能说不适合我",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695153&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"求推荐一款PDF阅读器",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695151&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
