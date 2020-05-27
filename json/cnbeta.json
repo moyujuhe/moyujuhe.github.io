@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 07:46:17",
+  "time":"2020-05-28 07:50:29",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,14 @@
     {
       "name":"法官宣布判决结果 孟晚舟未能获释",
       "url":"https://www.cnbeta.com/articles/tech/984115.htm"
+    },
+    {
+      "name":"因天气原因 SpaceX和NASA宣布推迟载人航天发射",
+      "url":"https://www.cnbeta.com/articles/science/984133.htm"
+    },
+    {
+      "name":"天文学家发现了一类新的宇宙爆炸现象",
+      "url":"https://www.cnbeta.com/articles/science/984167.htm"
     },
     {
       "name":"OpenSSH 8.3 发布",
@@ -77,10 +85,6 @@
     {
       "name":"ARM宣布Ethos-N78 NPU 配置和效率超越前代产品",
       "url":"https://www.cnbeta.com/articles/tech/984137.htm"
-    },
-    {
-      "name":"因天气原因 SpaceX和NASA宣布推迟载人航天发射",
-      "url":"https://www.cnbeta.com/articles/science/984133.htm"
     },
     {
       "name":"受TikTok启发 Facebook推出一个名为Collab的音乐制作平台",
@@ -237,10 +241,6 @@
     {
       "name":"AdDuplex：上月以来Windows 10版本1909的使用量略有增加",
       "url":"https://www.cnbeta.com/articles/tech/984053.htm"
-    },
-    {
-      "name":"多版本十代酷睿桌面版，如何攒出更适合你的主机？",
-      "url":"https://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/983629.htm"
     }
   ]
 }
