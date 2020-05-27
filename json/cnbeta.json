@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 04:54:01",
+  "time":"2020-05-28 04:58:07",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软正式发布Windows 10 2020年5月更新 现在即可下载",
       "url":"https://www.cnbeta.com/articles/tech/984111.htm"
+    },
+    {
+      "name":"华为：对加拿大法院判决表示失望",
+      "url":"https://www.cnbeta.com/articles/tech/984135.htm"
     },
     {
       "name":"因天气原因 SpaceX和NASA宣布推迟载人航天发射",
@@ -237,10 +241,6 @@
     {
       "name":"SpaceX送宇航员上空间站 马斯克让载人航天重返美国",
       "url":"https://www.cnbeta.com/articles/science/984019.htm"
-    },
-    {
-      "name":"三星压轴旗舰Galaxy Fold 2开始量产：8月与Note 20系列同台发布",
-      "url":"https://www.cnbeta.com/articles/tech/984017.htm"
     }
   ]
 }
