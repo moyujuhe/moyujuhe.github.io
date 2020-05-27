@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-27 12:24:56",
+  "time":"2020-05-27 12:29:04",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"登顶！2020珠峰高程测量登山队站上喜马拉雅之巅",
       "url":"https://www.cnbeta.com/articles/tech/983847.htm"
+    },
+    {
+      "name":"从B550芯片组开始， AMD重启了AGESA的版本号",
+      "url":"https://www.cnbeta.com/articles/tech/983885.htm"
     },
     {
       "name":"天文学家用“奶牛”和“考拉”描述一类全新的太空信号",
@@ -237,10 +241,6 @@
     {
       "name":"[图]为SpaceX和NASA历史性载人飞行任务准备的系统有哪些？",
       "url":"https://www.cnbeta.com/articles/science/983771.htm"
-    },
-    {
-      "name":"Mozilla、Reddit 和 Twitter 等呼吁立法保护互联网浏览隐私",
-      "url":"https://www.cnbeta.com/articles/tech/983769.htm"
     }
   ]
 }
