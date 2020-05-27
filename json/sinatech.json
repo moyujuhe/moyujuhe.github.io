@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-28 00:44:20",
+  "time":"2020-05-28 02:01:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"法官宣布判决结果 孟晚舟未能获释",
+      "url":"https://tech.sina.com.cn/it/2020-05-28/doc-iircuyvi5383727.shtml"
+    },
     {
       "name":"联想集团董事长杨元庆解读中国制造“跃迁”逻辑",
       "url":"https://tech.sina.com.cn/it/2020-05-28/doc-iircuyvi5379896.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"小米电视棒官图公布：U盘大小的4K盒子、即插即用",
       "url":"https://tech.sina.com.cn/roll/2020-05-27/doc-iircuyvi5283739.shtml"
-    },
-    {
-      "name":"外媒：字节跳动2019年利润预计将达到30亿美元",
-      "url":"https://tech.sina.com.cn/i/2020-05-27/doc-iircuyvi5278452.shtml"
     }
   ]
 }

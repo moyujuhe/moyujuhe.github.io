@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 02:16:22",
+  "time":"2020-05-28 02:20:33",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软正式发布Windows 10 2020年5月更新 现在即可下载",
       "url":"http://www.cnbeta.com/articles/tech/984111.htm"
+    },
+    {
+      "name":"法官宣布判决结果 孟晚舟未能获释",
+      "url":"http://www.cnbeta.com/articles/tech/984115.htm"
     },
     {
       "name":"微软公布Windows 10 2020年5月更新的最低系统要求",
@@ -237,10 +241,6 @@
     {
       "name":"北京人人车旧机动车经纪有限公司法人李辉被限制消费",
       "url":"http://www.cnbeta.com/articles/tech/983999.htm"
-    },
-    {
-      "name":"谷歌提出可量化评估NLG模型性能的BLEURT指标",
-      "url":"http://www.cnbeta.com/articles/tech/983997.htm"
     }
   ]
 }
