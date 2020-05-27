@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-27 22:06:22",
+  "time":"2020-05-27 22:10:42",
   "title":"cnBeta",
   "data":[
     {
       "name":"史上最大规模天猫618启动：玩法公布 优惠力度空前",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"苹果公司继续在印度扩张 提供按订单定制的Mac产品",
+      "url":"https://www.cnbeta.com/articles/tech/984071.htm"
     },
     {
       "name":"谷歌在印度遭遇反垄断指控：偏袒自家服务Google Pay",
@@ -17,6 +21,10 @@
     {
       "name":"美利坚英雄马斯克",
       "url":"https://www.cnbeta.com/articles/science/984065.htm"
+    },
+    {
+      "name":"官方支持页面显示Windows 10 2020年5月更新将于今日正式上线",
+      "url":"https://www.cnbeta.com/articles/tech/984049.htm"
     },
     {
       "name":"中国民营火箭发动机“焦点一号”二次启动成功",
@@ -43,8 +51,8 @@
       "url":"https://www.cnbeta.com/articles/tech/984053.htm"
     },
     {
-      "name":"官方支持页面显示Windows 10 2020年5月更新将于今日正式上线",
-      "url":"https://www.cnbeta.com/articles/tech/984049.htm"
+      "name":"多版本十代酷睿桌面版，如何攒出更适合你的主机？",
+      "url":"https://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/983629.htm"
     },
     {
       "name":"华为MatePad Pro 5G平板正式发布：支持独立5G网络 5299元起",
@@ -167,10 +175,6 @@
       "url":"https://www.cnbeta.com/articles/tech/983989.htm"
     },
     {
-      "name":"多版本十代酷睿桌面版，如何攒出更适合你的主机？",
-      "url":"https://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/983629.htm"
-    },
-    {
       "name":"电动汽车专家：现在没有汽车厂商能给特斯拉带来挑战",
       "url":"https://www.cnbeta.com/articles/tech/983987.htm"
     },
@@ -237,10 +241,6 @@
     {
       "name":"澳CSIRO宣布大规模卫星追踪计划  使用GPS标签了解牛群活动情况",
       "url":"https://www.cnbeta.com/articles/science/983955.htm"
-    },
-    {
-      "name":"富士发布Fujifilm X WebCam应用程序 无反相机秒变网络摄像头",
-      "url":"https://www.cnbeta.com/articles/tech/983953.htm"
     }
   ]
 }
