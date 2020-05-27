@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-27 14:50:08",
+  "time":"2020-05-27 14:50:15",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"珠峰测量5G保障：信号能量集中对准珠峰 提升信号强度",
+      "url":"https://tech.sina.com.cn/5g/i/2020-05-27/doc-iircuyvi5301312.shtml"
+    },
     {
       "name":"美团点评获机构大幅上调目标价 港股通2天扫货逾13亿",
       "url":"https://tech.sina.com.cn/i/2020-05-27/doc-iircuyvi5300196.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"国家卫健委：推动互联网诊疗服务和互联网医院快速发展",
       "url":"https://tech.sina.com.cn/i/2020-05-27/doc-iirczymk3770718.shtml"
-    },
-    {
-      "name":"今日《自然》重磅：中国科学家找到强效新冠中和抗体",
-      "url":"https://tech.sina.com.cn/d/f/2020-05-27/doc-iircuyvi5236855.shtml"
     }
   ]
 }
