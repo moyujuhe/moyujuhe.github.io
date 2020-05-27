@@ -1,12 +1,12 @@
 {
   "title":"AppStore免费排行榜(美区)",
-  "time":"2020-05-27 17:29:45",
+  "time":"2020-05-27 17:34:04",
   "data":[
     {
       "name":"ZOOM Cloud Meetings",
       "url":"https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307?uo=4",
       "num":"Business",
-      "description":"最新版本:  5.0.4\n更新时间:  2020-05-27 09:55:32 (北京时间)\n\nMeeting/Webinar Features:\n- Users can now enable a setting to mirror their video\n\nResolved Issues:\n- Minor bug fixes"
+      "description":"最新版本:  5.0.3\n更新时间:  2020-05-20 09:21:19 (北京时间)\n\nChanges to Existing Features:\n- Language Interpretation flag icon will be replaced by language abbreviation\n- Request to unmute notification for Participant when Host unmutes the participant\n- Remove Unmute All option\n\nNew and Enhanced Meeting Features:\n- Access meeting information when screensharing \n- Waiting Room specific chime heard when participants join Waiting Room\n\nNew and Enhanced Chat Features:\n- Re-enable third-party file sharing in chat\n\nResolved Issues:\n- Minor bug fixes"
     },
     {
       "name":"TikTok - Make Your Day",

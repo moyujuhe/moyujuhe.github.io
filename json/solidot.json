@@ -1,10 +1,26 @@
 {
-  "time":"2020-05-27 17:29:46",
+  "time":"2020-05-27 17:34:05",
   "title":"奇客的资讯",
   "data":[
     {
       "name":"黑客发布 iPhone 新越狱工具 unc0ver",
       "url":"https://www.solidot.org/story?sid=64484"
+    },
+    {
+      "name":"SpaceX 与美国陆军签署测试 Starlink 宽带卫星军用的协议",
+      "url":"https://www.solidot.org/story?sid=64483"
+    },
+    {
+      "name":"台湾 IT 产业加速回归",
+      "url":"https://www.solidot.org/story?sid=64482"
+    },
+    {
+      "name":"Qt 5.15 LTS 发布",
+      "url":"https://www.solidot.org/story?sid=64481"
+    },
+    {
+      "name":"前 Windows 主管为微软曾对开源宣战辩护",
+      "url":"https://www.solidot.org/story?sid=64480"
     },
     {
       "name":"腾讯屏蔽传播阴谋论的一公众号",
@@ -65,22 +81,6 @@
     {
       "name":"网易和京东将在香港二次上市",
       "url":"https://www.solidot.org/story?sid=64465"
-    },
-    {
-      "name":"Windows 纸牌每月仍然有 3500 万玩家",
-      "url":"https://www.solidot.org/story?sid=64464"
-    },
-    {
-      "name":"阿里巴巴营收因疫情飙升",
-      "url":"https://www.solidot.org/story?sid=64463"
-    },
-    {
-      "name":"荷兰法庭裁决外祖母必须从其社交账号上移除孙辈的照片",
-      "url":"https://www.solidot.org/story?sid=64462"
-    },
-    {
-      "name":"Notion 被屏蔽",
-      "url":"https://www.solidot.org/story?sid=64461"
     }
   ]
 }
