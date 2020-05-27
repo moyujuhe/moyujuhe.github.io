@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-27 11:55:37",
+  "time":"2020-05-27 11:59:47",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"登顶！2020珠峰高程测量登山队站上喜马拉雅之巅",
       "url":"https://www.cnbeta.com/articles/tech/983847.htm"
+    },
+    {
+      "name":"天文学家用“奶牛”和“考拉”描述一类全新的太空信号",
+      "url":"https://www.cnbeta.com/articles/science/983883.htm"
     },
     {
       "name":"奔驰发布2021款E级及AMG E53双门轿跑和敞篷车",
@@ -237,10 +241,6 @@
     {
       "name":"Mozilla、Reddit 和 Twitter 等呼吁立法保护互联网浏览隐私",
       "url":"https://www.cnbeta.com/articles/tech/983769.htm"
-    },
-    {
-      "name":"Android-x86 8.1-rc5 发布，运行于 x86 PC 上的安卓 OS",
-      "url":"https://www.cnbeta.com/articles/tech/983767.htm"
     }
   ]
 }
