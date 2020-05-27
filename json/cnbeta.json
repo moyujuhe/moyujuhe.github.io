@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-27 15:21:16",
+  "time":"2020-05-27 15:25:55",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软高管：Teams未来规模将超越Windows",
+      "url":"https://www.cnbeta.com/articles/tech/983967.htm"
+    },
     {
       "name":"史上最大规模天猫618启动：玩法公布 优惠力度空前",
       "url":"https://s.click.taobao.com/T6IWfhv"
@@ -237,10 +241,6 @@
     {
       "name":"PS4独占游戏《最后的守护者》或拍电影 索尼影业打造",
       "url":"https://hot.cnbeta.com/articles/movie/983853.htm"
-    },
-    {
-      "name":"《我的世界：地下城》出现卸载Bug 玩家SSD被清空",
-      "url":"https://hot.cnbeta.com/articles/game/983851.htm"
     }
   ]
 }
