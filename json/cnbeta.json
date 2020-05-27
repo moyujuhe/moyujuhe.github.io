@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 04:49:54",
+  "time":"2020-05-28 04:54:01",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"微软正式发布Windows 10 2020年5月更新 现在即可下载",
       "url":"https://www.cnbeta.com/articles/tech/984111.htm"
+    },
+    {
+      "name":"因天气原因 SpaceX和NASA宣布推迟载人航天发射",
+      "url":"https://www.cnbeta.com/articles/science/984133.htm"
+    },
+    {
+      "name":"受TikTok启发 Facebook推出一个名为Collab的音乐制作平台",
+      "url":"https://www.cnbeta.com/articles/tech/984131.htm"
     },
     {
       "name":"谷歌搜索和地图添加额外描述符 以帮助客户更好了解企业提供的服务",
@@ -233,14 +241,6 @@
     {
       "name":"三星压轴旗舰Galaxy Fold 2开始量产：8月与Note 20系列同台发布",
       "url":"https://www.cnbeta.com/articles/tech/984017.htm"
-    },
-    {
-      "name":"阵容强大！索尼或于6月公布38款PS5游戏",
-      "url":"https://hot.cnbeta.com/articles/game/984015.htm"
-    },
-    {
-      "name":"前Windows主管为微软曾对开源宣战辩护",
-      "url":"https://www.cnbeta.com/articles/tech/984013.htm"
     }
   ]
 }
