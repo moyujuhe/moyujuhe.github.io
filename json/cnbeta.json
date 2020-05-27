@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 03:52:14",
+  "time":"2020-05-28 03:56:21",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软正式发布Windows 10 2020年5月更新 现在即可下载",
       "url":"https://www.cnbeta.com/articles/tech/984111.htm"
+    },
+    {
+      "name":"Windows Server版本2004今日随Windows 10一同更新",
+      "url":"https://www.cnbeta.com/articles/tech/984125.htm"
     },
     {
       "name":"世卫组织总干事谭德塞宣布成立世界卫生组织基金会",
@@ -237,10 +241,6 @@
     {
       "name":"任天堂东京店6.1恢复营业 动森限定机健身环暂不销售",
       "url":"https://hot.cnbeta.com/articles/game/984009.htm"
-    },
-    {
-      "name":"研究报告说巴西去年森林面积减少逾百万公顷",
-      "url":"https://www.cnbeta.com/articles/science/984007.htm"
     }
   ]
 }
