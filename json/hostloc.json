@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-27 20:44:04",
+  "time":"2020-05-27 20:48:13",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"现在freenom用伯力做全局是否可以免费撸域名",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695426&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"国际站阿里云轻量收不到到期续费邮件",
@@ -109,10 +113,6 @@
     {
       "name":"shopify怎么样",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695398&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"sharelist 如何设置webdav",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695397&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
