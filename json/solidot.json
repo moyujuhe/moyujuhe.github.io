@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 21:56:16",
+  "time":"2020-05-28 22:01:06",
   "title":"奇客的资讯",
   "data":[
     {
@@ -13,6 +13,18 @@
     {
       "name":"Raspberry Pi 4 发布 8GB 版本",
       "url":"https://www.solidot.org/story?sid=64501"
+    },
+    {
+      "name":"日本警方逮捕京都动画纵火案嫌疑人",
+      "url":"https://www.solidot.org/story?sid=64500"
+    },
+    {
+      "name":"华为储备可用两年的美国半导体产品",
+      "url":"https://www.solidot.org/story?sid=64499"
+    },
+    {
+      "name":"波音裁员 1.2 万",
+      "url":"https://www.solidot.org/story?sid=64498"
     },
     {
       "name":"美国新冠死亡人数突破 10 万",
@@ -69,18 +81,6 @@
     {
       "name":"SpaceX 与美国陆军签署测试 Starlink 宽带卫星军用的协议",
       "url":"https://www.solidot.org/story?sid=64483"
-    },
-    {
-      "name":"台湾 IT 产业加速回归",
-      "url":"https://www.solidot.org/story?sid=64482"
-    },
-    {
-      "name":"Qt 5.15 LTS 发布",
-      "url":"https://www.solidot.org/story?sid=64481"
-    },
-    {
-      "name":"前 Windows 主管为微软曾对开源宣战辩护",
-      "url":"https://www.solidot.org/story?sid=64480"
     }
   ]
 }
