@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-28 15:05:28",
+  "time":"2020-05-28 15:09:39",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"腾讯轻量香港，申请的内侧通过了，那里可以下单看价格？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695750&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"京东叠蛋糕脚本",
@@ -109,10 +113,6 @@
     {
       "name":"传说中的CNAME设置成v2ex是这样吗",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695714&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"给ipadmini2越狱，搞了3天没搞定",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695713&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
