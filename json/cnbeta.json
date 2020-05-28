@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 09:19:35",
+  "time":"2020-05-28 09:23:46",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"法官宣布判决结果 孟晚舟未能获释",
       "url":"https://www.cnbeta.com/articles/tech/984115.htm"
+    },
+    {
+      "name":"科学家打造出新型电子太阳镜：可追踪大脑、眼球等活动",
+      "url":"https://www.cnbeta.com/articles/tech/984205.htm"
     },
     {
       "name":"福特提出新方法来杀灭警用SUV车辆中的新冠病毒",
@@ -237,10 +241,6 @@
     {
       "name":"联发科将成华为手机最大处理器供应商 5G芯片出货看上4200万颗",
       "url":"https://www.cnbeta.com/articles/tech/984089.htm"
-    },
-    {
-      "name":"SpaceX龙飞船载人首飞倒计时：万事俱备，就看天气",
-      "url":"https://www.cnbeta.com/articles/science/984087.htm"
     }
   ]
 }
