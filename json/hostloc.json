@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-29 07:52:20",
+  "time":"2020-05-29 07:56:27",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"修复AAD脚本Bug另送一个小技巧",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696008&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"威联通NAS的系统是装在内置存储里还是硬盘里？",
@@ -109,10 +113,6 @@
     {
       "name":"华为云不是标称内网最高宽带6G吗？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695974&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"goindex默认能改成按照时间排序吗",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695973&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
