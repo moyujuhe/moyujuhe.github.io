@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-28 21:52:00",
+  "time":"2020-05-28 21:56:16",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"美国扣押一台中国制造的变压器",
+      "url":"https://www.solidot.org/story?sid=64503"
+    },
+    {
+      "name":"微软屏蔽了作弊的趋势科技驱动",
+      "url":"https://www.solidot.org/story?sid=64502"
+    },
+    {
+      "name":"Raspberry Pi 4 发布 8GB 版本",
+      "url":"https://www.solidot.org/story?sid=64501"
+    },
     {
       "name":"美国新冠死亡人数突破 10 万",
       "url":"https://www.solidot.org/story?sid=64497"
@@ -69,18 +81,6 @@
     {
       "name":"前 Windows 主管为微软曾对开源宣战辩护",
       "url":"https://www.solidot.org/story?sid=64480"
-    },
-    {
-      "name":"腾讯屏蔽传播阴谋论的一公众号",
-      "url":"https://www.solidot.org/story?sid=64479"
-    },
-    {
-      "name":"YouTube 自动删除与中国相关的两个短语",
-      "url":"https://www.solidot.org/story?sid=64478"
-    },
-    {
-      "name":"僵尸网络利用百度贴吧等常用服务进行管理",
-      "url":"https://www.solidot.org/story?sid=64477"
     }
   ]
 }
