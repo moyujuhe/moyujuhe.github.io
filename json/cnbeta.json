@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 09:23:46",
+  "time":"2020-05-28 09:27:58",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,14 @@
     {
       "name":"法官宣布判决结果 孟晚舟未能获释",
       "url":"https://www.cnbeta.com/articles/tech/984115.htm"
+    },
+    {
+      "name":"外媒评苹果蝶式键盘为何惨败：不该将浮华凌驾于功能之上",
+      "url":"https://www.cnbeta.com/articles/tech/984209.htm"
+    },
+    {
+      "name":"Windows 10 May 2020历时15个月开发 仍存在一系列已知问题",
+      "url":"https://www.cnbeta.com/articles/tech/984207.htm"
     },
     {
       "name":"科学家打造出新型电子太阳镜：可追踪大脑、眼球等活动",
@@ -233,14 +241,6 @@
     {
       "name":"东京大学研究人员开发Poimo充气滑板车",
       "url":"https://www.cnbeta.com/articles/tech/984093.htm"
-    },
-    {
-      "name":"Intel：明年的新架构将引入DDR5、PCIe 5.0",
-      "url":"https://www.cnbeta.com/articles/tech/984091.htm"
-    },
-    {
-      "name":"联发科将成华为手机最大处理器供应商 5G芯片出货看上4200万颗",
-      "url":"https://www.cnbeta.com/articles/tech/984089.htm"
     }
   ]
 }
