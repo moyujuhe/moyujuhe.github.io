@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-28 12:57:54",
+  "time":"2020-05-28 13:02:03",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"使用bt的小伙伴们给网站提提速之nginx开启tls1.3",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695688&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"40出virmach",
@@ -109,10 +113,6 @@
     {
       "name":"正在用OVH/SYS/KS的大佬，有没有人用Centos 8？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695658&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"MJJ开业指南",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695657&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
