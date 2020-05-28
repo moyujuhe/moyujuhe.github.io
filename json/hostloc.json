@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-28 22:05:23",
+  "time":"2020-05-28 22:09:57",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"折腾了一天的CDN感觉也没折腾出啥，右图比还是3万",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695933&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"imgur 怎么注册不了api了呢？",
@@ -109,10 +113,6 @@
     {
       "name":"用ovh的IP做隧道然后用香港的IP做回程能实现吗？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695904&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"webarena限速太狠了吧",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695903&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
