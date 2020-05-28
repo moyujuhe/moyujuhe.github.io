@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 09:27:58",
+  "time":"2020-05-28 09:32:09",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"法官宣布判决结果 孟晚舟未能获释",
       "url":"https://www.cnbeta.com/articles/tech/984115.htm"
+    },
+    {
+      "name":"T2官方辟谣：《GTA6》将于2023年发售的传言不实",
+      "url":"https://hot.cnbeta.com/articles/game/984211.htm"
     },
     {
       "name":"外媒评苹果蝶式键盘为何惨败：不该将浮华凌驾于功能之上",
@@ -237,10 +241,6 @@
     {
       "name":"谷歌地图在新冠疫情期间增加了捐款和在线课程的工具",
       "url":"https://www.cnbeta.com/articles/tech/984095.htm"
-    },
-    {
-      "name":"东京大学研究人员开发Poimo充气滑板车",
-      "url":"https://www.cnbeta.com/articles/tech/984093.htm"
     }
   ]
 }
