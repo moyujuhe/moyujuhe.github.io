@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-29 04:26:15",
+  "time":"2020-05-29 04:43:13",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"特朗普签署针对社交媒体公司的行政命令",
+      "url":"https://tech.sina.com.cn/i/2020-05-29/doc-iircuyvi5577302.shtml"
+    },
     {
       "name":"营收不及预期 蔚来周四收盘股价下跌8.15%",
       "url":"https://tech.sina.com.cn/i/2020-05-29/doc-iircuyvi5576714.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"苹果新总部内将建6层酒店 含192个房间拟2022年开放",
       "url":"https://tech.sina.com.cn/it/2020-05-28/doc-iircuyvi5483186.shtml"
-    },
-    {
-      "name":"宁德时代比亚迪互撕：电池路线之争风云再起",
-      "url":"https://tech.sina.com.cn/roll/2020-05-28/doc-iircuyvi5483122.shtml"
     }
   ]
 }
