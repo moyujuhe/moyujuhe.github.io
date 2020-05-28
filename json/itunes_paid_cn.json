@@ -1,12 +1,18 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-05-28 23:36:12",
+  "time":"2020-05-28 23:40:48",
   "data":[
     {
       "name":"终极武林觉醒",
       "url":"https://apps.apple.com/cn/app/%E7%BB%88%E6%9E%81%E6%AD%A6%E6%9E%97%E8%A7%89%E9%86%92/id1500241746?uo=4",
       "num":"游戏",
       "description":"最新版本:  1.0.2\n更新时间:  2020-05-19 10:49:13 (北京时间)\n\n本次更新修复了多个错误，提高了运行效率，建议所有玩家尽快更新！"
+    },
+    {
+      "name":"寄居隅怪奇事件簿",
+      "url":"https://apps.apple.com/cn/app/%E5%AF%84%E5%B1%85%E9%9A%85%E6%80%AA%E5%A5%87%E4%BA%8B%E4%BB%B6%E7%B0%BF/id1502942101?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.0.2\n更新时间:  2020-05-28 15:00:00 (北京时间)\n\n1、修复已知问题\n2、iPad适配\n3、接入防沉迷系统"
     },
     {
       "name":"我叫MT2 重制版",
@@ -595,12 +601,6 @@
       "url":"https://apps.apple.com/cn/app/%E7%8E%8B%E5%9B%BD%E4%BF%9D%E5%8D%AB%E6%88%98-%E5%A4%8D%E4%BB%87/id1248033433?uo=4",
       "num":"游戏",
       "description":"最新版本:  1.9.5\n更新时间:  2020-04-15 01:52:34 (北京时间)\n\n错误修复和改进"
-    },
-    {
-      "name":"Rusty Lake Hotel",
-      "url":"https://apps.apple.com/cn/app/rusty-lake-hotel/id1059911569?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.2\n更新时间:  2019-02-22 06:16:15 (北京时间)\n\n感谢您对Rusty Lake Hotel的支持！我们在这个新版本中修复了一些bug。"
     }
   ]
 }
