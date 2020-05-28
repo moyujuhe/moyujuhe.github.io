@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-28 17:21:05",
+  "time":"2020-05-28 17:29:46",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"美国新冠死亡人数突破 10 万",
+      "url":"https://www.solidot.org/story?sid=64497"
+    },
     {
       "name":"Twitter 给政客推文添加事实核查链接",
       "url":"https://www.solidot.org/story?sid=64495"
@@ -77,10 +81,6 @@
     {
       "name":"僵尸网络利用百度贴吧等常用服务进行管理",
       "url":"https://www.solidot.org/story?sid=64477"
-    },
-    {
-      "name":"大黄蜂叮咬植物促其更早开花",
-      "url":"https://www.solidot.org/story?sid=64476"
     }
   ]
 }
