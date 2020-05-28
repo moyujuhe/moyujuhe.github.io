@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-28 11:27:24",
+  "time":"2020-05-28 11:31:38",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"个人果然不能搞DNS服务了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695648&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"oracle可以直接换公网ip吗。",
@@ -109,10 +113,6 @@
     {
       "name":"合肥移动对CF一枝独秀？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695616&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"tripodcloud 的vps 今天连不上了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695614&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
