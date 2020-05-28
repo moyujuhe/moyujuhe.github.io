@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-28 14:21:27",
+  "time":"2020-05-28 14:25:50",
   "title":"cnBeta",
   "data":[
     {
       "name":"史上最大规模天猫618启动：玩法公布 优惠力度空前",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"Windows 10 May 2020导致部分装有旧NVIDIA驱动设备蓝屏",
+      "url":"https://www.cnbeta.com/articles/tech/984361.htm"
     },
     {
       "name":"耶鲁大学新研究发现了造成压力感的大脑“网络”",
@@ -237,10 +241,6 @@
     {
       "name":"印度开源了它的接触者跟踪应用",
       "url":"https://www.cnbeta.com/articles/tech/984243.htm"
-    },
-    {
-      "name":"美新冠肺炎死亡病例已超10万",
-      "url":"https://www.cnbeta.com/articles/science/984241.htm"
     }
   ]
 }
