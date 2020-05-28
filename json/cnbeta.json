@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-28 11:57:12",
+  "time":"2020-05-28 12:01:32",
   "title":"cnBeta",
   "data":[
     {
       "name":"史上最大规模天猫618启动：玩法公布 优惠力度空前",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"AMD发布Radeon 20.5.1驱动更新 支持Windows 10 2020五月更新",
+      "url":"https://www.cnbeta.com/articles/soft/984325.htm"
     },
     {
       "name":"科学家发现能改善运动功能的分子 为治疗帕金森病带来新希望",
@@ -237,10 +241,6 @@
     {
       "name":"Windows 10 May 2020历时15个月开发 仍存在一系列已知问题",
       "url":"https://www.cnbeta.com/articles/tech/984207.htm"
-    },
-    {
-      "name":"科学家打造出新型电子太阳镜：可追踪大脑、眼球等活动",
-      "url":"https://www.cnbeta.com/articles/tech/984205.htm"
     }
   ]
 }
