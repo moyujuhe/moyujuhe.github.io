@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 09:36:25",
+  "time":"2020-05-28 09:40:34",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"华为：对加拿大法院判决表示失望",
       "url":"https://www.cnbeta.com/articles/tech/984135.htm"
+    },
+    {
+      "name":"HAAH确认搁置从众泰进口汽车的计划",
+      "url":"https://www.cnbeta.com/articles/tech/984215.htm"
     },
     {
       "name":"法官宣布判决结果 孟晚舟未能获释",
@@ -237,10 +241,6 @@
     {
       "name":"NVIDIA发布446.14版显卡驱动：拯救麦克斯韦老笔记本",
       "url":"https://www.cnbeta.com/articles/tech/984099.htm"
-    },
-    {
-      "name":"明年旗舰机性能如何？ARM 告诉你",
-      "url":"https://www.cnbeta.com/articles/tech/984097.htm"
     }
   ]
 }
