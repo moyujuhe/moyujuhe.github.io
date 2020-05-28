@@ -1,7 +1,23 @@
 {
-  "time":"2020-05-28 16:17:45",
+  "time":"2020-05-28 16:21:57",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Twitter 给政客推文添加事实核查链接",
+      "url":"https://www.solidot.org/story?sid=64495"
+    },
+    {
+      "name":"OneWeb 申请发射 4.8 万颗卫星的许可证",
+      "url":"https://www.solidot.org/story?sid=64494"
+    },
+    {
+      "name":"Linus Torvald 的最新开发机细节",
+      "url":"https://www.solidot.org/story?sid=64493"
+    },
+    {
+      "name":"cmd.exe 进入维护状态",
+      "url":"https://www.solidot.org/story?sid=64492"
+    },
     {
       "name":"加拿大法庭裁决孟晚舟案符合双重犯罪",
       "url":"https://www.solidot.org/story?sid=64491"
@@ -65,22 +81,6 @@
     {
       "name":"大黄蜂叮咬植物促其更早开花",
       "url":"https://www.solidot.org/story?sid=64476"
-    },
-    {
-      "name":"Google 从应用商店下架三款阴谋论应用",
-      "url":"https://www.solidot.org/story?sid=64475"
-    },
-    {
-      "name":"eBay 用脚本扫描访问者的端口寻找远程访问程序",
-      "url":"https://www.solidot.org/story?sid=64474"
-    },
-    {
-      "name":"Virgin Orbit 的首次空中火箭发射失败",
-      "url":"https://www.solidot.org/story?sid=64473"
-    },
-    {
-      "name":"黑客组织窃取杀毒软件日志观察它的恶意程序有没有检测出",
-      "url":"https://www.solidot.org/story?sid=64472"
     }
   ]
 }
