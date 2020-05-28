@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 07:59:01",
+  "time":"2020-05-28 08:03:12",
   "title":"cnBeta",
   "data":[
     {
@@ -17,6 +17,14 @@
     {
       "name":"因天气原因 SpaceX和NASA宣布推迟载人航天发射",
       "url":"https://www.cnbeta.com/articles/science/984133.htm"
+    },
+    {
+      "name":"报道称亚马逊或将收购自动驾驶初创公司Zoox",
+      "url":"https://www.cnbeta.com/articles/tech/984171.htm"
+    },
+    {
+      "name":"苹果下月或将发布Apple Watch皮质回扣表带新设计",
+      "url":"https://www.cnbeta.com/articles/science/984169.htm"
     },
     {
       "name":"天文学家发现了一类新的宇宙爆炸现象",
@@ -233,14 +241,6 @@
     {
       "name":"AMD锐龙3000XT跑分首曝：单核心性能终于完美",
       "url":"https://www.cnbeta.com/articles/tech/984057.htm"
-    },
-    {
-      "name":"半导体测试设备市场现状：国产化仍不足10%",
-      "url":"https://www.cnbeta.com/articles/tech/984055.htm"
-    },
-    {
-      "name":"AdDuplex：上月以来Windows 10版本1909的使用量略有增加",
-      "url":"https://www.cnbeta.com/articles/tech/984053.htm"
     }
   ]
 }
