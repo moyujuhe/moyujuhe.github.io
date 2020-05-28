@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 08:24:21",
+  "time":"2020-05-28 08:28:42",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"法官宣布判决结果 孟晚舟未能获释",
       "url":"https://www.cnbeta.com/articles/tech/984115.htm"
+    },
+    {
+      "name":"疫情压抑购车需求 特斯拉电动汽车北美降价达6%",
+      "url":"https://www.cnbeta.com/articles/tech/984187.htm"
     },
     {
       "name":"比特大陆抢执照闹剧后续：詹克团向前法定代表人发解雇通知",
@@ -237,10 +241,6 @@
     {
       "name":"苹果公司继续在印度扩张 提供按订单定制的Mac产品",
       "url":"https://www.cnbeta.com/articles/tech/984071.htm"
-    },
-    {
-      "name":"谷歌在印度遭遇反垄断指控：偏袒自家服务Google Pay",
-      "url":"https://www.cnbeta.com/articles/tech/984069.htm"
     }
   ]
 }
