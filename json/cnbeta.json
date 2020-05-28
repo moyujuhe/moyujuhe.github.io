@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-28 09:15:16",
+  "time":"2020-05-28 09:19:35",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"法官宣布判决结果 孟晚舟未能获释",
       "url":"https://www.cnbeta.com/articles/tech/984115.htm"
+    },
+    {
+      "name":"福特提出新方法来杀灭警用SUV车辆中的新冠病毒",
+      "url":"https://www.cnbeta.com/articles/tech/984203.htm"
     },
     {
       "name":"紧跟特斯拉步伐：Rivian也将可能提供自己的保险业务",
@@ -237,10 +241,6 @@
     {
       "name":"SpaceX龙飞船载人首飞倒计时：万事俱备，就看天气",
       "url":"https://www.cnbeta.com/articles/science/984087.htm"
-    },
-    {
-      "name":"微软推出Xbox家庭设置应用 管理孩子的游戏习惯",
-      "url":"https://hot.cnbeta.com/articles/game/984085.htm"
     }
   ]
 }
