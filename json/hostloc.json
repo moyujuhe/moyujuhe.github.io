@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-28 15:30:52",
+  "time":"2020-05-28 15:35:21",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"咱们买vps 算是花国家的外汇吗？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695764&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"热烈庆祝ION圣何塞上线CN2",
@@ -109,10 +113,6 @@
     {
       "name":"联通现在也有小号业务了，非阿里小号",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695733&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"天翼云更换绑定手机号，收不到验证码。",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695732&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
