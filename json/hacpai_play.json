@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-05-29 02:23:21",
+  "time":"2020-05-29 02:27:32",
   "data":[
+    {
+      "name":"20200529 TGIF",
+      "url":"https://hacpai.com/article/1590690280420"
+    },
     {
       "name":"开源的自动剪辑视频工具",
       "url":"https://hacpai.com/article/1590476704142"
@@ -177,10 +181,6 @@
     {
       "name":"用 flutter 写了一个黑客派的第三方 app",
       "url":"https://hacpai.com/article/1586333437792"
-    },
-    {
-      "name":"每周电影 EP16《一个叫欧维的男人决定去死》",
-      "url":"https://hacpai.com/article/1586237217020"
     },
     {
       "name":"开发者福利：免费获取 JetBrains 全家桶",
