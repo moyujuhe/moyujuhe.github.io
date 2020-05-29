@@ -1,7 +1,19 @@
 {
-  "time":"2020-05-29 22:44:52",
+  "time":"2020-05-29 22:49:09",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"字节跳动将全球决策和研发移出中国",
+      "url":"https://www.solidot.org/story?sid=64517"
+    },
+    {
+      "name":"乔治·弗洛伊德（George Floyd）抗议活动在全美蔓延",
+      "url":"https://www.solidot.org/story?sid=64516"
+    },
+    {
+      "name":"建造一座金字塔需要多少人",
+      "url":"https://www.solidot.org/story?sid=64515"
+    },
     {
       "name":"中国科学家在深海发现超高温气态水",
       "url":"https://www.solidot.org/story?sid=64514"
@@ -69,18 +81,6 @@
     {
       "name":"波音裁员 1.2 万",
       "url":"https://www.solidot.org/story?sid=64498"
-    },
-    {
-      "name":"美国新冠死亡人数突破 10 万",
-      "url":"https://www.solidot.org/story?sid=64497"
-    },
-    {
-      "name":"Twitter 给政客推文添加事实核查链接",
-      "url":"https://www.solidot.org/story?sid=64495"
-    },
-    {
-      "name":"OneWeb 申请发射 4.8 万颗卫星的许可证",
-      "url":"https://www.solidot.org/story?sid=64494"
     }
   ]
 }
