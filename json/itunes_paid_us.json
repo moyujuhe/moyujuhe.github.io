@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-05-29 11:06:21",
+  "time":"2020-05-29 11:10:32",
   "data":[
     {
       "name":"Minecraft",
@@ -84,7 +84,7 @@
       "name":"AutoSleep Track Sleep on Watch",
       "url":"https://apps.apple.com/us/app/autosleep-track-sleep-on-watch/id1164801111?uo=4",
       "num":"Health & Fitness",
-      "description":"最新版本:  6.3.1\n更新时间:  2019-11-22 04:52:45 (北京时间)\n\niOS 13, WatchOS 6.\nAuto dark, light mode setting option. \nEnvironmental noise on sleep session graph (requires Series 4 or higher). \nNew detailed export option in settings. \nYou can read more in \"What's New\" on the settings tab. \n\n6.3.1 - Small fix on the welcome screen for people that have native dark mode enabled. It changed the text to white on white. This made things somewhat hard to understand.\n\nNow back to the huge HeartWatch update for December!"
+      "description":"最新版本:  6.4.0\n更新时间:  2020-05-29 05:04:05 (北京时间)\n\nWelcome to AutoSleep 6.4!\n- New charge reminder. Get a reminder of your Watch battery level and whether you should charge it before going to bed. \n- New Smart Alarm (WatchOS 6 or higher). Start the day feeling less groggy with the new native Apple Watch smart alarm that can wake you up in lighter sleep or gently tap you to take you out of deeper sleep. \n- New Infograph large modular and large modular complication with alarm status and live sleep tracking. \n- Watch app support for older watches running WatchOS 4.\n- Various fixes and general tidying up. \n- Learn more in the app in Settings / What's New."
     },
     {
       "name":"True Skate",
