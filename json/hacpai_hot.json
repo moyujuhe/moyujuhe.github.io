@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-29 15:42:35",
+  "time":"2020-05-29 15:46:53",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -211,6 +211,10 @@
       "url":"https://hacpai.com/article/1589948209783"
     },
     {
+      "name":"教你搭建 solo 博客站（像我酱紫的）",
+      "url":"https://hacpai.com/article/1589816039114"
+    },
+    {
       "name":"使用 Solo 静态站点功能部署站点到 gitee 上的 Pages",
       "url":"https://hacpai.com/article/1589808850287"
     },
@@ -237,10 +241,6 @@
     {
       "name":"发现个新技巧，把微博当视频床，插到博客文章",
       "url":"https://hacpai.com/article/1590505049651"
-    },
-    {
-      "name":"Solo 4.1.0 本地运行使用 markdown 问题",
-      "url":"https://hacpai.com/article/1590502843951"
     }
   ]
 }
