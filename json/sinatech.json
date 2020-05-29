@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-29 13:36:38",
+  "time":"2020-05-29 13:46:51",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"习近平给袁隆平、钟南山、叶培建等25位科技工作者代表回信",
+      "url":"https://tech.sina.com.cn/d/i/2020-05-29/doc-iircuyvi5660000.shtml"
+    },
     {
       "name":"网易披露风险因素：业务状况部分取决于游戏行业发展",
       "url":"https://tech.sina.com.cn/i/2020-05-29/doc-iircuyvi5658437.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"SpaceX获美国联邦航空管理局许可：执飞星舰飞船原型机",
       "url":"https://tech.sina.com.cn/it/2020-05-29/doc-iirczymk4120628.shtml"
-    },
-    {
-      "name":"美国5G掉队简史：从领先到紧张",
-      "url":"https://tech.sina.com.cn/5g/i/2020-05-29/doc-iirczymk4123537.shtml"
     }
   ]
 }
