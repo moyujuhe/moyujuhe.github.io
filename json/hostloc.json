@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-29 22:07:59",
+  "time":"2020-05-29 22:12:22",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"图片打开速度测试。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696375&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"感觉最近，百度不太收录网站啊？",
@@ -109,10 +113,6 @@
     {
       "name":"凉凉，真的要持久关闭注册了~~",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696341&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"腾讯云国际版不支持Paypal了？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696340&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
