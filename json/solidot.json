@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-29 17:53:51",
+  "time":"2020-05-29 17:58:03",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"中国科学家在深海发现超高温气态水",
+      "url":"https://www.solidot.org/story?sid=64514"
+    },
+    {
+      "name":"中国排除武汉病毒研究所和海鲜市场是新冠源头",
+      "url":"https://www.solidot.org/story?sid=64513"
+    },
     {
       "name":"思科 VPN 服务器遭黑客入侵",
       "url":"https://www.solidot.org/story?sid=64512"
@@ -73,14 +81,6 @@
     {
       "name":"OneWeb 申请发射 4.8 万颗卫星的许可证",
       "url":"https://www.solidot.org/story?sid=64494"
-    },
-    {
-      "name":"Linus Torvald 的最新开发机细节",
-      "url":"https://www.solidot.org/story?sid=64493"
-    },
-    {
-      "name":"cmd.exe 进入维护状态",
-      "url":"https://www.solidot.org/story?sid=64492"
     }
   ]
 }
