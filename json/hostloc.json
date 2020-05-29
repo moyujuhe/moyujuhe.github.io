@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-29 10:07:20",
+  "time":"2020-05-29 10:11:26",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"不懂就问系列knowroaming卡怎么样？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696065&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"onedrive已开始向O365提升至100GB单文件限制",
@@ -109,10 +113,6 @@
     {
       "name":"【hostyun】小组长家的RAID10补货1个",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696032&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"【再来T楼】 口号 UK的A1全局/Azure独享域名他不香么",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696024&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
