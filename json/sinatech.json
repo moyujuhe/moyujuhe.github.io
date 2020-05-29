@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-29 09:34:02",
+  "time":"2020-05-29 09:39:39",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"字节跳动确认柳甄离职",
+      "url":"https://tech.sina.com.cn/i/2020-05-29/doc-iircuyvi5606636.shtml"
+    },
+    {
+      "name":"蔚来业绩大写的惨：腹背受敌 毛利率持续扩大",
+      "url":"http://tech.sina.com.cn/csj/2020-05-29/doc-iircuyvi5605912.shtml"
+    },
     {
       "name":"外媒：华为已储备2年份美国关键芯片 包含赛灵思英特尔等公司产品",
       "url":"https://tech.sina.com.cn/it/2020-05-29/doc-iirczymk4131834.shtml"
@@ -67,6 +75,10 @@
       "url":"https://tech.sina.com.cn/it/2020-05-29/doc-iircuyvi5593072.shtml"
     },
     {
+      "name":"特斯拉掀起无钴电池风云 是噱头还是可触到的现实？",
+      "url":"https://tech.sina.com.cn/roll/2020-05-29/doc-iirczymk4119859.shtml"
+    },
+    {
       "name":"蔚来狂追特斯拉：国资送70亿，回国上市倒计时？",
       "url":"https://tech.sina.com.cn/it/2020-05-29/doc-iirczymk4118644.shtml"
     },
@@ -81,6 +93,10 @@
     {
       "name":"为了对抗病毒，人类免疫系统都进化出哪些机制？",
       "url":"https://tech.sina.com.cn/scientist/2020-05-29/doc-iirczymk4002436.shtml"
+    },
+    {
+      "name":"用肌肉动作控制电子设备？麻省理工科学家正在尝试了",
+      "url":"https://tech.sina.com.cn/roll/2020-05-29/doc-iircuyvi5589955.shtml"
     },
     {
       "name":"微软：Xbox Series X将向下兼容数千款游戏  全特效运行",
@@ -185,22 +201,6 @@
     {
       "name":"周四收盘 瑞幸咖啡股价大跌20.46%",
       "url":"https://tech.sina.com.cn/i/2020-05-29/doc-iirczymk4103067.shtml"
-    },
-    {
-      "name":"特斯拉宣布在中美两地降价 年交付50万辆目标恐受挫",
-      "url":"https://tech.sina.com.cn/it/2020-05-29/doc-iircuyvi5576240.shtml"
-    },
-    {
-      "name":"歌华有线拟率先融入 全国有线电视网络整合拉开帷幕",
-      "url":"https://tech.sina.com.cn/t/2020-05-29/doc-iirczymk4102832.shtml"
-    },
-    {
-      "name":"报道称瑞幸向董事长关联公司出售代金券以虚增销售",
-      "url":"https://tech.sina.com.cn/i/2020-05-29/doc-iirczymk4102570.shtml"
-    },
-    {
-      "name":"华为机器视觉：安防领域的一盘大棋",
-      "url":"https://tech.sina.com.cn/t/2020-05-29/doc-iirczymk4099638.shtml"
     }
   ]
 }
