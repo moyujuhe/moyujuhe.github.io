@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-29 10:15:05",
+  "time":"2020-05-29 10:30:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"美国政府正在考虑取消来自中国与军方有关院校的研究生的签证，这些学校包括西北工业大学、哈尔滨工程大学、哈尔滨工业大学、北京航空航天大学、北京理工大学、南京航天航空大学等。涉及的人数至少3000，现在中国在美留学生约36万。",
+      "url":"https://world.huanqiu.com/article/9CaKrnKrbGM"
+    },
     {
       "name":"分析师：远程办公的兴起是“对石油需求的最大威胁”",
       "url":"https://finance.sina.com.cn/stock/usstock/c/2020-05-29/doc-iirczymk4098291.shtml"
@@ -97,10 +101,6 @@
     {
       "name":"\"Working from home ... with pets.\"",
       "url":"https://weibo.com/tv/v/J1MpzoahB?fid=1034:4504244057997338"
-    },
-    {
-      "name":"是苦修士？是银行家？是——圣殿骑士！",
-      "url":"https://www.gcores.com/articles/124203"
     }
   ]
 }
