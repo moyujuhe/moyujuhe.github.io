@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-30 07:50:41",
+  "time":"2020-05-30 07:54:51",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"buyvm的2刀机器又来货了，还剩两个",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696442&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"大清早的请教一个关于Azure的问题！",
@@ -109,10 +113,6 @@
     {
       "name":"百毒云不愧是网速杀手",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696411&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"hetzner的机器用哪里的反代到国内速度快?",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696408&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
