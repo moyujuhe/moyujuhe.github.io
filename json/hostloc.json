@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-29 09:03:51",
+  "time":"2020-05-29 09:08:03",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"收个1T的hosthatch 大盘鸡，有大佬割爱没",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696030&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"明盘 400出个资源站",
@@ -109,10 +113,6 @@
     {
       "name":"收个ion11.11，价格好商量",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695994&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"能ping通，但是TTL 50、245 来回跳，请问什么情况？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=695993&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
