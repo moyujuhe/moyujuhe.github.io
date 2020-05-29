@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-29 15:29:41",
+  "time":"2020-05-29 15:33:51",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -49,10 +49,6 @@
     {
       "name":"三年拿不到 8K 的程序员都是垃圾？",
       "url":"https://hacpai.com/article/1588207395778"
-    },
-    {
-      "name":"学 java 是不可能的, 这辈子都不可能的",
-      "url":"https://hacpai.com/article/1588147087979"
     },
     {
       "name":"系统屏幕自动弹广告求助",
@@ -241,6 +237,10 @@
     {
       "name":"发现个新技巧，把微博当视频床，插到博客文章",
       "url":"https://hacpai.com/article/1590505049651"
+    },
+    {
+      "name":"Solo 4.1.0 本地运行使用 markdown 问题",
+      "url":"https://hacpai.com/article/1590502843951"
     }
   ]
 }
