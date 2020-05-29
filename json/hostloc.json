@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-29 16:29:24",
+  "time":"2020-05-29 16:33:33",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"对于爱奇艺新推出的星钻VIP大家怎么看？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696260&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"FinalShell 又搞了个同步功能，要钱的",
@@ -109,10 +113,6 @@
     {
       "name":"2020过去了快一半，公司又是裁员又是降薪",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696231&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"萌新求助大佬，win server 2019如何DD成debian9",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696230&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
