@@ -1,10 +1,10 @@
 {
-  "time":"2020-05-29 11:14:44",
+  "time":"2020-05-29 11:18:55",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"半夜三四点左右会醒一次，大家有良方吗",
-      "url":"https://www.v2ex.com/t/676533#reply96"
+      "url":"https://www.v2ex.com/t/676533#reply98"
     },
     {
       "name":"为啥京东和淘宝 Web 网站的界面那么丑，是不是都被战略放弃了",
@@ -20,7 +20,7 @@
     },
     {
       "name":"关于德国发布放弃 Windows 系统",
-      "url":"https://www.v2ex.com/t/676532#reply43"
+      "url":"https://www.v2ex.com/t/676532#reply45"
     },
     {
       "name":"听说淘宝防弹衣卖脱销了",
@@ -28,7 +28,7 @@
     },
     {
       "name":"不解就问：台式机性能过剩可以用来干啥？",
-      "url":"https://www.v2ex.com/t/676548#reply38"
+      "url":"https://www.v2ex.com/t/676548#reply39"
     },
     {
       "name":"树莓派 4B 推出 8g 版",
@@ -44,27 +44,31 @@
     },
     {
       "name":"Windows OS 有没有比较简单快速的录像/录屏的软件？好像 macos 的 quicktime 一样的？",
-      "url":"https://www.v2ex.com/t/676521#reply20"
+      "url":"https://www.v2ex.com/t/676521#reply21"
     },
     {
       "name":"关于离职，求建议",
       "url":"https://www.v2ex.com/t/676563#reply14"
     },
     {
+      "name":"单表近 7 亿条数据，现在要优化结构，进行去重，求个方案",
+      "url":"https://www.v2ex.com/t/676577#reply14"
+    },
+    {
+      "name":"X570 还是等 B550?",
+      "url":"https://www.v2ex.com/t/676555#reply13"
+    },
+    {
       "name":"上海联通套餐满 58 送宽带了",
       "url":"https://www.v2ex.com/t/676538#reply12"
     },
     {
-      "name":"X570 还是等 B550?",
-      "url":"https://www.v2ex.com/t/676555#reply12"
-    },
-    {
-      "name":"单表近 7 亿条数据，现在要优化结构，进行去重，求个方案",
-      "url":"https://www.v2ex.com/t/676577#reply12"
-    },
-    {
       "name":"AirPods Pro 右耳只要动一动，就有揉搓塑料袋的声音，这个去蓝精灵吧能免费修么？",
       "url":"https://www.v2ex.com/t/676568#reply11"
+    },
+    {
+      "name":"你们通勤一般花费多长时间呢？",
+      "url":"https://www.v2ex.com/t/676591#reply11"
     },
     {
       "name":"notion 改版",
@@ -79,32 +83,28 @@
       "url":"https://www.v2ex.com/t/676566#reply8"
     },
     {
-      "name":"你们通勤一般花费多长时间呢？",
-      "url":"https://www.v2ex.com/t/676591#reply8"
-    },
-    {
       "name":"bilibili 每次都循环播放",
       "url":"https://www.v2ex.com/t/676518#reply7"
+    },
+    {
+      "name":"前端自动化测试有必要吗？",
+      "url":"https://www.v2ex.com/t/676550#reply7"
+    },
+    {
+      "name":"怎么才能注销账号",
+      "url":"https://www.v2ex.com/t/676567#reply7"
+    },
+    {
+      "name":"[加入微信] 招开发 后端 / 前端 / 高级 中级",
+      "url":"https://www.v2ex.com/t/676571#reply7"
     },
     {
       "name":"有了解做分账或者分润支付公司的老哥没?能否介绍下？",
       "url":"https://www.v2ex.com/t/676544#reply6"
     },
     {
-      "name":"前端自动化测试有必要吗？",
-      "url":"https://www.v2ex.com/t/676550#reply6"
-    },
-    {
       "name":"如何看待数理和计算机基础对程序员的作用？",
       "url":"https://www.v2ex.com/t/676556#reply6"
-    },
-    {
-      "name":"怎么才能注销账号",
-      "url":"https://www.v2ex.com/t/676567#reply6"
-    },
-    {
-      "name":"[加入微信] 招开发 后端 / 前端 / 高级 中级",
-      "url":"https://www.v2ex.com/t/676571#reply6"
     },
     {
       "name":"被微信搞崩溃",
@@ -145,6 +145,10 @@
     {
       "name":"索尼售后是不是坑货",
       "url":"https://www.v2ex.com/t/676575#reply3"
+    },
+    {
+      "name":"500 以下什么机箱散热好",
+      "url":"https://www.v2ex.com/t/676582#reply3"
     },
     {
       "name":"上海 9 号线九亭站九亭苑单间出租",
