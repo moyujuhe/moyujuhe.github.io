@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-30 14:55:40",
+  "time":"2020-05-30 15:00:32",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -159,6 +159,10 @@
       "url":"https://hacpai.com/article/1590027472618"
     },
     {
+      "name":"使用 Solo 静态站点功能部署站点到 gitee 上的 Pages",
+      "url":"https://hacpai.com/article/1589808850287"
+    },
+    {
       "name":"Solo 实现动态标题栏和页面樱花特效",
       "url":"https://hacpai.com/article/1589702789780"
     },
@@ -177,10 +181,6 @@
     {
       "name":"想在本地用 typora 编写 markdown, 如何设置黑客派为图床服务?",
       "url":"https://hacpai.com/article/1590311053592"
-    },
-    {
-      "name":"使用 Solo 静态站点功能部署站点到 gitee 上的 Pages",
-      "url":"https://hacpai.com/article/1589808850287"
     },
     {
       "name":"前端怎么实现划词评论？",

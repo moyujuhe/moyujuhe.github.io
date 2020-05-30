@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-30 14:55:44",
+  "time":"2020-05-30 15:00:36",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"这不得烂掉啊？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696596&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"采集一个网站1亿条数据",
@@ -109,10 +113,6 @@
     {
       "name":"求购aws ses50000",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696562&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"卧槽TMD OVH居然私自改动设置",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696561&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
