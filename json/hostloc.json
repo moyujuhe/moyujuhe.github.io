@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-30 18:24:03",
+  "time":"2020-05-30 18:28:21",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"论坛有个人的博客IP地址在南非，是Azure南非节点？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696673&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"来看看我的新域名品相如何？",
@@ -97,10 +101,6 @@
     {
       "name":"有没有能装虚拟机 imessage 群发的？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696643&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"全世界主要的大机房除了HZ,OVH还有啥？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696641&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
