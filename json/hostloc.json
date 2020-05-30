@@ -1,10 +1,18 @@
 {
-  "time":"2020-05-30 13:10:39",
+  "time":"2020-05-30 13:15:05",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"【云续期】github actions上执行freenom免费域名自动续期",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696563&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"求购aws ses50000",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696562&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"卧槽TMD OVH居然私自改动设置",
@@ -105,14 +113,6 @@
     {
       "name":"你们的美国主机还好吗:(",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696531&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"euserv vServer VS2-free德国免费机的使用时长？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696530&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"怎么做支付宝在线支付不用手续费。",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696529&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
