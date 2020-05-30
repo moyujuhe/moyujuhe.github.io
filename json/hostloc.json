@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-30 21:34:00",
+  "time":"2020-05-30 21:39:12",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"Deluge 下载的怎么通过迅雷拉回本地？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696735&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"小店铺正式开张啦！",
@@ -109,10 +113,6 @@
     {
       "name":"A1卖掉没有解绑域名，新的A1不能绑定这个域名怎么办呢",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696708&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"大家阿里云，阿里云服务器正常吗？崩了？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696707&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
