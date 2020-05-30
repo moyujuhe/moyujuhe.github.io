@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-30 09:27:32",
+  "time":"2020-05-30 09:31:43",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 6月1日追加40亿元消费券",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"Raspberry Pi 4从新固件Beta版本中获得USB Bootloader",
+      "url":"https://www.cnbeta.com/articles/tech/985031.htm"
     },
     {
       "name":"工厂建造模拟器《Satisfactory》将于6月8日登陆Steam平台",
@@ -237,10 +241,6 @@
     {
       "name":"敢给美国总统推文打“欺诈”标签 硅谷巨头们将面临什么？",
       "url":"https://www.cnbeta.com/articles/tech/984917.htm"
-    },
-    {
-      "name":"继三星之后SK海力士也将在内存产线上使用EUV光刻机",
-      "url":"https://www.cnbeta.com/articles/tech/984915.htm"
     }
   ]
 }
