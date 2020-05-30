@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-30 09:35:59",
+  "time":"2020-05-30 09:40:12",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"请问伯力的流量怎么算的？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696472&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"那个大佬有Vultr的模板，适用于7.8.3(收一个)",
@@ -105,10 +109,6 @@
     {
       "name":"Tunnel broker IPv6隧道",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696437&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"一大早看到都是挖坟回帖，我还以为论坛又回档了……",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696435&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
