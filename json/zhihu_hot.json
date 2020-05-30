@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-31 07:32:48",
+  "time":"2020-05-31 07:37:02",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -75,12 +75,12 @@
       "url":"https://www.zhihu.com/question/397962741"
     },
     {
-      "name":"SpaceX 星际飞船 SN4 原型机在测试中爆炸，为什么会这样？影响有多大？",
-      "url":"https://www.zhihu.com/question/398350299"
-    },
-    {
       "name":"如何解读教育部继续开展第二学士学位教育的通知，本科第二学位将何去何从？",
       "url":"https://www.zhihu.com/question/398213026"
+    },
+    {
+      "name":"SpaceX 星际飞船 SN4 原型机在测试中爆炸，为什么会这样？影响有多大？",
+      "url":"https://www.zhihu.com/question/398350299"
     },
     {
       "name":"如何评价明尼苏达州警察压人案，被害黑人曾多次因犯罪被监禁，罪名为盗窃，擅闯民宅，携带毒品，持枪抢劫?",
@@ -111,10 +111,6 @@
       "url":"https://www.zhihu.com/question/398354675"
     },
     {
-      "name":"有哪些应该坚持的好习惯？",
-      "url":"https://www.zhihu.com/question/268776431"
-    },
-    {
       "name":"三门峡 5 岁男童被天降瓷砖砸中身亡，系 6 岁男童从 25 楼扔出，哪些人将承担怎样的责任？",
       "url":"https://www.zhihu.com/question/398382094"
     },
@@ -123,16 +119,20 @@
       "url":"https://www.zhihu.com/question/391538157"
     },
     {
-      "name":"如何看待24岁女生熬夜中风？",
-      "url":"https://www.zhihu.com/question/398239463"
-    },
-    {
       "name":"如何看待《英雄联盟》季中杯赛小组赛 iG 三连败出局，宁王退出游戏？",
       "url":"https://www.zhihu.com/question/398222531"
     },
     {
+      "name":"有哪些应该坚持的好习惯？",
+      "url":"https://www.zhihu.com/question/268776431"
+    },
+    {
       "name":"《创造营2020》为什么这么糊?",
       "url":"https://www.zhihu.com/question/394103347"
+    },
+    {
+      "name":"如何看待24岁女生熬夜中风？",
+      "url":"https://www.zhihu.com/question/398239463"
     },
     {
       "name":"如何看待防弹少年团闵玧其在自作曲中放入美国邪教组织教士Jim Jones的演讲片段导致国际口碑翻车?",
@@ -143,12 +143,12 @@
       "url":"https://www.zhihu.com/question/387303577"
     },
     {
-      "name":"假如给你两百万让你放弃985去二本，你愿意吗？",
-      "url":"https://www.zhihu.com/question/381758802"
-    },
-    {
       "name":"哪些影视作品或者动画片表面上是喜剧收尾，但其实是悲剧收场？为什么？",
       "url":"https://www.zhihu.com/question/397606139"
+    },
+    {
+      "name":"假如给你两百万让你放弃985去二本，你愿意吗？",
+      "url":"https://www.zhihu.com/question/381758802"
     },
     {
       "name":"如何看待马思纯在《看我的生活》里回应家庭背景争议？",
@@ -175,10 +175,6 @@
       "url":"https://www.zhihu.com/question/386387920"
     },
     {
-      "name":"孙红雷为什么不愿提《征服》？",
-      "url":"https://www.zhihu.com/question/53340034"
-    },
-    {
       "name":"大学生买 iPad 有没有意义？",
       "url":"https://www.zhihu.com/question/46466511"
     },
@@ -201,6 +197,10 @@
     {
       "name":"为什么有人说小樱有事naruto无事sasuke?",
       "url":"https://www.zhihu.com/question/395279024"
+    },
+    {
+      "name":"为什么我看王小波的书觉得他有一股从西方视角俯视中国人的优越感？",
+      "url":"https://www.zhihu.com/question/397857318"
     }
   ]
 }
