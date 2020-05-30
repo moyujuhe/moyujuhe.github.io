@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-31 07:28:36",
+  "time":"2020-05-31 07:32:48",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -35,12 +35,12 @@
       "url":"https://www.zhihu.com/question/398432596"
     },
     {
-      "name":"美国明尼苏达压死黑人警察被逮捕，他可能面临怎样的处罚？",
-      "url":"https://www.zhihu.com/question/398304405"
-    },
-    {
       "name":"如何看待「广州六岁哮喘女童被老师体罚吐血事件」为家长伪造，「血迹」实为化妆品和水？",
       "url":"https://www.zhihu.com/question/398504944"
+    },
+    {
+      "name":"美国明尼苏达压死黑人警察被逮捕，他可能面临怎样的处罚？",
+      "url":"https://www.zhihu.com/question/398304405"
     },
     {
       "name":"如何看待德国总理默克尔拒绝赴美参加 G7 峰会?",
@@ -75,10 +75,6 @@
       "url":"https://www.zhihu.com/question/397962741"
     },
     {
-      "name":"如何评价明尼苏达州警察压人案，被害黑人曾多次因犯罪被监禁，罪名为盗窃，擅闯民宅，携带毒品，持枪抢劫?",
-      "url":"https://www.zhihu.com/question/398355254"
-    },
-    {
       "name":"SpaceX 星际飞船 SN4 原型机在测试中爆炸，为什么会这样？影响有多大？",
       "url":"https://www.zhihu.com/question/398350299"
     },
@@ -87,12 +83,16 @@
       "url":"https://www.zhihu.com/question/398213026"
     },
     {
-      "name":"如何看待合肥挤入新一线城市?",
-      "url":"https://www.zhihu.com/question/397955828"
+      "name":"如何评价明尼苏达州警察压人案，被害黑人曾多次因犯罪被监禁，罪名为盗窃，擅闯民宅，携带毒品，持枪抢劫?",
+      "url":"https://www.zhihu.com/question/398355254"
     },
     {
       "name":"怎样看待意大利科学家发现新冠病毒正在减弱？",
       "url":"https://www.zhihu.com/question/398066168"
+    },
+    {
+      "name":"如何看待合肥挤入新一线城市?",
+      "url":"https://www.zhihu.com/question/397955828"
     },
     {
       "name":"金庸小说里最恶心的情节是哪一段？",
@@ -111,16 +111,8 @@
       "url":"https://www.zhihu.com/question/398354675"
     },
     {
-      "name":"如何看待24岁女生熬夜中风？",
-      "url":"https://www.zhihu.com/question/398239463"
-    },
-    {
       "name":"有哪些应该坚持的好习惯？",
       "url":"https://www.zhihu.com/question/268776431"
-    },
-    {
-      "name":"如何看待《英雄联盟》季中杯赛小组赛 iG 三连败出局，宁王退出游戏？",
-      "url":"https://www.zhihu.com/question/398222531"
     },
     {
       "name":"三门峡 5 岁男童被天降瓷砖砸中身亡，系 6 岁男童从 25 楼扔出，哪些人将承担怎样的责任？",
@@ -131,12 +123,20 @@
       "url":"https://www.zhihu.com/question/391538157"
     },
     {
-      "name":"如何看待防弹少年团闵玧其在自作曲中放入美国邪教组织教士Jim Jones的演讲片段导致国际口碑翻车?",
-      "url":"https://www.zhihu.com/question/398350688"
+      "name":"如何看待24岁女生熬夜中风？",
+      "url":"https://www.zhihu.com/question/398239463"
+    },
+    {
+      "name":"如何看待《英雄联盟》季中杯赛小组赛 iG 三连败出局，宁王退出游戏？",
+      "url":"https://www.zhihu.com/question/398222531"
     },
     {
       "name":"《创造营2020》为什么这么糊?",
       "url":"https://www.zhihu.com/question/394103347"
+    },
+    {
+      "name":"如何看待防弹少年团闵玧其在自作曲中放入美国邪教组织教士Jim Jones的演讲片段导致国际口碑翻车?",
+      "url":"https://www.zhihu.com/question/398350688"
     },
     {
       "name":"2020fall美国留学的同学们现在心里都是什么感觉？",
@@ -163,16 +163,8 @@
       "url":"https://www.zhihu.com/question/394479665"
     },
     {
-      "name":"2021年考研政治该怎么复习？",
-      "url":"https://www.zhihu.com/question/358929360"
-    },
-    {
       "name":"有哪一本书是你读了三遍以上的？",
       "url":"https://www.zhihu.com/question/20733700"
-    },
-    {
-      "name":"孙红雷为什么不愿提《征服》？",
-      "url":"https://www.zhihu.com/question/53340034"
     },
     {
       "name":"新人准备在起点发文，大佬有什么建议?",
@@ -181,6 +173,10 @@
     {
       "name":"你有哪些好看的背景图分享？",
       "url":"https://www.zhihu.com/question/386387920"
+    },
+    {
+      "name":"孙红雷为什么不愿提《征服》？",
+      "url":"https://www.zhihu.com/question/53340034"
     },
     {
       "name":"大学生买 iPad 有没有意义？",
@@ -201,6 +197,10 @@
     {
       "name":"据说很多科学天才有着超强的直觉，这个直觉到底是什么东西，怎么感觉很虚无？",
       "url":"https://www.zhihu.com/question/288458782"
+    },
+    {
+      "name":"为什么有人说小樱有事naruto无事sasuke?",
+      "url":"https://www.zhihu.com/question/395279024"
     }
   ]
 }
