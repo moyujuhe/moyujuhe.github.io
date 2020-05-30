@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-31 05:23:20",
+  "time":"2020-05-31 05:27:29",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"ruvds几毛鸡失联",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696796&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"NoKvm全系Win镜像",
@@ -109,10 +113,6 @@
     {
       "name":"自从腾讯云、阿里云这些大厂进军IDC以后。。。",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696767&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"版主赶紧把colorback封掉（ZZ言论",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696766&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
