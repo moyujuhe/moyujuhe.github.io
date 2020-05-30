@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-30 15:57:23",
+  "time":"2020-05-30 16:01:35",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,18 @@
     {
       "name":"2020天猫6·18超级红包在此领取 6月1日追加40亿元消费券",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"瑞幸造假细节曝光 上市前一年骗局就开始了",
+      "url":"https://www.cnbeta.com/articles/tech/985153.htm"
+    },
+    {
+      "name":"员工回应被亚马逊旗下公司解雇：因泄露公司新冠病例",
+      "url":"https://www.cnbeta.com/articles/tech/985151.htm"
+    },
+    {
+      "name":"PS5向下兼容将通过系统更新分批支持PS4游戏",
+      "url":"https://hot.cnbeta.com/articles/game/985149.htm"
     },
     {
       "name":"重返隧道！《地铁：归来》宣布将登陆Stadia平台",
@@ -229,18 +241,6 @@
     {
       "name":"Raspberry Pi 4从新固件Beta版本中获得USB Bootloader",
       "url":"https://www.cnbeta.com/articles/tech/985031.htm"
-    },
-    {
-      "name":"工厂建造模拟器《Satisfactory》将于6月8日登陆Steam平台",
-      "url":"https://hot.cnbeta.com/articles/game/985029.htm"
-    },
-    {
-      "name":"科学家利用电化学技术对3D打印的金属物品进行精细塑形",
-      "url":"https://www.cnbeta.com/articles/science/985027.htm"
-    },
-    {
-      "name":"Ubuntu on WSL 2随Windows 10 May 2020 Update到达GA",
-      "url":"https://www.cnbeta.com/articles/tech/985025.htm"
     }
   ]
 }
