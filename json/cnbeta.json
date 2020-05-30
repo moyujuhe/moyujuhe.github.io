@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-30 16:01:35",
+  "time":"2020-05-30 16:06:20",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,18 @@
     {
       "name":"2020天猫6·18超级红包在此领取 6月1日追加40亿元消费券",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"Moderna新冠疫苗二期研究开始 将招600名受试者",
+      "url":"https://www.cnbeta.com/articles/science/985159.htm"
+    },
+    {
+      "name":"外媒：微软拟用AI取代英国网站新闻编辑队伍",
+      "url":"https://www.cnbeta.com/articles/tech/985157.htm"
+    },
+    {
+      "name":"疫情逐渐趋缓 欧洲多国宣布财政补贴和解封计划",
+      "url":"https://www.cnbeta.com/articles/tech/985155.htm"
     },
     {
       "name":"瑞幸造假细节曝光 上市前一年骗局就开始了",
@@ -229,18 +241,6 @@
     {
       "name":"亚马逊将在7月关闭主攻时尚功能的Echo Look服务",
       "url":"https://www.cnbeta.com/articles/tech/985037.htm"
-    },
-    {
-      "name":"OneDrive网页版迎来新功能 协作变得更轻松",
-      "url":"https://www.cnbeta.com/articles/tech/985035.htm"
-    },
-    {
-      "name":"腾讯拟向华纳音乐投资2亿美元 后者6月初上市",
-      "url":"https://hot.cnbeta.com/articles/music/985033.htm"
-    },
-    {
-      "name":"Raspberry Pi 4从新固件Beta版本中获得USB Bootloader",
-      "url":"https://www.cnbeta.com/articles/tech/985031.htm"
     }
   ]
 }
