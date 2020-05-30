@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-05-30 12:38:12",
+  "time":"2020-05-30 12:43:01",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -179,6 +179,10 @@
       "url":"https://hacpai.com/article/1590311053592"
     },
     {
+      "name":"使用 Solo 静态站点功能部署站点到 gitee 上的 Pages",
+      "url":"https://hacpai.com/article/1589808850287"
+    },
+    {
       "name":"前端怎么实现划词评论？",
       "url":"https://hacpai.com/article/1589070785699"
     },
@@ -201,10 +205,6 @@
     {
       "name":"教你搭建 solo 博客站（像我酱紫的）",
       "url":"https://hacpai.com/article/1589816039114"
-    },
-    {
-      "name":"使用 Solo 静态站点功能部署站点到 gitee 上的 Pages",
-      "url":"https://hacpai.com/article/1589808850287"
     },
     {
       "name":"开心，DIY 低配版谷歌眼镜成功啦 ~~",
