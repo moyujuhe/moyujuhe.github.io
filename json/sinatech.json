@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-01 01:20:23",
+  "time":"2020-06-01 03:44:45",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"京东618开场1小时：苹果全系销量涨3倍 自营房产下单221套",
+      "url":"https://tech.sina.com.cn/i/2020-06-01/doc-iirczymk4560325.shtml"
+    },
     {
       "name":"谁能成为中国的SpaceX?",
       "url":"https://tech.sina.com.cn/d/s/2020-06-01/doc-iirczymk4556064.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"超越巴菲特 Facebook扎克伯格成为美国第三富豪",
       "url":"https://tech.sina.com.cn/i/2020-05-31/doc-iircuyvi5913237.shtml"
-    },
-    {
-      "name":"太空狂人马斯克又赢一次：SpaceX实现载人首飞",
-      "url":"https://tech.sina.com.cn/it/2020-05-31/doc-iircuyvi5914950.shtml"
     }
   ]
 }
