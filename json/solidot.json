@@ -1,7 +1,15 @@
 {
-  "time":"2020-05-31 22:28:29",
+  "time":"2020-05-31 22:32:45",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Dragon 飞船和 Falcon 9 火箭运行 Linux",
+      "url":"https://www.solidot.org/story?sid=64527"
+    },
+    {
+      "name":"IPv6 普及度突破 32%",
+      "url":"https://www.solidot.org/story?sid=64526"
+    },
     {
       "name":"SpaceX 成功将两位 NASA 宇航员发射到太空",
       "url":"https://www.solidot.org/story?sid=64525"
@@ -73,14 +81,6 @@
     {
       "name":"Uber 销毁数千电动自行车和滑板车",
       "url":"https://www.solidot.org/story?sid=64508"
-    },
-    {
-      "name":"美国计划驱逐有解放军院校背景的中国研究生",
-      "url":"https://www.solidot.org/story?sid=64507"
-    },
-    {
-      "name":"由于天气原因 SpaceX 历史性的发射推迟",
-      "url":"https://www.solidot.org/story?sid=64506"
     }
   ]
 }
