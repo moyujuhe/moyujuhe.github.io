@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-01 07:00:16",
+  "time":"2020-06-01 07:04:30",
   "title":"新京报-排行",
   "data":[
     {
       "name":"国际丨美国出动国民警卫队保卫白宫 全美已有超千人被捕",
       "url":"http://www.bjnews.com.cn/wevideo/2020/05/31/733324.html"
+    },
+    {
+      "name":"美国骚乱持续升级 至少37城宵禁",
+      "url":"http://www.bjnews.com.cn/world/2020/06/01/733431.html"
     },
     {
       "name":"山东新增2例境外输入确诊病例 分别从美国和印度输入",
@@ -25,10 +29,6 @@
     {
       "name":"山东临沂市兰陵县发生3.0级地震",
       "url":"http://www.bjnews.com.cn/news/2020/05/31/733319.html"
-    },
-    {
-      "name":"美国骚乱持续升级 至少37城宵禁",
-      "url":"http://www.bjnews.com.cn/world/2020/06/01/733431.html"
     },
     {
       "name":"国际丨200秒看SpaceX发射亮点：科幻风格凸显",
@@ -107,12 +107,12 @@
       "url":"http://www.bjnews.com.cn/wevideo/2020/05/29/732701.html"
     },
     {
-      "name":"黑龙江：高风险地区来黑人员一律集中隔离健康码设为红码",
-      "url":"http://www.bjnews.com.cn/feature/2020/05/15/727889.html"
-    },
-    {
       "name":"《青春有你2》收官，刘雨昕、虞书欣、许佳琪等9人成团",
       "url":"http://www.bjnews.com.cn/ent/2020/05/30/733229.html"
+    },
+    {
+      "name":"黑龙江：高风险地区来黑人员一律集中隔离健康码设为红码",
+      "url":"http://www.bjnews.com.cn/feature/2020/05/15/727889.html"
     },
     {
       "name":"视频|因鸟屎落车上，有人叫“绿化队”拆鸟窝？街道回应",
