@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-31 12:37:10",
+  "time":"2020-05-31 12:41:25",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"告别百度网盘！",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696884&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"出一波谷歌云二次GCP验证180质保",
@@ -109,10 +113,6 @@
     {
       "name":"求这个源码或者源码叫什么",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696851&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"论坛里有没有[新码]接码平台的客服啊？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696850&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
