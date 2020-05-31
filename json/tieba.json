@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-31 15:31:59",
+  "time":"2020-05-31 15:36:41",
   "title":"贴吧热度榜单",
   "data":[
     {
@@ -39,8 +39,8 @@
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278101&topic_name=6%E6%97%AC%E9%98%BF%E5%A7%A8%E7%94%A8%E6%97%A7%E6%8A%A5%E7%BA%B8%E5%81%9A%E9%97%A8%E5%B8%98"
     },
     {
-      "name":"美国约翰斯·霍普金斯大学数据：截至当地时间5月27日17时32分，美国累计新冠肺炎确诊病例为1695776例，死亡人100047例。",
-      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278016&topic_name=%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%E8%B6%8510%E4%B8%87"
+      "name":"美国CNN主持人对黑人男子被白人警察暴力执法致死的事件做出评价，称“美国正在上演双城记，一边是少数群体，一边是多数人”。",
+      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278103&topic_name=CNN%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%AF%84%E9%BB%91%E4%BA%BA%E8%A2%AB%E6%89%A7%E6%B3%95%E8%87%B4%E6%AD%BB"
     },
     {
       "name":"湖州的黄师傅说，自己总感觉家里的电费比较高。5月8号，小区对线路进行改造时，发现他家的电表上多接了一根线，剪掉以后，外面的红绿灯就不亮了，再接上，红绿灯又亮了。目前已领到赔偿金。",
@@ -79,10 +79,6 @@
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278076&topic_name=%E5%9B%9B%E5%B7%9D%E9%9A%A7%E9%81%93%E5%9E%AE%E5%A1%8C3%E4%BA%BA%E8%A2%AB%E5%9B%B07%E5%A4%A9%E5%90%8E%E8%8E%B7%E6%95%91"
     },
     {
-      "name":"武汉一抗疫护士沈女士在疫情防控期间在单位安排的酒店房间昏迷，3月7日9点送医治疗，诊断为脑出血，随后沈女士单位向武汉市人社局提交了工伤认定申请，最终人社局以“抢救超2天未死亡”不予认定工伤。",
-      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278061&topic_name=%E6%98%8F%E8%BF%B7%E6%8A%97%E7%96%AB%E6%8A%A4%E5%A3%AB%E4%B8%8D%E8%A2%AB%E8%AE%A4%E5%B7%A5%E4%BC%A4"
-    },
-    {
       "name":"金球奖宣布一项新规则：只有声音的表演，不能竞争金球奖任何表演奖项。这条规则意味着就算实际是演员本人出演，但只要画面中脸部完全被遮挡，就不能以该角色报名金球奖的表演奖项。",
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278038&topic_name=%E6%BC%94%E5%91%98%E4%B8%8D%E9%9C%B2%E8%84%B8%E4%B8%8D%E8%83%BD%E5%85%A5%E5%9B%B4%E9%87%91%E7%90%83%E5%A5%96"
     },
@@ -117,6 +113,10 @@
     {
       "name":"Epic商城的《文明6》免费领取活动即将结束。本周将送出《无主之地：帅杰克合集》，包括《无主之地2》与《无主之地：前传》。",
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278069&topic_name=Epic%E9%80%81%E6%97%A0%E4%B8%BB%E4%B9%8B%E5%9C%B0"
+    },
+    {
+      "name":"武汉一抗疫护士沈女士在疫情防控期间在单位安排的酒店房间昏迷，3月7日9点送医治疗，诊断为脑出血，随后沈女士单位向武汉市人社局提交了工伤认定申请，最终人社局以“抢救超2天未死亡”不予认定工伤。",
+      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278061&topic_name=%E6%98%8F%E8%BF%B7%E6%8A%97%E7%96%AB%E6%8A%A4%E5%A3%AB%E4%B8%8D%E8%A2%AB%E8%AE%A4%E5%B7%A5%E4%BC%A4"
     },
     {
       "name":"美国警员膝盖压脖子致非裔男子死亡视频曝光后，明尼阿波利斯市爆发抗议和纵火事件。当地时间28日，明尼阿波利斯市宣布进入72小时紧急状态，要求州政府提供援助、授权动用国民警卫队，协助“恢复安全和平静”。",
