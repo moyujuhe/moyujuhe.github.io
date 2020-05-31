@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-31 20:45:28",
+  "time":"2020-05-31 20:49:42",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 6月1日追加40亿元消费券",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"Windows 10 2020年5月更新导致DISM工具出现问题",
+      "url":"https://www.cnbeta.com/articles/tech/985403.htm"
     },
     {
       "name":"WinRAR 5.91 Beta 1 发布",
@@ -237,10 +241,6 @@
     {
       "name":"25600mAh、60W双向PD快充 Anker推出新品移动电源",
       "url":"https://www.cnbeta.com/articles/tech/985289.htm"
-    },
-    {
-      "name":"Intel 10nm独显性能曝光：落后于RX 560/GTX 1050 Ti",
-      "url":"https://www.cnbeta.com/articles/tech/985287.htm"
     }
   ]
 }
