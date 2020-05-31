@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-31 22:32:45",
+  "time":"2020-05-31 22:37:15",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,14 @@
     {
       "name":"SpaceX载人“龙”飞船已经成功对接到国际空间站",
       "url":"http://www.cnbeta.com/articles/science/985411.htm"
+    },
+    {
+      "name":"SpaceX Crew Dragon飞船和Falcon 9火箭运行的是Linux系统",
+      "url":"http://www.cnbeta.com/articles/tech/985415.htm"
+    },
+    {
+      "name":"IPv6 普及度突破 32%",
+      "url":"http://www.cnbeta.com/articles/tech/985413.htm"
     },
     {
       "name":"印度手机Q1出货量出炉：国产手机霸榜 三星节节败退",
@@ -233,14 +241,6 @@
     {
       "name":"首次商业航天任务还有两大挑战：对接和返航",
       "url":"http://www.cnbeta.com/articles/science/985303.htm"
-    },
-    {
-      "name":"3分钟歌配15秒广告：用户难受了 TME们才有钱赚",
-      "url":"https://hot.cnbeta.com/articles/music/985301.htm"
-    },
-    {
-      "name":"从免疫打击到免疫出击，我们离新冠免疫还有多久？",
-      "url":"http://www.cnbeta.com/articles/science/985299.htm"
     }
   ]
 }
