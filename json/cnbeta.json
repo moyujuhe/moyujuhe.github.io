@@ -1,5 +1,5 @@
 {
-  "time":"2020-05-31 12:11:37",
+  "time":"2020-05-31 12:15:50",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 6月1日追加40亿元消费券",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"[图]今日谷歌涂鸦：致赞加拉帕戈斯群岛",
+      "url":"https://www.cnbeta.com/articles/tech/985323.htm"
     },
     {
       "name":"Sign in with Apple被爆高危漏洞：可远程劫持任意用户帐号",
@@ -237,10 +241,6 @@
     {
       "name":"GitHub 警告开源供应链攻击 Octopus Scanner",
       "url":"https://www.cnbeta.com/articles/tech/985209.htm"
-    },
-    {
-      "name":"西部数据因在NAS存储产品中混入 SMR 盘而遭到起诉",
-      "url":"https://www.cnbeta.com/articles/tech/985207.htm"
     }
   ]
 }
