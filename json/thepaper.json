@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-31 07:57:57",
+  "time":"2020-05-31 08:02:08",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"国家卫健委：昨日新增确诊病例2例，均为山东境外输入病例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7644020"
+    },
     {
       "name":"《科学》刊发美国研究：纽约新冠病毒主要由欧洲和美洲引入",
       "url":"https://www.thepaper.cn/newsDetail_forward_7636586"
@@ -77,10 +81,6 @@
     {
       "name":"视频直播丨SpaceX“龙”载人飞船顺利发射升空",
       "url":"https://www.thepaper.cn/newsDetail_forward_7616638"
-    },
-    {
-      "name":"内蒙古大兴安岭毕力格林场明火已全部扑灭",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7636616"
     }
   ]
 }
