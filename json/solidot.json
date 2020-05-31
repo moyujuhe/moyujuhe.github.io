@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-31 15:22:42",
+  "time":"2020-05-31 15:27:26",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"SpaceX 成功将两位 NASA 宇航员发射到太空",
+      "url":"https://www.solidot.org/story?sid=64525"
+    },
     {
       "name":"科学家在 1966 年的组织样本中发现了近乎完整的最古老 HIV 基因组",
       "url":"https://www.solidot.org/story?sid=64524"
@@ -77,10 +81,6 @@
     {
       "name":"由于天气原因 SpaceX 历史性的发射推迟",
       "url":"https://www.solidot.org/story?sid=64506"
-    },
-    {
-      "name":"微软释出 Windows 10 May 2020 Update",
-      "url":"https://www.solidot.org/story?sid=64505"
     }
   ]
 }
