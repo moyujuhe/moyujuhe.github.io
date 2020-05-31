@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-31 22:01:12",
+  "time":"2020-05-31 22:05:43",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"英国多地将相继举行支持美国黑人弗洛依德的抗议活动",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7646965"
+    },
     {
       "name":"日本局地出现第二波疫情： 多所小学、医院暴发集体感染",
       "url":"https://www.thepaper.cn/newsDetail_forward_7646939"
@@ -77,10 +81,6 @@
     {
       "name":"全球经济形势严峻，核电还卖得出去吗？",
       "url":"https://www.thepaper.cn/newsDetail_forward_7646025"
-    },
-    {
-      "name":"成都一月子中心疑拖欠员工工资致无人上班，产妇被迫搬出",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7646045"
     }
   ]
 }
