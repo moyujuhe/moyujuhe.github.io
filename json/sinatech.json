@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-31 10:30:41",
+  "time":"2020-05-31 11:00:42",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"美各州抗议活动持续 谷歌推迟发布Android 11",
+      "url":"https://tech.sina.com.cn/i/2020-05-31/doc-iirczymk4465974.shtml"
+    },
     {
       "name":"今天SpaceX这一幕燃炸：人类太空旅行时代来临！",
       "url":"https://tech.sina.com.cn/it/2020-05-31/doc-iirczymk4465308.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"我们为什么会辣得菊花痛？",
       "url":"https://tech.sina.com.cn/d/f/2020-05-30/doc-iirczymk4331158.shtml"
-    },
-    {
-      "name":"美团正式杀入信用支付 王兴的千亿资产金融梦要兑现了？",
-      "url":"https://tech.sina.com.cn/i/2020-05-30/doc-iircuyvi5809192.shtml"
     }
   ]
 }
