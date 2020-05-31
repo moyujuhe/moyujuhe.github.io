@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-05-31 20:18:18",
+  "time":"2020-05-31 20:22:46",
   "data":[
     {
       "name":"Minecraft",
@@ -189,10 +189,10 @@
       "description":"最新版本:  1.12\n更新时间:  2020-03-13 19:20:37 (北京时间)\n\nFixed an issue where the game would crash during loading and completing a level\nMinor bug fixes and optimizations"
     },
     {
-      "name":"VHS Camcorder - Retro 80s Cam",
-      "url":"https://apps.apple.com/us/app/vhs-camcorder-retro-80s-cam/id679454835?uo=4",
+      "name":"Rarevision VHS - Retro 80s Cam",
+      "url":"https://apps.apple.com/us/app/rarevision-vhs-retro-80s-cam/id679454835?uo=4",
       "num":"Photo & Video",
-      "description":"最新版本:  1.5.2\n更新时间:  2019-10-22 10:00:36 (北京时间)\n\nWe listened to you, and adjusted the filters:\n• Added a new Nuclear filter for edits\n• Reduced brightness for imported videos\n• Fixed bug that would cause a crash if device has a bad camera\n• Updated Spanish translation"
+      "description":"最新版本:  1.5.3\n更新时间:  2020-05-31 19:18:27 (北京时间)\n\n• Sweet quality improvements\n• Tweaked filters\n• Imported videos aren't as blurry\n• Some other awesome bug fixes"
     },
     {
       "name":"Farming Simulator 20",
