@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-01 01:03:07",
+  "time":"2020-06-01 01:20:23",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"谁能成为中国的SpaceX?",
+      "url":"https://tech.sina.com.cn/d/s/2020-06-01/doc-iirczymk4556064.shtml"
+    },
     {
       "name":"京东数科自主研发室内运送AI机器人落地",
       "url":"https://tech.sina.com.cn/it/2020-06-01/doc-iircuyvi6027812.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"太空狂人马斯克又赢一次：SpaceX实现载人首飞",
       "url":"https://tech.sina.com.cn/it/2020-05-31/doc-iircuyvi5914950.shtml"
-    },
-    {
-      "name":"SpaceX载人飞船首发成功：马斯克的理科式浪漫",
-      "url":"https://tech.sina.com.cn/roll/2020-05-31/doc-iircuyvi5907711.shtml"
     }
   ]
 }
