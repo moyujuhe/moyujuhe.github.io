@@ -1,10 +1,14 @@
 {
-  "time":"2020-05-31 11:02:52",
+  "time":"2020-05-31 11:07:02",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"找个金山云拼团的小伙伴",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696846&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"用buyvm建的网站，速度慢，套个cf会快点嘛？",
@@ -109,10 +113,6 @@
     {
       "name":"255",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696813&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"OVH.IE 免税验证已经通过，使用100欧优惠卷的时候又叫我验证",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=696812&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
