@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-31 15:40:54",
+  "time":"2020-05-31 15:45:08",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"俄罗斯新冠肺炎确诊病例累计超40万例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7645333"
+    },
     {
       "name":"太空旅行时代到了，马斯克载人飞船发射成功，惊心动魄72小时回顾",
       "url":"https://www.thepaper.cn/newsDetail_forward_7644790"
@@ -77,10 +81,6 @@
     {
       "name":"秘鲁南部发生6.1级地震，震源深度190千米",
       "url":"https://www.thepaper.cn/newsDetail_forward_7645154"
-    },
-    {
-      "name":"美盐湖城再现暴力执法，警员执盾牌推倒拄拐老人",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7645182"
     }
   ]
 }
