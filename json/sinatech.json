@@ -1,13 +1,17 @@
 {
-  "time":"2020-06-01 07:46:05",
+  "time":"2020-06-01 07:47:40",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"红米&荣耀居然携手：MEMC下沉能改变彩电业吗",
+      "url":"https://tech.sina.com.cn/e/2020-06-01/doc-iirczymk4570589.shtml"
+    },
     {
       "name":"传特朗普已与扎克伯格通话：沟通社交媒体言论自由问题",
       "url":"https://tech.sina.com.cn/i/2020-06-01/doc-iircuyvi6042893.shtml"
     },
     {
-      "name":"Apple登录存在漏洞 但目前已经上报苹果并解决",
+      "name":"“Apple登录”存在漏洞 目前已经上报苹果并修复",
       "url":"https://tech.sina.com.cn/mobile/n/n/2020-06-01/doc-iircuyvi6042865.shtml"
     },
     {
@@ -197,10 +201,6 @@
     {
       "name":"SpaceX首次载人发射成功，马斯克几度哽咽：我太激动",
       "url":"https://tech.sina.com.cn/it/2020-05-31/doc-iirczymk4480295.shtml"
-    },
-    {
-      "name":"马斯克：为了宣告胜利，我们要把他们安全带回家",
-      "url":"https://tech.sina.com.cn/roll/2020-05-31/doc-iirczymk4480460.shtml"
     }
   ]
 }
