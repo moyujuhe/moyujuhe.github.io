@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-31 23:08:28",
+  "time":"2020-05-31 23:08:34",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"SpaceX首次载人航天发射成功 运载火箭可重复使用技术降成本",
+      "url":"https://tech.sina.com.cn/roll/2020-05-31/doc-iircuyvi6024528.shtml"
+    },
     {
       "name":"海信“混改”路径浮现：资本运营公司引入战投 管理层不参与增资",
       "url":"https://tech.sina.com.cn/e/r/2020-06-01/doc-iircuyvi6024527.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"特朗普观看SpaceX载人发射：我们还要去火星",
       "url":"https://tech.sina.com.cn/it/2020-05-31/doc-iirczymk4440514.shtml"
-    },
-    {
-      "name":"4分钟看SpaceX成功之路：几度创造历史",
-      "url":"https://tech.sina.com.cn/it/2020-05-31/doc-iirczymk4440718.shtml"
     }
   ]
 }
