@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-02 01:22:48",
+  "time":"2020-06-02 01:27:16",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"各位老细 腾达ac9有二个版本的吗？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697534&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"同运营商的qos怎么这么过分？",
@@ -109,10 +113,6 @@
     {
       "name":"CDN流量好像有点大，有没有什么便宜点的方案",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697505&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"paypal付款无效！",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697503&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
