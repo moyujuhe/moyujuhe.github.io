@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-01 11:01:00",
+  "time":"2020-06-01 11:05:13",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"【出】G‑Core 老伯力高IO版",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697242&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"E3815物理机UnixBench",
@@ -109,10 +113,6 @@
     {
       "name":"现在还能用的一键重装",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697205&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"各位老哥，win平台端口转发软件有哪些推荐下",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697204&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
