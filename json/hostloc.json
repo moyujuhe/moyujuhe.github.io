@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-02 00:37:52",
+  "time":"2020-06-02 00:42:26",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"云筏CloudRaft的Hetzner白漂体验",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697529&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"teamview是越来越恶心了",
@@ -109,10 +113,6 @@
     {
       "name":"一款性价比巨高的鸡鸡(适合建站)",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697499&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"便宜【出】几个azure100",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697498&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
