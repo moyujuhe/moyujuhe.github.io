@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-01 23:44:22",
+  "time":"2020-06-01 23:49:00",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"今天上午10点 天猫618的40亿消费券第一波开领",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"英国保守党议员热衷使用加密消息应用 Signal",
+      "url":"https://www.cnbeta.com/articles/tech/985797.htm"
+    },
+    {
+      "name":"苹果2012年中发布的首款视网膜rMBP即将成为过时产品",
+      "url":"https://www.cnbeta.com/articles/tech/985795.htm"
     },
     {
       "name":"在Linus Torvalds建议之后内核淘汰80个字符长度限制",
@@ -233,14 +241,6 @@
     {
       "name":"3分钟带你了解iPhone 12可能有哪些亮点",
       "url":"https://www.cnbeta.com/articles/tech/985677.htm"
-    },
-    {
-      "name":"稳步推进普及：postmarketOS现已基于Alpine Linux 3.12稳定版",
-      "url":"https://www.cnbeta.com/articles/tech/985675.htm"
-    },
-    {
-      "name":"研究人员打造出一种能与锂离子电池相媲美的钠离子电池",
-      "url":"https://www.cnbeta.com/articles/tech/985673.htm"
     }
   ]
 }
