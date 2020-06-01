@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-01 14:23:55",
+  "time":"2020-06-01 14:28:19",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"联合国称全球有超过 5 亿儿童因封锁失学",
+      "url":"https://www.solidot.org/story?sid=64529"
+    },
+    {
+      "name":"Linux 5.7 释出",
+      "url":"https://www.solidot.org/story?sid=64528"
+    },
     {
       "name":"Dragon 飞船和 Falcon 9 火箭运行 Linux",
       "url":"https://www.solidot.org/story?sid=64527"
@@ -73,14 +81,6 @@
     {
       "name":"350 美元的反 5G 设备只是 128MB 的 U 盘",
       "url":"https://www.solidot.org/story?sid=64510"
-    },
-    {
-      "name":"特朗普签署行政令试图限制给与社交媒体的保护",
-      "url":"https://www.solidot.org/story?sid=64509"
-    },
-    {
-      "name":"Uber 销毁数千电动自行车和滑板车",
-      "url":"https://www.solidot.org/story?sid=64508"
     }
   ]
 }
