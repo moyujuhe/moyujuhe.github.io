@@ -1,13 +1,17 @@
 {
-  "time":"2020-06-01 16:04:31",
+  "time":"2020-06-01 16:09:15",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"外卖商家称开美团遭饿了么下线 市监部门调查(视频)",
+      "url":"https://tech.sina.com.cn/i/2020-06-01/doc-iircuyvi6142839.shtml"
+    },
     {
       "name":"跨月马拉松直播背后，罗永浩是个好主播了吗?",
       "url":"http://tech.sina.com.cn/csj/2020-06-01/doc-iirczymk4669834.shtml"
     },
     {
-      "name":"微信正监听用户聊天记录并推送广告？回应：假的",
+      "name":"微信正监听用户聊天记录并以此推送广告？回应：假的",
       "url":"https://tech.sina.com.cn/i/2020-06-01/doc-iirczymk4669754.shtml"
     },
     {
@@ -197,10 +201,6 @@
     {
       "name":"我国将在7、8月执行首次火星探测任务",
       "url":"https://tech.sina.com.cn/d/s/2020-06-01/doc-iirczymk4590472.shtml"
-    },
-    {
-      "name":"SpaceX一飞冲天 马斯克离火星又近了",
-      "url":"https://tech.sina.com.cn/it/2020-06-01/doc-iircuyvi6062981.shtml"
     }
   ]
 }
