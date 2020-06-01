@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-02 02:51:41",
+  "time":"2020-06-02 02:55:49",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"有没有闲置的OpenVZ 7小鸡，租来用一下",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697545&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"华为装个谷歌太费事了，换了魅族",
@@ -109,10 +113,6 @@
     {
       "name":"如何看待这张图",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697513&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"天翼云挂了？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697512&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
