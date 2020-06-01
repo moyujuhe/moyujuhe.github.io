@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-02 03:12:26",
+  "time":"2020-06-02 03:16:42",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"今天上午10点 天猫618的40亿消费券第一波开领",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"iOS和iPadOS 13.5.1发布 修复越狱漏洞带来的安全问题",
+      "url":"https://www.cnbeta.com/articles/tech/985821.htm"
     },
     {
       "name":"被动散热撑住8核5.1GHz 高玩挑战酷睿i7-10700K无风扇玩游戏",
@@ -237,10 +241,6 @@
     {
       "name":"Intel正在研发PLC闪存：1.9倍密度 100TB不是梦 别纠结性能了",
       "url":"https://www.cnbeta.com/articles/tech/985703.htm"
-    },
-    {
-      "name":"业界首款4K屏+骁龙865旗舰 索尼Xperia 1 Ⅱ国行价格或超7000元",
-      "url":"https://www.cnbeta.com/articles/tech/985701.htm"
     }
   ]
 }
