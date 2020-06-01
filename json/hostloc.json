@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-02 00:20:38",
+  "time":"2020-06-02 00:24:52",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"一个关于手机IPV6的奇怪的问题",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697527&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"在使用Fiddler的过程中证书问题",
@@ -109,10 +113,6 @@
     {
       "name":"【余6】出GCP谷歌云全新满额二验号，全实体卡验证，180/个",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697497&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"大厂云第二次收签名广告 / 站点广告 拉",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697496&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
