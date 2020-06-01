@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-01 07:56:53",
+  "time":"2020-06-01 07:59:50",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"SpaceX是怎么战胜巨头波音的？效率成本完胜",
+      "url":"https://tech.sina.com.cn/it/2020-06-01/doc-iircuyvi6044378.shtml"
+    },
     {
       "name":"亚马逊英国网站现种族歧视信息 回应：正在移除相关图片",
       "url":"https://tech.sina.com.cn/i/2020-06-01/doc-iircuyvi6044008.shtml"
@@ -9,6 +13,10 @@
     {
       "name":"谷歌放缓招聘速度：2000多份合同工和临时工offer被取消",
       "url":"https://tech.sina.com.cn/i/2020-06-01/doc-iirczymk4570940.shtml"
+    },
+    {
+      "name":"美国各地抗议活动持续不断 Apple Store被砸毁和洗劫",
+      "url":"https://tech.sina.com.cn/roll/2020-06-01/doc-iircuyvi6043580.shtml"
     },
     {
       "name":"红米&荣耀居然携手：MEMC下沉能改变彩电业吗",
@@ -193,14 +201,6 @@
     {
       "name":"日媒文章：中国5G势头猛，欧美因疫情裹足不前",
       "url":"https://tech.sina.com.cn/roll/2020-05-31/doc-iirczymk4491651.shtml"
-    },
-    {
-      "name":"周航：马斯克改写航天史 财富的归宿“为人类探索”",
-      "url":"http://tech.sina.com.cn/csj/2020-05-31/doc-iirczymk4487226.shtml"
-    },
-    {
-      "name":"版权、自研游戏 字节跳动如何突破腾讯游戏包围？",
-      "url":"http://tech.sina.com.cn/csj/2020-05-31/doc-iircuyvi5958642.shtml"
     }
   ]
 }
