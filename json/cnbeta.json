@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-01 20:07:21",
+  "time":"2020-06-01 20:11:35",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"今天上午10点 天猫618的40亿消费券第一波开领",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"扎克伯格捐赠1000万美元帮助解决种族歧视问题",
+      "url":"https://www.cnbeta.com/articles/tech/985751.htm"
     },
     {
       "name":"百胜：6月3日起在肯德基、必胜客中国门店全面推广人造肉",
@@ -237,10 +241,6 @@
     {
       "name":"暴雪一周处罚23万《魔兽世界》账号 怀旧服外挂作弊行为猖獗",
       "url":"https://www.cnbeta.com/articles/tech/985631.htm"
-    },
-    {
-      "name":"Linus Torvalds 宣布释出 Linux 5.7",
-      "url":"https://www.cnbeta.com/articles/soft/985629.htm"
     }
   ]
 }
