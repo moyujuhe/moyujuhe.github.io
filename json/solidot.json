@@ -1,7 +1,19 @@
 {
-  "time":"2020-06-01 22:04:38",
+  "time":"2020-06-01 22:08:55",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"在 Linus Torvalds 建议之后内核淘汰 80 个字符长度限制",
+      "url":"https://www.solidot.org/story?sid=64535"
+    },
+    {
+      "name":"百度发布量子机器学习工具",
+      "url":"https://www.solidot.org/story?sid=64534"
+    },
+    {
+      "name":"英国保守党议员热衷使用加密消息应用 Signal",
+      "url":"https://www.solidot.org/story?sid=64533"
+    },
     {
       "name":"X 和 Y 染色体如何走到一起",
       "url":"https://www.solidot.org/story?sid=64532"
@@ -69,18 +81,6 @@
     {
       "name":"George Floyd 抗议活动在全美蔓延",
       "url":"https://www.solidot.org/story?sid=64516"
-    },
-    {
-      "name":"建造一座金字塔需要多少人",
-      "url":"https://www.solidot.org/story?sid=64515"
-    },
-    {
-      "name":"中国科学家在深海发现超高温气态水",
-      "url":"https://www.solidot.org/story?sid=64514"
-    },
-    {
-      "name":"中国排除武汉病毒研究所和海鲜市场是新冠源头",
-      "url":"https://www.solidot.org/story?sid=64513"
     }
   ]
 }
