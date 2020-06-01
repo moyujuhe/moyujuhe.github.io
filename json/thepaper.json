@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-01 23:58:37",
+  "time":"2020-06-02 00:03:03",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"香港各界继续发声支持全国人大决定",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7652926"
+    },
     {
       "name":"美国北达科他州一空军基地突发枪击案，致2名军人死亡",
       "url":"https://www.thepaper.cn/newsDetail_forward_7652919"
@@ -77,10 +81,6 @@
     {
       "name":"福州警方全面推广“无犯罪记录证明”网上办理：一趟也不用跑",
       "url":"https://www.thepaper.cn/newsDetail_forward_7652692"
-    },
-    {
-      "name":"中国驻美使领馆提醒在美中国公民警惕当地暴力示威",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7652726"
     }
   ]
 }
