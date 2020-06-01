@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-02 01:00:15",
+  "time":"2020-06-02 01:04:32",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"今天上午10点 天猫618的40亿消费券第一波开领",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"NASA超级计算机正在努力进行COVID-19相关研究",
+      "url":"https://www.cnbeta.com/articles/tech/985801.htm"
     },
     {
       "name":"俄罗斯Elbrus 8CB处理器曝光 采用台积电28nm 8核VLIW设计",
@@ -237,10 +241,6 @@
     {
       "name":"天猫618不到半天成交额已超去年全天：苹果、华为等纷纷破亿",
       "url":"https://www.cnbeta.com/articles/tech/985681.htm"
-    },
-    {
-      "name":"能随身携带的路由器 华为随行WiFi 3上市：269元",
-      "url":"https://www.cnbeta.com/articles/tech/985679.htm"
     }
   ]
 }
