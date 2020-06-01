@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-01 22:15:05",
+  "time":"2020-06-01 22:20:42",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"中华人民共和国民法典",
+      "url":"http://www.xinhuanet.com/politics/2020-06/01/c_1126061072.htm"
+    },
     {
       "name":"5月26日，黑龙江大庆警方根据油田提供的电力数据，怀疑某村屯附近有盗电窝点。侦查员到达疑似地点后，在附近林地里发现可疑“坟头”，没有立碑。民警在“坟头”附近发现了一处入口，钻进入口后勘查确认这是一个非法盗电生产比特币窝点。",
       "url":"http://n.miaopai.com/media/BlRcvjxp4Gw4JhakINXDSfbuVHwRUGix"
@@ -85,10 +89,6 @@
     {
       "name":"从《一剪梅》到《猫和老鼠》：聊聊音乐的“鸠占鹊巢”和文化继承",
       "url":"https://www.gcores.com/articles/124544"
-    },
-    {
-      "name":"冷战不会重来，但这不是好消息",
-      "url":"https://mp.weixin.qq.com/s/4TZgFAvnqLJOnwaJ-8f10A"
     }
   ]
 }
