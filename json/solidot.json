@@ -1,7 +1,19 @@
 {
-  "time":"2020-06-01 18:41:41",
+  "time":"2020-06-01 18:46:02",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"X 和 Y 染色体如何走到一起",
+      "url":"https://www.solidot.org/story?sid=64532"
+    },
+    {
+      "name":"AppGet 开发者不满微软在宣布 winget 时根本没提 AppGet",
+      "url":"https://www.solidot.org/story?sid=64531"
+    },
+    {
+      "name":"美国众议员将提议案禁止投资中国军方关联企业",
+      "url":"https://www.solidot.org/story?sid=64530"
+    },
     {
       "name":"联合国称全球有超过 5 亿儿童因封锁失学",
       "url":"https://www.solidot.org/story?sid=64529"
@@ -69,18 +81,6 @@
     {
       "name":"中国排除武汉病毒研究所和海鲜市场是新冠源头",
       "url":"https://www.solidot.org/story?sid=64513"
-    },
-    {
-      "name":"思科 VPN 服务器遭黑客入侵",
-      "url":"https://www.solidot.org/story?sid=64512"
-    },
-    {
-      "name":"扎克伯格称 Facebook 与 Twitter 不一样",
-      "url":"https://www.solidot.org/story?sid=64511"
-    },
-    {
-      "name":"350 美元的反 5G 设备只是 128MB 的 U 盘",
-      "url":"https://www.solidot.org/story?sid=64510"
     }
   ]
 }
