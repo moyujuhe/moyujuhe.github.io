@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-02 06:12:41",
+  "time":"2020-06-02 06:16:49",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"独立尸检：弗洛伊德颈部受压导致窒息死亡",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7656436"
+    },
     {
       "name":"英国新增新冠肺炎确诊病例1570例，系禁足令实施以来最低",
       "url":"https://www.thepaper.cn/newsDetail_forward_7655510"
@@ -77,10 +81,6 @@
     {
       "name":"普京批准7月1日为宪法修正案投票日期",
       "url":"https://www.thepaper.cn/newsDetail_forward_7652745"
-    },
-    {
-      "name":"全国人大常委会召开第五十八次委员长会议，栗战书主持并讲话",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7652731"
     }
   ]
 }
