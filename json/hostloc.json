@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-02 16:40:50",
+  "time":"2020-06-02 16:45:00",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"悲剧，甲骨文小鸡无法启动。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697791&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"打算买个二楼iPhoneX 有行内大佬吗",
@@ -109,10 +113,6 @@
     {
       "name":"好了，我的nanopi搭起来了，web服务，谁能告诉我怎么对外...",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697761&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"[已出勿念]出个瓦工19.9",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697760&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
