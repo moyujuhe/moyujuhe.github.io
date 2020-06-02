@@ -1,6 +1,6 @@
 {
   "title":"AppStore免费排行榜(国区)",
-  "time":"2020-06-02 19:43:21",
+  "time":"2020-06-02 19:47:50",
   "data":[
     {
       "name":"剪映 - 轻而易剪",
@@ -321,6 +321,12 @@
       "description":"最新版本:  12.30.2\n更新时间:  2020-06-01 10:45:02 (北京时间)\n\n行业专家1V1在线咨询，买房全程答疑解惑"
     },
     {
+      "name":"eMy Property Assistant",
+      "url":"https://apps.apple.com/cn/app/emy-property-assistant/id1483054109?uo=4",
+      "num":"工具",
+      "description":"最新版本:  3.8.3\n更新时间:  2020-05-27 03:55:14 (北京时间)\n\nFix some bugs in last version \n\nUsing The eMy Property Assistant by Hexabits, you're able to complete a valid property inspection by yourself, in minutes, without the remembering everything by yourself.\n\nThis app will help to make notes with images of every property you're seen. You can see it later in your property list.\n\nFeatures:\n1. Add new property\n2. Set title and description of property\n3. List of all your added properties"
+    },
+    {
       "name":"轻颜相机-风格自拍新潮流",
       "url":"https://apps.apple.com/cn/app/%E8%BD%BB%E9%A2%9C%E7%9B%B8%E6%9C%BA-%E9%A3%8E%E6%A0%BC%E8%87%AA%E6%8B%8D%E6%96%B0%E6%BD%AE%E6%B5%81/id1375390276?uo=4",
       "num":"摄影与录像",
@@ -595,12 +601,6 @@
       "url":"https://apps.apple.com/cn/app/%E9%82%AE%E5%82%A8%E6%89%8B%E6%9C%BA%E9%93%B6%E8%A1%8C/id493489515?uo=4",
       "num":"财务",
       "description":"最新版本:  5.0.7\n更新时间:  2020-04-24 14:57:09 (北京时间)\n\n1. 新增智能语音转账。\n2. 新增模糊搜索。\n3. 修复已知问题。"
-    },
-    {
-      "name":"懂车帝 - 新车二手车汽车信息大全",
-      "url":"https://apps.apple.com/cn/app/%E6%87%82%E8%BD%A6%E5%B8%9D-%E6%96%B0%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6%E6%B1%BD%E8%BD%A6%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%85%A8/id1232131998?uo=4",
-      "num":"生活",
-      "description":"最新版本:  4.9.8\n更新时间:  2020-05-20 11:37:29 (北京时间)\n\n1.条件选车列表更新，更快速查找心仪车辆\n2.360外观支持车款切换，车款细节全方位查看\n3.直播频道优化，增加导航，能够更方便找到直播内容"
     }
   ]
 }
