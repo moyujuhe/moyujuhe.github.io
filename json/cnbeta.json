@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-02 08:58:21",
+  "time":"2020-06-02 09:02:34",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"今天上午10点 天猫618的40亿消费券第一波开领",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"意大利开始向大众推出新冠肺炎曝光通知应用",
+      "url":"https://www.cnbeta.com/articles/tech/985909.htm"
     },
     {
       "name":"中国广电“一女二嫁”，这到底怎么回事？",
@@ -237,10 +241,6 @@
     {
       "name":"苹果2012年中发布的首款视网膜rMBP即将成为过时产品",
       "url":"https://www.cnbeta.com/articles/tech/985795.htm"
-    },
-    {
-      "name":"在Linus Torvalds建议之后内核淘汰80个字符长度限制",
-      "url":"https://www.cnbeta.com/articles/tech/985793.htm"
     }
   ]
 }
