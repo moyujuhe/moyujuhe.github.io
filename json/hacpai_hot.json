@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-02 09:57:36",
+  "time":"2020-06-02 10:01:49",
   "data":[
     {
       "name":"20200508 TGIF",
@@ -227,6 +227,10 @@
       "url":"https://hacpai.com/article/1589270629975"
     },
     {
+      "name":"Solo | 优雅的使用 Solo 静态博客",
+      "url":"https://hacpai.com/article/1591016219708"
+    },
+    {
       "name":"npm install 一直报错",
       "url":"https://hacpai.com/article/1590664700612"
     },
@@ -237,10 +241,6 @@
     {
       "name":"Solo 4.1.0 本地运行使用 markdown 问题",
       "url":"https://hacpai.com/article/1590502843951"
-    },
-    {
-      "name":"建议修改下 solo 博客后台：工具 - 偏好设定 - 信息配置 - 页脚处 - 行高！",
-      "url":"https://hacpai.com/article/1590495483341"
     }
   ]
 }
