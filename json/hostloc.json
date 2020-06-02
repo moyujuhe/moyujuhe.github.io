@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-02 19:00:40",
+  "time":"2020-06-02 19:04:56",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"3毛机以前改成（年付款）的,这次续费一年可以优惠30%",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697850&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"各位大佬  爬网页的时候  怎么获取字体文件",
@@ -109,10 +113,6 @@
     {
       "name":"上次上的Azure免费车...已经...",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697818&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"wordpress有一个很不好的地方",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697817&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
