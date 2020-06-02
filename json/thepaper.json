@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-03 01:17:38",
+  "time":"2020-06-03 01:21:49",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"俄外交部：美总统建议的G7扩大会议无法保证全面代表性",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7672429"
+    },
     {
       "name":"美民主党总统候选人拜登呼吁立即立法进行警察改革",
       "url":"https://www.thepaper.cn/newsDetail_forward_7672422"
@@ -77,10 +81,6 @@
     {
       "name":"中美科学家即将发布最新论文，推进新冠病毒宿主研究",
       "url":"https://www.thepaper.cn/newsDetail_forward_7672317"
-    },
-    {
-      "name":"近2天全国报告境外输入无症状感染者21例，超此前半月总和",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7672303"
     }
   ]
 }
