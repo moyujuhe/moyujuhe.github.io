@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-02 09:11:02",
+  "time":"2020-06-02 09:15:15",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"今天上午10点 天猫618的40亿消费券第一波开领",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"[图]索尼高管：PlayStation 5游戏制作成本将更加昂贵",
+      "url":"https://hot.cnbeta.com/articles/game/985915.htm"
     },
     {
       "name":"继历史性的首次载人飞行任务之后  SpaceX的又一次例行发射已准备就绪",
@@ -237,10 +241,6 @@
     {
       "name":"NASA超级计算机正在努力进行COVID-19相关研究",
       "url":"https://www.cnbeta.com/articles/tech/985801.htm"
-    },
-    {
-      "name":"俄罗斯Elbrus 8CB处理器曝光 采用台积电28nm 8核VLIW设计",
-      "url":"https://www.cnbeta.com/articles/tech/985799.htm"
     }
   ]
 }
