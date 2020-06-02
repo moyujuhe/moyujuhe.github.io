@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-02 10:01:51",
+  "time":"2020-06-02 10:06:07",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"国别米平均续费最便宜的是哪家？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697606&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"关于国外免惫案CDN达到的最低延迟",
@@ -109,10 +113,6 @@
     {
       "name":"azure学生版订阅续期啦",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697571&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"virmach加一个小鸡一直无法开启",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697570&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
