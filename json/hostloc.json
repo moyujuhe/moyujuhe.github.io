@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-02 19:09:25",
+  "time":"2020-06-02 19:13:36",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"kangle能和宝塔共存不？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697852&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"3毛机以前改成（年付款）的,这次续费一年可以优惠30%",
@@ -109,10 +113,6 @@
     {
       "name":"天猫的列车你上不上？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697819&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"上次上的Azure免费车...已经...",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697818&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
