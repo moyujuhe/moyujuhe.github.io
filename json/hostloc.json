@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-02 21:32:46",
+  "time":"2020-06-02 21:37:06",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"为什么，Azure本地ping不通，ssh无法连接。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697895&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"420出个switch账号，动森➕39刀余额，10个月家庭会员",
@@ -109,10 +113,6 @@
     {
       "name":"网站的收录都在三天前了。首页也没快照了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697868&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"网站备份问题",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697867&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
