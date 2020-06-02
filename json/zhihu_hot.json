@@ -1,11 +1,7 @@
 {
-  "time":"2020-06-02 14:14:14",
+  "time":"2020-06-02 14:53:40",
   "title":"知乎全站热榜",
   "data":[
-    {
-      "name":"如何看待美国已有 40 个城市实施宵禁？将产生哪些影响？",
-      "url":"https://www.zhihu.com/question/398304016"
-    },
     {
       "name":"为什么有的人年纪轻轻就没了上进心和欲望，躲在舒适区只想安逸地生存？",
       "url":"https://www.zhihu.com/question/323480330"
@@ -13,18 +9,6 @@
     {
       "name":"如何看待弗洛伊德致死原因反转，独立尸检称其死于窒息？",
       "url":"https://www.zhihu.com/question/398894747"
-    },
-    {
-      "name":"如何看待主持人崔娃关于近期美警暴力执法引起骚乱等事件的发声？",
-      "url":"https://www.zhihu.com/question/398493429"
-    },
-    {
-      "name":"如何看待特斯拉6月1日在台湾嘉义的事故？",
-      "url":"https://www.zhihu.com/question/398754783"
-    },
-    {
-      "name":"怎样看待杨丽萍徒弟水月的同性婚礼？",
-      "url":"https://www.zhihu.com/question/398709024"
     },
     {
       "name":"你有遇到过绝味鸭脖强行加称吗？",
@@ -35,20 +19,36 @@
       "url":"https://www.zhihu.com/question/266083235"
     },
     {
+      "name":"如何看待特斯拉6月1日在台湾嘉义的事故？",
+      "url":"https://www.zhihu.com/question/398754783"
+    },
+    {
+      "name":"怎样看待杨丽萍徒弟水月的同性婚礼？",
+      "url":"https://www.zhihu.com/question/398709024"
+    },
+    {
       "name":"终于看完了《传闻中的陈芊芊》，你觉得大结局怎么样？",
       "url":"https://www.zhihu.com/question/398716803"
+    },
+    {
+      "name":"如何评价郑爽在小黑盒盛典穿晚礼服跳舞的热搜（5.31）？",
+      "url":"https://www.zhihu.com/question/398667201"
+    },
+    {
+      "name":"如何看待主持人崔娃关于近期美警暴力执法引起骚乱等事件的发声？",
+      "url":"https://www.zhihu.com/question/398493429"
     },
     {
       "name":"六月开始准备考研晚不晚，此时理想的进度应该是怎样的？",
       "url":"https://www.zhihu.com/question/397607227"
     },
     {
-      "name":"《王者荣耀》在我国MOBA手游界一家独大的场面还会持续多久？",
-      "url":"https://www.zhihu.com/question/398250613"
+      "name":"如何看待美国已有 40 个城市实施宵禁？将产生哪些影响？",
+      "url":"https://www.zhihu.com/question/398304016"
     },
     {
-      "name":"如何评价郑爽在小黑盒盛典穿晚礼服跳舞的热搜（5.31）？",
-      "url":"https://www.zhihu.com/question/398667201"
+      "name":"《王者荣耀》在我国MOBA手游界一家独大的场面还会持续多久？",
+      "url":"https://www.zhihu.com/question/398250613"
     },
     {
       "name":"老师看了我的作文内容，说我三观不正，我却不认为自己是错的，该怎么办？",
@@ -59,14 +59,6 @@
       "url":"https://www.zhihu.com/question/398900965"
     },
     {
-      "name":"年薪百万是什么感觉？",
-      "url":"https://www.zhihu.com/question/394637216"
-    },
-    {
-      "name":"如何看蔡徐坤在《青春有你 2》成团夜的表现？",
-      "url":"https://www.zhihu.com/question/398528101"
-    },
-    {
       "name":"最独特的眼睛颜色是什么？",
       "url":"https://www.zhihu.com/question/348598229"
     },
@@ -75,12 +67,24 @@
       "url":"https://www.zhihu.com/question/279557491"
     },
     {
-      "name":"给诸葛亮50部只能打电话的手机，北伐是否能成功？",
-      "url":"https://www.zhihu.com/question/386206319"
+      "name":"如何看蔡徐坤在《青春有你 2》成团夜的表现？",
+      "url":"https://www.zhihu.com/question/398528101"
     },
     {
       "name":"2020 季中转会期，网传 Uzi 已成自由人，你希望他退役/续约还是换一支战队？",
       "url":"https://www.zhihu.com/question/398756043"
+    },
+    {
+      "name":"刚果又爆发了新一轮的埃博拉病毒，这对当前各个国家的防疫工作有何影响？",
+      "url":"https://www.zhihu.com/question/398896723"
+    },
+    {
+      "name":"年薪百万是什么感觉？",
+      "url":"https://www.zhihu.com/question/394637216"
+    },
+    {
+      "name":"武汉中心医院医生胡卫锋去世，此前感染新冠肺炎面容变黑，为何好转之后又发生恶化？",
+      "url":"https://www.zhihu.com/question/398900565"
     },
     {
       "name":"如果985大学的教授打算让自己的博士生留校任教，在学生读博期间会怎样培养他？",
@@ -91,32 +95,20 @@
       "url":"https://www.zhihu.com/question/398830197"
     },
     {
-      "name":"武汉中心医院医生胡卫锋去世，此前感染新冠肺炎面容变黑，为何好转之后又发生恶化？",
-      "url":"https://www.zhihu.com/question/398900565"
+      "name":"给诸葛亮50部只能打电话的手机，北伐是否能成功？",
+      "url":"https://www.zhihu.com/question/386206319"
     },
     {
       "name":"请问如何看待河南科技大学机械设计补考120分钟150道题？",
       "url":"https://www.zhihu.com/question/397347534"
     },
     {
-      "name":"刚果又爆发了新一轮的埃博拉病毒，这对当前各个国家的防疫工作有何影响？",
-      "url":"https://www.zhihu.com/question/398896723"
-    },
-    {
-      "name":"如何看待暴雪商城上线《魔兽世界》退役服务器？",
-      "url":"https://www.zhihu.com/question/397863509"
-    },
-    {
-      "name":"如何看待张艺兴耗资千万打造新专辑MV的做法？",
-      "url":"https://www.zhihu.com/question/398625271"
-    },
-    {
       "name":"《英雄联盟》2020 年 TES 的进步真的是 Jackeylove 带来的吗？",
       "url":"https://www.zhihu.com/question/398655404"
     },
     {
-      "name":"正太脸肌肉身是一种什么样的体验？",
-      "url":"https://www.zhihu.com/question/54560524"
+      "name":"如何看待暴雪商城上线《魔兽世界》退役服务器？",
+      "url":"https://www.zhihu.com/question/397863509"
     },
     {
       "name":"如何评价《向往的生活》第四季？",
@@ -127,6 +119,10 @@
       "url":"https://www.zhihu.com/question/393442097"
     },
     {
+      "name":"如何看待张艺兴耗资千万打造新专辑MV的做法？",
+      "url":"https://www.zhihu.com/question/398625271"
+    },
+    {
       "name":"如何评价2020届应届毕业生就业形势？",
       "url":"https://www.zhihu.com/question/362043424"
     },
@@ -135,52 +131,40 @@
       "url":"https://www.zhihu.com/question/398104777"
     },
     {
-      "name":"感情上对不起一个人真的会有报应吗？",
-      "url":"https://www.zhihu.com/question/387484666"
+      "name":"如何看待重庆高中生「天才少年」徐誉舒疑似因跨性别心理，同时面临校园压力和家庭压力而长期抑郁最后自杀？",
+      "url":"https://www.zhihu.com/question/398873890"
+    },
+    {
+      "name":"可以穿龙袍参加高考吗？",
+      "url":"https://www.zhihu.com/question/397596324"
     },
     {
       "name":"「钟美美」本人帐号模仿老师的视频全部删除，发生了什么事？",
       "url":"https://www.zhihu.com/question/398541641"
     },
     {
-      "name":"如何看待学生去老师家里一对一上乐器课?",
-      "url":"https://www.zhihu.com/question/398442738"
-    },
-    {
-      "name":"今年618的联想小新Pro香吗？",
-      "url":"https://www.zhihu.com/question/397436089"
-    },
-    {
-      "name":"如何看待王者荣耀ID交易盛行？",
-      "url":"https://www.zhihu.com/question/326805121"
-    },
-    {
       "name":"你最庆幸自己读过什么书?",
       "url":"https://www.zhihu.com/question/62306995"
     },
     {
-      "name":"如何看待女子在重庆吃饭强调不要放辣，回锅肉里吃到青椒和辣椒后愤然报警？",
-      "url":"https://www.zhihu.com/question/398828071"
+      "name":"如何看待学生去老师家里一对一上乐器课?",
+      "url":"https://www.zhihu.com/question/398442738"
+    },
+    {
+      "name":"正太脸肌肉身是一种什么样的体验？",
+      "url":"https://www.zhihu.com/question/54560524"
+    },
+    {
+      "name":"如何评价瑞克和莫蒂（Rick and Morty）第四季第十集？",
+      "url":"https://www.zhihu.com/question/398774806"
     },
     {
       "name":"华为又开始使用联发科芯片，意味着什么？是战略，还是放弃这块了？",
       "url":"https://www.zhihu.com/question/397732068"
     },
     {
-      "name":"为什么微信号不给修改第二次？",
-      "url":"https://www.zhihu.com/question/57070871"
-    },
-    {
-      "name":"好看清晰的自拍是怎么拍出来的？",
-      "url":"https://www.zhihu.com/question/267598322"
-    },
-    {
-      "name":"如何看待农业部正式发布公告：将狗移出国家畜禽遗传资源目录，未来会全国禁食狗肉吗？",
-      "url":"https://www.zhihu.com/question/398132775"
-    },
-    {
-      "name":"如何看待各大电商平台纷纷在618发放消费券，平台真的拿钱补贴消费吗？",
-      "url":"https://www.zhihu.com/question/398821623"
+      "name":"如何看待女子在重庆吃饭强调不要放辣，回锅肉里吃到青椒和辣椒后愤然报警？",
+      "url":"https://www.zhihu.com/question/398828071"
     },
     {
       "name":"如何评价《创造营2020》陈卓璇?",
@@ -191,16 +175,32 @@
       "url":"https://www.zhihu.com/question/398747535"
     },
     {
+      "name":"感情上对不起一个人真的会有报应吗？",
+      "url":"https://www.zhihu.com/question/387484666"
+    },
+    {
+      "name":"如何看待 Lisa 被经纪人骗取 10 亿韩元事件？经纪人真的很重要吗？",
+      "url":"https://www.zhihu.com/question/398928036"
+    },
+    {
+      "name":"如何看待各大电商平台纷纷在618发放消费券，平台真的拿钱补贴消费吗？",
+      "url":"https://www.zhihu.com/question/398821623"
+    },
+    {
       "name":"为什么埃尔法卖那么贵，难道买GL8不比他香吗？",
       "url":"https://www.zhihu.com/question/396816692"
     },
     {
-      "name":"可以穿龙袍参加高考吗？",
-      "url":"https://www.zhihu.com/question/397596324"
-    },
-    {
       "name":"如何看待深圳将率先立法建立个人破产制度？",
       "url":"https://www.zhihu.com/question/391491838"
+    },
+    {
+      "name":"如何评价 2020 上半年的 FPX 中野？究竟是 Doinb 英雄池不再优势还是小天节奏迷失了？",
+      "url":"https://www.zhihu.com/question/398643987"
+    },
+    {
+      "name":"如何看待王者荣耀ID交易盛行？",
+      "url":"https://www.zhihu.com/question/326805121"
     }
   ]
 }
