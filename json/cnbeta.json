@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-03 07:40:57",
+  "time":"2020-06-03 07:45:08",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 6月1日追加40亿元消费券",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"MX Linux 19.2 发布，基于 Debian 的桌面 Linux 发行版",
+      "url":"https://www.cnbeta.com/articles/tech/986323.htm"
     },
     {
       "name":"Apple Research应用获更新：引入新冠调查和听力研究噪音测试",
@@ -237,10 +241,6 @@
     {
       "name":"华为企业级存储产品选用西数SMR硬盘 高冗余不易丢数据",
       "url":"https://www.cnbeta.com/articles/tech/986209.htm"
-    },
-    {
-      "name":"川航客机万米高空风挡玻璃破裂事件调查报告公布",
-      "url":"https://www.cnbeta.com/articles/tech/986207.htm"
     }
   ]
 }
