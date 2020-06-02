@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-03 00:38:27",
+  "time":"2020-06-03 00:42:49",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"纽约延长宵禁至7日晚，此次宵禁系该市70余年来首次",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7672420"
+    },
     {
       "name":"俄罗斯总统普京签署俄核威慑政策",
       "url":"https://www.thepaper.cn/newsDetail_forward_7672412"
@@ -77,10 +81,6 @@
     {
       "name":"香港市民频赴美国驻港总领事馆外抗议，痛斥美国干涉香港事务",
       "url":"https://www.thepaper.cn/newsDetail_forward_7672307"
-    },
-    {
-      "name":"美特勤局封锁白宫周围街道，多地部署超2万名国民警卫队人员",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7672283"
     }
   ]
 }
