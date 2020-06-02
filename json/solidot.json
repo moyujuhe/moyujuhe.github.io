@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-02 19:56:14",
+  "time":"2020-06-02 20:00:26",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"科学家在鼠脑发现可完全关闭疼痛的神经元",
+      "url":"https://www.solidot.org/story?sid=64545"
+    },
     {
       "name":"华为扩大对外采购半导体",
       "url":"https://www.solidot.org/story?sid=64544"
@@ -77,10 +81,6 @@
     {
       "name":"IPv6 普及度突破 32%",
       "url":"https://www.solidot.org/story?sid=64526"
-    },
-    {
-      "name":"SpaceX 成功将两位 NASA 宇航员发射到太空",
-      "url":"https://www.solidot.org/story?sid=64525"
     }
   ]
 }
