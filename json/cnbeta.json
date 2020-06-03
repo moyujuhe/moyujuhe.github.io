@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-03 17:27:50",
+  "time":"2020-06-03 17:32:02",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"美国持续从电信网络中剥离中国公司",
+      "url":"https://www.cnbeta.com/articles/tech/986619.htm"
     },
     {
       "name":"植物化石显示：当今的大气二氧化碳浓度超过了过去2300万年的记录",
@@ -237,10 +241,6 @@
     {
       "name":"基于沃尔沃平台：领克入门级SUV 06将于近期发布",
       "url":"https://www.cnbeta.com/articles/tech/986507.htm"
-    },
-    {
-      "name":"加拿大电信巨头选择诺基亚爱立信设备来构建5G网络",
-      "url":"https://www.cnbeta.com/articles/tech/986505.htm"
     }
   ]
 }
