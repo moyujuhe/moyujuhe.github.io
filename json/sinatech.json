@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-04 01:27:18",
+  "time":"2020-06-04 01:29:19",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"短暂的美团云 撤退了",
+      "url":"https://tech.sina.com.cn/i/2020-06-04/doc-iirczymk5120328.shtml"
+    },
     {
       "name":"Zoom一季度营收大增169% 云计算支出增加致毛利下滑",
       "url":"https://tech.sina.com.cn/i/2020-06-04/doc-iirczymk5120274.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"面临“地狱级”挑战，线下教培真的太难了",
       "url":"http://tech.sina.com.cn/csj/2020-06-03/doc-iircuyvi6524840.shtml"
-    },
-    {
-      "name":"比特币挖矿减半实录：火电全关停，水电空置300万负荷",
-      "url":"https://tech.sina.com.cn/it/2020-06-03/doc-iircuyvi6524652.shtml"
     }
   ]
 }

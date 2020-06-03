@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-04 01:27:57",
+  "time":"2020-06-04 01:32:10",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"看来是撸不出com和net了，要的拿走",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698409&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"香港特价鸡2C2G",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698408&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"话说KVM虚拟机支持显卡3d加速吗？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698374&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"有什么不需要实名而且对国内友好的CDN？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698373&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
