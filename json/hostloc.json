@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-03 11:13:23",
+  "time":"2020-06-03 11:17:33",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"哪位有gcp的全球各区域的IP，做跨境电商站",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698060&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"为何aws上传这么慢",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698058&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"明明都是中国人，为什么叫“全球”主机交流论坛",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698025&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"求自建临时邮箱的项目",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698024&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
