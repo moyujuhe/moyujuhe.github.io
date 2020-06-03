@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-03 09:35:21",
+  "time":"2020-06-03 09:39:32",
   "title":"全球主机交流论坛",
   "data":[
     {
       "name":"论坛自今日起，禁止悬赏、转让、买卖积分",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=463780&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"有精简版的Debian10镜像吗，想给小鸡DD一个",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698007&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
       "name":"ubuntu 是不是重装系统后不能ssh",
@@ -109,10 +113,6 @@
     {
       "name":"为啥伯力机的mjj都有余额而且还不少",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697970&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"有懂网速的老大教教孩子吧，谢谢了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=697969&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
