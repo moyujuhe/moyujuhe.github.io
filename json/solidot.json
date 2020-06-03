@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-03 16:54:06",
+  "time":"2020-06-03 16:58:18",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Linux Mint 表示不会违背用户意愿安装 Snap 封装应用",
+      "url":"https://www.solidot.org/story?sid=64554"
+    },
     {
       "name":"中国有多少人月收入只有 1000 元",
       "url":"https://www.solidot.org/story?sid=64553"
@@ -77,10 +81,6 @@
     {
       "name":"在 Linus Torvalds 建议之后内核淘汰 80 个字符长度限制",
       "url":"https://www.solidot.org/story?sid=64535"
-    },
-    {
-      "name":"百度发布量子机器学习工具",
-      "url":"https://www.solidot.org/story?sid=64534"
     }
   ]
 }
