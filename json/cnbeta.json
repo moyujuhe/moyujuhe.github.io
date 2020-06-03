@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-04 00:18:42",
+  "time":"2020-06-04 00:23:04",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"澳大利亚黑客在Twitter上发布苹果员工机密信息后被判缓刑",
+      "url":"https://www.cnbeta.com/articles/tech/986693.htm"
     },
     {
       "name":"CES 2021展会有望明年在拉斯维加斯恢复正常举办",
@@ -237,10 +241,6 @@
     {
       "name":"虽然刚爆炸 但SpaceX星际飞船年底或试首次轨道发射",
       "url":"https://www.cnbeta.com/articles/science/986581.htm"
-    },
-    {
-      "name":"Zoom：因需要配合执法工作 不会对免费视频电话进行加密",
-      "url":"https://www.cnbeta.com/articles/tech/986579.htm"
     }
   ]
 }
