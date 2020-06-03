@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-03 17:36:14",
+  "time":"2020-06-03 17:40:31",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Zoom CEO 称为配合 FBI 免费版不加密",
+      "url":"https://www.solidot.org/story?sid=64555"
+    },
     {
       "name":"Linux Mint 表示不会违背用户意愿安装 Snap 封装应用",
       "url":"https://www.solidot.org/story?sid=64554"
@@ -77,10 +81,6 @@
     {
       "name":"来自尼安德特人的基因提高了生育能力",
       "url":"https://www.solidot.org/story?sid=64536"
-    },
-    {
-      "name":"在 Linus Torvalds 建议之后内核淘汰 80 个字符长度限制",
-      "url":"https://www.solidot.org/story?sid=64535"
     }
   ]
 }
