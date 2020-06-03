@@ -1,7 +1,19 @@
 {
-  "time":"2020-06-03 16:03:28",
+  "time":"2020-06-03 16:07:40",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"中国有多少人月收入只有 1000 元",
+      "url":"https://www.solidot.org/story?sid=64553"
+    },
+    {
+      "name":"Google 下架 Remove China Apps",
+      "url":"https://www.solidot.org/story?sid=64552"
+    },
+    {
+      "name":"研究称物种在加速消亡",
+      "url":"https://www.solidot.org/story?sid=64551"
+    },
     {
       "name":"加拿大通信公司 5G 选择爱立信和诺基亚",
       "url":"https://www.solidot.org/story?sid=64550"
@@ -69,18 +81,6 @@
     {
       "name":"百度发布量子机器学习工具",
       "url":"https://www.solidot.org/story?sid=64534"
-    },
-    {
-      "name":"英国保守党议员热衷使用加密消息应用 Signal",
-      "url":"https://www.solidot.org/story?sid=64533"
-    },
-    {
-      "name":"X 和 Y 染色体如何走到一起",
-      "url":"https://www.solidot.org/story?sid=64532"
-    },
-    {
-      "name":"AppGet 开发者不满微软在宣布 winget 时根本没提 AppGet",
-      "url":"https://www.solidot.org/story?sid=64531"
     }
   ]
 }
