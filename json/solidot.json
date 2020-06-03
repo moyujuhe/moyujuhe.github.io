@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-03 14:12:30",
+  "time":"2020-06-03 14:16:45",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"加拿大通信公司 5G 选择爱立信和诺基",
+      "url":"https://www.solidot.org/story?sid=64550"
+    },
     {
       "name":"中国城市空气质量 4 月出现反弹",
       "url":"https://www.solidot.org/story?sid=64549"
@@ -77,10 +81,6 @@
     {
       "name":"AppGet 开发者不满微软在宣布 winget 时根本没提 AppGet",
       "url":"https://www.solidot.org/story?sid=64531"
-    },
-    {
-      "name":"美国众议员将提议案禁止投资中国军方关联企业",
-      "url":"https://www.solidot.org/story?sid=64530"
     }
   ]
 }

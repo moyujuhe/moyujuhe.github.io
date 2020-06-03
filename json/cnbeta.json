@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-03 14:12:30",
+  "time":"2020-06-03 14:16:44",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"传新iPad Air将采用USB-C接口，iPad mini保留Lightning接口",
+      "url":"https://www.cnbeta.com/articles/tech/986519.htm"
     },
     {
       "name":"华纳兄弟宣布6月免费出租《正义的慈悲》以表对抗议活动的支持",
@@ -237,10 +241,6 @@
     {
       "name":"AMD 7年卖出5亿块显卡：数量超I/N 主机贡献29%",
       "url":"https://www.cnbeta.com/articles/tech/986407.htm"
-    },
-    {
-      "name":"[图]苹果Safari将内嵌翻译器 全面支持Apple Pencil",
-      "url":"https://www.cnbeta.com/articles/tech/986405.htm"
     }
   ]
 }
