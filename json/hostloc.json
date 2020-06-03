@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-03 11:55:57",
+  "time":"2020-06-03 12:00:09",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"你们的baklib企业版还好吗？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698085&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"OL 机器 ILO报无法加载资源错误",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698084&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"请问有没有支持天冀云的列表程序？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698052&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"小白求助用了CDN回源好不",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698050&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
