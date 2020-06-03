@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-03 07:57:38",
+  "time":"2020-06-03 07:58:20",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"Twitter任命谷歌前CFO为独立董事长",
+      "url":"https://tech.sina.com.cn/i/2020-06-03/doc-iircuyvi6420995.shtml"
+    },
     {
       "name":"传iOS 14浏览器将增添自动翻译 对手写笔支持也更好",
       "url":"https://tech.sina.com.cn/mobile/n/n/2020-06-03/doc-iirczymk4948293.shtml"
@@ -9,6 +13,10 @@
     {
       "name":"谷歌因跟踪\"隐身模式\"用户信息被起诉：要求至少赔偿50亿美元",
       "url":"https://tech.sina.com.cn/i/2020-06-03/doc-iircuyvi6419994.shtml"
+    },
+    {
+      "name":"谷歌新款Android TV电视棒曝光：新增粉色 配遥控器",
+      "url":"https://tech.sina.com.cn/elec/product/2020-06-03/doc-iirczymk4948729.shtml"
     },
     {
       "name":"美科技行业游说组织起诉特朗普行政命令违宪",
@@ -77,6 +85,10 @@
     {
       "name":"SpaceX搅局美俄太空竞争？ 专家：尚不足改变当前格局",
       "url":"https://tech.sina.com.cn/it/2020-06-03/doc-iirczymk4935863.shtml"
+    },
+    {
+      "name":"云演唱会扎堆上线 质量提升仍是用户付费关键",
+      "url":"https://tech.sina.com.cn/i/2020-06-03/doc-iircuyvi6408378.shtml"
     },
     {
       "name":"科创板集聚效应凸显 半导体产业链日趋完整",
@@ -151,7 +163,7 @@
       "url":"https://tech.sina.com.cn/e/2020-06-03/doc-iirczymk4930224.shtml"
     },
     {
-      "name":"余额宝收益率持续走低：不敌银行定期被微信碾压？",
+      "name":"余额宝收益率持续走低：不敌银行定期 被微信碾压？",
       "url":"https://tech.sina.com.cn/i/2020-06-03/doc-iircuyvi6400568.shtml"
     },
     {
@@ -189,18 +201,6 @@
     {
       "name":"拼多多回应\"二次上市\":公司现金储备充裕 暂无任何计划",
       "url":"https://tech.sina.com.cn/i/2020-06-02/doc-iirczymk4909692.shtml"
-    },
-    {
-      "name":"国美联手京东拼多多细节：两家投资谈判时间不超一周",
-      "url":"https://tech.sina.com.cn/roll/2020-06-02/doc-iircuyvi6381552.shtml"
-    },
-    {
-      "name":"京东618首日40品牌销售破亿 超300万家线下门店参与",
-      "url":"https://tech.sina.com.cn/i/2020-06-02/doc-iirczymk4908163.shtml"
-    },
-    {
-      "name":"国产手机厂商竞逐防抖赛道",
-      "url":"https://tech.sina.com.cn/t/2020-06-03/doc-iirczymk4907862.shtml"
     }
   ]
 }
