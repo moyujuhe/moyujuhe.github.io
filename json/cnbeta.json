@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-03 15:16:15",
+  "time":"2020-06-03 15:20:32",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"Firefox 78测试版迎来了针对Linux和macOS平台的较大改进",
+      "url":"https://www.cnbeta.com/articles/tech/986561.htm"
     },
     {
       "name":"Facebook、PayPal对东南亚网约车公司GoJe进行投资",
@@ -237,10 +241,6 @@
     {
       "name":"澳大利亚计划利用3D打印技术来维护潜艇舰队",
       "url":"https://www.cnbeta.com/articles/tech/986449.htm"
-    },
-    {
-      "name":"TIOBE 6 月榜单：Rust 首次进入前 20",
-      "url":"https://www.cnbeta.com/articles/tech/986447.htm"
     }
   ]
 }
