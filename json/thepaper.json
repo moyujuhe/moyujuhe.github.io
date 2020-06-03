@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-04 00:53:04",
+  "time":"2020-06-04 00:57:28",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"白俄罗斯总统卢卡申科解散政府",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7690695"
+    },
     {
       "name":"美国交通部：6月16日开始暂停往返中美的中国民航航班",
       "url":"https://www.thepaper.cn/newsDetail_forward_7690691"
@@ -77,10 +81,6 @@
     {
       "name":"全球疫情晚报｜印度确诊超20万，专家担忧美国抗议加剧疫情",
       "url":"https://www.thepaper.cn/newsDetail_forward_7690267"
-    },
-    {
-      "name":"北向资金连续8日净流入：今日加仓科技股，抛售消费股",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7690520"
     }
   ]
 }
