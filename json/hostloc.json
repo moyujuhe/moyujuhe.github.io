@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-03 10:47:18",
+  "time":"2020-06-03 10:51:53",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"改邮箱出 bytedynasty 香港cn2gia月付11.4",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698041&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"techsoup的token有销量嘛？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698039&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"有精简版的Debian10镜像吗，想给小鸡DD一个",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698007&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"ubuntu 是不是重装系统后不能ssh",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698005&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
