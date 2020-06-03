@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-04 03:14:07",
+  "time":"2020-06-04 03:18:19",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美媒：执法致非裔美国人死亡的警察将面临二级谋杀起诉",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7696169"
+    },
     {
       "name":"河北唐山古冶区深夜发生2.1级地震，震源深度10千米",
       "url":"https://www.thepaper.cn/newsDetail_forward_7695574"
@@ -77,10 +81,6 @@
     {
       "name":"骚乱与疫情间隐秘的线，弗洛伊德是交汇点",
       "url":"https://www.thepaper.cn/newsDetail_forward_7690579"
-    },
-    {
-      "name":"山西警方抓获39年前持铁锤打死妻子逃犯",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7690585"
     }
   ]
 }
