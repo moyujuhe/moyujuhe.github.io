@@ -1,7 +1,27 @@
 {
-  "time":"2020-06-04 13:19:56",
+  "time":"2020-06-04 13:24:12",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"美国政府澄清对中国留学生的禁令",
+      "url":"https://www.solidot.org/story?sid=64563"
+    },
+    {
+      "name":"Steam 出现网络游戏防沉迷系统及实名认证服务协议",
+      "url":"https://www.solidot.org/story?sid=64562"
+    },
+    {
+      "name":"苹果警告盗走 iPhone 的打劫者你们正被跟踪",
+      "url":"https://www.solidot.org/story?sid=64561"
+    },
+    {
+      "name":"勒索软件黑帮拍卖受害者机密数据",
+      "url":"https://www.solidot.org/story?sid=64560"
+    },
+    {
+      "name":"Firefox 77.0 发布",
+      "url":"https://www.solidot.org/story?sid=64559"
+    },
     {
       "name":"Devuan Beowulf 3.0.0 发布",
       "url":"https://www.solidot.org/story?sid=64558"
@@ -61,26 +81,6 @@
     {
       "name":"华为扩大对外采购半导体",
       "url":"https://www.solidot.org/story?sid=64544"
-    },
-    {
-      "name":"视频显示特斯拉汽车向翻到的卡车直冲上去",
-      "url":"https://www.solidot.org/story?sid=64543"
-    },
-    {
-      "name":"刚果爆发新埃博拉疫情",
-      "url":"https://www.solidot.org/story?sid=64542"
-    },
-    {
-      "name":"美国图书出版商起诉互联网档案馆",
-      "url":"https://www.solidot.org/story?sid=64541"
-    },
-    {
-      "name":"北京中医药条例草案禁止诋毁中医",
-      "url":"https://www.solidot.org/story?sid=64540"
-    },
-    {
-      "name":"陨石撞击的角度是导致恐龙灭绝的关键",
-      "url":"https://www.solidot.org/story?sid=64539"
     }
   ]
 }
