@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-05 01:24:32",
+  "time":"2020-06-05 01:29:00",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -47,12 +47,12 @@
       "url":"https://www.zhihu.com/question/399044931"
     },
     {
-      "name":"什么是\"直男审美\"?",
-      "url":"https://www.zhihu.com/question/40451181"
-    },
-    {
       "name":"如何评价张艺兴的《莲》在国外火了？",
       "url":"https://www.zhihu.com/question/399113810"
+    },
+    {
+      "name":"什么是\"直男审美\"?",
+      "url":"https://www.zhihu.com/question/40451181"
     },
     {
       "name":"SpaceX 龙飞船中的新触控交互操作系统，意味着什么？",
@@ -171,10 +171,6 @@
       "url":"https://www.zhihu.com/question/29125363"
     },
     {
-      "name":"人生在世，有哪些道理或者观念越早知道越好？",
-      "url":"https://www.zhihu.com/question/344361762"
-    },
-    {
       "name":"为什么 AMD 用 7nm 工艺制作的 cpu 才追上 intel 的 14nm 工艺的CPU？",
       "url":"https://www.zhihu.com/question/334502762"
     },
@@ -201,6 +197,10 @@
     {
       "name":"CBA重启获批，6月20日正式复赛，你有什么想说的？",
       "url":"https://www.zhihu.com/question/399394539"
+    },
+    {
+      "name":"有哪些一吃就上瘾的零食？",
+      "url":"https://www.zhihu.com/question/365263332"
     }
   ]
 }
