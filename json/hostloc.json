@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-05 05:38:04",
+  "time":"2020-06-05 05:42:16",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"秋水逸冰的一键都删了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699007&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"各位大师，我想问问github架了个blog，绑域名后怎么用CF的CDN",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699006&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"哪里有便宜的小鸡",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698976&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"我擦，怎么我的不是T恤，是优酷VIP",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698975&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
