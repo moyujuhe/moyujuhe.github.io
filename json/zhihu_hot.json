@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-05 03:19:42",
+  "time":"2020-06-05 03:23:51",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -87,12 +87,12 @@
       "url":"https://www.zhihu.com/question/356165752"
     },
     {
-      "name":"如果所有人都惯用左手，那么世界各地的建筑将变成什么样？",
-      "url":"https://www.zhihu.com/question/398148053"
-    },
-    {
       "name":"池子解约、卡姆被爆吸毒，笑果文化怎么了？这一连串事件会对国内的脱口秀行业产生哪些影响？",
       "url":"https://www.zhihu.com/question/399182292"
+    },
+    {
+      "name":"如果所有人都惯用左手，那么世界各地的建筑将变成什么样？",
+      "url":"https://www.zhihu.com/question/398148053"
     },
     {
       "name":"学计算机的朋友们有时候一个错误几小时才会弄清楚，会崩溃吗?",
@@ -183,6 +183,10 @@
       "url":"https://www.zhihu.com/question/391753614"
     },
     {
+      "name":"有没有什么能把你虐哭的古风短篇小说？",
+      "url":"https://www.zhihu.com/question/348599790"
+    },
+    {
       "name":"如果只选择国产，请问猫粮哪个品牌好？",
       "url":"https://www.zhihu.com/question/268842724"
     },
@@ -197,10 +201,6 @@
     {
       "name":"如何评价《海贼王》里的鱼人英雄费舍·泰格？",
       "url":"https://www.zhihu.com/question/39784576"
-    },
-    {
-      "name":"国内应届生是不是把Leetcode刷的滚瓜烂熟就能进google了？",
-      "url":"https://www.zhihu.com/question/39594307"
     }
   ]
 }
