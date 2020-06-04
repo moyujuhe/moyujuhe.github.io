@@ -1,10 +1,26 @@
 {
-  "time":"2020-06-04 17:35:14",
+  "time":"2020-06-04 17:39:28",
   "title":"奇客的资讯",
   "data":[
     {
+      "name":"FreeNAS 将发布基于 Linux 的版本",
+      "url":"https://www.solidot.org/story?sid=64569"
+    },
+    {
+      "name":"SpaceX 发射第八批 Starlink 卫星",
+      "url":"https://www.solidot.org/story?sid=64568"
+    },
+    {
+      "name":"复活节岛文明崩溃论再受挑战",
+      "url":"https://www.solidot.org/story?sid=64567"
+    },
+    {
       "name":"一张墙纸导致部分 Android 手机变砖",
       "url":"https://www.solidot.org/story?sid=64566"
+    },
+    {
+      "name":"Take-Two 取消一游戏开发商的合同，然后挖角整个开发团队",
+      "url":"https://www.solidot.org/story?sid=64564"
     },
     {
       "name":"美国政府澄清对中国留学生的禁令",
@@ -65,22 +81,6 @@
     {
       "name":"中国城市空气质量 4 月出现反弹",
       "url":"https://www.solidot.org/story?sid=64549"
-    },
-    {
-      "name":"AMD CEO 成首位标普 500 企业收入最高的女性 CEO",
-      "url":"https://www.solidot.org/story?sid=64548"
-    },
-    {
-      "name":"苹果释出 iOS 13.5.1 堵上 Unc0ver 越狱利用的漏洞",
-      "url":"https://www.solidot.org/story?sid=64547"
-    },
-    {
-      "name":"研究发现在账号泄露之后用户很少换密码",
-      "url":"https://www.solidot.org/story?sid=64546"
-    },
-    {
-      "name":"科学家在鼠脑发现可完全关闭疼痛的神经元",
-      "url":"https://www.solidot.org/story?sid=64545"
     }
   ]
 }
