@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-04 15:23:20",
+  "time":"2020-06-04 15:27:31",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -75,12 +75,12 @@
       "url":"https://www.zhihu.com/question/59859595"
     },
     {
-      "name":"儿子小学五年级，总是被班主任罚抄作业，原因是只要有男生说话，就罚全班男生抄课文。如何理解老师的方式？",
-      "url":"https://www.zhihu.com/question/397432246"
-    },
-    {
       "name":"什么是\"直男审美\"?",
       "url":"https://www.zhihu.com/question/40451181"
+    },
+    {
+      "name":"儿子小学五年级，总是被班主任罚抄作业，原因是只要有男生说话，就罚全班男生抄课文。如何理解老师的方式？",
+      "url":"https://www.zhihu.com/question/397432246"
     },
     {
       "name":"微信先拉黑再删除，永远都加不上了吗？",
@@ -127,12 +127,12 @@
       "url":"https://www.zhihu.com/question/399074713"
     },
     {
-      "name":"Uzi 宣布退役，单看荣誉他能排进《英雄联盟》历史前十 AD 选手吗？",
-      "url":"https://www.zhihu.com/question/399148401"
-    },
-    {
       "name":"大学数学系的学生不听课有多可怕？",
       "url":"https://www.zhihu.com/question/397702324"
+    },
+    {
+      "name":"Uzi 宣布退役，单看荣誉他能排进《英雄联盟》历史前十 AD 选手吗？",
+      "url":"https://www.zhihu.com/question/399148401"
     },
     {
       "name":"你看姜文电影时，有什么惊人的发现？",
@@ -171,20 +171,16 @@
       "url":"https://www.zhihu.com/question/397987443"
     },
     {
-      "name":"Uzi 不在的 RNG 还是 RNG 吗？",
-      "url":"https://www.zhihu.com/question/388852712"
-    },
-    {
       "name":"大学生可以尝试炒股吗？",
       "url":"https://www.zhihu.com/question/393255377"
     },
     {
-      "name":"如何看待直播带货卖理财产品，你会买吗？",
-      "url":"https://www.zhihu.com/question/399030256"
-    },
-    {
       "name":"如何评价美剧《太空部队》？",
       "url":"https://www.zhihu.com/question/398105968"
+    },
+    {
+      "name":"如何看待直播带货卖理财产品，你会买吗？",
+      "url":"https://www.zhihu.com/question/399030256"
     },
     {
       "name":"买房需要避开哪几个楼层？",
@@ -201,6 +197,10 @@
     {
       "name":"中国将在 7 至 8 月执行首次火星探测任务，你对本次任务有哪些期待？",
       "url":"https://www.zhihu.com/question/398721519"
+    },
+    {
+      "name":"你觉得自NBA联盟建立以来最励志的球员是谁？",
+      "url":"https://www.zhihu.com/question/398302958"
     }
   ]
 }
