@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-05 01:59:28",
+  "time":"2020-06-05 02:03:43",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -15,12 +15,12 @@
       "url":"https://www.zhihu.com/question/346309103"
     },
     {
-      "name":"是不是去看望老师的，大多不是他们曾经口中的“好学生”？为什么？",
-      "url":"https://www.zhihu.com/question/21828135"
-    },
-    {
       "name":"广西梧州一小学保安持刀砍人，约 40 人受伤，目前情况如何？",
       "url":"https://www.zhihu.com/question/399344565"
+    },
+    {
+      "name":"是不是去看望老师的，大多不是他们曾经口中的“好学生”？为什么？",
+      "url":"https://www.zhihu.com/question/21828135"
     },
     {
       "name":"第一天摆摊，你们赚钱了吗？",
@@ -75,16 +75,16 @@
       "url":"https://www.zhihu.com/question/385351987"
     },
     {
-      "name":"仝卓真的没有路了吗?",
-      "url":"https://www.zhihu.com/question/398318811"
+      "name":"假设苹果公司远程锁死国内的苹果手机怎么办？",
+      "url":"https://www.zhihu.com/question/399088440"
     },
     {
       "name":"现在在追一个女生，应该每天和她聊点什么？",
       "url":"https://www.zhihu.com/question/369960957"
     },
     {
-      "name":"假设苹果公司远程锁死国内的苹果手机怎么办？",
-      "url":"https://www.zhihu.com/question/399088440"
+      "name":"仝卓真的没有路了吗?",
+      "url":"https://www.zhihu.com/question/398318811"
     },
     {
       "name":"生活中你们发现了哪个 bug，让你觉得世界不是真实的？",
@@ -131,12 +131,12 @@
       "url":"https://www.zhihu.com/question/368259380"
     },
     {
-      "name":"如果陈芊芊遇到的是李承鄞，小枫遇见的是韩硕，会怎么样呢？",
-      "url":"https://www.zhihu.com/question/397998396"
-    },
-    {
       "name":"如何评价综艺《我是唱作人 2》第八期的作品水平？",
       "url":"https://www.zhihu.com/question/399351809"
+    },
+    {
+      "name":"如果陈芊芊遇到的是李承鄞，小枫遇见的是韩硕，会怎么样呢？",
+      "url":"https://www.zhihu.com/question/397998396"
     },
     {
       "name":"华为的产品真的有那么不堪么？",
@@ -165,6 +165,10 @@
     {
       "name":"实在忍不住了，请问《诡秘之主》到底讲的什么？",
       "url":"https://www.zhihu.com/question/392022926"
+    },
+    {
+      "name":"二十平的小房间里养猫，对猫来说是不是一种折磨？",
+      "url":"https://www.zhihu.com/question/374187363"
     },
     {
       "name":"为什么央视版三国的演员表情那么夸张？",
@@ -197,10 +201,6 @@
     {
       "name":"国内应届生是不是把Leetcode刷的滚瓜烂熟就能进google了？",
       "url":"https://www.zhihu.com/question/39594307"
-    },
-    {
-      "name":"虚数在物理中有什么应用吗？",
-      "url":"https://www.zhihu.com/question/392479557"
     }
   ]
 }
