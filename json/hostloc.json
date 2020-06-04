@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-04 15:40:15",
+  "time":"2020-06-04 15:44:28",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"套路云更改考试及格分数为 90 分",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698665&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"有没有外国服务器使用中国IP的情况",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698664&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"255 255 255",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698637&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"耗时一下午搞了个这玩意。",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698636&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
