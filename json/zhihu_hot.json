@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-05 03:57:25",
+  "time":"2020-06-05 04:05:50",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -27,12 +27,12 @@
       "url":"https://www.zhihu.com/question/316222642"
     },
     {
-      "name":"为什么中国牛奶又贵又难喝?",
-      "url":"https://www.zhihu.com/question/303857231"
-    },
-    {
       "name":"如何看待周某人（周立齐）的道歉视频？",
       "url":"https://www.zhihu.com/question/399158790"
+    },
+    {
+      "name":"为什么中国牛奶又贵又难喝?",
+      "url":"https://www.zhihu.com/question/303857231"
     },
     {
       "name":"买房需要避开哪几个楼层？",
@@ -103,12 +103,12 @@
       "url":"https://www.zhihu.com/question/399444174"
     },
     {
-      "name":"2020年 618 有哪些适合运动的耳机推荐？",
-      "url":"https://www.zhihu.com/question/399272796"
-    },
-    {
       "name":"《成龙历险记》里十二个符咒，你最想拥有哪一个？",
       "url":"https://www.zhihu.com/question/340402031"
+    },
+    {
+      "name":"2020年 618 有哪些适合运动的耳机推荐？",
+      "url":"https://www.zhihu.com/question/399272796"
     },
     {
       "name":"长大后，你发现什么样的人不能深交？",
@@ -117,10 +117,6 @@
     {
       "name":"二战时意大利真的是来搞笑的吗？",
       "url":"https://www.zhihu.com/question/368259380"
-    },
-    {
-      "name":"什么是\"直男审美\"?",
-      "url":"https://www.zhihu.com/question/40451181"
     },
     {
       "name":"如何评价综艺《我是唱作人 2》第八期的作品水平？",
@@ -137,6 +133,10 @@
     {
       "name":"情侣分手后复合还能如初吗？",
       "url":"https://www.zhihu.com/question/320752179"
+    },
+    {
+      "name":"什么是\"直男审美\"?",
+      "url":"https://www.zhihu.com/question/40451181"
     },
     {
       "name":"有哪些甜甜的睡前故事？",
@@ -167,16 +167,12 @@
       "url":"https://www.zhihu.com/question/29125363"
     },
     {
-      "name":"2021考研学生有优势吗？",
-      "url":"https://www.zhihu.com/question/394884934"
+      "name":"为什么 AMD 用 7nm 工艺制作的 cpu 才追上 intel 的 14nm 工艺的CPU？",
+      "url":"https://www.zhihu.com/question/334502762"
     },
     {
       "name":"配眼镜你吃过哪些亏？",
       "url":"https://www.zhihu.com/question/318306672"
-    },
-    {
-      "name":"为什么 AMD 用 7nm 工艺制作的 cpu 才追上 intel 的 14nm 工艺的CPU？",
-      "url":"https://www.zhihu.com/question/334502762"
     },
     {
       "name":"鸣人为什么会喜欢上小樱？",
@@ -185,6 +181,10 @@
     {
       "name":"有没有什么能把你虐哭的古风短篇小说？",
       "url":"https://www.zhihu.com/question/348599790"
+    },
+    {
+      "name":"2021考研学生有优势吗？",
+      "url":"https://www.zhihu.com/question/394884934"
     },
     {
       "name":"如果只选择国产，请问猫粮哪个品牌好？",
