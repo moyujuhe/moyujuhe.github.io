@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-04 10:58:57",
+  "time":"2020-06-04 11:03:18",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"以我30s爬一次的频率，99的刚刚应该放了3次货",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698509&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"五毛机卡在Installing OS 86%中咋办？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698508&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"项目倒闭 出两台扬州100m 三线BGP独服 有人要吗",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698474&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"发帖和发表回复不自动刷新",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698473&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }

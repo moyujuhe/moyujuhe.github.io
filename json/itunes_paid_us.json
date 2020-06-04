@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-06-04 10:58:53",
+  "time":"2020-06-04 11:03:14",
   "data":[
     {
       "name":"Minecraft",
@@ -282,7 +282,7 @@
       "name":"Rebel Inc.",
       "url":"https://apps.apple.com/us/app/rebel-inc/id1439187947?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.5.0\n更新时间:  2020-06-03 15:49:12 (北京时间)\n\nNew Difficulty: Mega-Brutal - For those that think Brutal is Casual, we’ve added an entirely new difficulty to sink your teeth into. \n\nMega-Brutal adds new local concerns around road quality and security, lets insurgents lash out in desperation and adds depth to peace negotiations.\n \nAs for the future, we’ve got new modes, maps, governors and more still to come. Let us know what you would most like to see!"
+      "description":"最新版本:  1.4.7\n更新时间:  2020-03-24 19:29:33 (北京时间)\n\nRebel Inc. Update 4 - The Azure Dam expansion\nNew map: Azure Dam - Rebuild a vast dam to prevent catastrophic floods and ensure stability in this arid region. Protect vulnerable supply convoys en route to the dam site, but beware - Insurgents forces will launch aggressive raids to destroy them!\n\nNew Governor: Development Director - This skilled micromanager deploys civilian experts to prioritise zones for development and rapidly stabilise key parts of the region. High performance. Delivered...\n\nAll new civilian ‘concerns’ mechanic - Wondering how to best win hearts and minds? Now you can gather intel on zones to discover if civilians need specific initiatives. Strategise and stabilise on a whole new level!\n\nNumerous balance tweaks, fixes and improvements including further AI enhancements.\n\nAs for the future, we’ve got a whole bunch more ideas for new maps, governors and more still to come. Let us know what you would most like to see!\n\nJames\n1.4.1 - New content automatically unlocks if previously bought\n1.4.2 - Fixed region zoom issue\n1.4.3 - Tweaks to game balance on lower difficulties\n1.4.5 - Fixed Warlord unlock bug, fixed Insurgent fleeing bug, improved Garrison placement AI\n1.4.6 - Added Turkish language support\n1.4.7 - Added Pashto and Dari language support"
     },
     {
       "name":"Grand Theft Auto: Vice City",
@@ -582,7 +582,7 @@
       "name":"CE5 Contact",
       "url":"https://apps.apple.com/us/app/ce5-contact/id1499236474?uo=4",
       "num":"Education",
-      "description":"最新版本:  1.0.23\n更新时间:  2020-06-04 05:18:38 (北京时间)\n\nFIXED: Map now limits max zoom-in setting to address user concerns. Please note that pinch-to-zoom and access to user info via map pins have both been disabled to increase user privacy. More map updates coming soon...\n\nFIXED: Messaging issues reported by some users\n\nFIXED: Some users not receiving email confirmations. Email us if you still have issues: ce5contactapp@gmail.com\n\nFIXED: Email address on login screen now auto-converts to lower case to avoid user typing errors."
+      "description":"最新版本:  1.0.22\n更新时间:  2020-05-10 00:44:51 (北京时间)\n\nFIXED: editing / adding profile photo caused crashes for some users\n\nFIXED: users now alerted if the device \"location services\" aren't turned on, which was causing the dreaded \"spinning circle of sadness\" on the map screen for some \n\nFIXED: empty conversations are no longer showing up in messages list\n\nFIXED: user profile form is no longer visible in app settings before an account is created\n \nFIXED: searching on map screen stopped showing Google results\n\nNEW: additional guidance and checks for correct username format (lowercase, max #of characters, etc.)"
     },
     {
       "name":"Where's My Water?",
