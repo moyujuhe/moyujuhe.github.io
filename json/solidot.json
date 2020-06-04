@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-04 15:27:32",
+  "time":"2020-06-04 15:31:50",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"一张墙纸导致部分 Android 手机变砖",
+      "url":"https://www.solidot.org/story?sid=64566"
+    },
     {
       "name":"美国政府澄清对中国留学生的禁令",
       "url":"https://www.solidot.org/story?sid=64563"
@@ -77,10 +81,6 @@
     {
       "name":"科学家在鼠脑发现可完全关闭疼痛的神经元",
       "url":"https://www.solidot.org/story?sid=64545"
-    },
-    {
-      "name":"华为扩大对外采购半导体",
-      "url":"https://www.solidot.org/story?sid=64544"
     }
   ]
 }
