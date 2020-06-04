@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-05 01:20:11",
+  "time":"2020-06-05 01:24:35",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"为ZFS zpool添加固态硬盘缓存 ZIL写缓存|ARC写缓存",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698988&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"阿里云T恤明晚还要重新考试吗",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698986&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"阿里云的T恤又有了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698958&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"还有146件",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698957&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
