@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-05 07:18:53",
+  "time":"2020-06-05 07:23:05",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"出租一个月ks-7",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699009&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"昨天送的 Microsoft 365 商业版还要不要了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699008&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"电脑能不开就不开",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698977&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"哪里有便宜的小鸡",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698976&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
