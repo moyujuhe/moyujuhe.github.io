@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-06-05 00:00:43",
+  "time":"2020-06-05 00:05:02",
   "data":[
+    {
+      "name":"20200605 TGIF",
+      "url":"https://hacpai.com/article/1591286577295"
+    },
     {
       "name":"再见 UZI",
       "url":"https://hacpai.com/article/1591165843312"
@@ -173,10 +177,6 @@
     {
       "name":"发现新鲜有趣的小型开源项目，欢迎投稿！",
       "url":"https://hacpai.com/article/1586760836500"
-    },
-    {
-      "name":"无损音乐下载软件推荐",
-      "url":"https://hacpai.com/article/1586681192402"
     },
     {
       "name":"用 flutter 写了一个黑客派的第三方 app",
