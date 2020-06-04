@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-05 04:18:26",
+  "time":"2020-06-05 04:26:48",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -91,12 +91,12 @@
       "url":"https://www.zhihu.com/question/356165752"
     },
     {
-      "name":"学计算机的朋友们有时候一个错误几小时才会弄清楚，会崩溃吗?",
-      "url":"https://www.zhihu.com/question/397624124"
-    },
-    {
       "name":"女生真的不在乎男生有没有钱吗？",
       "url":"https://www.zhihu.com/question/391462354"
+    },
+    {
+      "name":"学计算机的朋友们有时候一个错误几小时才会弄清楚，会崩溃吗?",
+      "url":"https://www.zhihu.com/question/397624124"
     },
     {
       "name":"腾讯会议崩了，你的工作学习有影响么？",
@@ -119,12 +119,12 @@
       "url":"https://www.zhihu.com/question/368259380"
     },
     {
-      "name":"如何评价综艺《我是唱作人 2》第八期的作品水平？",
-      "url":"https://www.zhihu.com/question/399351809"
-    },
-    {
       "name":"华为的产品真的有那么不堪么？",
       "url":"https://www.zhihu.com/question/392016649"
+    },
+    {
+      "name":"如何评价综艺《我是唱作人 2》第八期的作品水平？",
+      "url":"https://www.zhihu.com/question/399351809"
     },
     {
       "name":"如果陈芊芊遇到的是李承鄞，小枫遇见的是韩硕，会怎么样呢？",
@@ -175,10 +175,6 @@
       "url":"https://www.zhihu.com/question/391753614"
     },
     {
-      "name":"什么是\"直男审美\"?",
-      "url":"https://www.zhihu.com/question/40451181"
-    },
-    {
       "name":"有没有什么能把你虐哭的古风短篇小说？",
       "url":"https://www.zhihu.com/question/348599790"
     },
@@ -201,6 +197,10 @@
     {
       "name":"国内应届生是不是把Leetcode刷的滚瓜烂熟就能进google了？",
       "url":"https://www.zhihu.com/question/39594307"
+    },
+    {
+      "name":"巅峰阿里纳斯是什么水平的球员，放到现在可以与欧文、利拉德等人相比吗？",
+      "url":"https://www.zhihu.com/question/384182576"
     }
   ]
 }
