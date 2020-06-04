@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-05 07:14:37",
+  "time":"2020-06-05 07:18:51",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"图解新版Microsoft Edge的未来新功能",
+      "url":"https://www.cnbeta.com/articles/tech/987169.htm"
     },
     {
       "name":"马斯克为何突然要求分拆亚马逊？多次挑衅贝佐斯",
@@ -237,10 +241,6 @@
     {
       "name":"Twitch删除了与警察相关的TwitchCop的表情包“以防止滥用”",
       "url":"https://www.cnbeta.com/articles/tech/987057.htm"
-    },
-    {
-      "name":"Windows 10 2020年5月更新造成英特尔Optane模块出现问题",
-      "url":"https://www.cnbeta.com/articles/tech/987055.htm"
     }
   ]
 }
