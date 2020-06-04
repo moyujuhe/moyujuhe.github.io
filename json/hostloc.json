@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-04 11:11:47",
+  "time":"2020-06-04 11:16:07",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"谷歌云二次验证GCP180 质保用完",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698515&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"阿里云BGP竟然选择移动去ORACLE韩国",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698514&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"遇到个骗子股票群，准备看看情况",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698483&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"小说精品屋 - plus v2.5.0 发布，小说内容分表存储",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698482&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
