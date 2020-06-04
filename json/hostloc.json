@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-04 11:45:43",
+  "time":"2020-06-04 11:49:55",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"Proxmox 為什麽無法啓動Centos5 模板",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698536&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"404博客怎么又打不开了？求新地址",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698535&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"五毛机卡在Installing OS 86%中咋办？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698508&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"因重装失联6天的德国v6小鸡终于联系上了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=698507&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
