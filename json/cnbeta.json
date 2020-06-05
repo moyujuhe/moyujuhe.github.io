@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-05 20:45:47",
+  "time":"2020-06-05 20:50:02",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"[图]OPPO Reno 4/4 Pro发布：全系65W闪充 2999/3799元起售",
       "url":"https://www.cnbeta.com/articles/tech/987553.htm"
+    },
+    {
+      "name":"OPPO发布真无线蓝牙耳机Enco W51：支持降噪/IP54三防",
+      "url":"https://www.cnbeta.com/articles/tech/987563.htm"
     },
     {
       "name":"上海微电子：第一台28nm国产光刻机交付在即",
@@ -237,10 +241,6 @@
     {
       "name":"小区担心辐射大阻挠5G基站施工：三大运营商拆设备退场",
       "url":"https://www.cnbeta.com/articles/tech/987447.htm"
-    },
-    {
-      "name":"超声波触觉系统HaptiRead：让盲文能在空中得到精确投放",
-      "url":"https://www.cnbeta.com/articles/tech/987445.htm"
     }
   ]
 }
