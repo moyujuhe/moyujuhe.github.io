@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-05 18:32:51",
+  "time":"2020-06-05 18:37:04",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"VPS自动备份网站到GD或者OD",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699339&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"porkbun的邮件转发居然不支持*",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699337&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"我发现90VM这家是个大坑 ..续费了还停机,马上删除数据",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699311&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"发个好看的维护提示页。html",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699310&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
