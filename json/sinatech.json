@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-05 11:44:37",
+  "time":"2020-06-05 11:50:46",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"论文造假潮背后：SCI 与中国科研三十年",
+      "url":"https://tech.sina.com.cn/d/i/2020-06-05/doc-iirczymk5375487.shtml"
+    },
     {
       "name":"苹果为重返总部员工提供新冠检测 办公需佩戴口罩",
       "url":"https://tech.sina.com.cn/i/2020-06-05/doc-iircuyvi6846771.shtml"
@@ -13,6 +17,10 @@
     {
       "name":"曹操出行旗下公司注资新增至2.6亿元 增幅160%",
       "url":"https://tech.sina.com.cn/it/2020-06-05/doc-iircuyvi6846213.shtml"
+    },
+    {
+      "name":"英媒：疫情呼唤亚马逊、微软数字企业承担社会责任",
+      "url":"https://tech.sina.com.cn/i/2020-06-05/doc-iirczymk5375830.shtml"
     },
     {
       "name":"外媒：日韩企业受邀参与英国5G市场谈判",
@@ -193,14 +201,6 @@
     {
       "name":"马云：在国家困难的时候，我们更要做生意",
       "url":"https://tech.sina.com.cn/i/2020-06-05/doc-iirczymk5335372.shtml"
-    },
-    {
-      "name":"摩根大通分析师：Apple TV+2025年订阅户数量将达1亿",
-      "url":"https://tech.sina.com.cn/i/2020-06-05/doc-iircuyvi6801302.shtml"
-    },
-    {
-      "name":"京东IPO融资用途:投资以供应链为基础的关键技术创新",
-      "url":"https://tech.sina.com.cn/i/2020-06-05/doc-iircuyvi6798981.shtml"
     }
   ]
 }
