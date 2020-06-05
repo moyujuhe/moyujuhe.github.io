@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-05 09:00:15",
+  "time":"2020-06-05 09:04:28",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"黑莓安全研究部门发现针对Windows PC的新“大亨”赎金软件",
+      "url":"https://www.cnbeta.com/articles/tech/987257.htm"
     },
     {
       "name":"亚马逊宣布与通讯公司Slack合作 后者将采用AWS视频会议技术",
@@ -237,10 +241,6 @@
     {
       "name":"疑似iPhone 13模型机现身 无刘海 有USB-C接口",
       "url":"https://www.cnbeta.com/articles/tech/987147.htm"
-    },
-    {
-      "name":"盖茨基金会承诺向全球疫苗免疫联盟捐赠16亿美元",
-      "url":"https://www.cnbeta.com/articles/tech/987145.htm"
     }
   ]
 }
