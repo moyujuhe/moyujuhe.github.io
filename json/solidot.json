@@ -1,10 +1,26 @@
 {
-  "time":"2020-06-05 11:29:14",
+  "time":"2020-06-05 11:33:39",
   "title":"奇客的资讯",
   "data":[
     {
       "name":"MRI 研究并没有科学家以为的那么有用",
       "url":"https://www.solidot.org/story?sid=64579"
+    },
+    {
+      "name":"德国要求所有加油站提供充电桩",
+      "url":"https://www.solidot.org/story?sid=64578"
+    },
+    {
+      "name":"Dropbox 开发密码管理器",
+      "url":"https://www.solidot.org/story?sid=64577"
+    },
+    {
+      "name":"科学家培养出长毛的人造皮肤",
+      "url":"https://www.solidot.org/story?sid=64576"
+    },
+    {
+      "name":"勒索软件攻击者入侵了 NASA 的一家承包商",
+      "url":"https://www.solidot.org/story?sid=64575"
     },
     {
       "name":"Signal 引入模糊工具",
@@ -65,22 +81,6 @@
     {
       "name":"Firefox 77.0 发布",
       "url":"https://www.solidot.org/story?sid=64559"
-    },
-    {
-      "name":"Devuan Beowulf 3.0.0 发布",
-      "url":"https://www.solidot.org/story?sid=64558"
-    },
-    {
-      "name":"科学家创造二维晶体“黑氮”",
-      "url":"https://www.solidot.org/story?sid=64557"
-    },
-    {
-      "name":"从古人基因组数据探索中国文明源流",
-      "url":"https://www.solidot.org/story?sid=64556"
-    },
-    {
-      "name":"Zoom CEO 称为配合 FBI 免费版不加密",
-      "url":"https://www.solidot.org/story?sid=64555"
     }
   ]
 }
