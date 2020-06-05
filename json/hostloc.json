@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-05 09:34:00",
+  "time":"2020-06-05 09:38:20",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"还是元老权限香，不用为阅读权限烦恼",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699042&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"【明盘】出租KS3，PT/季付优先",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699039&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"秋水逸冰的一键都删了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699007&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"各位大师，我想问问github架了个blog，绑域名后怎么用CF的CDN",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699006&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
