@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-06 03:45:08",
+  "time":"2020-06-06 03:49:17",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"为啥我AWS学生账号删机后还被扣费？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699502&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"大家遇到过GCE被限速情况吗？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699500&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"Whmcs For 支付宝实名认证插件",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699471&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"T恤厂补货啦",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699470&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
