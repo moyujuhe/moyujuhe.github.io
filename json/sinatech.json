@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-05 11:50:46",
+  "time":"2020-06-05 12:15:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"港交所将推出网易股票期权",
+      "url":"https://tech.sina.com.cn/i/2020-06-05/doc-iirczymk5380718.shtml"
+    },
     {
       "name":"论文造假潮背后：SCI 与中国科研三十年",
       "url":"https://tech.sina.com.cn/d/i/2020-06-05/doc-iirczymk5375487.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"马云湖畔大学开学第一课：没有KPI一切都是空话",
       "url":"https://tech.sina.com.cn/i/2020-06-05/doc-iircuyvi6807191.shtml"
-    },
-    {
-      "name":"Uber Eats在北美推新功能支持黑人餐馆：暂免订单运费",
-      "url":"https://tech.sina.com.cn/i/2020-06-05/doc-iircuyvi6800426.shtml"
     }
   ]
 }
