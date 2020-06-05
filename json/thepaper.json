@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-05 23:23:37",
+  "time":"2020-06-05 23:28:08",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"华盛顿市长致信特朗普，要求联邦执法人员和军队撤离首都",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7724193"
+    },
     {
       "name":"​朝鲜宣布将关闭朝韩联络办公室",
       "url":"https://www.thepaper.cn/newsDetail_forward_7724226"
@@ -77,10 +81,6 @@
     {
       "name":"5月重点城市二手房成交接近去年高峰，深圳房价同比涨近7%",
       "url":"https://www.thepaper.cn/newsDetail_forward_7720195"
-    },
-    {
-      "name":"世界环境日聚焦生物多样性：百万物种濒临灭绝",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7721124"
     }
   ]
 }
