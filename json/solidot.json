@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-05 11:25:03",
+  "time":"2020-06-05 11:29:14",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"MRI 研究并没有科学家以为的那么有用",
+      "url":"https://www.solidot.org/story?sid=64579"
+    },
     {
       "name":"Signal 引入模糊工具",
       "url":"https://www.solidot.org/story?sid=64574"
@@ -77,10 +81,6 @@
     {
       "name":"Zoom CEO 称为配合 FBI 免费版不加密",
       "url":"https://www.solidot.org/story?sid=64555"
-    },
-    {
-      "name":"Linux Mint 表示不会违背用户意愿安装 Snap 封装应用",
-      "url":"https://www.solidot.org/story?sid=64554"
     }
   ]
 }
