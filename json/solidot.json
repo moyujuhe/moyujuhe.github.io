@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-05 21:12:11",
+  "time":"2020-06-05 21:16:30",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"反腐组织呼吁调查 Moderna 高管的股票交易",
+      "url":"https://www.solidot.org/story?sid=64585"
+    },
     {
       "name":"中国提升穿山甲的保护等级",
       "url":"https://www.solidot.org/story?sid=64584"
@@ -77,10 +81,6 @@
     {
       "name":"一张墙纸导致部分 Android 手机变砖",
       "url":"https://www.solidot.org/story?sid=64566"
-    },
-    {
-      "name":"Take-Two 取消一游戏开发商的合同，然后挖角整个开发团队",
-      "url":"https://www.solidot.org/story?sid=64564"
     }
   ]
 }
