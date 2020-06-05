@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-05 08:39:11",
+  "time":"2020-06-05 08:43:23",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"微软Surface Book 3国行今日接受预订 售价16488元起跳",
       "url":"https://www.cnbeta.com/articles/tech/987139.htm"
+    },
+    {
+      "name":"新冠大流行之下：Impossible Burgers推出网购渠道",
+      "url":"https://www.cnbeta.com/articles/tech/987229.htm"
     },
     {
       "name":"外媒：羟氯喹研究论文的撤回说明“速成”科学存在的问题",
@@ -237,10 +241,6 @@
     {
       "name":"《全面战争传奇：特洛伊》首段实机演示公布 场面震撼",
       "url":"https://hot.cnbeta.com/articles/game/987117.htm"
-    },
-    {
-      "name":"Kitty Hawk结束Flyer项目 将重点转移到自动驾驶飞机上",
-      "url":"https://www.cnbeta.com/articles/tech/987115.htm"
     }
   ]
 }
