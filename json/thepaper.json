@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-06 00:18:45",
+  "time":"2020-06-06 00:23:25",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美媒：美国取消禁止中国航空公司飞往美国的计划",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7724254"
+    },
     {
       "name":"华盛顿市长致信特朗普，要求联邦执法人员和军队撤离首都",
       "url":"https://www.thepaper.cn/newsDetail_forward_7724193"
@@ -77,10 +81,6 @@
     {
       "name":"5月重点城市二手房成交接近去年高峰，深圳房价同比涨近7%",
       "url":"https://www.thepaper.cn/newsDetail_forward_7720195"
-    },
-    {
-      "name":"世界环境日聚焦生物多样性：百万物种濒临灭绝",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7721124"
     }
   ]
 }
