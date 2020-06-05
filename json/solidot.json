@@ -1,7 +1,23 @@
 {
-  "time":"2020-06-05 17:28:45",
+  "time":"2020-06-05 17:32:56",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"地核是个水库",
+      "url":"https://www.solidot.org/story?sid=64583"
+    },
+    {
+      "name":"俄罗斯发电站在北极泄露 2 万吨燃油",
+      "url":"https://www.solidot.org/story?sid=64582"
+    },
+    {
+      "name":"Google 印度澄清下架 Remove China Apps 不是因为地缘政治而是执行政策",
+      "url":"https://www.solidot.org/story?sid=64581"
+    },
+    {
+      "name":"华为发布能测体温的智能手机",
+      "url":"https://www.solidot.org/story?sid=64580"
+    },
     {
       "name":"MRI 研究并没有科学家以为的那么有用",
       "url":"https://www.solidot.org/story?sid=64579"
@@ -65,22 +81,6 @@
     {
       "name":"美国政府澄清对中国留学生的禁令",
       "url":"https://www.solidot.org/story?sid=64563"
-    },
-    {
-      "name":"Steam 出现网络游戏防沉迷系统及实名认证服务协议",
-      "url":"https://www.solidot.org/story?sid=64562"
-    },
-    {
-      "name":"苹果警告盗走 iPhone 的打劫者你们正被跟踪",
-      "url":"https://www.solidot.org/story?sid=64561"
-    },
-    {
-      "name":"勒索软件黑帮拍卖受害者机密数据",
-      "url":"https://www.solidot.org/story?sid=64560"
-    },
-    {
-      "name":"Firefox 77.0 发布",
-      "url":"https://www.solidot.org/story?sid=64559"
     }
   ]
 }
