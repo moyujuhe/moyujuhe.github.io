@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-05 10:29:05",
+  "time":"2020-06-05 10:33:20",
   "title":"贴吧热度榜单",
   "data":[
     {
@@ -23,8 +23,8 @@
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278200&topic_name=NANA%E5%B0%86%E7%BF%BB%E6%8B%8D%E6%88%90%E5%9B%BD%E4%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7"
     },
     {
-      "name":"6月4号中国篮协宣布，CBA将于6月20日复赛，比赛将会以赛会制方式，分别在山东青岛和广东东莞两个赛区展开。",
-      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278207&topic_name=CBA%E5%B0%86%E5%A4%8D%E8%B5%9B"
+      "name":"NBA联盟理事会正式通过22支球队复赛的提议计划，将在北京时间8月1日重启，将有为期两周半的训练营，在奥兰多先进行8场常规赛！随后，东西部第8名和第9名将通过资格赛决定最后一个季后赛席位。",
+      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278214&topic_name=NBA8%E6%9C%881%E6%97%A5%E5%A4%8D%E8%B5%9B"
     },
     {
       "name":"6月3日山东平度9名热心市民拿被子营救跳楼女子，一名救人男子被跳楼者砸伤昏迷，街道办：已上报其见义勇为行为，现正全力对其抢救。",
@@ -117,6 +117,10 @@
     {
       "name":"继Uzi离队后，RNG再爆意外消息——中单小虎和9年女友安然分手。",
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278134&topic_name=%E5%B0%8F%E8%99%8E%E5%AE%89%E7%84%B6%E5%88%86%E6%89%8B"
+    },
+    {
+      "name":"6月4号中国篮协宣布，CBA将于6月20日复赛，比赛将会以赛会制方式，分别在山东青岛和广东东莞两个赛区展开。",
+      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278207&topic_name=CBA%E5%B0%86%E5%A4%8D%E8%B5%9B"
     }
   ]
 }
