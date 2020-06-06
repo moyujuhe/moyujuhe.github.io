@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-06 22:29:41",
+  "time":"2020-06-06 22:34:08",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Apple Watch 的摔倒检测功能拯救了一名失去意识的男子",
+      "url":"https://www.solidot.org/story?sid=64590"
+    },
     {
       "name":"味觉嗅觉丧失是感染新冠的最关键指标",
       "url":"https://www.solidot.org/story?sid=64589"
@@ -77,10 +81,6 @@
     {
       "name":"全球手机出货量今年预计将降 12%",
       "url":"https://www.solidot.org/story?sid=64570"
-    },
-    {
-      "name":"FreeNAS 将发布基于 Linux 的版本",
-      "url":"https://www.solidot.org/story?sid=64569"
     }
   ]
 }
