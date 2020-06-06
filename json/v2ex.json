@@ -1,10 +1,10 @@
 {
-  "time":"2020-06-06 11:00:11",
+  "time":"2020-06-06 11:04:25",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"夏天到了，没发现有人发 T 恤推荐，衣服不够穿了，求推荐",
-      "url":"https://www.v2ex.com/t/679100#reply23"
+      "url":"https://www.v2ex.com/t/679100#reply24"
     },
     {
       "name":"老铁们， 7 年的 PHP 在成都能拿多少钱，技术中偏上吧！没带过队，也没做过架构方面的事情，有点纯偏开发了",
@@ -16,7 +16,7 @@
     },
     {
       "name":"win10 的搜狗输入法这段时间经常被火绒爆出广告病毒（众所周知 618）， v 友有什么好的输入法推荐吗，考虑换掉搜狗输入法了。",
-      "url":"https://www.v2ex.com/t/679106#reply12"
+      "url":"https://www.v2ex.com/t/679106#reply14"
     },
     {
       "name":"为什么腾讯做不出来可以防止机刷的验证码",
@@ -28,7 +28,7 @@
     },
     {
       "name":"为什么 DIY U 盘 性能更好 也不算贵? 大厂难道不能做的更好 成本更低吗?",
-      "url":"https://www.v2ex.com/t/679102#reply8"
+      "url":"https://www.v2ex.com/t/679102#reply9"
     },
     {
       "name":"整理一波学习资源",
@@ -47,6 +47,10 @@
       "url":"https://www.v2ex.com/t/679097#reply6"
     },
     {
+      "name":"请教一下坏显示器如何处理",
+      "url":"https://www.v2ex.com/t/679111#reply6"
+    },
+    {
       "name":"工作后程序员考研的顺利方式是什么",
       "url":"https://www.v2ex.com/t/679094#reply5"
     },
@@ -63,16 +67,12 @@
       "url":"https://www.v2ex.com/t/679101#reply5"
     },
     {
-      "name":"请教一下坏显示器如何处理",
-      "url":"https://www.v2ex.com/t/679111#reply5"
+      "name":"做一个类似 jupyter 的系统 难点主要在哪些方面,求指教",
+      "url":"https://www.v2ex.com/t/679104#reply5"
     },
     {
       "name":"天猫超市的天猫直送承诺次日送达有点搞笑",
       "url":"https://www.v2ex.com/t/679085#reply4"
-    },
-    {
-      "name":"做一个类似 jupyter 的系统 难点主要在哪些方面,求指教",
-      "url":"https://www.v2ex.com/t/679104#reply4"
     },
     {
       "name":"闲鱼发到付然后联系不上买家怎么办？",
@@ -83,12 +83,12 @@
       "url":"https://www.v2ex.com/t/679082#reply3"
     },
     {
-      "name":"找一个熟悉 Golang 画波形图的, 付费请你写一个 Demo. (以前用 matplotlib 画过, 目前转 Golang)",
-      "url":"https://www.v2ex.com/t/679088#reply2"
+      "name":"app 自动关闭联网权限",
+      "url":"https://www.v2ex.com/t/679093#reply3"
     },
     {
-      "name":"app 自动关闭联网权限",
-      "url":"https://www.v2ex.com/t/679093#reply2"
+      "name":"找一个熟悉 Golang 画波形图的, 付费请你写一个 Demo. (以前用 matplotlib 画过, 目前转 Golang)",
+      "url":"https://www.v2ex.com/t/679088#reply2"
     },
     {
       "name":"纠结的三角无解问题，大神支援",
@@ -97,6 +97,10 @@
     {
       "name":"PHP 控制硬件的相关问题",
       "url":"https://www.v2ex.com/t/679113#reply2"
+    },
+    {
+      "name":"B 站的「摆摊」绝了，哈哈",
+      "url":"https://www.v2ex.com/t/679121#reply2"
     },
     {
       "name":"在前端有办法监测到耳机插拔的事件吗？",
