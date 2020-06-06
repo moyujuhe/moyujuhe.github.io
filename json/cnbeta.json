@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-06 10:47:09",
+  "time":"2020-06-06 10:51:23",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"美疾控中心主任提醒人们不应放松对新冠病毒的警惕",
+      "url":"https://www.cnbeta.com/articles/tech/987719.htm"
     },
     {
       "name":"推特搜索显示特朗普已被网友视作“种族主义”头号人物",
@@ -237,10 +241,6 @@
     {
       "name":"NexDock Touch为智能手机提供类似笔记本电脑的体验",
       "url":"https://www.cnbeta.com/articles/tech/987605.htm"
-    },
-    {
-      "name":"商业服务巨头Conduent遭Maze勒索软件攻击",
-      "url":"https://www.cnbeta.com/articles/tech/987603.htm"
     }
   ]
 }
