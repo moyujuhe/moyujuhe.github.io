@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-07 07:28:46",
+  "time":"2020-06-07 07:32:55",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"微软正尝试对非新安装系统的用户弹出Windows 10全屏设置界面",
+      "url":"https://www.cnbeta.com/articles/tech/987877.htm"
     },
     {
       "name":"Windows 10的20H2功能更新将改善“存储设置”界面",
@@ -237,10 +241,6 @@
     {
       "name":"AMD：4G显存的时代已经终结 未来的游戏需要更多显存",
       "url":"https://www.cnbeta.com/articles/tech/987763.htm"
-    },
-    {
-      "name":"美股大幅反弹 纳指盘中创历史新高 瑞幸大涨逾36%",
-      "url":"https://www.cnbeta.com/articles/tech/987761.htm"
     }
   ]
 }
