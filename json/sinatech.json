@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-06 11:54:40",
+  "time":"2020-06-06 12:35:23",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"中国电信王国权：预计三季度末将开通5G基站超30万个",
+      "url":"https://tech.sina.com.cn/5g/i/2020-06-06/doc-iircuyvi7042031.shtml"
+    },
     {
       "name":"中国铁塔张权：已经累计建成5G基站25.8万个",
       "url":"https://tech.sina.com.cn/5g/i/2020-06-06/doc-iirczymk5565609.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"微信官宣支持修改微信号，淘宝：不改",
       "url":"https://tech.sina.com.cn/roll/2020-06-05/doc-iirczymk5460867.shtml"
-    },
-    {
-      "name":"新加坡拟全民佩戴专用可穿戴设备 追踪新冠病毒接触者",
-      "url":"https://tech.sina.com.cn/it/2020-06-05/doc-iirczymk5468128.shtml"
     }
   ]
 }
