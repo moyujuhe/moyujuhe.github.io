@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-06 20:57:23",
+  "time":"2020-06-06 21:01:37",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"出啥事了今天电信网络超级快",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699890&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"a1p看到大家翻车，说一下真正的O365是如何实施的吧",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699889&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"我618买的A1P还没翻",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699861&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"Azure100刀能用多久呢",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=699860&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
