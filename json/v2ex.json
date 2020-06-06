@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-06 09:25:24",
+  "time":"2020-06-06 09:29:35",
   "title":"V2EX热帖",
   "data":[
     {
@@ -27,6 +27,10 @@
       "url":"https://www.v2ex.com/t/679087#reply1"
     },
     {
+      "name":"1password family plan",
+      "url":"https://www.v2ex.com/t/679089#reply1"
+    },
+    {
       "name":"安卓中 webview 播放视频 会自动全屏并横屏播放，然后又立马变为竖屏 是怎么回事？",
       "url":"https://www.v2ex.com/t/679075#reply0"
     },
@@ -37,6 +41,10 @@
     {
       "name":"大家用 ipados 触控板操作时有没有光标吸附后拔不出来的感觉",
       "url":"https://www.v2ex.com/t/679084#reply0"
+    },
+    {
+      "name":"找一个熟悉 Golang 画波形图的, 付费请你写一个 Demo. (以前用 matplotlib 画过, 目前转 Golang)",
+      "url":"https://www.v2ex.com/t/679088#reply0"
     }
   ]
 }
