@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-06 09:20:50",
+  "time":"2020-06-06 09:25:23",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"IBM发布全同态加密工具包 支持macOS/iOS/Linux/Android平台",
+      "url":"https://www.cnbeta.com/articles/tech/987697.htm"
     },
     {
       "name":"5G套餐开始打折！最低89元每月，你会办理吗？",
@@ -237,10 +241,6 @@
     {
       "name":"美国竞选筹款新路子：Zoom会议20分钟筹400万美元",
       "url":"https://www.cnbeta.com/articles/tech/987583.htm"
-    },
-    {
-      "name":"反腐组织呼吁调查 Moderna 高管的股票交易",
-      "url":"https://www.cnbeta.com/articles/tech/987581.htm"
     }
   ]
 }
