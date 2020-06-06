@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-06-07 04:40:30",
+  "time":"2020-06-07 04:44:44",
   "data":[
     {
       "name":"Minecraft",
@@ -12,7 +12,7 @@
       "name":"FlickType Keyboard",
       "url":"https://apps.apple.com/us/app/flicktype-keyboard/id1359485719?uo=4",
       "num":"Productivity",
-      "description":"最新版本:  2000.6\n更新时间:  2020-05-29 01:22:49 (北京时间)\n\nThe watch keyboard just got supercharged:\n\n- New gesture typing!\n- Reply faster with the new \"Favorite Contact\" setting - force touch to review your text and select a favorite contact.\n- Reply to a group chat by setting it as your favorite contact\n- Configure your favorite emoji in the iPhone app\n- Add your own custom words in the iPhone app\n- For the best replying experience, add the complication to your watch face (instructions in the iPhone app)\n\nEnjoying FlickType? Leave us a review!"
+      "description":"最新版本:  2020.1\n更新时间:  2020-06-07 04:20:38 (北京时间)\n\n- Added \"Slide to Type\" and \"Flick gestures\" in the settings page for the watch keyboard. Please note that flick gestures are not available when \"Slide to Type\" is enabled.\n- Fixed VoiceOver feedback on watch app.\n- Removed some rarely used app settings.\n- Fixed a crash on watchOS"
     },
     {
       "name":"Monopoly",
@@ -198,7 +198,7 @@
       "name":"Arcadia - Arcade Watch Games",
       "url":"https://apps.apple.com/us/app/arcadia-arcade-watch-games/id1479608271?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.7\n更新时间:  2020-06-05 02:21:02 (北京时间)\n\n• Added a new game: Slimenator!"
+      "description":"最新版本:  1.7.1\n更新时间:  2020-06-07 04:08:09 (北京时间)\n\n• Added a new game: Slimenator!\n• Critical bug fix on iOS 11 and watchOS 4"
     },
     {
       "name":"Shadowrocket",
