@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-07 13:08:56",
+  "time":"2020-06-07 13:13:10",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"要怎么让这孩子认识到目前不能注册+不存在邀请链接？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700140&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"不懂就问，一个A1P域名能偷渡几个全局",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700139&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -11,7 +15,7 @@
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700138&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
-      "name":"用一个az域名换一个gandi码子",
+      "name":"用一个可过az子域名换一个gandi码子",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700136&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
@@ -105,10 +109,6 @@
     {
       "name":"a1p.nl的老板在哪？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700112&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"baidu dns",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700111&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
