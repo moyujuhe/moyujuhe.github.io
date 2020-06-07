@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-07 12:37:47",
+  "time":"2020-06-07 12:42:10",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"a1p无法注册推送通知",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700124&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"用CDN的注意了，原创提升访问速度的方法分享",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700123&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"非人哉万事达的年费咋样扣的 直接往里转软妹币吗",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700096&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"nat机如何用frp啊 有没有教程",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700095&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
