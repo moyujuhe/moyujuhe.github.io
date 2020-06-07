@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-08 00:40:00",
+  "time":"2020-06-08 00:52:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"Facebook停用近200个与仇恨团体有关的账户",
+      "url":"https://tech.sina.com.cn/roll/2020-06-07/doc-iircuyvi7251130.shtml"
+    },
+    {
+      "name":"AI换脸将受《民法典》严监管 我们如何防范技术作恶？",
+      "url":"https://tech.sina.com.cn/digi/2020-06-07/doc-iirczymk5776538.shtml"
+    },
     {
       "name":"AT&T开始启用DSS：5G无线频谱太紧张，4G让出",
       "url":"https://tech.sina.com.cn/digi/2020-06-07/doc-iirczymk5775317.shtml"
@@ -193,14 +201,6 @@
     {
       "name":"618直播带货拉力赛：平台抢资源，明星狂欢，企业家破圈",
       "url":"https://tech.sina.com.cn/i/2020-06-06/doc-iircuyvi7091315.shtml"
-    },
-    {
-      "name":"地摊经济，到底是谁的生机？",
-      "url":"https://tech.sina.com.cn/i/2020-06-06/doc-iirczymk5613347.shtml"
-    },
-    {
-      "name":"达达巨亏50亿上市：营收全靠“爸爸”，赚钱还很遥远",
-      "url":"http://tech.sina.com.cn/csj/2020-06-06/doc-iircuyvi7083185.shtml"
     }
   ]
 }
