@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-07 17:08:07",
+  "time":"2020-06-07 17:12:21",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"NBA 复赛将使用 NBA 2K 的背景声音",
+      "url":"https://www.solidot.org/story?sid=64594"
+    },
     {
       "name":"Brave 劫持链接插入返利代码",
       "url":"https://www.solidot.org/story?sid=64593"
@@ -77,10 +81,6 @@
     {
       "name":"Signal 引入模糊工具",
       "url":"https://www.solidot.org/story?sid=64574"
-    },
-    {
-      "name":"三星实际控制人再次面临被捕",
-      "url":"https://www.solidot.org/story?sid=64573"
     }
   ]
 }
