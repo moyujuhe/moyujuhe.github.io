@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-07 11:21:00",
+  "time":"2020-06-07 11:30:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"特朗普破纪录了！24小时内发推以及转推数达到200条",
+      "url":"https://tech.sina.com.cn/it/2020-06-07/doc-iircuyvi7169160.shtml"
+    },
     {
       "name":"索尼CEO：PS5游戏开发成本可能会上涨",
       "url":"https://tech.sina.com.cn/roll/2020-06-07/doc-iircuyvi7167269.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"架不住舆论压力，扎克伯格承诺重新审核平台内容政策",
       "url":"https://tech.sina.com.cn/i/2020-06-06/doc-iircuyvi7055400.shtml"
-    },
-    {
-      "name":"短视频冲击下优酷加码UGC 欲打造长短结合内容社区",
-      "url":"https://tech.sina.com.cn/i/2020-06-06/doc-iircuyvi7051855.shtml"
     }
   ]
 }
