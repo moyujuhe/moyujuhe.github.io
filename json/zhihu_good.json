@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-07 23:57:11",
+  "time":"2020-06-08 00:23:30",
   "title":"知乎每日精选-编辑推荐",
   "data":[
+    {
+      "name":"信息论与机器学习",
+      "url":"https://zhuanlan.zhihu.com/p/25849615"
+    },
     {
       "name":"【优质信源】计划10--边缘智能综述（edge intelligence)",
       "url":"https://zhuanlan.zhihu.com/p/145439319"
@@ -37,10 +41,6 @@
     {
       "name":"怎么评价国产游戏《梦三国》？",
       "url":"https://www.zhihu.com/question/25058284/answer/1262573268"
-    },
-    {
-      "name":"在网游公司做游戏客服是怎样的体验？",
-      "url":"https://www.zhihu.com/question/25008586/answer/1260899352"
     }
   ]
 }
