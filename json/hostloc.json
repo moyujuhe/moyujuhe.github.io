@@ -1,13 +1,17 @@
 {
-  "time":"2020-06-07 22:33:35",
+  "time":"2020-06-07 22:38:13",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"A1P需要绑自己的域名吗？还是用 xxx.onmicrosoft.com 就可以了？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700384&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"收个119刀板瓦工dc6带邮箱的",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700382&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
-      "name":"明盘300出能过azure的域名",
+      "name":"明盘300出一个A1全局加一个能过azure的域名",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700381&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
@@ -105,10 +109,6 @@
     {
       "name":"EuServ撸到的德国免费小鸡怎么玩",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700357&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"a1 过az 子域名 换个 gandi 的com net",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700356&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
