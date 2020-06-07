@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-07 19:20:46",
+  "time":"2020-06-07 19:25:00",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"年付6.6KVM上货。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700304&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"请问有没有什么软件支持吧NFS（cifs）挂载为本地驱动器",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700303&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"win2012/WIN2008 HYPER-V安装2003 如何绑定IP",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700276&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"和彩云——现世纪最垃圾的网盘",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700275&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
