@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-08 00:14:41",
+  "time":"2020-06-08 00:40:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"AT&T开始启用DSS：5G无线频谱太紧张，4G让出",
+      "url":"https://tech.sina.com.cn/digi/2020-06-07/doc-iirczymk5775317.shtml"
+    },
     {
       "name":"5G发牌一周年：增加应用场景需延伸产业链价值",
       "url":"https://tech.sina.com.cn/5g/i/2020-06-08/doc-iircuyvi7254364.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"达达巨亏50亿上市：营收全靠“爸爸”，赚钱还很遥远",
       "url":"http://tech.sina.com.cn/csj/2020-06-06/doc-iircuyvi7083185.shtml"
-    },
-    {
-      "name":"陆正耀参与造假证据浮出 ，失速的瑞幸，还有救吗？",
-      "url":"https://tech.sina.com.cn/i/2020-06-07/doc-iirczymk5604102.shtml"
     }
   ]
 }
