@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-07 19:59:24",
+  "time":"2020-06-07 20:03:57",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"今天按照大佬们指点撸了一个E5，但SharePoint只有1t？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700321&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"有人卖gandi，com码吗",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700320&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"steam喜加一游戏the uncertain 测评",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700290&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"全球（外置声卡）论坛",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700289&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }

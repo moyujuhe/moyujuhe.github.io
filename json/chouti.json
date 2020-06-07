@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-07 19:45:05",
+  "time":"2020-06-07 20:00:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"【苹果计划推出Apple Card分期服务 多款产品12期免息】据悉，Mac、iPad、iPad键盘、Apple Pencil、XDR Display显示器将支持12期免息分期；AirPods、Apple TV、HomePod将支持6期免息分期。客户可以通过Wallet应用进行支付，每个月的费用将加到他们的Apple卡账单上。",
+      "url":"http://tech.163.com/20/0607/10/FEGT9D3L00097U7S.html"
+    },
     {
       "name":"【最疯狂的时刻终于来了】这周美股三大股指集体暴涨，主要是道指领涨。单周暴涨40.85%的波音之外，美国航空成为了另外一只妖股。尤其是周四的时候，美国航空换手率超过100%，暴涨也带动了整个航空国防板块。过去两周投机资金主导的美股疯牛，可以说是彻底A股化了……",
       "url":"https://mp.weixin.qq.com/s/yKq-HFw31GwiPWiihBsqFw"
@@ -89,10 +93,6 @@
     {
       "name":"【小镇做题家：一个211高校学生的命运陷阱】小镇做题家逃离了小镇，继续一路狂奔。",
       "url":"https://mp.weixin.qq.com/s/BXIShM8RxC9owrI_Cvwf_w"
-    },
-    {
-      "name":"滴滴“善变”：昔日巨亏卖惨，如今高呼盈利",
-      "url":"https://36kr.com/p/741015883424642"
     }
   ]
 }
