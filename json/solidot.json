@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-07 14:23:31",
+  "time":"2020-06-07 14:27:45",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Blender 2.83 LTS 版发布",
+      "url":"https://www.solidot.org/story?sid=64592"
+    },
+    {
+      "name":"巴西官方限制提供新冠感染数据",
+      "url":"https://www.solidot.org/story?sid=64591"
+    },
     {
       "name":"Apple Watch 的摔倒检测功能拯救了一名失去意识的男子",
       "url":"https://www.solidot.org/story?sid=64590"
@@ -73,14 +81,6 @@
     {
       "name":"中国实施航班熔断措施",
       "url":"https://www.solidot.org/story?sid=64572"
-    },
-    {
-      "name":"微软新 Edge 将通过 Windows Update 推送给用户",
-      "url":"https://www.solidot.org/story?sid=64571"
-    },
-    {
-      "name":"全球手机出货量今年预计将降 12%",
-      "url":"https://www.solidot.org/story?sid=64570"
     }
   ]
 }
