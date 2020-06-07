@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-07 19:25:00",
+  "time":"2020-06-07 19:29:23",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"收hostmem9.9",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700306&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"年付6.6KVM上货。",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700304&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"【已解决】请教下大佬们如果我反复试用微软的onedrive是否...",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700277&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"win2012/WIN2008 HYPER-V安装2003 如何绑定IP",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700276&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
