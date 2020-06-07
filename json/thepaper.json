@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-08 02:12:03",
+  "time":"2020-06-08 02:16:17",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美国新冠肺炎死亡病例超11万",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7749606"
+    },
     {
       "name":"366名游客被安全送出云南独龙江乡，因泥石流滞留10余天",
       "url":"https://www.thepaper.cn/newsDetail_forward_7749468"
@@ -77,10 +81,6 @@
     {
       "name":"国泰君安首次推出股权激励计划：拟回购不超过8900万股",
       "url":"https://www.thepaper.cn/newsDetail_forward_7748071"
-    },
-    {
-      "name":"5G发牌一周年｜展望：切换5G独立组网，套餐资费下降",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7746342"
     }
   ]
 }
