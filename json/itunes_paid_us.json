@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-06-07 08:06:52",
+  "time":"2020-06-07 08:11:08",
   "data":[
     {
       "name":"Minecraft",
@@ -90,7 +90,7 @@
       "name":"Endless Cards",
       "url":"https://apps.apple.com/us/app/endless-cards/id1507421927?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.0.8\n更新时间:  2020-05-20 02:05:40 (北京时间)\n\n- Improved performance in the collection\n- Added the possibility to see the ranking from the endgame screen\n- Correction of spelling mistakes\n- Better translation"
+      "description":"最新版本:  1.0.9\n更新时间:  2020-06-07 06:27:58 (北京时间)\n\nFixed a bug that prevented gold from being added to the player's total at the end of the game, especially when the \"new game\" button was pressed too soon."
     },
     {
       "name":"Terraria",
