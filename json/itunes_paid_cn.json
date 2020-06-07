@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-06-07 17:37:59",
+  "time":"2020-06-07 17:42:24",
   "data":[
     {
       "name":"我叫MT2 重制版",
@@ -465,6 +465,12 @@
       "description":"最新版本:  1.36\n更新时间:  2019-04-10 03:04:33 (北京时间)\n\n- 已移除某些设备上的横向黑条。\n- 对于可被凹槽或主滑块覆盖的HUD元素，其位置已更新。现在这些元素可动态适应其位置。\n- 某些设备的分辨率已改进，现在更适合屏幕。\n- 修正了某些控制器中输入未正确对换的问题。\n- 已重新定位悬停菜单，以此避免被屏幕切断。\n- 箱布局已被重新调整。以前，某些设备的屏幕部分会切断该布局。"
     },
     {
+      "name":"孙美琪疑案:宋明朝",
+      "url":"https://apps.apple.com/cn/app/%E5%AD%99%E7%BE%8E%E7%90%AA%E7%96%91%E6%A1%88-%E5%AE%8B%E6%98%8E%E6%9C%9D/id1517029115?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.0.0\n更新时间:  2020-06-06 23:18:24 (北京时间)\n\n"
+    },
+    {
       "name":"GoodNotes 5",
       "url":"https://apps.apple.com/cn/app/goodnotes-5/id1444383602?uo=4",
       "num":"效率",
@@ -531,6 +537,12 @@
       "description":"最新版本:  2.3\n更新时间:  2020-03-24 23:57:40 (北京时间)\n\n修复锁屏界面播放问题\n勘误"
     },
     {
+      "name":"袁家宾馆",
+      "url":"https://apps.apple.com/cn/app/%E8%A2%81%E5%AE%B6%E5%AE%BE%E9%A6%86/id1516836245?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.0.0\n更新时间:  2020-06-06 23:18:19 (北京时间)\n\n"
+    },
+    {
       "name":"开拓：幻想篇",
       "url":"https://apps.apple.com/cn/app/%E5%BC%80%E6%8B%93-%E5%B9%BB%E6%83%B3%E7%AF%87/id1465567482?uo=4",
       "num":"游戏",
@@ -589,18 +601,6 @@
       "url":"https://apps.apple.com/cn/app/%E5%90%8C%E6%AD%A5%E9%9F%B3%E5%BE%8B%E5%96%B5%E8%B5%9B%E5%85%8B/id935528099?uo=4",
       "num":"游戏",
       "description":"最新版本:  2.3.8\n更新时间:  2020-06-03 09:40:52 (北京时间)\n\n更新了4首联动歌曲（免费）"
-    },
-    {
-      "name":"慢快门相机 (Slow Shutter Cam)",
-      "url":"https://apps.apple.com/cn/app/%E6%85%A2%E5%BF%AB%E9%97%A8%E7%9B%B8%E6%9C%BA-slow-shutter-cam/id357404131?uo=4",
-      "num":"摄影与录像",
-      "description":"最新版本:  4.9.4\n更新时间:  2020-05-26 01:43:57 (北京时间)\n\n修复了影响最新iPad Pro的崩溃"
-    },
-    {
-      "name":"WiFi万能密码(专业版) -wi-fi无线网络密码管家",
-      "url":"https://apps.apple.com/cn/app/wifi%E4%B8%87%E8%83%BD%E5%AF%86%E7%A0%81-%E4%B8%93%E4%B8%9A%E7%89%88-wi-fi%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C%E5%AF%86%E7%A0%81%E7%AE%A1%E5%AE%B6/id1326738220?uo=4",
-      "num":"工具",
-      "description":"最新版本:  1.0.6\n更新时间:  2020-03-25 09:08:47 (北京时间)\n\n-完美适配IOS13\n-提升热点连接效率\n-修复部分已知bug"
     }
   ]
 }
