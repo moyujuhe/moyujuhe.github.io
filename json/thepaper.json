@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-08 02:54:07",
+  "time":"2020-06-08 02:58:15",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"英国新冠肺炎死亡病例累计40542例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7751079"
+    },
     {
       "name":"美国新冠肺炎死亡病例超11万",
       "url":"https://www.thepaper.cn/newsDetail_forward_7749606"
@@ -77,10 +81,6 @@
     {
       "name":"沙特新增3045例新冠肺炎确诊病例，累计超10万例",
       "url":"https://www.thepaper.cn/newsDetail_forward_7749358"
-    },
-    {
-      "name":"国泰君安首次推出股权激励计划：拟回购不超过8900万股",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7748071"
     }
   ]
 }
