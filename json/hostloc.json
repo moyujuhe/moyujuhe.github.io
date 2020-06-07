@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-07 19:16:32",
+  "time":"2020-06-07 19:20:46",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"请问有没有什么软件支持吧NFS（cifs）挂载为本地驱动器",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700303&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"全球微波炉论坛",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700302&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"和彩云——现世纪最垃圾的网盘",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700275&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"求那个E5开发者显示多少天的地址（已解决）",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700274&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
