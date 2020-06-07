@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-07 12:24:55",
+  "time":"2020-06-07 12:29:14",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"现在固态硬盘真是比以前便宜太多了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700122&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"不用指望阿里云新手3.0了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700120&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"大家能否测一个速度",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700093&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"收 A1P全局一万用户",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700092&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
