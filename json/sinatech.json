@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-08 06:40:11",
+  "time":"2020-06-08 06:55:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"松下将关闭泰国洗衣机和冰箱工厂",
+      "url":"https://tech.sina.com.cn/e/2020-06-08/doc-iircuyvi7267401.shtml"
+    },
     {
       "name":"京东在港上市最高公开发售价为236港元/股",
       "url":"https://tech.sina.com.cn/i/2020-06-08/doc-iirczymk5794141.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"苹果将在6月8日重新开放阿联酋三家门店",
       "url":"https://tech.sina.com.cn/roll/2020-06-07/doc-iirczymk5687373.shtml"
-    },
-    {
-      "name":"5G牌照发放一周年：建设发展超预期",
-      "url":"https://tech.sina.com.cn/roll/2020-06-07/doc-iircuyvi7159733.shtml"
     }
   ]
 }
