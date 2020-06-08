@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-08 18:47:48",
+  "time":"2020-06-08 18:52:25",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"知道一个文件的md5 sha1 crc32和大小，能不能下载到这个文件",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700756&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"经过我的缜密计算CloudCone 这一款是最超值的",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700755&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"正常做站需要开BBR嘛",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700727&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"出一个E3 MSDN管理员账户，750元",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700726&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
