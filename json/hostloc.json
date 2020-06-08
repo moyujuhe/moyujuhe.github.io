@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-08 14:36:46",
+  "time":"2020-06-08 14:40:58",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"良心云轻量级测试到了。先站个楼",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700606&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"【200张实体卡亮相】我能否获得卡王的称号 顺便出可升级GCP",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700604&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -47,7 +51,7 @@
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700591&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
-      "name":"免费一年微软Teams Exploratory，附赠100T+空间和Exchange Online",
+      "name":"免费一年微软Teams Exploratory，附赠100T OneDrive和Exchange邮箱",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700592&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
@@ -105,10 +109,6 @@
     {
       "name":"不知A1是不是受连累了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700572&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"a1p疑问",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700571&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
