@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-08 14:02:44",
+  "time":"2020-06-08 14:06:55",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"中国对网络直播开展专项整治",
+      "url":"https://www.solidot.org/story?sid=64597"
+    },
     {
       "name":"中国要求扩大新冠病毒核酸检测范围",
       "url":"https://www.solidot.org/story?sid=64596"
@@ -77,10 +81,6 @@
     {
       "name":"Dropbox 开发密码管理器",
       "url":"https://www.solidot.org/story?sid=64577"
-    },
-    {
-      "name":"科学家培养出长毛的人造皮肤",
-      "url":"https://www.solidot.org/story?sid=64576"
     }
   ]
 }
