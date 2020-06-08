@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-08 20:39:59",
+  "time":"2020-06-08 20:44:12",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"德国汉堡市也将从微软迁移到开源替代",
+      "url":"https://www.solidot.org/story?sid=64601"
+    },
     {
       "name":"Brave 称自动插入返利代码是失误所致",
       "url":"https://www.solidot.org/story?sid=64600"
@@ -77,10 +81,6 @@
     {
       "name":"Google 印度澄清下架 Remove China Apps 不是因为地缘政治而是执行政策",
       "url":"https://www.solidot.org/story?sid=64581"
-    },
-    {
-      "name":"华为发布能测体温的智能手机",
-      "url":"https://www.solidot.org/story?sid=64580"
     }
   ]
 }
