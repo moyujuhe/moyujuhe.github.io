@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-08 18:45:05",
+  "time":"2020-06-08 19:00:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"【牡丹江核酸检测排查】牡丹江市在6月1日至7日全民核酸大排查中共检测65万八千多人，共检出19例无症状感染者，检测率为万分之0.288。",
+      "url":"http://m.news.cctv.com/2020/06/08/ARTIEyBlbPaFExB7At7wbNN5200608.shtml"
+    },
     {
       "name":"《纽约时报》刊发了一篇共和党参议员Tom Cotton写的评论文章，呼吁用军队平息骚乱。文章引发了时报读者和内部员工的巨大不满（他们认为文章包含事实错误）。评论版主编James Bennet先是辩称“评论版应该向读者展示多样的意见”，随后承认文章并未达到出版标准，且刊发前自己没读。James Bennet今天辞去了他的职务。",
       "url":"https://mp.weixin.qq.com/s/XS5yOofaqlZ6589XVKudXw"
@@ -89,10 +93,6 @@
     {
       "name":"Time Square ( TikTok: nyclive）",
       "url":"https://weibo.com/7001956160/J5A1HjuFf"
-    },
-    {
-      "name":"为了保持社交距离，这几个月全球都有哪些“骚操作”？",
-      "url":"https://mp.weixin.qq.com/s/ykhoMm8ufVgVfMv_HNrr5Q"
     }
   ]
 }
