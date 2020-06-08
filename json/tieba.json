@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-08 16:28:15",
+  "time":"2020-06-08 16:32:26",
   "title":"贴吧热度榜单",
   "data":[
     {
@@ -67,6 +67,10 @@
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278282&topic_name=%E5%A7%9C%E8%B4%9E%E7%BE%BD%E4%B8%8D%E6%83%B3%E9%80%80%E8%B5%9B"
     },
     {
+      "name":"吧友热议：玩游戏在不知不觉之间就花了很多钱，那么你最后悔氪金的游戏时哪个？",
+      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278238&topic_name=%E6%9C%80%E5%90%8E%E6%82%94%E6%B0%AA%E9%87%91%E7%9A%84%E6%B8%B8%E6%88%8F"
+    },
+    {
       "name":"因九年前丢了一张身份证，近日贵州一男子发现自己已经“被入职”16家公司。",
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278264&topic_name=%E4%B8%A2%E5%A4%B1%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%90%8E%E8%A2%AB%E5%85%A5%E8%81%8C16%E5%AE%B6%E5%85%AC%E5%8F%B8"
     },
@@ -113,10 +117,6 @@
     {
       "name":"不少NBA球员走上街头参与抗议，字母哥身穿“我不能呼吸”短袖为示威者送水，库里夫妇参加游行与众人一起高呼：“特朗普已成为过去，他必须离开”。",
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278271&topic_name=%E5%BA%93%E9%87%8C%E4%B8%8E%E5%AD%97%E6%AF%8D%E5%93%A5%E5%8F%82%E5%8A%A0%E7%A4%BA%E5%A8%81%E6%B8%B8%E8%A1%8C"
-    },
-    {
-      "name":"吧友热议：玩游戏在不知不觉之间就花了很多钱，那么你最后悔氪金的游戏时哪个？",
-      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278238&topic_name=%E6%9C%80%E5%90%8E%E6%82%94%E6%B0%AA%E9%87%91%E7%9A%84%E6%B8%B8%E6%88%8F"
     }
   ]
 }
