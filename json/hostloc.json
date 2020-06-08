@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-08 11:40:28",
+  "time":"2020-06-08 11:44:40",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"aws lightsail DDwin10不成功。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700517&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"收联通卡",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700514&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"照着大佬的方法，我也改了一个LOL图床的上传插件",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700480&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"笨牛不支持CF的CNAME，求一个支持的平台",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700479&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
