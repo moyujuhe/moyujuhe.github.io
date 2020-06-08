@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 01:52:08",
+  "time":"2020-06-09 01:56:19",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"这种站能接码支付吗？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700914&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"Hetzner的VPS是真的香，打算抛弃OVH了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700913&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"有可自定义表单的发卡源码推荐吗",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700885&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"有熟悉宝塔反代的大神吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700884&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
