@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-08 15:45:26",
+  "time":"2020-06-08 15:49:44",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"联想工作站将预装 Ubuntu 和 Red Hat",
+      "url":"https://www.solidot.org/story?sid=64599"
+    },
+    {
+      "name":"全球二氧化碳水平仍然快速上升",
+      "url":"https://www.solidot.org/story?sid=64598"
+    },
     {
       "name":"中国对网络直播开展专项整治",
       "url":"https://www.solidot.org/story?sid=64597"
@@ -73,14 +81,6 @@
     {
       "name":"MRI 研究并没有科学家以为的那么有用",
       "url":"https://www.solidot.org/story?sid=64579"
-    },
-    {
-      "name":"德国要求所有加油站提供充电桩",
-      "url":"https://www.solidot.org/story?sid=64578"
-    },
-    {
-      "name":"Dropbox 开发密码管理器",
-      "url":"https://www.solidot.org/story?sid=64577"
     }
   ]
 }
