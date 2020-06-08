@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 07:30:36",
+  "time":"2020-06-09 07:34:44",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"PHP8要来了，据说上jit后性能是PHP5.4的4倍",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700931&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"完了完了 老师让我搞个 这种答题的怎么办。。",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700929&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"TheStack的T楼机简单测评",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700897&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"TheStack 洛杉矶机房（优化线路）测试",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700883&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
