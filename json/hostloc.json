@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-08 10:31:51",
+  "time":"2020-06-08 10:36:02",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"krypt独立服务器是100M还是G口?",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700477&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"60出一只hosthatch NVME芝加哥小鸡",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700473&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"免费企鹅小屋的小鸡T楼活动",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700445&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"搜索了一下自己的id",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=700444&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
