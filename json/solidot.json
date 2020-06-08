@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-08 13:40:51",
+  "time":"2020-06-08 13:45:04",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"中国要求扩大新冠病毒核酸检测范围",
+      "url":"https://www.solidot.org/story?sid=64596"
+    },
+    {
+      "name":"清华教授称要警惕开源软件的“科技侵略”",
+      "url":"https://www.solidot.org/story?sid=64595"
+    },
     {
       "name":"NBA 复赛将使用 NBA 2K 的背景声音",
       "url":"https://www.solidot.org/story?sid=64594"
@@ -73,14 +81,6 @@
     {
       "name":"科学家培养出长毛的人造皮肤",
       "url":"https://www.solidot.org/story?sid=64576"
-    },
-    {
-      "name":"勒索软件攻击者入侵了 NASA 的一家承包商",
-      "url":"https://www.solidot.org/story?sid=64575"
-    },
-    {
-      "name":"Signal 引入模糊工具",
-      "url":"https://www.solidot.org/story?sid=64574"
     }
   ]
 }
