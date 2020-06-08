@@ -1,11 +1,7 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-08 09:28:50",
+  "time":"2020-06-08 09:32:58",
   "data":[
-    {
-      "name":"20200508 TGIF",
-      "url":"https://hacpai.com/article/1588899788533"
-    },
     {
       "name":"最近突然想换手机了，不知道什么手机比较好，征集一下大家意见",
       "url":"https://hacpai.com/article/1589169499385"
@@ -241,6 +237,10 @@
     {
       "name":"好的开源项目一定要有一个好的示例",
       "url":"https://hacpai.com/article/1590401614487"
+    },
+    {
+      "name":"Solo 页脚配置问题",
+      "url":"https://hacpai.com/article/1589948209783"
     }
   ]
 }
