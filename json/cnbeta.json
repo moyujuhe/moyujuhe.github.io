@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-08 23:16:10",
+  "time":"2020-06-08 23:20:48",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"苹果地图更新华盛顿特区卫星图像 以支持“Black Lives Matter”运动",
+      "url":"https://www.cnbeta.com/articles/tech/988485.htm"
     },
     {
       "name":"诺基亚固网宽带业务量因COVID-19订单激增",
@@ -237,10 +241,6 @@
     {
       "name":"林斌卸任北京小米软件技术有限公司法定代表人、总经理",
       "url":"https://www.cnbeta.com/articles/tech/988373.htm"
-    },
-    {
-      "name":"Firefox故障排除页面迎来一键清除启动缓存的新选项",
-      "url":"https://www.cnbeta.com/articles/tech/988371.htm"
     }
   ]
 }
