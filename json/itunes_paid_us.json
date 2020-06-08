@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-06-09 07:13:45",
+  "time":"2020-06-09 07:17:56",
   "data":[
     {
       "name":"Minecraft",
@@ -522,7 +522,7 @@
       "name":"FL Studio Mobile",
       "url":"https://apps.apple.com/us/app/fl-studio-mobile/id432850619?uo=4",
       "num":"Music",
-      "description":"最新版本:  3.3.1\n更新时间:  2020-06-08 07:51:46 (北京时间)\n\n* Auto-Pitch - Realtime pitch correction and shifting plugin module\n* Tuner - Guitar and instrument tuning plugin module\n* Bugfixes and stability improvements\n\nNOTE: If you experience bugs, please tap the HELP button and let us know in the USERS & SUPPORT FORUM. If you don't report bugs, they may not be fixed. Thanks!"
+      "description":"最新版本:  3.2.85\n更新时间:  2020-05-04 08:14:11 (北京时间)\n\nBug fixes and stability improvements\n\nNOTE: To report bugs please tap the HELP button and let us know in the USERS & SUPPORT FORUM thanks!"
     },
     {
       "name":"Danganronpa: Trigger Happy Hav",
@@ -540,7 +540,7 @@
       "name":"Infinite Flight Simulator",
       "url":"https://apps.apple.com/us/app/infinite-flight-simulator/id471341991?uo=4",
       "num":"Games",
-      "description":"最新版本:  20.01\n更新时间:  2020-06-09 00:09:41 (北京时间)\n\nReworked B777-200 with animated cockpit, reworked B737 live cockpit, new VNAV, global instrument procedures, and more!\n\n• B777-200 includes 19 existing and 7 new liveries, real 777 sound pack, animated cockpit with live instruments, improved flight physics, main gear steering, gear title, wing flex, and more. Available to Infinite Flight Pro subscribers.\n• B737 family cockpit rework with animated flight deck featuring live instruments and two new liveries. \n• APU with realistic sounds added to all equipped aircraft.\n• VNAV added to the autopilot system across our entire fleet for fully automated descents.\n• NEW Global database of instrument procedures including SIDs, STARS, and Instrument approaches for all airports with published procedures provided by NavBlue.\n• Airspace rework with properly defined airspaces, waypoints, NAVAIDs, and more, updated regularly to reflect real-world changes.\n• NEW Oceanic tracks\n• NEW Center control facilities for ATC\n• NEW Digital ATIS (D-ATIS), new ATC commands, and ATC interface improvements\n• Server moderation improvements. Ghosts/Reports are now part of our violation system on our live servers. \n• Reworked pilot grade system, improved violation interface, and on-screen options to jump straight to our online tutorials.\n• Gate restrictions removed on casual server\n• “Aircraft too large” message added for destination airports\n• FIXED long-haul crashes for some iOS users\n• FIXED Wheels now move in replay mode\n• Performance improvements and bug fixes\n\nFor a full description of 20.1 updates, please visit infiniteflight.com/blog"
+      "description":"最新版本:  19.04.02\n更新时间:  2019-12-16 20:14:46 (北京时间)\n\n19.4.2:\n\n• Fixed rendering and crash issues on devices with PowerVR GPU\n• Fixed various other crashes\n\n\n19.4.1:\nNew A350-900 with functional glass cockpit, reworked C172, new TBM live cockpit, new and improved map, and more!\n\n• Completely reworked C172. Free functional steam gauge version, and functional glass cockpit for subscribers\n• New A350-900 Aircraft with gear tilt and functional glass cockpit \n• Newly reworked, faster map with improved borders and coastlines, and autopilot helper\n• Updated TBM-930 cockpit with functional instruments\n• Reworked in-flight user interface with new button positioning, systems menu, and haptic feedback\n• Added NDB/VOR Navigation\n• Tap airport in multiplayer page to go directly to airport\n• A320 instrument improvements (ECAM and Autopilot Panel)\n• Improved terrain rendering algorithm\n• iOS 13 support\n• ARC/NAV mode for A320\n• Progressive braking on rudder pedal by tapping rudder control and sliding down\n• New A320 liveries\n• Improved live instruments performance\n• Stricter gate size restrictions online. Now adhering to actual restrictions\n• Fixed crash when switching to Tower camera when very far from the closest airport\n• Fixed occasional crash when suspending and resuming the app\n• Fixed occasional crash that can occur on approach after a long flight\n\nFor full description of 19.4 updates, please visit infiniteflight.com/blog"
     },
     {
       "name":"Papa's Wingeria To Go!",
