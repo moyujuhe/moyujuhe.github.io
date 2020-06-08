@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-08 16:15:19",
+  "time":"2020-06-08 16:19:50",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Brave 称自动插入返利代码是失误所致",
+      "url":"https://www.solidot.org/story?sid=64600"
+    },
     {
       "name":"联想工作站将预装 Ubuntu 和 Red Hat",
       "url":"https://www.solidot.org/story?sid=64599"
@@ -77,10 +81,6 @@
     {
       "name":"华为发布能测体温的智能手机",
       "url":"https://www.solidot.org/story?sid=64580"
-    },
-    {
-      "name":"MRI 研究并没有科学家以为的那么有用",
-      "url":"https://www.solidot.org/story?sid=64579"
     }
   ]
 }
