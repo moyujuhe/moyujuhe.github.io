@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 15:07:10",
+  "time":"2020-06-09 15:11:28",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"大盘鸡上货了 绿云 GreenCloudVPS：$33.6/年/1GB内存/200GB空间/1TB...",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701134&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"sentris反撸？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701133&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"收一个特权没翻的A1P",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701102&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"小夜博客关闭，下一个会不会是主机测评？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701101&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
