@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 12:17:35",
+  "time":"2020-06-09 12:21:52",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"nat6.6成功翻车",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701068&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"溢价10元 出五毛顶配+联通中转",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701067&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"Nokvm模板征集",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701040&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"有谁能捋一下A1P的事情吗",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701039&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
