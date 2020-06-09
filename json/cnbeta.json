@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-10 01:42:26",
+  "time":"2020-06-10 01:46:44",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"AMD透露了Nvidia DGX A100系统更多细节",
+      "url":"https://www.cnbeta.com/articles/tech/988981.htm"
     },
     {
       "name":"土卫六正以比预测大100倍的速度远离土星",
@@ -237,10 +241,6 @@
     {
       "name":"Android版Chrome浏览器改进了自动填充功能的UI体验",
       "url":"https://www.cnbeta.com/articles/tech/988869.htm"
-    },
-    {
-      "name":"[图]消息称一加新手机正式名称为“OnePlus Nord”",
-      "url":"https://www.cnbeta.com/articles/tech/988867.htm"
     }
   ]
 }
