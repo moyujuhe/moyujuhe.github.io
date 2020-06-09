@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-09 14:03:41",
+  "time":"2020-06-09 14:07:48",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"MIT研究人员将数万个人工大脑突触放在一块芯片上",
+      "url":"https://www.cnbeta.com/articles/science/988747.htm"
     },
     {
       "name":"基准测试表明Tiger Lake i7-1165G7的Xe核显性能有巨大飞跃",
@@ -237,10 +241,6 @@
     {
       "name":"[图]追赶Zoom：Google Duo群组通话新增邀请链接功能",
       "url":"https://www.cnbeta.com/articles/tech/988635.htm"
-    },
-    {
-      "name":"随着封锁措施的缓解  Airbnb的租赁需求激增",
-      "url":"https://www.cnbeta.com/articles/tech/988633.htm"
     }
   ]
 }
