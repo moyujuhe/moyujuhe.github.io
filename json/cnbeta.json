@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-09 13:55:09",
+  "time":"2020-06-09 13:59:28",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"外媒预估微软市值在未来两年内突破2万亿美元大关",
+      "url":"https://www.cnbeta.com/articles/tech/988733.htm"
     },
     {
       "name":"阿里云年度战略首次公开：还要再招5000人",
@@ -237,10 +241,6 @@
     {
       "name":"IBM致信美国国会议员 称将退出面部识别业务",
       "url":"https://www.cnbeta.com/articles/tech/988621.htm"
-    },
-    {
-      "name":"AMD终止了对英特尔Kaby Lake G芯片的图形驱动支持",
-      "url":"https://www.cnbeta.com/articles/tech/988619.htm"
     }
   ]
 }
