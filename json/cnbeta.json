@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-09 09:18:04",
+  "time":"2020-06-09 09:22:22",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"AMD终止了对英特尔Kaby Lake G芯片的图形驱动支持",
+      "url":"https://www.cnbeta.com/articles/tech/988619.htm"
     },
     {
       "name":"又说骚话 - Linus 再次严辞拒绝Intel CPU漏洞补丁",
@@ -237,10 +241,6 @@
     {
       "name":"参数背后的细节：骁龙865如何让智能手机更聪明？",
       "url":"https://www.cnbeta.com/articles/tech/988507.htm"
-    },
-    {
-      "name":"Intel 11代桌面酷睿后退一步：最多只有8核心",
-      "url":"https://www.cnbeta.com/articles/tech/988505.htm"
     }
   ]
 }
