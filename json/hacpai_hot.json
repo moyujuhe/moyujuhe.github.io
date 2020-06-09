@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-09 08:29:58",
+  "time":"2020-06-09 08:34:32",
   "data":[
     {
       "name":"最近突然想换手机了，不知道什么手机比较好，征集一下大家意见",
@@ -195,6 +195,10 @@
       "url":"https://hacpai.com/article/1589702789780"
     },
     {
+      "name":"Solo 访问报 Latke 配置错误",
+      "url":"https://hacpai.com/article/1591632824705"
+    },
+    {
       "name":"Vditor v3.2.12 发布，支持思维导图",
       "url":"https://hacpai.com/article/1591587693876"
     },
@@ -237,10 +241,6 @@
     {
       "name":"Solo 页脚配置问题",
       "url":"https://hacpai.com/article/1589948209783"
-    },
-    {
-      "name":"教你搭建 solo 博客站（像我酱紫的）",
-      "url":"https://hacpai.com/article/1589816039114"
     }
   ]
 }
