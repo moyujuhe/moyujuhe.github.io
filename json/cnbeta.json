@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-10 07:31:05",
+  "time":"2020-06-10 07:35:35",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"Linux Kernel 5.7.1 发布",
+      "url":"https://www.cnbeta.com/articles/soft/989007.htm"
     },
     {
       "name":"科技巨头从疫情中反弹 亚马逊、苹果、FB和微软股价齐创新高",
@@ -237,10 +241,6 @@
     {
       "name":"本田汽车全球多家工厂停工 或因电脑网络被黑客入侵",
       "url":"https://www.cnbeta.com/articles/tech/988895.htm"
-    },
-    {
-      "name":"笔记本屏幕哪家强？京东方又拿下个第一",
-      "url":"https://www.cnbeta.com/articles/tech/988893.htm"
     }
   ]
 }
