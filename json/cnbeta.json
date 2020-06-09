@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-09 14:12:04",
+  "time":"2020-06-09 14:16:14",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"阿里云发布第七代ECS、云原生数据库PolarDB-X等新品",
+      "url":"https://www.cnbeta.com/articles/tech/988751.htm"
     },
     {
       "name":"大众品牌团换帅：新CEO将于7月1日上任",
@@ -237,10 +241,6 @@
     {
       "name":"[技巧]如何启用Windows 10的蓝牙A2DP音频接收器功能",
       "url":"https://www.cnbeta.com/articles/tech/988639.htm"
-    },
-    {
-      "name":"抢在美国军方之前 Netflix注册“太空部队”商标",
-      "url":"https://hot.cnbeta.com/articles/movie/988637.htm"
     }
   ]
 }
