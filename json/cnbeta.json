@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-09 08:43:36",
+  "time":"2020-06-09 08:47:56",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"又说骚话 - Linus 再次严辞拒绝Intel CPU漏洞补丁",
       "url":"https://www.cnbeta.com/articles/tech/988599.htm"
+    },
+    {
+      "name":"Parallels Desktop 6·18 促销开始 使用优惠码可享7折",
+      "url":"https://www.cnbeta.com/articles/tech/988607.htm"
     },
     {
       "name":"特斯拉称疫情封锁使空气质量改善 所以应禁售燃油车",
@@ -237,10 +241,6 @@
     {
       "name":"惠普推出两款Chrome OS笔记本：Chromebook x360 14c和11a",
       "url":"https://www.cnbeta.com/articles/tech/988495.htm"
-    },
-    {
-      "name":"麻省理工学院开发新方法来制造大片高质量原子薄的石墨烯",
-      "url":"https://www.cnbeta.com/articles/tech/988493.htm"
     }
   ]
 }
