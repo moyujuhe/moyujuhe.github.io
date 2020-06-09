@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 09:30:05",
+  "time":"2020-06-09 09:45:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"【黑、白易引发争议 谷歌Chrome将不再使用“黑名单”一词】不能使用“黑名单”（Blacklist）这个单词之后，谷歌程序员会用“Blocklist”（禁止名单）来替代它，英文中只变动了一个字母，也算是很聪明的改变了。",
+      "url":"http://news.mydrivers.com/1/693/693892.htm"
+    },
     {
       "name":"索尼PS5游戏发布会将在6月12日凌晨4点举行",
       "url":"https://www.vgtime.com/topic/1087941.jhtml"
@@ -89,10 +93,6 @@
     {
       "name":"《水浒传》：中国文化的一场噩梦",
       "url":"https://mp.weixin.qq.com/s/zjZpvKOFspqpSsXKVvEWQw"
-    },
-    {
-      "name":"没有马甲线的女生，身材照样性感！｜直男门诊",
-      "url":"https://mp.weixin.qq.com/s/nO4-n1EVzTo3eUEjyYP3lA"
     }
   ]
 }
