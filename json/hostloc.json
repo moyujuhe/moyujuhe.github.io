@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 17:10:42",
+  "time":"2020-06-09 17:14:52",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"全球域名论坛，出个COM域名",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701178&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"公司商城APP要接入聚合支付求推荐",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701177&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -101,10 +105,6 @@
     {
       "name":"揭露个骗子 萌次元站长 moecy.cn 诈骗金额6.6w+",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701148&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"访问LOC巨慢，请告诉我不是我一个人",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701146&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
