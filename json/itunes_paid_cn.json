@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-06-09 11:13:48",
+  "time":"2020-06-09 11:17:59",
   "data":[
     {
       "name":"我叫MT2 重制版",
@@ -31,6 +31,12 @@
       "url":"https://apps.apple.com/cn/app/%E5%BC%91%E4%BD%9B%E5%BD%95-%E4%BD%9B%E9%AD%94%E4%B8%80%E5%BF%B5%E9%97%B4/id1509648361?uo=4",
       "num":"游戏",
       "description":"最新版本:  1.0\n更新时间:  2020-05-01 23:48:50 (北京时间)\n\n"
+    },
+    {
+      "name":"终极武林",
+      "url":"https://apps.apple.com/cn/app/%E7%BB%88%E6%9E%81%E6%AD%A6%E6%9E%97/id1500241746?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.0.4\n更新时间:  2020-06-01 13:43:11 (北京时间)\n\n本次更新增加了新的玩法和任务，优化了游戏体验"
     },
     {
       "name":"武林英雄传-不肝不氪的放置武侠手游",
@@ -72,7 +78,13 @@
       "name":"古今江湖-阴阳武学:全真心法 冷月窥人",
       "url":"https://apps.apple.com/cn/app/%E5%8F%A4%E4%BB%8A%E6%B1%9F%E6%B9%96-%E9%98%B4%E9%98%B3%E6%AD%A6%E5%AD%A6-%E5%85%A8%E7%9C%9F%E5%BF%83%E6%B3%95-%E5%86%B7%E6%9C%88%E7%AA%A5%E4%BA%BA/id1441378345?uo=4",
       "num":"游戏",
-      "description":"最新版本:  20.5\n更新时间:  2020-06-09 09:47:35 (北京时间)\n\n1、更新一周年素材。\n2、优化功能。"
+      "description":"最新版本:  20.1\n更新时间:  2020-05-20 16:55:01 (北京时间)\n\n1、新增橙色武侠：古墓掌门、逍遥掌门；\n2、新增阴阳武学：全真心法（暗）、冷月窥人（暗）；\n3、悬赏任务中新增了稀有任务，奖励凝珠福袋； \n4、新增九剑传人皮肤（成就获得）、白陀山主皮肤（绿叶商城获得）\n5、新增悬赏快速完成道具，可从球福袋中开启获得，或购买进阶月卡获得；\n6、加强东海岛主橙色、红色化形效果；"
+    },
+    {
+      "name":"掌门是咸鱼-武侠世界",
+      "url":"https://apps.apple.com/cn/app/%E6%8E%8C%E9%97%A8%E6%98%AF%E5%92%B8%E9%B1%BC-%E6%AD%A6%E4%BE%A0%E4%B8%96%E7%95%8C/id1504608686?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.0\n更新时间:  2020-04-22 15:55:35 (北京时间)\n\n"
     },
     {
       "name":"星期六魔王 - 二次元策略卡牌手游",
@@ -589,18 +601,6 @@
       "url":"https://apps.apple.com/cn/app/analog-paris/id1035219562?uo=4",
       "num":"摄影与录像",
       "description":"最新版本:  1.0.992\n更新时间:  2019-10-13 05:01:11 (北京时间)\n\n- iOS 13 Support\n- Menu reorganization\n- More features will be available in future updates"
-    },
-    {
-      "name":"纪念碑谷2",
-      "url":"https://apps.apple.com/cn/app/%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B72/id1238778050?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.2.15\n更新时间:  2018-06-07 23:38:27 (北京时间)\n\n常规维护和商店列表更新"
-    },
-    {
-      "name":"艾希 - ICEY",
-      "url":"https://apps.apple.com/cn/app/%E8%89%BE%E5%B8%8C-icey/id1271620263?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.1.4\n更新时间:  2020-05-01 01:55:12 (北京时间)\n\n接入了防沉迷系统（仅限中国大陆地区）"
     }
   ]
 }
