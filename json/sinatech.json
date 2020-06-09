@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 18:34:00",
+  "time":"2020-06-09 19:23:59",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"彭博：苹果WWDC将宣布放弃英特尔处理器 改用自家CPU",
+      "url":"https://tech.sina.com.cn/it/2020-06-09/doc-iirczymk6120146.shtml"
+    },
     {
       "name":"瑞典公司起诉苹果滑动解锁功能侵权 8年前便起诉过",
       "url":"https://tech.sina.com.cn/it/2020-06-09/doc-iircuyvi7587203.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"阿里云首次公布三大方向：做深基础、做厚中台、做强生态",
       "url":"https://tech.sina.com.cn/i/2020-06-09/doc-iircuyvi7490233.shtml"
-    },
-    {
-      "name":"阿里云今年再招5000人 重点吸引AI、芯片等攻坚人才",
-      "url":"https://tech.sina.com.cn/i/2020-06-09/doc-iircuyvi7488908.shtml"
     }
   ]
 }
