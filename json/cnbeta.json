@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-09 08:47:56",
+  "time":"2020-06-09 08:52:06",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"又说骚话 - Linus 再次严辞拒绝Intel CPU漏洞补丁",
       "url":"https://www.cnbeta.com/articles/tech/988599.htm"
+    },
+    {
+      "name":"CDC称一些美国民众使用漂白剂漱口  以预防新冠病毒感染",
+      "url":"https://www.cnbeta.com/articles/science/988609.htm"
     },
     {
       "name":"Parallels Desktop 6·18 促销开始 使用优惠码可享7折",
@@ -237,10 +241,6 @@
     {
       "name":"Lutron推出智能木百叶窗 可以自动倾斜跟踪太阳光线",
       "url":"https://www.cnbeta.com/articles/tech/988497.htm"
-    },
-    {
-      "name":"惠普推出两款Chrome OS笔记本：Chromebook x360 14c和11a",
-      "url":"https://www.cnbeta.com/articles/tech/988495.htm"
     }
   ]
 }
