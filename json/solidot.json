@@ -1,7 +1,23 @@
 {
-  "time":"2020-06-09 21:55:23",
+  "time":"2020-06-09 21:59:58",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"哈佛研究称新冠可能在去年八九月就开始流传了",
+      "url":"https://www.solidot.org/story?sid=64614"
+    },
+    {
+      "name":"新加坡计划推出穿戴式病毒追踪设备",
+      "url":"https://www.solidot.org/story?sid=64613"
+    },
+    {
+      "name":"新疆发现有 3.71 亿年历史的古老森林化石",
+      "url":"https://www.solidot.org/story?sid=64612"
+    },
+    {
+      "name":"远程工作的优缺点",
+      "url":"https://www.solidot.org/story?sid=64611"
+    },
     {
       "name":"美国的网课实验被认为失败了",
       "url":"https://www.solidot.org/story?sid=64610"
@@ -65,22 +81,6 @@
     {
       "name":"清华教授称要警惕开源软件的“科技侵略”",
       "url":"https://www.solidot.org/story?sid=64595"
-    },
-    {
-      "name":"NBA 复赛将使用 NBA 2K 的背景声音",
-      "url":"https://www.solidot.org/story?sid=64594"
-    },
-    {
-      "name":"Brave 劫持链接插入返利代码",
-      "url":"https://www.solidot.org/story?sid=64593"
-    },
-    {
-      "name":"Blender 2.83 LTS 版发布",
-      "url":"https://www.solidot.org/story?sid=64592"
-    },
-    {
-      "name":"巴西官方限制提供新冠感染数据",
-      "url":"https://www.solidot.org/story?sid=64591"
     }
   ]
 }
