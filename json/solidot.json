@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 15:40:58",
+  "time":"2020-06-09 15:45:09",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"城市狐狸似乎在自我驯化",
+      "url":"https://www.solidot.org/story?sid=64607"
+    },
     {
       "name":"统计分析称 O 型血人士不易感新冠",
       "url":"https://www.solidot.org/story?sid=64606"
@@ -77,10 +81,6 @@
     {
       "name":"Google+ for G Suite 将于 7 月 6 日关闭",
       "url":"https://www.solidot.org/story?sid=64588"
-    },
-    {
-      "name":"北京河北降低疫情防护响应等级",
-      "url":"https://www.solidot.org/story?sid=64587"
     }
   ]
 }
