@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-10 07:05:42",
+  "time":"2020-06-10 07:06:15",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"32和43英寸一加电视通过蓝牙认证 起价低于265美元",
+      "url":"https://tech.sina.com.cn/e/2020-06-10/doc-iirczymk6169771.shtml"
+    },
     {
       "name":"神州租车：陆正耀已辞任董事会主席及非执行董事职务",
       "url":"https://tech.sina.com.cn/i/2020-06-10/doc-iircuyvi7642705.shtml"
@@ -9,6 +13,10 @@
     {
       "name":"苹果中国官网正式上线Powerbeats Pro 耳机全新配色",
       "url":"https://tech.sina.com.cn/it/2020-06-10/doc-iircuyvi7642573.shtml"
+    },
+    {
+      "name":"Switch触控笔来了 让游戏主机变身绘画平板",
+      "url":"https://tech.sina.com.cn/elec/product/2020-06-10/doc-iirczymk6169957.shtml"
     },
     {
       "name":"任天堂就账号被黑事件发布最新声明：共有30万账号被入侵",
@@ -193,14 +201,6 @@
     {
       "name":"彭博：苹果WWDC将宣布放弃英特尔处理器 改用自家CPU",
       "url":"https://tech.sina.com.cn/it/2020-06-09/doc-iirczymk6120146.shtml"
-    },
-    {
-      "name":"瑞典公司起诉苹果滑动解锁功能侵权 8年前便起诉过",
-      "url":"https://tech.sina.com.cn/it/2020-06-09/doc-iircuyvi7587203.shtml"
-    },
-    {
-      "name":"SpaceX获NASA批准 可用回收火箭和龙飞船运载宇航员",
-      "url":"https://tech.sina.com.cn/it/2020-06-09/doc-iircuyvi7584564.shtml"
     }
   ]
 }
