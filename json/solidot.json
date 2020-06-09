@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 20:42:04",
+  "time":"2020-06-09 20:46:20",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"美国的网课实验被认为失败了",
+      "url":"https://www.solidot.org/story?sid=64610"
+    },
     {
       "name":"ESA 开发自己的可重复使用火箭",
       "url":"https://www.solidot.org/story?sid=64609"
@@ -77,10 +81,6 @@
     {
       "name":"巴西官方限制提供新冠感染数据",
       "url":"https://www.solidot.org/story?sid=64591"
-    },
-    {
-      "name":"Apple Watch 的摔倒检测功能拯救了一名失去意识的男子",
-      "url":"https://www.solidot.org/story?sid=64590"
     }
   ]
 }
