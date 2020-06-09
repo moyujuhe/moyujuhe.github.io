@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 18:30:41",
+  "time":"2020-06-09 18:34:51",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"现在可以在合作伙伴修改cloudflare的tk/ga/ml/cf/gq域名记录了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701210&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"还有那些免费域名邮箱可以申请?",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701209&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"公司商城APP要接入聚合支付求推荐",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701177&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"自己原创的网页，总是被别人镜像，有什么好方法吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701176&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
