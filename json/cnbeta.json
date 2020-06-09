@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-09 09:22:22",
+  "time":"2020-06-09 09:26:33",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"IBM致信美国国会议员 称将退出面部识别业务",
+      "url":"https://www.cnbeta.com/articles/tech/988621.htm"
     },
     {
       "name":"AMD终止了对英特尔Kaby Lake G芯片的图形驱动支持",
@@ -237,10 +241,6 @@
     {
       "name":"COVID-19大流行期间 英国的游戏机销量大幅飙升",
       "url":"https://hot.cnbeta.com/articles/game/988509.htm"
-    },
-    {
-      "name":"参数背后的细节：骁龙865如何让智能手机更聪明？",
-      "url":"https://www.cnbeta.com/articles/tech/988507.htm"
     }
   ]
 }
