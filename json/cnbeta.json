@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-09 19:00:16",
+  "time":"2020-06-09 19:04:25",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"Linus Torvalds删除AWS工程师提交的补丁 表示这是愚蠢的行为",
+      "url":"https://www.cnbeta.com/articles/tech/988901.htm"
+    },
+    {
+      "name":"SpaceX获NASA批准 可用回收火箭和龙飞船运载宇航员",
+      "url":"https://www.cnbeta.com/articles/science/988899.htm"
     },
     {
       "name":"中石化熔喷布价格上调24%？官方辟谣",
@@ -233,14 +241,6 @@
     {
       "name":"Windows 10 5月更新现在能升吗？联想：实测表明问题不少",
       "url":"https://www.cnbeta.com/articles/tech/988789.htm"
-    },
-    {
-      "name":"微信推寄收快递服务：支持韵达、中通、百世、京东",
-      "url":"https://www.cnbeta.com/articles/tech/988787.htm"
-    },
-    {
-      "name":"[图]Chromebook也能游戏：谷歌Play商城上线游戏专区",
-      "url":"https://hot.cnbeta.com/articles/game/988785.htm"
     }
   ]
 }
