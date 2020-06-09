@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 10:07:46",
+  "time":"2020-06-09 10:11:15",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"台积电：有关亚利桑那州芯片工厂的计划尚未最终敲定",
+      "url":"https://tech.sina.com.cn/it/2020-06-09/doc-iircuyvi7491264.shtml"
+    },
     {
       "name":"阿里云首次公布三大方向：做深基础、做厚中台、做强生态",
       "url":"https://tech.sina.com.cn/i/2020-06-09/doc-iircuyvi7490233.shtml"
@@ -33,6 +37,10 @@
     {
       "name":"张文宏：全球第二波疫情在路上，力度或超第一波！",
       "url":"https://tech.sina.com.cn/d/f/2020-06-09/doc-iirczymk6012640.shtml"
+    },
+    {
+      "name":"阿里云张建锋:解密阿里云再生长的动力、合力和张力",
+      "url":"https://tech.sina.com.cn/i/2020-06-09/doc-iircuyvi7491479.shtml"
     },
     {
       "name":"王祥喜：为了新冠疫苗研发的加速度",
@@ -193,14 +201,6 @@
     {
       "name":"非遗音乐搭上直播 让古老的声音受到更多瞩目",
       "url":"https://tech.sina.com.cn/i/2020-06-09/doc-iirczymk5970066.shtml"
-    },
-    {
-      "name":"中芯国际称14纳米订单充足 研发费用占营收已超两成",
-      "url":"https://tech.sina.com.cn/it/2020-06-09/doc-iirczymk5981782.shtml"
-    },
-    {
-      "name":"滴滴上线“货运”业务，如何搅动万亿级货运市场？",
-      "url":"https://tech.sina.com.cn/it/2020-06-09/doc-iirczymk5967430.shtml"
     }
   ]
 }
