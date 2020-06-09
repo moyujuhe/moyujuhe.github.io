@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 16:06:22",
+  "time":"2020-06-09 16:10:33",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"IBM 停止销售面部识别服务",
+      "url":"https://www.solidot.org/story?sid=64608"
+    },
     {
       "name":"城市狐狸似乎在自我驯化",
       "url":"https://www.solidot.org/story?sid=64607"
@@ -77,10 +81,6 @@
     {
       "name":"味觉嗅觉丧失是感染新冠的最关键指标",
       "url":"https://www.solidot.org/story?sid=64589"
-    },
-    {
-      "name":"Google+ for G Suite 将于 7 月 6 日关闭",
-      "url":"https://www.solidot.org/story?sid=64588"
     }
   ]
 }
