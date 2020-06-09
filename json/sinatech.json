@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-10 02:47:47",
+  "time":"2020-06-10 04:00:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"美卡车界“特斯拉”Nikola股价飙涨逾13% 市值近300亿美元",
+      "url":"https://tech.sina.com.cn/it/2020-06-10/doc-iircuyvi7635220.shtml"
+    },
     {
       "name":"成为中国新能源车销售冠军 特斯拉股价冲击1000美元",
       "url":"https://tech.sina.com.cn/it/2020-06-10/doc-iircuyvi7632599.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"华为买下英国多家报社头版广告 为自家5G网络宣传",
       "url":"https://tech.sina.com.cn/it/2020-06-09/doc-iirczymk6075333.shtml"
-    },
-    {
-      "name":"台积电：若不能向华为销售芯片 其他订单可取代华为空缺",
-      "url":"https://tech.sina.com.cn/t/2020-06-09/doc-iirczymk6071974.shtml"
     }
   ]
 }
