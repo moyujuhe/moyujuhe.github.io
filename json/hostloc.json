@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 17:40:05",
+  "time":"2020-06-09 17:44:28",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"网安给我打电话，属实吓一跳",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701187&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"明盘出售一个OVH新加坡杜甫",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701186&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -55,7 +59,7 @@
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701170&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
-      "name":"[全球校园网论坛]关于校园网认证",
+      "name":"[已解决]关于校园网认证",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701169&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
@@ -105,10 +109,6 @@
     {
       "name":"你们刚注册企业微信不久是不是都不能用企业红包功能？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701156&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"如何查看自己购得的A1P全局账户用来验证的域名",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701155&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
