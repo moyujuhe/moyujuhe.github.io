@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 19:33:52",
+  "time":"2020-06-09 19:38:07",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"ESA 开发自己的可重复使用火箭",
+      "url":"https://www.solidot.org/story?sid=64609"
+    },
     {
       "name":"IBM 停止销售面部识别服务",
       "url":"https://www.solidot.org/story?sid=64608"
@@ -77,10 +81,6 @@
     {
       "name":"Apple Watch 的摔倒检测功能拯救了一名失去意识的男子",
       "url":"https://www.solidot.org/story?sid=64590"
-    },
-    {
-      "name":"味觉嗅觉丧失是感染新冠的最关键指标",
-      "url":"https://www.solidot.org/story?sid=64589"
     }
   ]
 }

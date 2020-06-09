@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-09 19:33:53",
+  "time":"2020-06-09 19:38:09",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"今天ks1  独服3.99没人买吗",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701230&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"想收一台T5810或者T7810戴尔服务器",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701229&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"vpsmm 域名再次出售",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701202&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"BuyVM 现在提供免费 Snapshots 了，或者付费自动定时备份",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701201&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
