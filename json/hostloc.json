@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-11 03:13:27",
+  "time":"2020-06-11 03:17:36",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"2.9元CN2GT玩具鸡测试",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701848&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"我分享的NoKvm镜像下载的人进来瞅瞅",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701847&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"直播逛loc 跟着我一起查房",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701820&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"震惊，小米云竟可以用来攻击，雷总看完都沉默了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701819&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
