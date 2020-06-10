@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-10 18:37:10",
+  "time":"2020-06-10 18:41:21",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"cloudcone CN2 是年付还是小时付",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701699&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"蘑菇的独服日常操作",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701697&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"99元买5000个A1P",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701666&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"想买一个国外的服务器，速度好一点的，用来做云存储ftp",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701664&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
