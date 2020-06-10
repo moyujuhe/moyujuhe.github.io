@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-10 22:41:56",
+  "time":"2020-06-11 00:00:41",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"北京年内5G覆盖五环内和城市副中心",
+      "url":"https://tech.sina.com.cn/5g/i/2020-06-11/doc-iirczymk6337097.shtml"
+    },
     {
       "name":"Uber拟退出收购谈判 外卖平台Grubhub另结新欢",
       "url":"https://tech.sina.com.cn/i/2020-06-10/doc-iirczymk6330567.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"ARM与厚朴联合声明罢免吴雄昂职务 因其违反公司准则",
       "url":"https://tech.sina.com.cn/roll/2020-06-10/doc-iircuyvi7747450.shtml"
-    },
-    {
-      "name":"北京5G基站年底前将覆盖五环及副中心室外",
-      "url":"https://tech.sina.com.cn/it/2020-06-10/doc-iircuyvi7746298.shtml"
     }
   ]
 }
