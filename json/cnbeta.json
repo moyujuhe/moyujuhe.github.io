@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-11 02:18:48",
+  "time":"2020-06-11 02:23:01",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"医生将一种新药与可口可乐混合帮助治疗重度新冠肺炎患者",
+      "url":"https://www.cnbeta.com/articles/science/989479.htm"
     },
     {
       "name":"开发者再次盛赞PS5“暴风雨”3D音效引擎",
@@ -237,10 +241,6 @@
     {
       "name":"7月1日起三亚将减免新能源汽车停车费：有效期3年",
       "url":"https://www.cnbeta.com/articles/tech/989367.htm"
-    },
-    {
-      "name":"PCIe 6.0正式版明年出炉 支持800G以太网",
-      "url":"https://www.cnbeta.com/articles/tech/989365.htm"
     }
   ]
 }
