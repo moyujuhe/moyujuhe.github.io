@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-10 23:00:03",
+  "time":"2020-06-10 23:04:21",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"国际奥委会与东京奥组委就东京奥运会简约化运营达成一致",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7787950"
+    },
     {
       "name":"警方通报：成都理工大学大四学生持水果刀将两位同学划伤",
       "url":"https://www.thepaper.cn/newsDetail_forward_7787915"
@@ -77,10 +81,6 @@
     {
       "name":"内蒙古煤炭领域反腐：鄂尔多斯市准格尔旗能源局局长被查",
       "url":"https://www.thepaper.cn/newsDetail_forward_7787654"
-    },
-    {
-      "name":"东京奥组委：正研究如何削减参与奥运会、残奥会工作人员数量",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7787626"
     }
   ]
 }
