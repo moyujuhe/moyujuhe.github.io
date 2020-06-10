@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-10 10:46:03",
+  "time":"2020-06-10 10:50:13",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"Azure web搭建",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701436&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"刚又撸了个gcp",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701434&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"明盘出个2O,可PP付款",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701406&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"阿里国际云是根据什么实名认证的?",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701405&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
