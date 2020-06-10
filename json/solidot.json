@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-10 21:10:51",
+  "time":"2020-06-10 21:15:39",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"IPv6 完全替代 IPv4 可能还需要五到十年",
+      "url":"https://www.solidot.org/story?sid=64624"
+    },
     {
       "name":"首位美国太空行走的女性抵达挑战者深渊",
       "url":"https://www.solidot.org/story?sid=64623"
@@ -77,10 +81,6 @@
     {
       "name":"天文学家可能发现了与地球最为相似的系外行星",
       "url":"https://www.solidot.org/story?sid=64605"
-    },
-    {
-      "name":"Forrest Fenn 称他藏在落基山的百万美元宝藏已被人找到了",
-      "url":"https://www.solidot.org/story?sid=64604"
     }
   ]
 }
