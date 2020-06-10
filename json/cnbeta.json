@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-11 07:27:31",
+  "time":"2020-06-11 07:31:46",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"微软宣布Windows 10现已支持在AMD平台启用嵌套虚拟化技术",
+      "url":"https://www.cnbeta.com/articles/tech/989509.htm"
     },
     {
       "name":"网易走出多位独角兽创始人 解读丁磊的千亿人生",
@@ -237,10 +241,6 @@
     {
       "name":"房多多美股盘前持续上涨 盘前一度涨近200%",
       "url":"https://www.cnbeta.com/articles/tech/989397.htm"
-    },
-    {
-      "name":"ARM中国陷入换帅风波 前后两份声明内容截然不同",
-      "url":"https://www.cnbeta.com/articles/tech/989395.htm"
     }
   ]
 }
