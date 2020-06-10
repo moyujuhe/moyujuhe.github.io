@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-10 19:19:43",
+  "time":"2020-06-10 19:23:54",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"阿里云上海轻量服务器",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701709&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"求一个debian8的dd包",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701708&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"【已出】10r低价出租腾讯云轻量试用",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701677&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"A1P轮到我了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701676&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
