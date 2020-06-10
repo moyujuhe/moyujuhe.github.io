@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-11 07:36:00",
+  "time":"2020-06-11 07:40:15",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"关于大盘机器DD WIN的问题",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701863&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"带帐户收一台hetzner AX61-NVMe",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701862&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"255，被人举报了，关闭广告，没跑路",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701835&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"接盘侠在哪里 接盘A1P翻车号的？（只剩子号那种）",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701833&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
