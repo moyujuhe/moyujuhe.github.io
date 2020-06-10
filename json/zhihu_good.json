@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-10 21:56:55",
+  "time":"2020-06-10 22:51:28",
   "title":"知乎每日精选-编辑推荐",
   "data":[
+    {
+      "name":"1000桶水，其中一桶有毒，猪喝毒水后会在15分钟内死去，想用一个小时找到这桶毒水，至少需要几头猪？",
+      "url":"https://www.zhihu.com/question/60227816/answer/1274071217"
+    },
     {
       "name":"心动网络的主营业务是什么？员工待遇怎么样？",
       "url":"https://www.zhihu.com/question/23913426/answer/1274098973"
@@ -73,10 +77,6 @@
     {
       "name":"【优质信源】计划10--边缘智能综述（edge intelligence)",
       "url":"https://zhuanlan.zhihu.com/p/145439319"
-    },
-    {
-      "name":"有哪些关于 NBA 值得一读的书？",
-      "url":"https://www.zhihu.com/question/302905746/answer/1268057113"
     }
   ]
 }
