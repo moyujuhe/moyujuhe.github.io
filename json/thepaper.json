@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-11 02:02:04",
+  "time":"2020-06-11 02:06:13",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美联储宣布维持利率在当前水平，符合市场预期",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7788001"
+    },
     {
       "name":"德国政府：已从美方处获悉驻德美军有撤军计划",
       "url":"https://www.thepaper.cn/newsDetail_forward_7787994"
@@ -77,10 +81,6 @@
     {
       "name":"一季度房地产信托规模2.58万亿元，环比降逾1249亿元",
       "url":"https://www.thepaper.cn/newsDetail_forward_7786333"
-    },
-    {
-      "name":"美海军宣布禁止使用南方邦联旗帜，陆军也拟给相关基地改名",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7784768"
     }
   ]
 }
