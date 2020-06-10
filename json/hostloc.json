@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-10 20:15:13",
+  "time":"2020-06-10 20:19:22",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"卧槽，我的a1p也翻车了，特权、全局全废，只剩普通了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701737&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"明盘800 出e3msdn！！",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701736&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -27,7 +31,7 @@
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701731&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
-      "name":"注册失败还被 oracle cloud甲骨文云反撸一刀",
+      "name":"【已上图】注册失败还被 oracle cloud甲骨文云反撸一刀",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701730&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
@@ -101,10 +105,6 @@
     {
       "name":"阿里云上海轻量服务器",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701709&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"求一个debian8的dd包",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701708&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
