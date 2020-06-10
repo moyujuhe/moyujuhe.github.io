@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-10 15:38:44",
+  "time":"2020-06-10 15:42:56",
   "title":"微博热点排行榜",
   "data":[
     {
@@ -245,6 +245,11 @@
       "name":"布隆迪总统因心脏病去世",
       "url":"https://s.weibo.com/weibo?q=%E5%B8%83%E9%9A%86%E8%BF%AA%E6%80%BB%E7%BB%9F%E5%9B%A0%E5%BF%83%E8%84%8F%E7%97%85%E5%8E%BB%E4%B8%96&Refer=top",
       "num":"86705"
+    },
+    {
+      "name":"弗洛伊德葬礼",
+      "url":"https://s.weibo.com/weibo?q=%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%E8%91%AC%E7%A4%BC&Refer=top",
+      "num":"70281"
     }
   ]
 }
