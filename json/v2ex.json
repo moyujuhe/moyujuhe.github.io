@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-10 09:16:56",
+  "time":"2020-06-10 09:21:07",
   "title":"V2EX热帖",
   "data":[
     {
@@ -25,6 +25,10 @@
     {
       "name":"腾讯云 cdn 如何给 wordpress 设置缓存规则",
       "url":"https://www.v2ex.com/t/680213#reply1"
+    },
+    {
+      "name":"Wordpress 在特定主题下只要点击主题自定义或者小工具，服务器 CPU、内存、负载就飙红，没找到具体原因",
+      "url":"https://www.v2ex.com/t/680217#reply0"
     }
   ]
 }
