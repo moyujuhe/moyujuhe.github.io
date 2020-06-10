@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-11 03:05:05",
+  "time":"2020-06-11 03:09:17",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"开源BeOS操作系统Haiku R1/beta2发布",
+      "url":"https://www.cnbeta.com/articles/soft/989491.htm"
+    },
+    {
+      "name":"研究称头发变白自然可逆",
+      "url":"https://www.cnbeta.com/articles/tech/989489.htm"
     },
     {
       "name":"黑客GhostExodus谈在服刑十年后看到的新世界",
@@ -233,14 +241,6 @@
     {
       "name":"x86要被ARM取代？分析师：苹果订单份额不足以造成重大影响",
       "url":"https://www.cnbeta.com/articles/tech/989379.htm"
-    },
-    {
-      "name":"中芯国际“回归” 相比台积电还差几个联发科",
-      "url":"https://www.cnbeta.com/articles/tech/989377.htm"
-    },
-    {
-      "name":"未成年人充值引关注 如何阻止\"熊孩子\"大额充值打赏?",
-      "url":"https://www.cnbeta.com/articles/tech/989375.htm"
     }
   ]
 }
