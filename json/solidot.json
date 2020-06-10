@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-10 20:45:14",
+  "time":"2020-06-10 20:49:37",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"首位美国太空行走的女性抵达挑战者深渊",
+      "url":"https://www.solidot.org/story?sid=64623"
+    },
     {
       "name":"世界各国纷纷重启经济",
       "url":"https://www.solidot.org/story?sid=64622"
@@ -77,10 +81,6 @@
     {
       "name":"Forrest Fenn 称他藏在落基山的百万美元宝藏已被人找到了",
       "url":"https://www.solidot.org/story?sid=64604"
-    },
-    {
-      "name":"华为在英国大举公关",
-      "url":"https://www.solidot.org/story?sid=64603"
     }
   ]
 }
