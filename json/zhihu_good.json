@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-11 10:46:54",
+  "time":"2020-06-11 11:55:04",
   "title":"知乎每日精选-编辑推荐",
   "data":[
+    {
+      "name":"怎么给低幼宝宝进行英语启蒙？",
+      "url":"https://www.zhihu.com/question/37831705/answer/1275048804"
+    },
     {
       "name":"1000桶水，其中一桶有毒，猪喝毒水后会在15分钟内死去，想用一个小时找到这桶毒水，至少需要几头猪？",
       "url":"https://www.zhihu.com/question/60227816/answer/1274071217"
@@ -57,18 +61,6 @@
     {
       "name":"【优质信源】计划05--从基本的强化学习角度分析无线通信中的低延时调度策略",
       "url":"https://zhuanlan.zhihu.com/p/139051469"
-    },
-    {
-      "name":"【优质信源】计划09 — 浅谈无线局域网下的单用户MAC层接入协议（基于CSMA/CA框架）",
-      "url":"https://zhuanlan.zhihu.com/p/144762815"
-    },
-    {
-      "name":"昂赛德：新秀MVP·最矮的巨人·永远的磐石",
-      "url":"https://zhuanlan.zhihu.com/p/146484090"
-    },
-    {
-      "name":"当我们谈论收敛速度时，我们都在谈什么？",
-      "url":"https://zhuanlan.zhihu.com/p/27644403"
     }
   ]
 }
