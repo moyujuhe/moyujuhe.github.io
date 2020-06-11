@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-11 12:50:34",
+  "time":"2020-06-11 12:54:45",
   "title":"奇客的资讯",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"Google 下架快手的 Zynn",
       "url":"https://www.solidot.org/story?sid=64629"
+    },
+    {
+      "name":"网信办约谈新浪微博",
+      "url":"https://www.solidot.org/story?sid=64628"
     },
     {
       "name":"黑客在服刑十年后看到的新世界",
@@ -77,10 +81,6 @@
     {
       "name":"新疆发现有 3.71 亿年历史的古老森林化石",
       "url":"https://www.solidot.org/story?sid=64612"
-    },
-    {
-      "name":"远程工作的优缺点",
-      "url":"https://www.solidot.org/story?sid=64611"
     }
   ]
 }
