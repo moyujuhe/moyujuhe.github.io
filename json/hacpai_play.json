@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-06-11 15:48:50",
+  "time":"2020-06-11 15:53:09",
   "data":[
+    {
+      "name":"疫情殇 ~",
+      "url":"https://hacpai.com/article/1591861534034"
+    },
     {
       "name":"撸了一个在线编辑 GIF 的网站，GifSuper",
       "url":"https://hacpai.com/article/1591803531214"
@@ -177,10 +181,6 @@
     {
       "name":"一个能自动从视频中提取出阶段的库，能被广泛用于 app 启动速度自动评测",
       "url":"https://hacpai.com/article/1586844551275"
-    },
-    {
-      "name":"发现新鲜有趣的小型开源项目，欢迎投稿！",
-      "url":"https://hacpai.com/article/1586760836500"
     },
     {
       "name":"用 flutter 写了一个黑客派的第三方 app",
