@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-11 09:27:00",
+  "time":"2020-06-11 09:31:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"降低新陈代谢率 会是延年益寿的终极秘诀吗？",
+      "url":"https://tech.sina.com.cn/d/a/2020-06-11/doc-iircuyvi7851995.shtml"
+    },
     {
       "name":"又一款灭活疫苗在动物中证明安全有效",
       "url":"https://tech.sina.com.cn/d/f/2020-06-11/doc-iirczymk6378646.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"京东自研可穿戴AI仿生手：0.5秒快速识别肌电信号",
       "url":"https://tech.sina.com.cn/e/c/2020-06-11/doc-iircuyvi7830729.shtml"
-    },
-    {
-      "name":"Mac选择ARM正如当年乔布斯选择Intel 但变数更多了",
-      "url":"https://tech.sina.com.cn/roll/2020-06-11/doc-iirczymk6339464.shtml"
     }
   ]
 }
