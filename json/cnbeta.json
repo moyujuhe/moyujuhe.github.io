@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-11 11:25:28",
+  "time":"2020-06-11 11:29:40",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,18 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"华为MatePad Pro 5G正式开售：直降300元、麒麟990 5G/2K屏加持",
+      "url":"https://www.cnbeta.com/articles/tech/989689.htm"
+    },
+    {
+      "name":"《釜山行2：半岛》新剧照 权海孝李艺媛等人亮相",
+      "url":"https://hot.cnbeta.com/articles/movie/989687.htm"
+    },
+    {
+      "name":"未雨绸缪 华米新一代自研芯片官宣：兼具高性能/低功耗",
+      "url":"https://www.cnbeta.com/articles/tech/989685.htm"
     },
     {
       "name":"比进口便宜7万 国产版Model3安全“减配”没？中保研成绩对比IIHS",
@@ -229,18 +241,6 @@
     {
       "name":"Rare宣布《盗贼之海》在Steam平台迎来5万同时在线数",
       "url":"https://hot.cnbeta.com/articles/game/989577.htm"
-    },
-    {
-      "name":"VS Code 的 Go 语言插件迁移至由 Go 团队维护",
-      "url":"https://www.cnbeta.com/articles/tech/989575.htm"
-    },
-    {
-      "name":"FreeBSD 采用从 LLVM 衍生而来的新社区行为准则",
-      "url":"https://www.cnbeta.com/articles/tech/989573.htm"
-    },
-    {
-      "name":"[图]Progressbar95：让你怀旧经典Windows的小游戏",
-      "url":"https://hot.cnbeta.com/articles/game/989571.htm"
     }
   ]
 }
