@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-11 12:33:36",
+  "time":"2020-06-11 12:37:52",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"VPS套CF的话  cloudflare是就近拉源站还是有专门的",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702029&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"再次和搬瓦工确认了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702028&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"震惊！大佬的补偿群关闭了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701998&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"是不是开源就得叫好？说的就是fecshop",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701997&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
