@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-12 00:21:40",
+  "time":"2020-06-12 00:26:13",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"北京新增病例两名密接者之一为小学生，核酸检测为阴性",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7803798"
+    },
     {
       "name":"“修例风波”香港警方拘近9000人，204人完成司法程序",
       "url":"https://www.thepaper.cn/newsDetail_forward_7803747"
@@ -77,10 +81,6 @@
     {
       "name":"曾光炮轰哈佛论文：对大数据流行病学的典型误用",
       "url":"https://www.thepaper.cn/newsDetail_forward_7803524"
-    },
-    {
-      "name":"江淮汽车：大众中国认购江淮大众45.17亿元新股权",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7801395"
     }
   ]
 }
