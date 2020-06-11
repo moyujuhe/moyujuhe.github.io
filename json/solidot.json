@@ -1,7 +1,19 @@
 {
-  "time":"2020-06-11 12:29:18",
+  "time":"2020-06-11 12:33:33",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"ARM China 上演董事会争夺战",
+      "url":"https://www.solidot.org/story?sid=64631"
+    },
+    {
+      "name":"美国议员提议为半导体业提供228亿美元援助",
+      "url":"https://www.solidot.org/story?sid=64630"
+    },
+    {
+      "name":"Google 下架快手的 Zynn",
+      "url":"https://www.solidot.org/story?sid=64629"
+    },
     {
       "name":"黑客在服刑十年后看到的新世界",
       "url":"https://www.solidot.org/story?sid=64627"
@@ -69,18 +81,6 @@
     {
       "name":"远程工作的优缺点",
       "url":"https://www.solidot.org/story?sid=64611"
-    },
-    {
-      "name":"美国的网课实验被认为失败了",
-      "url":"https://www.solidot.org/story?sid=64610"
-    },
-    {
-      "name":"ESA 开发自己的可重复使用火箭",
-      "url":"https://www.solidot.org/story?sid=64609"
-    },
-    {
-      "name":"IBM 停止销售面部识别服务",
-      "url":"https://www.solidot.org/story?sid=64608"
     }
   ]
 }
