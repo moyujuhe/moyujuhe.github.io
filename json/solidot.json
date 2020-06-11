@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-11 23:40:50",
+  "time":"2020-06-11 23:45:30",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"英特尔特定寄存器缓冲器数据采样 CPU 漏洞",
+      "url":"https://www.solidot.org/story?sid=64639"
+    },
+    {
+      "name":"诅咒能增加你的疼痛忍受力",
+      "url":"https://www.solidot.org/story?sid=64638"
+    },
     {
       "name":"3M 起诉抬高口罩价格的亚马逊商家",
       "url":"https://www.solidot.org/story?sid=64637"
@@ -73,14 +81,6 @@
     {
       "name":"英国已经两个整月没有用燃煤发电",
       "url":"https://www.solidot.org/story?sid=64620"
-    },
-    {
-      "name":"帮助美国发展 AI 的中国人才",
-      "url":"https://www.solidot.org/story?sid=64619"
-    },
-    {
-      "name":"台积电称华为禁令对产业影响很大",
-      "url":"https://www.solidot.org/story?sid=64618"
     }
   ]
 }
