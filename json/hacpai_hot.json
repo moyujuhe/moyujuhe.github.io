@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-11 17:02:12",
+  "time":"2020-06-11 17:06:52",
   "data":[
     {
       "name":"你对你的未来惶恐过吗？",
@@ -183,6 +183,10 @@
       "url":"https://hacpai.com/article/1589600972407"
     },
     {
+      "name":"请教一个关于 nginx 和二级域名的问题",
+      "url":"https://hacpai.com/article/1591865475764"
+    },
+    {
       "name":"要边上课边实习吗？",
       "url":"https://hacpai.com/article/1591250008527"
     },
@@ -237,10 +241,6 @@
     {
       "name":"20200529 TGIF",
       "url":"https://hacpai.com/article/1590690280420"
-    },
-    {
-      "name":"发现个新技巧，把微博当视频床，插到博客文章",
-      "url":"https://hacpai.com/article/1590505049651"
     }
   ]
 }
