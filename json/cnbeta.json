@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-11 21:28:57",
+  "time":"2020-06-11 21:33:15",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"华为澳大利亚：目前没有任何计划提供真正的全国性5G",
+      "url":"https://www.cnbeta.com/articles/tech/989903.htm"
     },
     {
       "name":"Intel史上首款5核心揭秘：三个第1、待机功耗低至2.5mW",
@@ -237,10 +241,6 @@
     {
       "name":"Nokia 6.3/7.3/9.3 PureView有望在三季度末四季度初发布",
       "url":"https://www.cnbeta.com/articles/tech/989787.htm"
-    },
-    {
-      "name":"比特大陆声明:微信公众号状态异常 公司并未更换公章",
-      "url":"https://www.cnbeta.com/articles/tech/989785.htm"
     }
   ]
 }
