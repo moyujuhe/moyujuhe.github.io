@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-11 08:18:00",
+  "time":"2020-06-11 08:22:10",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"收个短域名",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701870&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"ovh GRA是那个国家的",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701869&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"推荐一款带F12的安卓浏览器",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701838&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"分享一个HTML邮箱登录页 已配置好腾讯邮箱",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=701837&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
