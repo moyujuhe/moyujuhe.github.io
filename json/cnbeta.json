@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-11 11:29:40",
+  "time":"2020-06-11 11:33:59",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"亚马逊联手高盛推出小型企业信贷 最高100万美元额度",
+      "url":"https://www.cnbeta.com/articles/tech/989693.htm"
+    },
+    {
+      "name":"全球网速指数排行榜公布 亚洲全面碾压欧美",
+      "url":"https://www.cnbeta.com/articles/tech/989691.htm"
     },
     {
       "name":"华为MatePad Pro 5G正式开售：直降300元、麒麟990 5G/2K屏加持",
@@ -65,6 +73,10 @@
     {
       "name":"iOS 13.6 Beta引入Apple News新功能：可返回上次阅读位置",
       "url":"https://www.cnbeta.com/articles/tech/989663.htm"
+    },
+    {
+      "name":"腾讯视频VIP年卡+京东Plus会员联名特惠：一年仅售128元",
+      "url":"https://film.qq.com/vip/act/cy/INGKkdxw.html?ptag=duomai2020021"
     },
     {
       "name":"《轩辕剑柒》冒险与探索实机演示公开 第二女主角现身",
@@ -167,10 +179,6 @@
       "url":"https://www.cnbeta.com/articles/tech/989613.htm"
     },
     {
-      "name":"腾讯视频VIP年卡+京东Plus会员联名特惠：一年仅售128元",
-      "url":"https://film.qq.com/vip/act/cy/INGKkdxw.html?ptag=duomai2020021"
-    },
-    {
       "name":"IGN《如龙7》14分钟演示：街头战斗让人热血沸腾",
       "url":"https://hot.cnbeta.com/articles/game/989611.htm"
     },
@@ -233,14 +241,6 @@
     {
       "name":"研究显示人们对视觉周围的颜色只有非常有限的意识",
       "url":"https://www.cnbeta.com/articles/science/989581.htm"
-    },
-    {
-      "name":"微软宣布对WSL2子系统内核进行更改 将通过系统更新推送新版",
-      "url":"https://www.cnbeta.com/articles/tech/989579.htm"
-    },
-    {
-      "name":"Rare宣布《盗贼之海》在Steam平台迎来5万同时在线数",
-      "url":"https://hot.cnbeta.com/articles/game/989577.htm"
     }
   ]
 }
