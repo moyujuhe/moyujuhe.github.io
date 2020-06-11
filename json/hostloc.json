@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-11 18:28:04",
+  "time":"2020-06-11 18:32:25",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"惨,998的A1P翻车了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702209&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"大佬们，OVH的17.8小鸡，能提前续费吗",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702208&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"[误会]刚才一时兴起又去买了一个月buyvm200g鸡，好像在打折？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702176&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"问下KVM大家觉得Win10镜像有必要么",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702175&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
