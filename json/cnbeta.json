@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-11 11:12:41",
+  "time":"2020-06-11 11:16:52",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,18 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"Ryzen 5 4400G现身， 主板厂商已经在准备桌面版Renoir的BIOS",
+      "url":"https://www.cnbeta.com/articles/tech/989669.htm"
+    },
+    {
+      "name":"ARM处理器或受侧信道攻击， 目前已有预防补丁可供更新",
+      "url":"https://www.cnbeta.com/articles/tech/989667.htm"
+    },
+    {
+      "name":"特斯拉发布《2019环境影响力报告》回应电动车不够环保的负面传闻",
+      "url":"https://www.cnbeta.com/articles/tech/989665.htm"
     },
     {
       "name":"iOS 13.6 Beta引入Apple News新功能：可返回上次阅读位置",
@@ -229,18 +241,6 @@
     {
       "name":"你的品牌机能升级Windows 10 20H1吗？戴尔和联想公布已测试设备清单",
       "url":"https://www.cnbeta.com/articles/tech/989557.htm"
-    },
-    {
-      "name":"索尼PS5价格在英国亚马逊意外曝光：约5400元",
-      "url":"https://hot.cnbeta.com/articles/game/989555.htm"
-    },
-    {
-      "name":"传iOS 14将引入通话录音功能 但可能只在内部工程版本中出现",
-      "url":"https://www.cnbeta.com/articles/tech/989553.htm"
-    },
-    {
-      "name":"莱斯大学研究人员推进复杂的变形软体机器人的制造工作",
-      "url":"https://www.cnbeta.com/articles/science/989551.htm"
     }
   ]
 }
