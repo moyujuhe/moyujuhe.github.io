@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-12 00:39:17",
+  "time":"2020-06-12 00:44:07",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"英特尔特定寄存器缓冲器数据采样 CPU 漏洞",
+      "url":"https://www.cnbeta.com/articles/tech/989935.htm"
     },
     {
       "name":"苹果揭晓WWDC 2020全球开发者大会的线上活动阵容",
@@ -28,7 +32,7 @@
     },
     {
       "name":"Adobe推出免费应用Photoshop Camera 提供大量精心设计的滤镜",
-      "url":"https://www.cnbeta.com/articles/soft/989925.htm"
+      "url":"https://www.cnbeta.com/articles/tech/989925.htm"
     },
     {
       "name":"苹果正在研发技术 在视频直播会议中自动模糊敏感图像",
@@ -237,10 +241,6 @@
     {
       "name":"官宣：本次油价不调整 车主继续“5元加油时代”",
       "url":"https://www.cnbeta.com/articles/tech/989821.htm"
-    },
-    {
-      "name":"小米在印度发布14系列轻薄笔记本 基于英特尔10代酷睿平台",
-      "url":"https://www.cnbeta.com/articles/tech/989819.htm"
     }
   ]
 }
