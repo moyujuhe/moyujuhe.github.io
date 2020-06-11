@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-11 09:55:01",
+  "time":"2020-06-11 09:59:17",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"研究发现摄入高糖饮食或影响大脑中多巴胺的作用",
+      "url":"https://www.cnbeta.com/articles/science/989627.htm"
+    },
+    {
+      "name":"有趣的物理算法：需要多少人才能建成一座金字塔？",
+      "url":"https://www.cnbeta.com/articles/science/989625.htm"
     },
     {
       "name":"关闭噩梦：让自己处于“清醒梦境”能有效停止梦魇",
@@ -233,14 +241,6 @@
     {
       "name":"谷歌Pixel尝鲜：Android 11 Beta 1发布",
       "url":"https://www.cnbeta.com/articles/tech/989513.htm"
-    },
-    {
-      "name":"微软向快速通道用户推出Windows 10 vNEXT Build 19645测试版",
-      "url":"https://www.cnbeta.com/articles/tech/989511.htm"
-    },
-    {
-      "name":"微软宣布Windows 10现已支持在AMD平台启用嵌套虚拟化技术",
-      "url":"https://www.cnbeta.com/articles/tech/989509.htm"
     }
   ]
 }
