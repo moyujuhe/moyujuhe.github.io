@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-11 09:16:43",
+  "time":"2020-06-11 09:20:54",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"研究显示人们对视觉周围的颜色只有非常有限的意识",
+      "url":"https://www.cnbeta.com/articles/science/989581.htm"
     },
     {
       "name":"微软宣布对WSL2子系统内核进行更改 将通过系统更新推送新版",
@@ -237,10 +241,6 @@
     {
       "name":"威刚推出XPG PRIMER RGB游戏鼠标",
       "url":"https://www.cnbeta.com/articles/tech/989467.htm"
-    },
-    {
-      "name":"导致安卓手机死机的照片拍摄者表示这张照片是无意之举",
-      "url":"https://www.cnbeta.com/articles/tech/989465.htm"
     }
   ]
 }
