@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-11 09:04:04",
+  "time":"2020-06-11 09:08:15",
   "title":"cnBeta",
   "data":[
     {
@@ -11,11 +11,23 @@
       "url":"https://s.click.taobao.com/T6IWfhv"
     },
     {
+      "name":"VS Code 的 Go 语言插件迁移至由 Go 团队维护",
+      "url":"https://www.cnbeta.com/articles/tech/989575.htm"
+    },
+    {
+      "name":"FreeBSD 采用从 LLVM 衍生而来的新社区行为准则",
+      "url":"https://www.cnbeta.com/articles/tech/989573.htm"
+    },
+    {
+      "name":"[图]Progressbar95：让你怀旧经典Windows的小游戏",
+      "url":"https://hot.cnbeta.com/articles/game/989571.htm"
+    },
+    {
       "name":"福奇博士谈WHO新冠无症状传播“非常罕见”言论：并不正确",
       "url":"https://www.cnbeta.com/articles/science/989569.htm"
     },
     {
-      "name":"新研究称COVID-19封锁期间人们的睡眠质量变差",
+      "name":"新研究称COVID-19封锁期间人们的睡眠质量普遍变差",
       "url":"https://www.cnbeta.com/articles/science/989567.htm"
     },
     {
@@ -229,18 +241,6 @@
     {
       "name":"三星下月将发布Galaxy Buds Live豆形耳塞",
       "url":"https://www.cnbeta.com/articles/tech/989461.htm"
-    },
-    {
-      "name":"Mac选择ARM正如当年乔布斯选择Intel 但变数更多了",
-      "url":"https://www.cnbeta.com/articles/tech/989459.htm"
-    },
-    {
-      "name":"Intel Lakefield规格终于公布：大小5核心、热设计功耗仅7W",
-      "url":"https://www.cnbeta.com/articles/tech/989457.htm"
-    },
-    {
-      "name":"特斯拉股价突破1000美元 市值超过丰田",
-      "url":"https://www.cnbeta.com/articles/tech/989455.htm"
     }
   ]
 }
