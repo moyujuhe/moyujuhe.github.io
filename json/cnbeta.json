@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-11 18:45:36",
+  "time":"2020-06-11 18:49:50",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"哈工大、哈工程被列入“实体清单”后 师生无法使用Matlab软件",
+      "url":"https://www.cnbeta.com/articles/tech/989861.htm"
     },
     {
       "name":"5月国内轿车销量排名：日产轩逸一骑绝尘",
@@ -237,10 +241,6 @@
     {
       "name":"Gartner：2020第一季度OPPO智能手机销量下滑19.1%",
       "url":"https://www.cnbeta.com/articles/tech/989745.htm"
-    },
-    {
-      "name":"支付宝AI大幅提升细粒度图像分类识别精度：一眼看穿万物细微差异",
-      "url":"https://www.cnbeta.com/articles/tech/989743.htm"
     }
   ]
 }
