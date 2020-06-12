@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-12 08:07:33",
+  "time":"2020-06-12 08:11:53",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,14 @@
     {
       "name":"索尼PS5外观首次公布：黑白搭配科技感十足 双版本外加“全家桶”",
       "url":"https://hot.cnbeta.com/articles/game/989971.htm"
+    },
+    {
+      "name":".NET 5.0不再内置WinRT支持，可精简六万行代码",
+      "url":"https://www.cnbeta.com/articles/tech/990023.htm"
+    },
+    {
+      "name":"福奇：由美国政府资助的3种新冠疫苗将进入3期试验",
+      "url":"https://www.cnbeta.com/articles/science/990021.htm"
     },
     {
       "name":"“虫洞” - 让你用PC操控手机的神器",
@@ -233,14 +241,6 @@
     {
       "name":"京东在港上市最终定价226港元 拟筹资300.58亿港元",
       "url":"https://www.cnbeta.com/articles/tech/989909.htm"
-    },
-    {
-      "name":"快手回应海外新产品被谷歌下架：UGC上传搬运其他平台内容被投诉",
-      "url":"https://www.cnbeta.com/articles/tech/989907.htm"
-    },
-    {
-      "name":"滴滴辟谣美团收购：有人真敢编，有人真敢信",
-      "url":"https://www.cnbeta.com/articles/tech/989905.htm"
     }
   ]
 }
