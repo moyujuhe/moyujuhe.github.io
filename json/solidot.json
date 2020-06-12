@@ -1,7 +1,23 @@
 {
-  "time":"2020-06-12 11:51:42",
+  "time":"2020-06-12 11:56:35",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"网易在香港二次上市",
+      "url":"https://www.solidot.org/story?sid=64643"
+    },
+    {
+      "name":"索尼透露 PS5 主机",
+      "url":"https://www.solidot.org/story?sid=64642"
+    },
+    {
+      "name":"MIT 终止与 Elsevier 的新合同协商",
+      "url":"https://www.solidot.org/story?sid=64641"
+    },
+    {
+      "name":"哈工大等高校被禁止使用 MATLAB",
+      "url":"https://www.solidot.org/story?sid=64640"
+    },
     {
       "name":"英特尔特定寄存器缓冲器数据采样 CPU 漏洞",
       "url":"https://www.solidot.org/story?sid=64639"
@@ -65,22 +81,6 @@
     {
       "name":"IPv6 完全替代 IPv4 可能还需要五到十年",
       "url":"https://www.solidot.org/story?sid=64624"
-    },
-    {
-      "name":"首位美国太空行走的女性抵达挑战者深渊",
-      "url":"https://www.solidot.org/story?sid=64623"
-    },
-    {
-      "name":"世界各国纷纷重启经济",
-      "url":"https://www.solidot.org/story?sid=64622"
-    },
-    {
-      "name":"Tor Browser 10.0 首个测试版发布",
-      "url":"https://www.solidot.org/story?sid=64621"
-    },
-    {
-      "name":"英国已经两个整月没有用燃煤发电",
-      "url":"https://www.solidot.org/story?sid=64620"
     }
   ]
 }

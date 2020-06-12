@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-12 11:51:42",
+  "time":"2020-06-12 11:56:34",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"索尼PS5外观首次公布：黑白搭配科技感十足 双版本外加“全家桶”",
       "url":"https://hot.cnbeta.com/articles/game/989971.htm"
+    },
+    {
+      "name":"一加宣布OnePlus 8即将迎来Android 11开发者预览",
+      "url":"https://www.cnbeta.com/articles/tech/990191.htm"
     },
     {
       "name":"PS5《GT赛车7》高清截图 细节精致画面超逼真",
@@ -237,10 +241,6 @@
     {
       "name":"Python 和 Go 成为年度最受欢迎的黑客工具榜首",
       "url":"https://www.cnbeta.com/articles/tech/990077.htm"
-    },
-    {
-      "name":"三星Galaxy Tab S7曝光：后置双摄 配备S Pen",
-      "url":"https://www.cnbeta.com/articles/tech/990075.htm"
     }
   ]
 }
