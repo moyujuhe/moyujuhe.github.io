@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-12 11:56:34",
+  "time":"2020-06-12 12:00:48",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"索尼PS5外观首次公布：黑白搭配科技感十足 双版本外加“全家桶”",
       "url":"https://hot.cnbeta.com/articles/game/989971.htm"
+    },
+    {
+      "name":"Wisk恢复Cora自动驾驶eVTOL空中测试",
+      "url":"https://www.cnbeta.com/articles/tech/990193.htm"
     },
     {
       "name":"一加宣布OnePlus 8即将迎来Android 11开发者预览",
@@ -237,10 +241,6 @@
     {
       "name":"BellSoft 与 VMware 合作改进 OpenJDK",
       "url":"https://www.cnbeta.com/articles/tech/990079.htm"
-    },
-    {
-      "name":"Python 和 Go 成为年度最受欢迎的黑客工具榜首",
-      "url":"https://www.cnbeta.com/articles/tech/990077.htm"
     }
   ]
 }
