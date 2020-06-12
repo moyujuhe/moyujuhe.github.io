@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-12 09:35:00",
+  "time":"2020-06-12 09:41:20",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"丁磊、张朝阳都在直播 意图有何区别？",
+      "url":"http://tech.sina.com.cn/csj/2020-06-12/doc-iircuyvi8039446.shtml"
+    },
     {
       "name":"爆料“司机直播性侵”网友致歉：我以为是滴滴司机",
       "url":"https://tech.sina.com.cn/i/2020-06-12/doc-iirczymk6567110.shtml"
@@ -13,6 +17,10 @@
     {
       "name":"LG便携投影仪发布：可塞入背包 3.3米投100英寸HD图像",
       "url":"https://tech.sina.com.cn/roll/2020-06-12/doc-iirczymk6561434.shtml"
+    },
+    {
+      "name":"网约车司机直播性侵女乘客？非法直播平台浮出水面",
+      "url":"https://tech.sina.com.cn/i/2020-06-12/doc-iircuyvi8039687.shtml"
     },
     {
       "name":"英国科学家原以为病毒样本都能追溯到中国，结果......",
@@ -193,14 +201,6 @@
     {
       "name":"“618”电商大战转风向：拼多多百亿补贴再度加码",
       "url":"https://tech.sina.com.cn/i/2020-06-12/doc-iircuyvi7999714.shtml"
-    },
-    {
-      "name":"电商直播背后的供应链之争：拼多多深度布局珠三角",
-      "url":"https://tech.sina.com.cn/roll/2020-06-12/doc-iirczymk6528290.shtml"
-    },
-    {
-      "name":"苹果电脑或使用自研芯片 ARM和英特尔架构之战再开启？",
-      "url":"https://tech.sina.com.cn/it/2020-06-12/doc-iircuyvi7999644.shtml"
     }
   ]
 }
