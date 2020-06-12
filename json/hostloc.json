@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-12 19:36:21",
+  "time":"2020-06-12 19:40:34",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"碳云家上海CN2 NAT",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702724&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"求一个可以国内使用的dd系统的脚本",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702723&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"618活动— ucloud的香港云主机1折起售啦！",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702692&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"号外，6月12日VPS信号旗播报99A1P翻车事件",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702691&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
