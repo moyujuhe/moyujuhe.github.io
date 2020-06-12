@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-12 13:50:05",
+  "time":"2020-06-12 14:00:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"【传奇芯片设计大神Jim Keller又离职，英特尔失了总设计师】时隔仅2年，一代芯片设计大师Jim Keller，又恢复“自由身”。这次是从英特尔走人。20多年的工作经历中，Keller一次又一次创造了被认为是芯片行业中至关重要的领先部件：曾领导苹果开发A4和A5芯片，也是AMD K8和Zen芯片的设计师，更是特斯拉自动驾驶芯片的缔造者。",
+      "url":"https://www.qbitai.com/2020/06/15564.html"
+    },
     {
       "name":"全国首例未满12岁男孩骑ofo车祸身亡巨额索赔案宣判：被告赔偿6.7万余元",
       "url":"http://m.news.cctv.com/2020/06/12/ARTI9ykkTa5S1NzDA7tvAjDc200612.shtml"
@@ -93,10 +97,6 @@
     {
       "name":"一张毕业证引发的流浪人生：大学生不告而别16年，回家时已满头白发",
       "url":"https://www.douban.com/note/766993794/"
-    },
-    {
-      "name":"DNA 和 RNA 是什么味道的？",
-      "url":"https://mp.weixin.qq.com/s/f1b3Yv6VBdxyY5Godzn1IA"
     }
   ]
 }
