@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-12 08:11:53",
+  "time":"2020-06-12 08:16:07",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"索尼PS5外观首次公布：黑白搭配科技感十足 双版本外加“全家桶”",
       "url":"https://hot.cnbeta.com/articles/game/989971.htm"
+    },
+    {
+      "name":"PS5游戏发布会：《漫威蜘蛛侠：迈尔斯》今年假期首发登陆",
+      "url":"https://hot.cnbeta.com/articles/game/990025.htm"
     },
     {
       "name":".NET 5.0不再内置WinRT支持，可精简六万行代码",
@@ -237,10 +241,6 @@
     {
       "name":"万万没想到，特斯拉和比亚迪用上了同一种电池",
       "url":"https://www.cnbeta.com/articles/tech/989911.htm"
-    },
-    {
-      "name":"京东在港上市最终定价226港元 拟筹资300.58亿港元",
-      "url":"https://www.cnbeta.com/articles/tech/989909.htm"
     }
   ]
 }
