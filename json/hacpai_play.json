@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-06-12 08:42:12",
+  "time":"2020-06-12 08:46:40",
   "data":[
+    {
+      "name":"Java 社区论坛系统 Sym v3.6.3 发布，编辑器支持类似 Typora 的即时渲染模式",
+      "url":"https://hacpai.com/article/1591922629093"
+    },
     {
       "name":"疫情殇 ~",
       "url":"https://hacpai.com/article/1591861534034"
@@ -177,10 +181,6 @@
     {
       "name":"GitHub 值得收藏的前端项目",
       "url":"https://hacpai.com/article/1586935409160"
-    },
-    {
-      "name":"一个能自动从视频中提取出阶段的库，能被广泛用于 app 启动速度自动评测",
-      "url":"https://hacpai.com/article/1586844551275"
     },
     {
       "name":"开发者福利：免费获取 JetBrains 全家桶",
