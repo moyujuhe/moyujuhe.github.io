@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-12 23:06:07",
+  "time":"2020-06-12 23:10:46",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"英国新增1541例新冠肺炎确诊病例，累计292950例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7818470"
+    },
     {
       "name":"北京西城区确诊病例涉及5处地点环境核酸检测均为阴性",
       "url":"https://www.thepaper.cn/newsDetail_forward_7818443"
@@ -77,10 +81,6 @@
     {
       "name":"幼儿园复学，小朋友们分不清老师了",
       "url":"https://www.thepaper.cn/newsDetail_forward_7815298"
-    },
-    {
-      "name":"国足主教练李铁走访民革中央：目标之一争取进入世界杯决赛圈",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7817726"
     }
   ]
 }
