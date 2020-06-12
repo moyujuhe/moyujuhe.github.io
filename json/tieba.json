@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-12 15:29:17",
+  "time":"2020-06-12 15:33:42",
   "title":"贴吧热度榜单",
   "data":[
     {
@@ -7,7 +7,7 @@
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278406&topic_name=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8CMojito"
     },
     {
-      "name":"山西省教育厅关于仝卓以伪造应届生身份参加高考问题的调查处理通报发布：仝卓参加山西省2013年普通高校招生全国统一各阶段、各科成绩无效的处理决定。",
+      "name":"山西省教育厅关于“仝卓事件”的调查处理通报发布：仝卓参加山西省2013年普通高校招生全国统一各阶段、各科成绩无效的处理决定。临汾通报仝卓事件：继父托人伪造其应届生身份被撤职，多人被处分。",
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278023&topic_name=%E4%BB%9D%E5%8D%932013%E5%B9%B4%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E6%97%A0%E6%95%88"
     },
     {
@@ -115,12 +115,12 @@
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278396&topic_name=%E9%99%88%E4%B9%94%E6%81%A9%E5%9B%9E%E6%80%BC%E7%BD%91%E5%8F%8B"
     },
     {
-      "name":"费德勒在个人社交平台上宣布，2020赛季报销，将退出本赛季余下所有比赛。今年2月费德勒接受了膝盖手术，恢复期出现问题，并再一次接受治疗。",
-      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278361&topic_name=%E8%B4%B9%E5%BE%B7%E5%8B%92%E6%9C%AC%E8%B5%9B%E5%AD%A3%E6%8A%A5%E9%94%80"
-    },
-    {
       "name":"Theshy在直播时透露：Rookie是第一梯队待机（排队轮到中），快的话明年可能就要服兵役了。",
       "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278374&topic_name=Rookie%E6%9C%80%E5%BF%AB%E6%98%8E%E5%B9%B4%E6%9C%8D%E5%85%B5%E5%BD%B9"
+    },
+    {
+      "name":"费德勒在个人社交平台上宣布，2020赛季报销，将退出本赛季余下所有比赛。今年2月费德勒接受了膝盖手术，恢复期出现问题，并再一次接受治疗。",
+      "url":"http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=278361&topic_name=%E8%B4%B9%E5%BE%B7%E5%8B%92%E6%9C%AC%E8%B5%9B%E5%AD%A3%E6%8A%A5%E9%94%80"
     }
   ]
 }
