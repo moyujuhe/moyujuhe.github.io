@@ -1,11 +1,7 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-12 13:23:27",
+  "time":"2020-06-12 13:27:57",
   "data":[
-    {
-      "name":"Java 社区论坛系统 Sym v3.6.3 发布，编辑器支持类似 Typora 的即时渲染模式",
-      "url":"https://hacpai.com/article/1591922629093"
-    },
     {
       "name":"你对你的未来惶恐过吗？",
       "url":"https://hacpai.com/article/1590731626834"
@@ -213,6 +209,10 @@
     {
       "name":"Solo 实现动态标题栏和页面樱花特效",
       "url":"https://hacpai.com/article/1589702789780"
+    },
+    {
+      "name":"请教一个关于 Solo 通过 NGINX 反代的问题",
+      "url":"https://hacpai.com/article/1591890932642"
     },
     {
       "name":"solo 头像问题求解",
