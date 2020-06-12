@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-12 17:13:45",
+  "time":"2020-06-12 17:18:11",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"很好奇为什么管理不设置打开帖子是标签页打开！",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702664&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"福利站域名被阿里云hold",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702663&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"出租 ION 黑五机器",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702636&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"金山云求个车友",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702635&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
