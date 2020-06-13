@@ -1,14 +1,14 @@
 {
-  "time":"2020-06-13 10:58:56",
+  "time":"2020-06-13 11:03:23",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"这周六路上和园区里车只有平时的 1/20，那些说现在很多公司都开始 996 的人给我出来",
-      "url":"https://www.v2ex.com/t/681165#reply20"
+      "url":"https://www.v2ex.com/t/681165#reply22"
     },
     {
       "name":"穷不是因为不努力，而是因为基因好",
-      "url":"https://www.v2ex.com/t/681157#reply11"
+      "url":"https://www.v2ex.com/t/681157#reply12"
     },
     {
       "name":"最近打算升级下笔记本的 SSD，大家有比较性价比的推荐吗？",
@@ -16,7 +16,7 @@
     },
     {
       "name":"GitHub 计划将\"master\"(主)分支修改为\"main\"",
-      "url":"https://www.v2ex.com/t/681180#reply8"
+      "url":"https://www.v2ex.com/t/681180#reply9"
     },
     {
       "name":"准备买台 MacBook Pro 13 / 16 寸 纠结，不知道选哪个，有没有背包推荐？",
@@ -43,6 +43,10 @@
       "url":"https://www.v2ex.com/t/681168#reply6"
     },
     {
+      "name":"Python 爬虫 请教能实现我的这两点吗?",
+      "url":"https://www.v2ex.com/t/681172#reply6"
+    },
+    {
       "name":"很多大公司对 Linux 办公设备支持真的很差劲",
       "url":"https://www.v2ex.com/t/681178#reply6"
     },
@@ -51,16 +55,16 @@
       "url":"https://www.v2ex.com/t/681170#reply5"
     },
     {
-      "name":"Python 爬虫 请教能实现我的这两点吗?",
-      "url":"https://www.v2ex.com/t/681172#reply5"
+      "name":"想辞职，但失去了人生方向怎么办",
+      "url":"https://www.v2ex.com/t/681173#reply5"
+    },
+    {
+      "name":"iPhone 7 接打电话听筒声音特别小，不知道什么问题，有人遇到过吗？怎么解决啊？",
+      "url":"https://www.v2ex.com/t/681176#reply5"
     },
     {
       "name":"[求推荐] 台式电脑，整机还是组装机？",
       "url":"https://www.v2ex.com/t/681184#reply5"
-    },
-    {
-      "name":"想辞职，但失去了人生方向怎么办",
-      "url":"https://www.v2ex.com/t/681173#reply4"
     },
     {
       "name":"iwatch 防騷擾能力如何？ esim 版的⋯⋯",
@@ -77,10 +81,6 @@
     {
       "name":"国内有没有类似 OneSignal/Airship 这样提供浏览器端推送服务的产品？",
       "url":"https://www.v2ex.com/t/681159#reply1"
-    },
-    {
-      "name":"iPhone 7 接打电话听筒声音特别小，不知道什么问题，有人遇到过吗？怎么解决啊？",
-      "url":"https://www.v2ex.com/t/681176#reply1"
     },
     {
       "name":"为什么国外的芯片设计这么牛逼？我学个 Datasheet 都得想个半天。。。",
@@ -121,6 +121,10 @@
     {
       "name":"这个节点问题目没事吧？碰到操作系统题目不会做求帮助",
       "url":"https://www.v2ex.com/t/681191#reply0"
+    },
+    {
+      "name":"[头疼] 请问有没有办法 把已经打包好的 windows exe 程序 进行二次封装并且进行加密授权处理？",
+      "url":"https://www.v2ex.com/t/681192#reply0"
     }
   ]
 }
