@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-13 12:47:23",
+  "time":"2020-06-13 12:51:35",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"WSL 2.0公告意外泄露了Windows 10 21H1预览",
+      "url":"https://www.cnbeta.com/articles/tech/990621.htm"
     },
     {
       "name":"长视频录制不用愁：Android 11已取消过时的4GB文件容量上限",
@@ -237,10 +241,6 @@
     {
       "name":"中概股回归潮下港交所将成大赢家 中企赴美IPO或进入低潮期",
       "url":"https://www.cnbeta.com/articles/tech/990507.htm"
-    },
-    {
-      "name":"营销号为何要批量炮制虚假信息？或是流量黑产的一环",
-      "url":"https://www.cnbeta.com/articles/tech/990505.htm"
     }
   ]
 }
