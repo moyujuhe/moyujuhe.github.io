@@ -1,11 +1,7 @@
 {
-  "time":"2020-06-14 06:36:29",
+  "time":"2020-06-14 06:40:36",
   "title":"知乎全站热榜",
   "data":[
-    {
-      "name":"6 月 13 日浙江温岭一槽罐车爆炸，砸塌路侧厂房发生二次爆炸，目前情况如何？事故原因可能是什么？",
-      "url":"https://www.zhihu.com/question/401198035"
-    },
     {
       "name":"如何看待进口三文鱼切割案板检测出新冠病毒？后续生鲜食品等的进口会被限制或暂停吗？",
       "url":"https://www.zhihu.com/question/401074955"
@@ -13,10 +9,6 @@
     {
       "name":"为什么大家会把周杰伦新歌《Mojito》念错，念成“莫吉托”？",
       "url":"https://www.zhihu.com/question/400912608"
-    },
-    {
-      "name":"浙江温岭一槽罐车爆炸，致多人死伤，部分民房倒塌，槽罐车爆炸威力有多大？该如何防护？",
-      "url":"https://www.zhihu.com/question/401209147"
     },
     {
       "name":"为什么万茜在《乘风破浪的姐姐》那么受欢迎?",
@@ -27,12 +19,16 @@
       "url":"https://www.zhihu.com/question/400980945"
     },
     {
-      "name":"如何看待北京新发地市场 45 人咽拭子阳性，当地防疫情况如何？有哪些需要注意？",
-      "url":"https://www.zhihu.com/question/401125106"
+      "name":"6 月 13 日浙江温岭一槽罐车爆炸，砸塌路侧厂房发生二次爆炸，目前情况如何？事故原因可能是什么？",
+      "url":"https://www.zhihu.com/question/401198035"
     },
     {
       "name":"武磊破门得分助西班牙人 2:0 击败阿拉维斯，如何评价这场比赛武磊的表现？",
       "url":"https://www.zhihu.com/question/401216171"
+    },
+    {
+      "name":"如何看待北京新发地市场 45 人咽拭子阳性，当地防疫情况如何？有哪些需要注意？",
+      "url":"https://www.zhihu.com/question/401125106"
     },
     {
       "name":"华语乐坛能否再出现像周杰伦、林俊杰、王力宏、陶喆这样的唱作人？",
@@ -45,6 +41,10 @@
     {
       "name":"如果像东野圭吾这样的推理作家杀人，警察真的能查出来吗？",
       "url":"https://www.zhihu.com/question/397749108"
+    },
+    {
+      "name":"浙江温岭一槽罐车爆炸，致多人死伤，部分民房倒塌，槽罐车爆炸威力有多大？该如何防护？",
+      "url":"https://www.zhihu.com/question/401209147"
     },
     {
       "name":"你见过保研最奇葩的方法是什么?",
@@ -67,20 +67,16 @@
       "url":"https://www.zhihu.com/question/397197245"
     },
     {
-      "name":"哪种颜色最让人觉得舒服？",
-      "url":"https://www.zhihu.com/question/389631728"
-    },
-    {
       "name":"「疫情让我们知道 80% 的朋友是累赘，80% 的会议是浪费」，你认同这一观点吗？",
       "url":"https://www.zhihu.com/question/401177694"
     },
     {
-      "name":"警方判定当当网创始人李国庆「抢公章事件」无违法行为，如何看待这一结果？",
-      "url":"https://www.zhihu.com/question/401174922"
+      "name":"哪种颜色最让人觉得舒服？",
+      "url":"https://www.zhihu.com/question/389631728"
     },
     {
-      "name":"非计算机专业的学生，从事编程工作最大的上升壁垒是什么？",
-      "url":"https://www.zhihu.com/question/400340084"
+      "name":"警方判定当当网创始人李国庆「抢公章事件」无违法行为，如何看待这一结果？",
+      "url":"https://www.zhihu.com/question/401174922"
     },
     {
       "name":"如何看待 zara 宣布关闭旗下 1200 个分店？",
@@ -103,12 +99,12 @@
       "url":"https://www.zhihu.com/question/399541242"
     },
     {
-      "name":"隆鼻老了以后会怎么样?",
-      "url":"https://www.zhihu.com/question/363178317"
-    },
-    {
       "name":"瘦20斤会变漂亮吗？",
       "url":"https://www.zhihu.com/question/392591592"
+    },
+    {
+      "name":"隆鼻老了以后会怎么样?",
+      "url":"https://www.zhihu.com/question/363178317"
     },
     {
       "name":"2020 KPL 春季总决赛 TS 4:3 成都 AG 超玩会夺得队史首冠，你有什么想说的？",
@@ -127,56 +123,60 @@
       "url":"https://www.zhihu.com/question/372929218"
     },
     {
-      "name":"2020年，你发现了哪些能给你生活幸福感的小物件？",
-      "url":"https://www.zhihu.com/question/400397268"
-    },
-    {
       "name":"为什么很多女生get不到表情包？",
       "url":"https://www.zhihu.com/question/393293873"
+    },
+    {
+      "name":"2020年，你发现了哪些能给你生活幸福感的小物件？",
+      "url":"https://www.zhihu.com/question/400397268"
     },
     {
       "name":"割双眼皮对颜值影响有多大？",
       "url":"https://www.zhihu.com/question/327572398"
     },
     {
-      "name":"历史上有过哪些悲剧性极强的人物？",
-      "url":"https://www.zhihu.com/question/296553435"
-    },
-    {
       "name":"「金融数学」在数学研究中处于什么地位？",
       "url":"https://www.zhihu.com/question/24349966"
     },
     {
-      "name":"如何评价华为 P40 最新广告：影像因感性而感动？",
-      "url":"https://www.zhihu.com/question/401048921"
+      "name":"历史上有过哪些悲剧性极强的人物？",
+      "url":"https://www.zhihu.com/question/296553435"
     },
     {
       "name":"你会准备在 2020 年内将手机更换成 5G 吗？为什么？",
       "url":"https://www.zhihu.com/question/397509964"
     },
     {
-      "name":"相比《创造101》时期，《炙热的我们》第三期中杨超越的舞台表现有进步吗？",
-      "url":"https://www.zhihu.com/question/401048927"
+      "name":"如何评价华为 P40 最新广告：影像因感性而感动？",
+      "url":"https://www.zhihu.com/question/401048921"
     },
     {
-      "name":"《王者荣耀》里有什么射手比较好上分？",
-      "url":"https://www.zhihu.com/question/398136650"
+      "name":"相比《创造101》时期，《炙热的我们》第三期中杨超越的舞台表现有进步吗？",
+      "url":"https://www.zhihu.com/question/401048927"
     },
     {
       "name":"为什么有些男生喜欢搞暧昧？",
       "url":"https://www.zhihu.com/question/23349029"
     },
     {
-      "name":"我的画又土又丑，问题出在哪里？",
-      "url":"https://www.zhihu.com/question/400896509"
+      "name":"《王者荣耀》里有什么射手比较好上分？",
+      "url":"https://www.zhihu.com/question/398136650"
+    },
+    {
+      "name":"有没有表现巨物恐惧症的图片？",
+      "url":"https://www.zhihu.com/question/378598799"
     },
     {
       "name":"为什么部分饲养仓鼠的人戾气这么重?",
       "url":"https://www.zhihu.com/question/400961102"
     },
     {
-      "name":"有没有表现巨物恐惧症的图片？",
-      "url":"https://www.zhihu.com/question/378598799"
+      "name":"我的画又土又丑，问题出在哪里？",
+      "url":"https://www.zhihu.com/question/400896509"
+    },
+    {
+      "name":"非计算机专业的学生，从事编程工作最大的上升壁垒是什么？",
+      "url":"https://www.zhihu.com/question/400340084"
     },
     {
       "name":"在“宝可梦”世界当一名训练家是不是特别的爽？",
@@ -191,12 +191,12 @@
       "url":"https://www.zhihu.com/question/384152562"
     },
     {
-      "name":"《英雄联盟》稻草人和狗熊的重做是否堪称完全失败？",
-      "url":"https://www.zhihu.com/question/400064492"
-    },
-    {
       "name":"为什么中国不推广按钮式红绿灯？",
       "url":"https://www.zhihu.com/question/354249794"
+    },
+    {
+      "name":"《英雄联盟》稻草人和狗熊的重做是否堪称完全失败？",
+      "url":"https://www.zhihu.com/question/400064492"
     },
     {
       "name":"呼伦贝尔的最佳旅游时间是什么时候？",
