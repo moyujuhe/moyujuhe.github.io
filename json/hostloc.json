@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-13 13:17:05",
+  "time":"2020-06-13 13:21:16",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"为什么国内机改了host和Dns，解析也正常了，Github还是不能用",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702980&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"来看看你们有几个最火的帖子？我先来，我有3个",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702979&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"MJJ们左手资源站，右手卖网盘会员，感觉好赚钱啊",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702951&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"如何高效备份网站",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702950&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
