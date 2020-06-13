@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-13 16:20:54",
+  "time":"2020-06-13 16:25:17",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"研究发现长期处于负面思维更易患老年痴呆症",
+      "url":"https://www.cnbeta.com/articles/science/990657.htm"
     },
     {
       "name":"编程语言最新排名：Java最受欢迎、JavaScript用户最多",
@@ -237,10 +241,6 @@
     {
       "name":"爱彼迎与纽约市达成和解：将交出房主数据",
       "url":"https://www.cnbeta.com/articles/tech/990543.htm"
-    },
-    {
-      "name":"Regeneron公司的突破性新冠药物或能预防和治疗感染",
-      "url":"https://www.cnbeta.com/articles/science/990541.htm"
     }
   ]
 }
