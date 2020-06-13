@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-06-13 21:19:04",
+  "time":"2020-06-13 21:23:16",
   "data":[
+    {
+      "name":"给大家安利一个看漫画的♂软件",
+      "url":"https://hacpai.com/article/1592038006225"
+    },
     {
       "name":"20200612 TGIF",
       "url":"https://hacpai.com/article/1591925426873"
@@ -173,10 +177,6 @@
     {
       "name":"一个 golang HTTP 客户端",
       "url":"https://hacpai.com/article/1587095693333"
-    },
-    {
-      "name":"20200417 TGIF",
-      "url":"https://hacpai.com/article/1587086832435"
     },
     {
       "name":"[自荐]：个人开源 Web 应用——倾城之链",
