@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-14 00:10:35",
+  "time":"2020-06-14 00:15:03",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"琉球群岛发生6.7级地震，震源深度150千米",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7833665"
+    },
     {
       "name":"贵州正安县碧峰镇特大暴雨灾害致8人死亡5人失联",
       "url":"https://www.thepaper.cn/newsDetail_forward_7833654"
@@ -77,10 +81,6 @@
     {
       "name":"肯尼亚一架警用直升机坠机，致3人重伤3人轻伤",
       "url":"https://www.thepaper.cn/newsDetail_forward_7833464"
-    },
-    {
-      "name":"直击｜温岭大溪槽罐车爆炸已10人死亡，救援持续进行中",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7833360"
     }
   ]
 }
