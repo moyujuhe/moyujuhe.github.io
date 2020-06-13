@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-14 02:26:26",
+  "time":"2020-06-14 02:31:25",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"Android 11 首个测试版来了 这五大重点更新值得你关注",
+      "url":"https://www.cnbeta.com/articles/tech/990731.htm"
     },
     {
       "name":"美光起诉联电窃密案宣判：联电被罚1亿新台币、三名员工判刑",
@@ -237,10 +241,6 @@
     {
       "name":"Android 11更新媒体存储API 第三方App也可用上回收站",
       "url":"https://www.cnbeta.com/articles/tech/990617.htm"
-    },
-    {
-      "name":"Windows 10六月累积更新导致系统错误阻止应用程序的运行",
-      "url":"https://www.cnbeta.com/articles/tech/990615.htm"
     }
   ]
 }
