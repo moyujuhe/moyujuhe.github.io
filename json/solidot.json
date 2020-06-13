@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-13 13:21:13",
+  "time":"2020-06-13 13:25:24",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Windows 10 最新更新破坏了部分型号打印机的功能",
+      "url":"https://www.solidot.org/story?sid=64650"
+    },
     {
       "name":"我的小书屋站长被判刑一年四个月",
       "url":"https://www.solidot.org/story?sid=64649"
@@ -77,10 +81,6 @@
     {
       "name":"ARM China 上演董事会争夺战",
       "url":"https://www.solidot.org/story?sid=64631"
-    },
-    {
-      "name":"美国议员提议为半导体业提供228亿美元援助",
-      "url":"https://www.solidot.org/story?sid=64630"
     }
   ]
 }
