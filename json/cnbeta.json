@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-13 13:34:45",
+  "time":"2020-06-13 13:39:11",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"苹果因允许开发者在App Store提供战利品盒而遭起诉",
+      "url":"https://www.cnbeta.com/articles/tech/990625.htm"
     },
     {
       "name":"即便天气变热 人们仍应该佩戴口罩",
@@ -237,10 +241,6 @@
     {
       "name":"新版Edge浏览器已支持自定义新建标签页的默认背景图像",
       "url":"https://www.cnbeta.com/articles/tech/990511.htm"
-    },
-    {
-      "name":"宝马iNext量产版纽北试跑：续航750公里或为全球最长",
-      "url":"https://www.cnbeta.com/articles/tech/990509.htm"
     }
   ]
 }
