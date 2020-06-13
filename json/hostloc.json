@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-14 04:21:33",
+  "time":"2020-06-14 04:25:46",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"公众号关注回复自动发卡密程序",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703177&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"WHMCS Vendor 2.0这个插件谁有啊",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703175&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"阿里可能没有3.0了，找个替代鸡",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703148&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"联通还有便宜好用的鸡吗",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703147&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
