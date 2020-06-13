@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-14 07:31:19",
+  "time":"2020-06-14 07:35:33",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"商家在其他网站上卖货难度加大？亚马逊正受到美国两个州的审查",
+      "url":"https://www.cnbeta.com/articles/tech/990735.htm"
     },
     {
       "name":"《光环3》4K分辨率最高画质设置截图分享",
@@ -237,10 +241,6 @@
     {
       "name":"WSL 2.0公告意外泄露了Windows 10 21H1预览",
       "url":"https://www.cnbeta.com/articles/tech/990621.htm"
-    },
-    {
-      "name":"长视频录制不用愁：Android 11已取消过时的4GB文件容量上限",
-      "url":"https://www.cnbeta.com/articles/tech/990619.htm"
     }
   ]
 }
