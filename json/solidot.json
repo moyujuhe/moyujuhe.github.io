@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-13 12:12:26",
+  "time":"2020-06-13 12:16:46",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"我的小书屋站长被判刑一年四个月",
+      "url":"https://www.solidot.org/story?sid=64649"
+    },
     {
       "name":"卵子被发现可能会吸引特定精子",
       "url":"https://www.solidot.org/story?sid=64648"
@@ -77,10 +81,6 @@
     {
       "name":"美国议员提议为半导体业提供228亿美元援助",
       "url":"https://www.solidot.org/story?sid=64630"
-    },
-    {
-      "name":"Google 下架快手的 Zynn",
-      "url":"https://www.solidot.org/story?sid=64629"
     }
   ]
 }
