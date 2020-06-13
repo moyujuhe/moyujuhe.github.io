@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-13 12:33:57",
+  "time":"2020-06-13 12:38:16",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"有没有办法可以禁止Windows管理员新建用户",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702965&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"azure上海的机器有没有大佬有卖",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702964&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"明盘700收个E3",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702931&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"创业板马上要注册制了哈",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702929&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
