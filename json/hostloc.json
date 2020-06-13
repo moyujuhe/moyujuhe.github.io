@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-13 11:33:41",
+  "time":"2020-06-13 11:37:57",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"[不懂就问] 为什么 ntpd 进程监听这么多地址呢？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702952&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"MJJ们左手资源站，右手卖网盘会员，感觉好赚钱啊",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702951&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -101,10 +105,6 @@
     {
       "name":"求大佬推荐一款国内速度还行的国外杜甫",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702913&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"头回看到台式机电源 还有扩展接口，插上线就可以给sata供电",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=702912&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
