@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-13 13:30:25",
+  "time":"2020-06-13 13:34:45",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"北京出现聚集性新冠疫情",
+      "url":"https://www.solidot.org/story?sid=64651"
+    },
     {
       "name":"Windows 10 最新更新破坏了部分型号打印机的功能",
       "url":"https://www.solidot.org/story?sid=64650"
@@ -77,10 +81,6 @@
     {
       "name":"苹果市值突破 1.5 万亿美元",
       "url":"https://www.solidot.org/story?sid=64632"
-    },
-    {
-      "name":"ARM China 上演董事会争夺战",
-      "url":"https://www.solidot.org/story?sid=64631"
     }
   ]
 }
