@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-13 12:16:45",
+  "time":"2020-06-13 12:20:59",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"Android 11更新媒体存储API 第三方App也可用上回收站",
+      "url":"https://www.cnbeta.com/articles/tech/990617.htm"
     },
     {
       "name":"Windows 10六月累积更新导致系统错误阻止应用程序的运行",
@@ -237,10 +241,6 @@
     {
       "name":"PHP庆祝25周年 朝着8.0版本继续努力",
       "url":"https://www.cnbeta.com/articles/tech/990503.htm"
-    },
-    {
-      "name":"特斯拉健康高管喊话员工：工作场所没有新增病例",
-      "url":"https://www.cnbeta.com/articles/tech/990501.htm"
     }
   ]
 }
