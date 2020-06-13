@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-13 14:05:29",
+  "time":"2020-06-13 14:09:40",
   "title":"V2EX热帖",
   "data":[
     {
@@ -16,7 +16,7 @@
     },
     {
       "name":"GitHub 计划将\"master\"(主)分支修改为\"main\"",
-      "url":"https://www.v2ex.com/t/681180#reply22"
+      "url":"https://www.v2ex.com/t/681180#reply23"
     },
     {
       "name":"Python 爬虫 请教能实现我的这两点吗?",
@@ -115,6 +115,10 @@
       "url":"https://www.v2ex.com/t/681164#reply4"
     },
     {
+      "name":"chrome 频繁崩溃已经令我崩溃了",
+      "url":"https://www.v2ex.com/t/681224#reply3"
+    },
+    {
       "name":"感觉 macOS 10.15.5 与 10.12.6 没什么不同",
       "url":"https://www.v2ex.com/t/681167#reply3"
     },
@@ -133,14 +137,6 @@
     {
       "name":"一直不明白为何 reno 拥塞控制算法，在快速恢复阶段要把拥塞窗口减为原来的一半 + 3 ， 主要不理解为何是 一半呢",
       "url":"https://www.v2ex.com/t/681208#reply3"
-    },
-    {
-      "name":"Python 实现 switch-case 问题请教",
-      "url":"https://www.v2ex.com/t/681219#reply2"
-    },
-    {
-      "name":"chrome 频繁崩溃已经令我崩溃了",
-      "url":"https://www.v2ex.com/t/681224#reply2"
     }
   ]
 }
