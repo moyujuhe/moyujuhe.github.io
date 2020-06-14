@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-14 18:11:52",
+  "time":"2020-06-14 18:16:08",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"我的A1P也挂了，怎么联系补偿",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703390&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"法国杜甫16欧元，来不及了快上车",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703389&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"6月14日VPS信号旗播报彩虹数据封锁代理商事件",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703361&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"LINUX下如何挂载RAW格式的硬盘",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703359&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
