@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-14 13:05:09",
+  "time":"2020-06-14 13:09:51",
   "title":"煎蛋网",
   "data":[
+    {
+      "name":"一两行的小短篇",
+      "url":"http://jandan.net/p/107330"
+    },
     {
       "name":"如果你以光速骑自行车，在路人眼里是什么样",
       "url":"http://jandan.net/p/107329"
@@ -93,10 +97,6 @@
     {
       "name":"细菌通过自杀式袭击消灭竞争对手",
       "url":"http://jandan.net/p/107302"
-    },
-    {
-      "name":"Ambrose Bierce的三个小短篇",
-      "url":"http://jandan.net/p/107301"
     }
   ]
 }
