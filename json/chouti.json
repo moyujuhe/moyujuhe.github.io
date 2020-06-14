@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-14 12:00:05",
+  "time":"2020-06-14 12:15:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"【北京新增新冠肺炎确诊病例36例，病例详情公布】在新发地市场工作者27例，曾直接或间接暴露于新发地市场者9例；通过主动就医发现11例，疫情溯源筛查主动发现25例。",
+      "url":"https://www.yidianzixun.com/article/0Pbmp95U"
+    },
     {
       "name":"870万「后浪」的毕业季：为了offer，我太难了",
       "url":"https://36kr.com/p/750777882300288"
@@ -15,7 +19,7 @@
       "url":"https://mp.weixin.qq.com/s/AseH_MDMe1Oi7TtWQ3iDzw"
     },
     {
-      "name":"伦敦持续“硝烟弥漫” 反种族歧视抗议遭遇强烈极端分子强烈反制",
+      "name":"伦敦持续“硝烟弥漫”，反种族歧视抗议遭遇强烈极端分子强烈反制",
       "url":"http://world.huanqiu.com/article/3ye0BViwzb2"
     },
     {
@@ -97,10 +101,6 @@
     {
       "name":"这些封面设计师是跟作者有仇吗？",
       "url":"https://mp.weixin.qq.com/s/TJ9h1BZvJJQy0fb-gjak4g"
-    },
-    {
-      "name":"6月12日北京新增6例确诊病例，具体活动小区或场所公布",
-      "url":"http://m.news.cctv.com/2020/06/14/ARTIcveFtcTeaDUR4e5X31Rv200614.shtml"
     }
   ]
 }
