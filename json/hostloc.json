@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-14 23:40:22",
+  "time":"2020-06-14 23:45:00",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"甲骨文注册提示账单地址不对咋办",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703515&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"阿里云香港ECS，电信 联通走NTT 移动走pccw 正价套餐都这么烂",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703513&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"收点域名，3杂cn,4字母com",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703486&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"新版的CFP面板如何在宝塔安装呀",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703484&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
