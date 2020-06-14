@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-14 15:00:38",
+  "time":"2020-06-14 15:04:53",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"软件定义无线电网站疑在压力下关闭",
+      "url":"https://www.solidot.org/story?sid=64652"
+    },
     {
       "name":"北京出现聚集性新冠疫情",
       "url":"https://www.solidot.org/story?sid=64651"
@@ -77,10 +81,6 @@
     {
       "name":"亚马逊暂停执法部门使用其面部识别服务",
       "url":"https://www.solidot.org/story?sid=64633"
-    },
-    {
-      "name":"苹果市值突破 1.5 万亿美元",
-      "url":"https://www.solidot.org/story?sid=64632"
     }
   ]
 }
