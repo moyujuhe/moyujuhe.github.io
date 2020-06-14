@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-14 13:27:57",
+  "time":"2020-06-14 13:32:19",
   "data":[
     {
       "name":"你对你的未来惶恐过吗？",
@@ -105,10 +105,6 @@
     {
       "name":"面包与理想（又辞职了，让我感慨一下吧）",
       "url":"https://hacpai.com/article/1591143787117"
-    },
-    {
-      "name":"docker 运行 solo 镜像问题",
-      "url":"https://hacpai.com/article/1589432894821"
     },
     {
       "name":"把你们觉得有深度有趣有思想的书丢过来吧",
@@ -241,6 +237,10 @@
     {
       "name":"有没有人要黑苹果教程",
       "url":"https://hacpai.com/article/1590910741779"
+    },
+    {
+      "name":"20200529 TGIF",
+      "url":"https://hacpai.com/article/1590690280420"
     }
   ]
 }
