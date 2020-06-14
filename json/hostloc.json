@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-14 09:21:24",
+  "time":"2020-06-14 09:25:35",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"推送loc新帖的qq群来一个",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703197&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"ntp网站http://www.ntp.org.cn/挂了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703195&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"溢价收搬瓦工DC9 gia 60几刀那款",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703159&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"KDatacenter貌似凉了。。",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703158&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
