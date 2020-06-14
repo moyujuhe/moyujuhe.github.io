@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-15 01:56:02",
+  "time":"2020-06-15 02:00:11",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"南方电信  GCP台湾 晚高峰卡爆",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703535&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"T楼送一台NAT鸡",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703534&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -97,10 +101,6 @@
     {
       "name":"占二楼秘笈",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703505&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"测HZ的速度",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703504&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
