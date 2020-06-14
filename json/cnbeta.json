@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-14 08:26:13",
+  "time":"2020-06-14 08:30:24",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,18 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"微软公布 Windows Terminal 2.0 路线图",
+      "url":"https://www.cnbeta.com/articles/tech/990771.htm"
+    },
+    {
+      "name":"2020年开发者生态报告：Python 超越 Java",
+      "url":"https://www.cnbeta.com/articles/tech/990769.htm"
+    },
+    {
+      "name":"[图]Windows Update出现BUG：循环安装驱动程序",
+      "url":"https://www.cnbeta.com/articles/tech/990767.htm"
     },
     {
       "name":"[图]三星Galaxy Z Flip 5G也会有黑色、灰色和铜色三种颜色",
@@ -229,18 +241,6 @@
     {
       "name":"研究发现长期处于负面思维更易患老年痴呆症",
       "url":"https://www.cnbeta.com/articles/science/990657.htm"
-    },
-    {
-      "name":"编程语言最新排名：Java最受欢迎、JavaScript用户最多",
-      "url":"https://www.cnbeta.com/articles/tech/990655.htm"
-    },
-    {
-      "name":"“网约车司机直播迷药性侵案”爆料网友致歉：好心办坏事",
-      "url":"https://www.cnbeta.com/articles/tech/990653.htm"
-    },
-    {
-      "name":"优麒麟 20.04-V3 发布 修复加密PDF预览崩溃等问题",
-      "url":"https://www.cnbeta.com/articles/tech/990651.htm"
     }
   ]
 }
