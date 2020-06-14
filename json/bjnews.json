@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-14 15:57:35",
+  "time":"2020-06-14 16:02:17",
   "title":"新京报-排行",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"北京通报36例确诊病例详情，新发地市场工作者27例",
       "url":"http://www.bjnews.com.cn/news/2020/06/14/738095.html"
+    },
+    {
+      "name":"温岭槽罐车爆炸已致19人死亡 官方发布会集体默哀",
+      "url":"http://www.bjnews.com.cn/wevideo/2020/06/14/738134.html"
     },
     {
       "name":"北京昨日新增36例确诊病例",
@@ -39,10 +43,6 @@
       "url":"http://www.bjnews.com.cn/news/2020/06/14/738058.html"
     },
     {
-      "name":"城管局长“强拆”学校大门，来龙去脉不能成谜",
-      "url":"http://www.bjnews.com.cn/opinion/2020/06/13/737914.html"
-    },
-    {
       "name":"《乘风破浪的姐姐》突然上线，30位姐姐集结",
       "url":"http://www.bjnews.com.cn/ent/2020/06/12/737492.html"
     },
@@ -51,16 +51,16 @@
       "url":"http://www.bjnews.com.cn/news/2020/06/07/735760.html"
     },
     {
+      "name":"昨日新增本土病例38例，北京36例辽宁2例",
+      "url":"http://www.bjnews.com.cn/news/2020/06/14/738054.html"
+    },
+    {
       "name":"国际丨日本大阪爆发抗议 上千人在美国领馆前示威",
       "url":"http://www.bjnews.com.cn/wevideo/2020/06/08/735936.html"
     },
     {
       "name":"国际丨美国现役军人伏击杀害警察 FBI介入调查",
       "url":"http://www.bjnews.com.cn/wevideo/2020/06/08/735912.html"
-    },
-    {
-      "name":"昨日新增本土病例38例，北京36例辽宁2例",
-      "url":"http://www.bjnews.com.cn/news/2020/06/14/738054.html"
     },
     {
       "name":"女子中790万彩票竟是店主伪造：私赔15万获谅解",
@@ -115,12 +115,12 @@
       "url":"http://www.bjnews.com.cn/ent/2020/05/30/733229.html"
     },
     {
-      "name":"国际丨飞机降落途中遭闪电击中 机身似乎要被一劈为二",
-      "url":"http://www.bjnews.com.cn/wevideo/2020/05/29/732701.html"
-    },
-    {
       "name":"《乘风破浪的姐姐》突然上线，30位姐姐集结",
       "url":"http://www.bjnews.com.cn/ent/2020/06/12/737492.html"
+    },
+    {
+      "name":"国际丨飞机降落途中遭闪电击中 机身似乎要被一劈为二",
+      "url":"http://www.bjnews.com.cn/wevideo/2020/05/29/732701.html"
     }
   ]
 }
