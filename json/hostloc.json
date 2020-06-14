@@ -1,9 +1,13 @@
 {
-  "time":"2020-06-14 09:12:34",
+  "time":"2020-06-14 09:17:15",
   "title":"全球主机交流论坛",
   "data":[
     {
-      "name":"有人要k2p吗，想换ax1800了",
+      "name":"ntp网站http://www.ntp.org.cn/挂了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703195&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"【明盘190出】有人要k2p吗，想换ax1800了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703194&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
@@ -105,10 +109,6 @@
     {
       "name":"KDatacenter貌似凉了。。",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703158&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"dedipath主机有那么差吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703157&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
