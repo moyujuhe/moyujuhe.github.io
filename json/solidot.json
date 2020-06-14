@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-14 16:45:35",
+  "time":"2020-06-14 16:50:00",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"特朗普未按计划退出 WHO",
+      "url":"https://www.solidot.org/story?sid=64654"
+    },
+    {
+      "name":"悉尼河流无故变紫",
+      "url":"https://www.solidot.org/story?sid=64653"
+    },
     {
       "name":"软件定义无线电网站疑在压力下关闭",
       "url":"https://www.solidot.org/story?sid=64652"
@@ -73,14 +81,6 @@
     {
       "name":"特斯拉成为市值最高的汽车公司",
       "url":"https://www.solidot.org/story?sid=64635"
-    },
-    {
-      "name":"James Webb 太空望远镜继续推迟发射时间",
-      "url":"https://www.solidot.org/story?sid=64634"
-    },
-    {
-      "name":"亚马逊暂停执法部门使用其面部识别服务",
-      "url":"https://www.solidot.org/story?sid=64633"
     }
   ]
 }
