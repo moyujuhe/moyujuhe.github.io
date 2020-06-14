@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-14 17:11:11",
+  "time":"2020-06-14 17:15:27",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"悉尼一条河流无故变紫",
+      "url":"https://www.cnbeta.com/articles/tech/990909.htm"
+    },
+    {
+      "name":"软件定义无线电技术演示网站SDR.hu已经关闭",
+      "url":"https://www.cnbeta.com/articles/tech/990907.htm"
     },
     {
       "name":"华为、苹果7/5nm需求大 台积电狂加EUV订单",
@@ -233,14 +241,6 @@
     {
       "name":"前十大晶圆代工厂商营收排名：台积电一骑绝尘 中芯国际第5",
       "url":"https://www.cnbeta.com/articles/tech/990795.htm"
-    },
-    {
-      "name":"Windows 10 开始采用 Windows Update 的方式分发 WSL2",
-      "url":"https://www.cnbeta.com/articles/tech/990793.htm"
-    },
-    {
-      "name":"[图]免费版Microsoft Teams新增会议安排、实时字幕和自定义背景功能",
-      "url":"https://www.cnbeta.com/articles/tech/990791.htm"
     }
   ]
 }
