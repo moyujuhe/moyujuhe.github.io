@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-14 17:50:07",
+  "time":"2020-06-14 17:54:30",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"央行批准美国运通的人民币结算业务了！以后结算就不用银联了。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703382&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"aria2+rclone上传google drive上传提速",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703381&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"全球硬件论坛",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703350&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"锐速支持ARM64结构吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703349&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
