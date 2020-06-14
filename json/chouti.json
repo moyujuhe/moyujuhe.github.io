@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-15 04:00:05",
+  "time":"2020-06-15 05:00:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"08奥运会开幕式上的六个孩子后来怎样了？",
+      "url":"https://www.douban.com/group/topic/164036546/"
+    },
     {
       "name":"【谈谈Notion的思想来源和投资人】Notion CEO  Ivan Zhao/赵伊 提到，Old Office 是演化而来的，不是最佳设计。Notion 是 post-MS Office，是抛开 Office 的历史包袱来设计。Notion的8位投资人的背景和豪华的业绩，侧面反映了那些嗅觉敏感的人感知的趋势大概是什么，或许 Notion 就是新的周期里面的一个顺应周期的东西。",
       "url":"https://mp.weixin.qq.com/s/eatQQa-ArDI96wROtX66dQ"
@@ -69,10 +73,6 @@
     {
       "name":"【Starlink送“数据中心”上天：九次共发射36000台Linux计算机】 6月13日，SpaceX使用猎鹰9火箭将58颗Starlink卫星送入轨道，加上上周刚发射的60颗星链卫星，星链计划的总体在轨卫星已经达到540颗左右。SpaceX运行的这些Starlink卫星，类似于数据中心里众多的服务器，当总量达到800颗时，即可在全美实现基本网络覆盖。",
       "url":"https://mp.weixin.qq.com/s/VIAuxRjkamgOeuCK1Q5_oA"
-    },
-    {
-      "name":"【疾控专家：新发地病毒基因测序发现来自欧洲方向】“通过全基因组测序发现病毒是从欧洲方向来的，初步判定与输入性有关。但病毒到底怎么来的，还无法确定。有可能是污染的海产品或肉类，或者进入市场的人通过分泌物进行传播。”",
-      "url":"https://weibo.com/tv/v/J6D7twY0R?fid=1034:4515803081408541"
     }
   ]
 }
