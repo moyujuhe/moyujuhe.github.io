@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-15 12:01:56",
+  "time":"2020-06-15 12:06:07",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"T楼送镇江电信30m独立服务器",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703654&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"长期找大佬合作收linode100刀 还有awsses",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703653&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -31,7 +35,7 @@
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703643&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
-      "name":"Microsoft 365 E3",
+      "name":"[已结帖]Microsoft 365 E3",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703642&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
@@ -105,10 +109,6 @@
     {
       "name":"回形针科普视频：海底光缆如何连接全球互联网",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703619&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"【求助】MX和CNAME 问题求助",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703618&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
