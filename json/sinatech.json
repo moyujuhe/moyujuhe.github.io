@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-15 09:09:10",
+  "time":"2020-06-15 09:12:07",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"巨型病毒是如何释放DNA物质感染细胞的？",
+      "url":"https://tech.sina.com.cn/d/f/2020-06-15/doc-iircuyvi8502879.shtml"
+    },
     {
       "name":"数据复盘：科技股被疫情重创的一个季度",
       "url":"http://tech.sina.com.cn/csj/2020-06-15/doc-iirczymk7031006.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"蔚来辟谣：江淮蔚来制造基地未发生火灾",
       "url":"https://tech.sina.com.cn/it/2020-06-14/doc-iirczymk6986209.shtml"
-    },
-    {
-      "name":"支付宝微信否认提供数据锁定新发地35万人：谣言",
-      "url":"https://tech.sina.com.cn/i/2020-06-14/doc-iircuyvi8443908.shtml"
     }
   ]
 }

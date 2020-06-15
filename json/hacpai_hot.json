@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-15 09:10:35",
+  "time":"2020-06-15 09:14:47",
   "data":[
     {
       "name":"你对你的未来惶恐过吗？",
@@ -199,6 +199,10 @@
       "url":"https://hacpai.com/article/1589702789780"
     },
     {
+      "name":"solo 安装问题",
+      "url":"https://hacpai.com/article/1592133139941"
+    },
+    {
       "name":"Java 社区论坛系统 Sym v3.6.3 发布，编辑器支持类似 Typora 的即时渲染模式",
       "url":"https://hacpai.com/article/1591922629093"
     },
@@ -237,10 +241,6 @@
     {
       "name":"20200529 TGIF",
       "url":"https://hacpai.com/article/1590690280420"
-    },
-    {
-      "name":"发现个新技巧，把微博当视频床，插到博客文章",
-      "url":"https://hacpai.com/article/1590505049651"
     }
   ]
 }
