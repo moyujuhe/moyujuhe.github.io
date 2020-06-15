@@ -1,7 +1,19 @@
 {
-  "time":"2020-06-16 00:33:32",
+  "time":"2020-06-16 00:37:41",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"科学家成功让实验鼠进入类似冬眠的状态",
+      "url":"https://www.solidot.org/story?sid=64669"
+    },
+    {
+      "name":"多所美国大学遭到勒索软件攻击",
+      "url":"https://www.solidot.org/story?sid=64668"
+    },
+    {
+      "name":"大部分新冠病例没有传播病毒，需要阻止的是超级传播者",
+      "url":"https://www.solidot.org/story?sid=64667"
+    },
     {
       "name":"北京半数市辖区报告新冠确诊病例",
       "url":"https://www.solidot.org/story?sid=64665"
@@ -69,18 +81,6 @@
     {
       "name":"我的小书屋站长被判刑一年四个月",
       "url":"https://www.solidot.org/story?sid=64649"
-    },
-    {
-      "name":"卵子被发现可能会吸引特定精子",
-      "url":"https://www.solidot.org/story?sid=64648"
-    },
-    {
-      "name":"两款播客应用从苹果应用商店下架",
-      "url":"https://www.solidot.org/story?sid=64647"
-    },
-    {
-      "name":"科学家首次在空间站制造出玻色-爱因斯坦凝聚",
-      "url":"https://www.solidot.org/story?sid=64646"
     }
   ]
 }
