@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-15 15:34:01",
+  "time":"2020-06-15 15:38:11",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"IKOULA开始了吧",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703744&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"CF 无法添加 eu.org 域名吗",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703743&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"公司自建邮局方案",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703713&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"现在还有2元能买到的域名吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703712&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
