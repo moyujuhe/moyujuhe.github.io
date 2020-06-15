@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-16 07:20:57",
+  "time":"2020-06-16 07:25:09",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"Linux Kernel 5.8 RC1 发布",
+      "url":"https://www.cnbeta.com/articles/soft/991417.htm"
+    },
+    {
+      "name":"硬件缺陷？用户反馈索尼Xperia 1/5侧面指纹体验差",
+      "url":"https://www.cnbeta.com/articles/tech/991415.htm"
     },
     {
       "name":"功能把微信越甩越远？手机QQ新版详细体验",
@@ -35,6 +43,10 @@
       "url":"https://www.cnbeta.com/articles/tech/991403.htm"
     },
     {
+      "name":"6.18价格新低不断涌现 十代酷睿便携本选购指南",
+      "url":"https://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/991383.htm"
+    },
+    {
       "name":"孟晚舟案再次开庭 未能就程序性安排作出决定",
       "url":"https://www.cnbeta.com/articles/tech/991401.htm"
     },
@@ -53,10 +65,6 @@
     {
       "name":"多所美国大学遭到勒索软件攻击",
       "url":"https://www.cnbeta.com/articles/tech/991393.htm"
-    },
-    {
-      "name":"6.18价格新低不断涌现 十代酷睿便携本选购指南",
-      "url":"https://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/991383.htm"
     },
     {
       "name":"苹果启动返校促销：买符合条件的产品今年送AirPods",
@@ -233,14 +241,6 @@
     {
       "name":"58同城最快本周签署私有化协议 估值逾80亿美元",
       "url":"https://www.cnbeta.com/articles/tech/991303.htm"
-    },
-    {
-      "name":"新一轮降价在即？国产特斯拉的换“芯”阳谋",
-      "url":"https://www.cnbeta.com/articles/tech/991301.htm"
-    },
-    {
-      "name":"AMD将改写10年来DIY市场历史：份额逼近30%",
-      "url":"https://www.cnbeta.com/articles/tech/991299.htm"
     }
   ]
 }
