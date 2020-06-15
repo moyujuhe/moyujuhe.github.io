@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-15 08:44:15",
+  "time":"2020-06-15 09:09:10",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"数据复盘：科技股被疫情重创的一个季度",
+      "url":"http://tech.sina.com.cn/csj/2020-06-15/doc-iirczymk7031006.shtml"
+    },
     {
       "name":"中国5G商用牌照发放一年 除了速度快还有什么优势？",
       "url":"https://tech.sina.com.cn/5g/i/2020-06-15/doc-iircuyvi8497215.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"支付宝微信否认提供数据锁定新发地35万人：谣言",
       "url":"https://tech.sina.com.cn/i/2020-06-14/doc-iircuyvi8443908.shtml"
-    },
-    {
-      "name":"日媒：半导体之争难化解 日韩重回贸易“对决”模式",
-      "url":"https://tech.sina.com.cn/roll/2020-06-14/doc-iircuyvi8420990.shtml"
     }
   ]
 }
