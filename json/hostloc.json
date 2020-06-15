@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-15 10:57:26",
+  "time":"2020-06-15 11:01:38",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"关于GCP实体卡验证",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703628&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"【T楼】送一个企业北岸车位",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703626&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"（出完结帖）买了个耳机 破产了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703591&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"突然有个疑问，GCP做站 能抗DDCC吗",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703589&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
