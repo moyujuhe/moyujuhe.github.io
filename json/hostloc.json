@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-16 06:04:41",
+  "time":"2020-06-16 06:08:59",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"手上有渠道可以随便开谷歌的机器",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703982&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"阿里云见好就收，翻车动机堪称套路云",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703981&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"spartanhost也太慢了吧 装个宝塔一个半小时",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703947&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"踢楼中的 NCCK家的香港杜甫脚本测试",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=703946&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
