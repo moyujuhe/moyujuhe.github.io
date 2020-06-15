@@ -1,7 +1,19 @@
 {
-  "time":"2020-06-15 11:27:35",
+  "time":"2020-06-15 11:31:48",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"天才背后的秘密",
+      "url":"https://www.solidot.org/story?sid=64659"
+    },
+    {
+      "name":"GitHub 将替换 master 这个术语",
+      "url":"https://www.solidot.org/story?sid=64658"
+    },
+    {
+      "name":"研究称囤积卫生纸的人只是在寻找一种安全的象征",
+      "url":"https://www.solidot.org/story?sid=64657"
+    },
     {
       "name":"美国年轻一代的性生活大幅减少",
       "url":"https://www.solidot.org/story?sid=64656"
@@ -69,18 +81,6 @@
     {
       "name":"哈工大等高校被禁止使用 MATLAB",
       "url":"https://www.solidot.org/story?sid=64640"
-    },
-    {
-      "name":"英特尔特定寄存器缓冲器数据采样 CPU 漏洞",
-      "url":"https://www.solidot.org/story?sid=64639"
-    },
-    {
-      "name":"诅咒能增加你的疼痛忍受力",
-      "url":"https://www.solidot.org/story?sid=64638"
-    },
-    {
-      "name":"3M 起诉抬高口罩价格的亚马逊商家",
-      "url":"https://www.solidot.org/story?sid=64637"
     }
   ]
 }
