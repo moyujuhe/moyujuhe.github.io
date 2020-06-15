@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-15 19:11:25",
+  "time":"2020-06-15 19:15:33",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"北京半数市辖区报告新冠确诊病例",
+      "url":"https://www.solidot.org/story?sid=64665"
+    },
     {
       "name":"天才背后的秘密",
       "url":"https://www.solidot.org/story?sid=64659"
@@ -77,10 +81,6 @@
     {
       "name":"MIT 终止与 Elsevier 的新合同协商",
       "url":"https://www.solidot.org/story?sid=64641"
-    },
-    {
-      "name":"哈工大等高校被禁止使用 MATLAB",
-      "url":"https://www.solidot.org/story?sid=64640"
     }
   ]
 }
