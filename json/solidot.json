@@ -1,10 +1,30 @@
 {
-  "time":"2020-06-15 20:32:29",
+  "time":"2020-06-15 20:37:20",
   "title":"奇客的资讯",
   "data":[
     {
       "name":"北京半数市辖区报告新冠确诊病例",
       "url":"https://www.solidot.org/story?sid=64665"
+    },
+    {
+      "name":"ESNI 进入草案状态",
+      "url":"https://www.solidot.org/story?sid=64664"
+    },
+    {
+      "name":"互联网档案馆提前终止国家紧急图书馆",
+      "url":"https://www.solidot.org/story?sid=64663"
+    },
+    {
+      "name":"汇丰将 65 个关系数据库迁移到一个全球数据库",
+      "url":"https://www.solidot.org/story?sid=64662"
+    },
+    {
+      "name":"微软称 Rust 是行业安全系统编程的最佳机会",
+      "url":"https://www.solidot.org/story?sid=64661"
+    },
+    {
+      "name":"科学家发现有 1.33 万年历史的中国鸟雕像",
+      "url":"https://www.solidot.org/story?sid=64660"
     },
     {
       "name":"天才背后的秘密",
@@ -61,26 +81,6 @@
     {
       "name":"科学家首次在空间站制造出玻色-爱因斯坦凝聚",
       "url":"https://www.solidot.org/story?sid=64646"
-    },
-    {
-      "name":"Jim Keller 从英特尔辞职",
-      "url":"https://www.solidot.org/story?sid=64645"
-    },
-    {
-      "name":"Twitter 删除 17 万中国水军账号",
-      "url":"https://www.solidot.org/story?sid=64644"
-    },
-    {
-      "name":"网易在香港二次上市",
-      "url":"https://www.solidot.org/story?sid=64643"
-    },
-    {
-      "name":"索尼透露 PS5 主机",
-      "url":"https://www.solidot.org/story?sid=64642"
-    },
-    {
-      "name":"MIT 终止与 Elsevier 的新合同协商",
-      "url":"https://www.solidot.org/story?sid=64641"
     }
   ]
 }
