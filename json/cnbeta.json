@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-15 14:24:50",
+  "time":"2020-06-15 14:29:01",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"Linus Torvalds宣布Linux Kernel 5.8的首个候选发布版本",
+      "url":"https://www.cnbeta.com/articles/soft/991209.htm"
     },
     {
       "name":"董明珠和雷军：一组纠缠而交错的平行线",
@@ -237,10 +241,6 @@
     {
       "name":"[图]六月累积更新导致Windows 10强制启用平板UI 图标间隔拉大",
       "url":"https://www.cnbeta.com/articles/tech/991095.htm"
-    },
-    {
-      "name":"字节跳动将于10月底在印度关闭两款Vigo应用",
-      "url":"https://www.cnbeta.com/articles/tech/991093.htm"
     }
   ]
 }
