@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-16 11:00:05",
+  "time":"2020-06-16 11:04:16",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"泄露的iOS 14曝光了新一代iMac一体机的图标",
+      "url":"https://www.cnbeta.com/articles/tech/991573.htm"
     },
     {
       "name":"[图]微软：本月开始测试Teams的49人视图模式，今年秋季正式上线",
@@ -237,10 +241,6 @@
     {
       "name":"CentOS 8.2 (2004) 发布",
       "url":"https://www.cnbeta.com/articles/soft/991419.htm"
-    },
-    {
-      "name":"新型薄膜可能让N95口罩得到重复利用",
-      "url":"https://www.cnbeta.com/articles/science/991457.htm"
     }
   ]
 }
