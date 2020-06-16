@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-16 23:33:57",
+  "time":"2020-06-16 23:38:35",
   "title":"奇客的资讯",
   "data":[
     {
@@ -13,6 +13,14 @@
     {
       "name":"Linux 5.8-rc1 释出",
       "url":"https://www.solidot.org/story?sid=64677"
+    },
+    {
+      "name":"朝鲜对韩朝联络办公室实施爆破",
+      "url":"https://www.solidot.org/story?sid=64676"
+    },
+    {
+      "name":"研究称戴口罩能有助于减少新冠感染",
+      "url":"https://www.solidot.org/story?sid=64675"
     },
     {
       "name":"在雇员偷走主密钥后南非银行必须替换客户的 1200 万张卡",
@@ -73,14 +81,6 @@
     {
       "name":"天才背后的秘密",
       "url":"https://www.solidot.org/story?sid=64659"
-    },
-    {
-      "name":"GitHub 将替换 master 这个术语",
-      "url":"https://www.solidot.org/story?sid=64658"
-    },
-    {
-      "name":"研究称囤积卫生纸的人只是在寻找一种安全的象征",
-      "url":"https://www.solidot.org/story?sid=64657"
     }
   ]
 }
