@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 01:49:28",
+  "time":"2020-06-17 01:53:42",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美国总统特朗普签署警方执法行政令",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7869352"
+    },
     {
       "name":"江苏：13个设区市采集各类监测样本7845份，全为阴性",
       "url":"https://www.thepaper.cn/newsDetail_forward_7869349"
@@ -77,10 +81,6 @@
     {
       "name":"最全盘点！北京近5日新增106名患者居住地所涉及区域",
       "url":"https://www.thepaper.cn/newsDetail_forward_7869230"
-    },
-    {
-      "name":"大兴机场巴士临时取消两个站点上下客，首都机场多个班线停运",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7869225"
     }
   ]
 }
