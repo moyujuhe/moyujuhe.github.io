@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-16 18:10:31",
+  "time":"2020-06-16 18:25:49",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"苹果回应欧盟调查：投诉毫无根据",
+      "url":"https://tech.sina.com.cn/i/2020-06-16/doc-iircuyvi8812083.shtml"
+    },
     {
       "name":"iOS用户可以修改微信号了！支持一年修改一次",
       "url":"https://tech.sina.com.cn/i/2020-06-16/doc-iirczymk7339574.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"微信首次开通专区邀请MCN机构入驻 满足商家对内容的需求",
       "url":"https://tech.sina.com.cn/i/2020-06-16/doc-iircuyvi8753655.shtml"
-    },
-    {
-      "name":"东南亚打车软件巨头Grab或将宣布裁员300人",
-      "url":"https://tech.sina.com.cn/i/2020-06-16/doc-iirczymk7284180.shtml"
     }
   ]
 }
