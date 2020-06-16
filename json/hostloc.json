@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-16 21:30:40",
+  "time":"2020-06-16 21:34:54",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"超微X9SCI-LN4相关问题",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704398&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"这算是个好消息吧，关于收款",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704397&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"求个源码——PHP仿哔哩哔哩视频播放器源码",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704366&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"如何登出在plesk面板的cloudflare插件",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704365&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
