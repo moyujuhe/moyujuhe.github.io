@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-16 20:39:05",
+  "time":"2020-06-16 20:43:21",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"华硕首次把锐龙4000U APU做进迷你机：最高8核心、四路4K",
+      "url":"https://www.cnbeta.com/articles/tech/991831.htm"
     },
     {
       "name":"国产全球首个新冠灭活疫苗I/II期研究揭盲：抗体阳转率100%",
@@ -237,10 +241,6 @@
     {
       "name":"铠侠发布业内首款24Gbps SAS串口固态硬盘：最大30TB、读速4300MB/s",
       "url":"https://www.cnbeta.com/articles/tech/991717.htm"
-    },
-    {
-      "name":"HTC推出Vive XR应用套件 为客户带来增强的虚拟世界体验",
-      "url":"https://www.cnbeta.com/articles/tech/991715.htm"
     }
   ]
 }
