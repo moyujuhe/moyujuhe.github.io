@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-17 03:14:43",
+  "time":"2020-06-17 03:18:59",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"苹果将在美国新增重开75家零售商店",
+      "url":"https://www.cnbeta.com/articles/tech/991887.htm"
     },
     {
       "name":"CRISP 技术治愈了三名遗传病患者",
@@ -31,8 +35,8 @@
       "url":"https://www.cnbeta.com/articles/tech/991877.htm"
     },
     {
-      "name":"Android 11渲染图显示共享列表集成了类似AirDrop的功能",
-      "url":"https://www.cnbeta.com/articles/soft/991875.htm"
+      "name":"Android 11共享列表已集成类似AirDrop的功能",
+      "url":"https://www.cnbeta.com/articles/tech/991875.htm"
     },
     {
       "name":"5G 标准制定绕不过华为 美国无奈“松绑”",
@@ -237,10 +241,6 @@
     {
       "name":"澳大利亚初创公司H2X称已制造出新氢燃料电池原型车",
       "url":"https://www.cnbeta.com/articles/tech/991773.htm"
-    },
-    {
-      "name":"[图]京东云启动6·18大促：看直播1折买云主机 注册免费领61.8元",
-      "url":"https://www.jdcloud.com/cn/live/1132?utm_source=DMT_cnbeta&utm_medium=D2&utm_campaign=618live&utm_term=Virtual-Machines"
     }
   ]
 }
