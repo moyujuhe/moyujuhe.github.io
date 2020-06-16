@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-16 23:25:23",
+  "time":"2020-06-16 23:29:37",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"北京朝阳辟谣：三里屯街道辖区（含工体）无确诊病例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7869328"
+    },
     {
       "name":"广西柳州一女司机驾车经过斑马线时撞上行人，致10人受伤",
       "url":"https://www.thepaper.cn/newsDetail_forward_7869311"
@@ -77,10 +81,6 @@
     {
       "name":"专家：目前没有证据表明三文鱼是新冠病毒的宿主或中间宿主",
       "url":"https://www.thepaper.cn/newsDetail_forward_7869234"
-    },
-    {
-      "name":"北京市应急响应级别由三级上调至二级",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7869236"
     }
   ]
 }
