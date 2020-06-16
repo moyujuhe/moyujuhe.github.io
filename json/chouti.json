@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-16 23:00:05",
+  "time":"2020-06-16 23:30:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"Boston Dynamics 的(外星生物)机械狗Spot机器人针对美国企业开售了，整了一挺酷的宣传片，看起来好像在为机器人占领地球预热。瞅了眼，基本款貌似是74500美元，不知道要不要单配什么操纵软件。",
+      "url":"https://video.weibo.com/show?fid=1034:4516567925587986"
+    },
     {
       "name":"两千元的「反 5G 量子设备」，到底是怎样的智商税？",
       "url":"https://www.ifanr.com/1344839?utm_source=rss&utm_medium=rss&utm_campaign="
@@ -93,10 +97,6 @@
     {
       "name":"微信：iOS用户也可以修改微信号了",
       "url":"https://mp.weixin.qq.com/s/uAJZ-9luDbTuLJuInGvGCA"
-    },
-    {
-      "name":"纽约最贵米其林餐厅因疫情卖盒饭！800美元一盒值不值？",
-      "url":"https://www.bilibili.com/video/BV1Mt4y197oQ"
     }
   ]
 }
