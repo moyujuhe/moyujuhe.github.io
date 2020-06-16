@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 00:49:03",
+  "time":"2020-06-17 00:53:24",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"江苏：13个设区市采集各类监测样本7845份，全部为阴",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7869349"
+    },
     {
       "name":"黑龙江全面落实常态防控要求，对北京来返人员实行管控措施",
       "url":"https://www.thepaper.cn/newsDetail_forward_7869346"
@@ -77,10 +81,6 @@
     {
       "name":"大兴机场巴士临时取消两个站点上下客，首都机场多个班线停运",
       "url":"https://www.thepaper.cn/newsDetail_forward_7869225"
-    },
-    {
-      "name":"北京新发地临时交易区交易量增加，进场销售车辆增至350辆",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7869224"
     }
   ]
 }
