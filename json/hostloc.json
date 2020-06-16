@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-16 20:30:42",
+  "time":"2020-06-16 20:35:01",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"垃圾佬统计",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704368&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"小主机开机时间猜测？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704367&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"网站测速去17ce还是ce8准确？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704342&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"aws的账号怎么弄",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704341&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
