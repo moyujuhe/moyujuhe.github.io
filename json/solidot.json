@@ -1,7 +1,23 @@
 {
-  "time":"2020-06-16 16:16:38",
+  "time":"2020-06-16 16:20:49",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"在雇员偷走主密钥后南非银行必须替换客户的 1200 万张卡",
+      "url":"https://www.solidot.org/story?sid=64674"
+    },
+    {
+      "name":"Google Chrome 测试隐藏完整网址",
+      "url":"https://www.solidot.org/story?sid=64673"
+    },
+    {
+      "name":"美将修改禁令允许在 5G 标准制定方面与华为合作",
+      "url":"https://www.solidot.org/story?sid=64672"
+    },
+    {
+      "name":"菲律宾知名记者面临六年徒刑",
+      "url":"https://www.solidot.org/story?sid=64671"
+    },
     {
       "name":"美国最高法院裁决雇主不该歧视 LGBT 员工",
       "url":"https://www.solidot.org/story?sid=64670"
@@ -65,22 +81,6 @@
     {
       "name":"特朗普未按计划退出 WHO",
       "url":"https://www.solidot.org/story?sid=64654"
-    },
-    {
-      "name":"悉尼河流无故变紫",
-      "url":"https://www.solidot.org/story?sid=64653"
-    },
-    {
-      "name":"软件定义无线电网站疑在压力下关闭",
-      "url":"https://www.solidot.org/story?sid=64652"
-    },
-    {
-      "name":"北京出现聚集性新冠疫情",
-      "url":"https://www.solidot.org/story?sid=64651"
-    },
-    {
-      "name":"Windows 10 最新更新破坏了部分型号打印机的功能",
-      "url":"https://www.solidot.org/story?sid=64650"
     }
   ]
 }
