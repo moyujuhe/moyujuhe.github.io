@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-16 13:24:05",
+  "time":"2020-06-16 13:28:36",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"美国最高法院裁决雇主不该歧视 LGBT 员工",
+      "url":"https://www.solidot.org/story?sid=64670"
+    },
     {
       "name":"科学家成功让实验鼠进入类似冬眠的状态",
       "url":"https://www.solidot.org/story?sid=64669"
@@ -77,10 +81,6 @@
     {
       "name":"Windows 10 最新更新破坏了部分型号打印机的功能",
       "url":"https://www.solidot.org/story?sid=64650"
-    },
-    {
-      "name":"我的小书屋站长被判刑一年四个月",
-      "url":"https://www.solidot.org/story?sid=64649"
     }
   ]
 }
