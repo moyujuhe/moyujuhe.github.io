@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-16 15:02:44",
+  "time":"2020-06-16 15:07:31",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"【已解决】AWS Lightsail 突然就ping不通了。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704214&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"小米2个路由器都叫ac2100？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704213&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"负载均衡和带宽叠加,来个大佬科普一下",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704183&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"弄得切片，测试一下速度",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704182&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
