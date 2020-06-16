@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-16 08:06:57",
+  "time":"2020-06-16 08:11:08",
   "title":"cnBeta",
   "data":[
     {
@@ -19,12 +19,20 @@
       "url":"https://www.cnbeta.com/articles/tech/991423.htm"
     },
     {
+      "name":"丁磊、张朝阳…企业大佬直播带货 都说不图钱 图啥？",
+      "url":"https://www.cnbeta.com/articles/tech/991461.htm"
+    },
+    {
       "name":"比亚迪：刀片电池零下10°C仍可放电90% 行驶里程达120万公里",
       "url":"https://www.cnbeta.com/articles/tech/991459.htm"
     },
     {
       "name":"CentOS 8.2 (2004) 发布",
       "url":"https://www.cnbeta.com/articles/soft/991419.htm"
+    },
+    {
+      "name":"6.18价格新低不断涌现 十代酷睿便携本选购指南",
+      "url":"https://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/991383.htm"
     },
     {
       "name":"新型薄膜可能让N95口罩得到重复利用",
@@ -43,8 +51,8 @@
       "url":"https://hot.cnbeta.com/articles/game/991451.htm"
     },
     {
-      "name":"6.18价格新低不断涌现 十代酷睿便携本选购指南",
-      "url":"https://e.cn.miaozhen.com/r/k=2161795&p=7YaYG&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&m11=__OAID__&mn=__ANAME__&o=https://www.cnbeta.com/articles/tech/991383.htm"
+      "name":"功能把微信越甩越远？手机QQ新版详细体验",
+      "url":"https://www.cnbeta.com/articles/tech/991413.htm"
     },
     {
       "name":"美FDA宣布终止对氯喹和羟氯喹的紧急使用授权",
@@ -105,10 +113,6 @@
     {
       "name":"硬件缺陷？用户反馈索尼Xperia 1/5侧面指纹体验差",
       "url":"https://www.cnbeta.com/articles/tech/991415.htm"
-    },
-    {
-      "name":"功能把微信越甩越远？手机QQ新版详细体验",
-      "url":"https://www.cnbeta.com/articles/tech/991413.htm"
     },
     {
       "name":"美国商务部：将允许美国公司与华为合作制定5G网络标准",
@@ -237,10 +241,6 @@
     {
       "name":"中国暂停欧洲三文鱼进口 挪威三文鱼股中枪齐跌",
       "url":"https://www.cnbeta.com/articles/tech/991347.htm"
-    },
-    {
-      "name":"汇丰将65个关系数据库迁移到一个全球数据库",
-      "url":"https://www.cnbeta.com/articles/tech/991345.htm"
     }
   ]
 }
