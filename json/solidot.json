@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-17 12:00:31",
+  "time":"2020-06-17 12:04:41",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"研究称地塞米松可显著降低新冠重症患者死亡率",
+      "url":"https://www.solidot.org/story?sid=64682"
+    },
+    {
+      "name":"美国允许企业在标准制定方面与华为合作",
+      "url":"https://www.solidot.org/story?sid=64681"
+    },
     {
       "name":"以色列科学家利用白炽灯监听 25 米外的对话",
       "url":"https://www.solidot.org/story?sid=64679"
@@ -73,14 +81,6 @@
     {
       "name":"微软称 Rust 是行业安全系统编程的最佳机会",
       "url":"https://www.solidot.org/story?sid=64661"
-    },
-    {
-      "name":"科学家发现有 1.33 万年历史的中国鸟雕像",
-      "url":"https://www.solidot.org/story?sid=64660"
-    },
-    {
-      "name":"天才背后的秘密",
-      "url":"https://www.solidot.org/story?sid=64659"
     }
   ]
 }

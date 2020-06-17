@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 12:00:33",
+  "time":"2020-06-17 12:04:43",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中央政法委副秘书长王洪祥兼新职",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061843"
+    },
     {
       "name":"西藏军区据报近期密集进行实弹演习",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061841"
@@ -77,10 +81,6 @@
     {
       "name":"沪综指收高1.4% 因期望疫情受控和中美展开对话",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200616-1061639"
-    },
-    {
-      "name":"香港失业率升至5.9% 创逾15年高位",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200616-1061636"
     }
   ]
 }
