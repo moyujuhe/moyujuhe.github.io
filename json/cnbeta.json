@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-17 18:23:20",
+  "time":"2020-06-17 18:27:34",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"未经您的同意 Firefox不会再向您的ISP发送搜索关键词",
+      "url":"https://www.cnbeta.com/articles/tech/992301.htm"
     },
     {
       "name":"糗事百科被字节跳动收购？回应：没有被收购 也暂无计划",
@@ -237,10 +241,6 @@
     {
       "name":"[图]并非BUG：微软有意从Windows 10 Version 2004中移除Fresh Start功能",
       "url":"https://www.cnbeta.com/articles/tech/992187.htm"
-    },
-    {
-      "name":"公厕研究：冲水马桶会让COVID-19病毒气溶胶液滴持久传播",
-      "url":"https://www.cnbeta.com/articles/science/992185.htm"
     }
   ]
 }
