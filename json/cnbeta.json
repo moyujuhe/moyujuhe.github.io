@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-17 22:58:41",
+  "time":"2020-06-17 23:03:27",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"6·18京东领券活动汇总：购物先抢券 最后一轮京享红包在这里",
       "url":"https://www.cnbeta.com/articles/tech/992363.htm"
+    },
+    {
+      "name":"中国内存又多一家 雷克沙正式进军DRAM内存事业",
+      "url":"https://www.cnbeta.com/articles/tech/992379.htm"
     },
     {
       "name":"联想发布第三代ThinkPad X1 Extreme隐士高端笔记本",
@@ -237,10 +241,6 @@
     {
       "name":"一箭三星：长二丁火箭成功发射高分九号03卫星",
       "url":"https://www.cnbeta.com/articles/science/992261.htm"
-    },
-    {
-      "name":"FreeBSD 11.4发布：支持重命名ZFS书签",
-      "url":"https://www.cnbeta.com/articles/tech/992259.htm"
     }
   ]
 }
