@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 11:30:38",
+  "time":"2020-06-17 11:34:51",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"西藏军区据报近期密集进行实弹演习",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061841"
+    },
     {
       "name":"中国社科院研究员：中国经济今年或增长3%",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061835"
@@ -77,10 +81,6 @@
     {
       "name":"香港失业率升至5.9% 创逾15年高位",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200616-1061636"
-    },
-    {
-      "name":"印度称三名军人在与中国军队冲突中丧生",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200616-1061629"
     }
   ]
 }
