@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 09:15:05",
+  "time":"2020-06-17 09:30:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"蘑菇一定不要乱吃",
+      "url":"http://t.cn/A6Ai4hGW"
+    },
     {
       "name":"研究：银河系或存在36个文明",
       "url":"http://world.huanqiu.com/exclusive/2020-06/16554266.html"
@@ -85,10 +89,6 @@
     {
       "name":"北京重大突发公共卫生事件应急响应级别由三级提升到二级",
       "url":"http://www.bjnews.com.cn/news/2020/06/16/739074.html"
-    },
-    {
-      "name":"哈工大、哈工程被禁止使用MATLAB， 如何不被“禁令” 扼住咽喉",
-      "url":"http://www.zhishifenzi.com/depth/depth/9325.html"
     }
   ]
 }
