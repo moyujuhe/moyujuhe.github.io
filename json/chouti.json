@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 05:00:05",
+  "time":"2020-06-18 06:00:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"WWDC 2020：软件生态依旧强大，硬件产品或有惊喜",
+      "url":"http://www.geekpark.net/news/261639"
+    },
     {
       "name":"【熊猫直播的“遗物”贡献了最后的13万，我怀念以前的游戏直播】游戏直播——这个掀开千播大战序幕的品类——终究只是给他人做嫁衣的过客。",
       "url":"https://mp.weixin.qq.com/s/3V3Fm1qtdP2RpjDgTQImWw"
@@ -89,10 +93,6 @@
     {
       "name":"天津康莱德酒店发现一例核酸检测为阳性，酒店已暂停营业",
       "url":"https://mp.weixin.qq.com/s/BAL4UD_ZakkBvTAizY70FA"
-    },
-    {
-      "name":"科技仍需努力",
-      "url":""
     }
   ]
 }
