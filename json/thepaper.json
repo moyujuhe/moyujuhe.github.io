@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 01:58:09",
+  "time":"2020-06-18 02:02:23",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"联合国人权理事会首次举行美国人权问题紧急辩论",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7885669"
+    },
     {
       "name":"武汉：5天已检测12053个市场环境样本，全部为阴性",
       "url":"https://www.thepaper.cn/newsDetail_forward_7885666"
@@ -77,10 +81,6 @@
     {
       "name":"北京地坛医院本部18日起停止所有门诊急诊",
       "url":"https://www.thepaper.cn/newsDetail_forward_7885536"
-    },
-    {
-      "name":"甘肃新增1例境外输入新冠肺炎确诊病例",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7885540"
     }
   ]
 }
