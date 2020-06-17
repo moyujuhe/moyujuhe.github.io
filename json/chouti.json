@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 13:30:05",
+  "time":"2020-06-17 13:40:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"【三名纽约警察用餐后不适，市长辟谣“被投毒”】昨晚传出新闻，NYPD三名警察在曼哈顿一家Shake Shack点餐喝了饮料后感觉不适，数家警察工会立刻跳出来，说是餐厅员工下毒，给警察的饮料里加了消毒剂。然而，警方调查后未发现犯罪迹象，怀疑是Shake Shack这家分店的奶昔机器在消毒后未充分冲洗。",
+      "url":"https://user.guancha.cn/main/content?id=329668"
+    },
     {
       "name":"滴滴一技术总监4年累计受贿1000万，被开除并移送公安机关",
       "url":"https://www.chinaventure.com.cn/news/78-20200616-355568.html"
@@ -89,10 +93,6 @@
     {
       "name":"多少精神小伙，毁于中国男装",
       "url":"https://mp.weixin.qq.com/s/mHQHv96UA-IeCLzNQUPtRA"
-    },
-    {
-      "name":"蘑菇一定不要乱吃",
-      "url":"http://t.cn/A6Ai4hGW"
     }
   ]
 }
