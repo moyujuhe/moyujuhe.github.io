@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-17 09:31:19",
+  "time":"2020-06-17 09:35:33",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"2020天猫6·18超级红包在此领取 最高618元 每满300减40",
       "url":"https://s.click.taobao.com/T6IWfhv"
+    },
+    {
+      "name":"新研究称近10%的新冠患者在初次感染康复后没有产生抗体",
+      "url":"https://www.cnbeta.com/articles/science/992005.htm"
     },
     {
       "name":"[图]Edge扩展商城页面改版：帮用户更容易发现优秀扩展",
@@ -237,10 +241,6 @@
     {
       "name":"Adobe为Photoshop增加新功能，越来越多地使用AI机器学习",
       "url":"https://www.cnbeta.com/articles/tech/991891.htm"
-    },
-    {
-      "name":"Yelp现在允许合作伙伴列出正在采取COVID-19安全措施",
-      "url":"https://www.cnbeta.com/articles/tech/991889.htm"
     }
   ]
 }
