@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-18 00:45:39",
+  "time":"2020-06-18 00:49:56",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -71,12 +71,12 @@
       "url":"https://www.zhihu.com/question/401893904"
     },
     {
-      "name":"如何看待福奇称当初美国政府不建议戴口罩，是为了「避免大家哄抢，保护医护人员」？",
-      "url":"https://www.zhihu.com/question/401908211"
-    },
-    {
       "name":"如何看待 6 月 17 日 天津新增1例本土病例，发病前 14 天无外出史和接触史？",
       "url":"https://www.zhihu.com/question/402028102"
+    },
+    {
+      "name":"如何看待福奇称当初美国政府不建议戴口罩，是为了「避免大家哄抢，保护医护人员」？",
+      "url":"https://www.zhihu.com/question/401908211"
     },
     {
       "name":"如果台积电不给华为麒麟处理器代工，那么麒麟处理器会怎么样？",
@@ -91,12 +91,12 @@
       "url":"https://www.zhihu.com/question/371425012"
     },
     {
-      "name":"大学生能被期末考试逼到什么程度?",
-      "url":"https://www.zhihu.com/question/364258294"
-    },
-    {
       "name":"如何评价在《乘风破浪的姐姐》里海陆的颜值？",
       "url":"https://www.zhihu.com/question/401032296"
+    },
+    {
+      "name":"大学生能被期末考试逼到什么程度?",
+      "url":"https://www.zhihu.com/question/364258294"
     },
     {
       "name":"如何看待丰巢给用户发短信「【丰巢】您已经拒绝使用丰巢柜30天了，如要恢复使用，请短信回复1即可」?",
@@ -175,16 +175,8 @@
       "url":"https://www.zhihu.com/question/401954759"
     },
     {
-      "name":"那些结婚时狮子大开口的人，后来怎么样了？",
-      "url":"https://www.zhihu.com/question/299679598"
-    },
-    {
       "name":"有哪些猫主食罐头值得推荐？",
       "url":"https://www.zhihu.com/question/355955255"
-    },
-    {
-      "name":"云顶之弈10.12版本，有哪些上分阵容推荐？",
-      "url":"https://www.zhihu.com/question/400931298"
     },
     {
       "name":"导师一般会帮自己的博士生推荐工作吗？",
@@ -195,12 +187,20 @@
       "url":"https://www.zhihu.com/question/35264751"
     },
     {
-      "name":"如果把《王者荣耀》最顶尖的路人王召集到一个队伍里，能打得过一支KPL战队吗？",
-      "url":"https://www.zhihu.com/question/400445729"
-    },
-    {
       "name":"天秤座的本质是什么？",
       "url":"https://www.zhihu.com/question/20992612"
+    },
+    {
+      "name":"有哪些让你相见恨晚的美容妙招？",
+      "url":"https://www.zhihu.com/question/35023104"
+    },
+    {
+      "name":"大数据环境下真的能有个人隐私吗？",
+      "url":"https://www.zhihu.com/question/401561680"
+    },
+    {
+      "name":"就操作来看，UZI 的 VN 封神战与 Faker 的劫封神战哪个难度更大?",
+      "url":"https://www.zhihu.com/question/400351747"
     }
   ]
 }
