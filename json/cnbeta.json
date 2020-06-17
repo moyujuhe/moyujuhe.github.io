@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-17 22:49:59",
+  "time":"2020-06-17 22:54:13",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"6·18京东领券活动汇总：购物先抢券 最后一轮京享红包在这里",
       "url":"https://www.cnbeta.com/articles/tech/992363.htm"
+    },
+    {
+      "name":"联想发布2020款ThinkPad P系列移动工作站产品线",
+      "url":"https://www.cnbeta.com/articles/tech/992377.htm"
     },
     {
       "name":"PC QQ 9.3.5版发布：消息草稿实时保存",
@@ -237,10 +241,6 @@
     {
       "name":"FreeBSD 11.4发布：支持重命名ZFS书签",
       "url":"https://www.cnbeta.com/articles/tech/992259.htm"
-    },
-    {
-      "name":"NASA人员震荡继续：国际空间站项目经理宣布退休",
-      "url":"https://www.cnbeta.com/articles/science/992257.htm"
     }
   ]
 }
