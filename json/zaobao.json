@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 09:52:32",
+  "time":"2020-06-17 09:56:45",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"美企允许在设置5G标准等方面与华为合作",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061827"
+    },
     {
       "name":"英国在联合国人权理事会上批香港国安法",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061826"
@@ -77,10 +81,6 @@
     {
       "name":"一带一路国际合作高级别视频会议本周四举行",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200616-1061624"
-    },
-    {
-      "name":"中国外交部：希望朝鲜半岛保持和平与稳定",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200616-1061620"
     }
   ]
 }
