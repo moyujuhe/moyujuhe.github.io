@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 17:09:59",
+  "time":"2020-06-17 17:14:13",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Google 广告平台封杀了 ZeroHedge 和 The Federalist",
+      "url":"https://www.solidot.org/story?sid=64689"
+    },
     {
       "name":"中国科学家实现 1200 公里的量子密钥分发",
       "url":"https://www.solidot.org/story?sid=64688"
@@ -77,10 +81,6 @@
     {
       "name":"多所美国大学遭到勒索软件攻击",
       "url":"https://www.solidot.org/story?sid=64668"
-    },
-    {
-      "name":"大部分新冠病例没有传播病毒，需要阻止的是超级传播者",
-      "url":"https://www.solidot.org/story?sid=64667"
     }
   ]
 }
