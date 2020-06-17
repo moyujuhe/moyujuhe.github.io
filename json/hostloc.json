@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 15:05:08",
+  "time":"2020-06-17 15:09:19",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"AWS的CDN比CF 快得多。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704670&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"高通6系列都用上A77+wifi6  去年底买华伪的哭晕在厕所了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704668&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"问个问题  你们近期有没有被某商家邮件轰炸",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704636&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"请问有大佬用旧手机当服务器吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704635&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
