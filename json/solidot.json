@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-18 07:48:41",
+  "time":"2020-06-18 07:53:01",
   "title":"奇客的资讯",
   "data":[
     {
@@ -17,6 +17,10 @@
     {
       "name":"Ripple20 漏洞影响数亿设备",
       "url":"https://www.solidot.org/story?sid=64693"
+    },
+    {
+      "name":"Parallels 与 Google 合作将 Windows 应用带到 Chrome OS",
+      "url":"https://www.solidot.org/story?sid=64692"
     },
     {
       "name":"世界上最小的分子马达——只有16个原子",
@@ -77,10 +81,6 @@
     {
       "name":"研究称戴口罩能有助于减少新冠感染",
       "url":"https://www.solidot.org/story?sid=64675"
-    },
-    {
-      "name":"在雇员偷走主密钥后南非银行必须替换客户的 1200 万张卡",
-      "url":"https://www.solidot.org/story?sid=64674"
     }
   ]
 }
