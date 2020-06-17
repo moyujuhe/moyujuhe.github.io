@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 06:27:57",
+  "time":"2020-06-18 06:32:06",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"手持44T的大佬",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704920&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"萌咖的锐速许可证API挂了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704919&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"255",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704888&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"新网站明明收录了首页了，最近几天却不见了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704887&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
