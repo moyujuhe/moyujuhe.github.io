@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 12:13:39",
+  "time":"2020-06-17 12:17:57",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"澳门要求14天内曾到北京人士入境后隔离14天",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061845"
+    },
     {
       "name":"中央政法委副秘书长王洪祥兼新职",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061843"
@@ -77,10 +81,6 @@
     {
       "name":"大陆空军歼10战机再入台湾西南空域",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200616-1061631"
-    },
-    {
-      "name":"沪综指收高1.4% 因期望疫情受控和中美展开对话",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200616-1061639"
     }
   ]
 }
