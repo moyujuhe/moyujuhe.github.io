@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 09:29:31",
+  "time":"2020-06-17 09:41:32",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"射电探测 系外行星搜寻利器",
+      "url":"https://tech.sina.com.cn/d/s/2020-06-17/doc-iircuyvi8901186.shtml"
+    },
     {
       "name":"男性为什么比女性高？生物学家或许弄错了几十年",
       "url":"https://tech.sina.com.cn/d/f/2020-06-17/doc-iircuyvi8897592.shtml"
@@ -17,10 +21,6 @@
     {
       "name":"河南省省委书记、省长会见阿里董事局主席张勇一行",
       "url":"https://tech.sina.com.cn/i/2020-06-17/doc-iircuyvi8896723.shtml"
-    },
-    {
-      "name":"巴菲特宣布退休 Abel和Jain联合执掌伯克希尔哈撒韦",
-      "url":"https://tech.sina.com.cn/it/2020-06-17/doc-iirczymk7428561.shtml"
     },
     {
       "name":"火卫一最新红外图像揭晓 有助天文学家更好地理解火星",
@@ -53,6 +53,10 @@
     {
       "name":"苹果靠什么吸引开发者？挣钱极多",
       "url":"https://tech.sina.com.cn/i/2020-06-17/doc-iirczymk7413060.shtml"
+    },
+    {
+      "name":"腾讯就算收了爱奇艺， 中国也不会有奈飞",
+      "url":"https://tech.sina.com.cn/i/2020-06-17/doc-iircuyvi8900515.shtml"
     },
     {
       "name":"WhatsApp在巴西推支付服务 FB商业化更进一步？",
@@ -197,10 +201,6 @@
     {
       "name":"5G商用一周年 云游戏从概念走向现实",
       "url":"https://tech.sina.com.cn/i/2020-06-17/doc-iircuyvi8858225.shtml"
-    },
-    {
-      "name":"空场比赛 电竞产业艰难复苏",
-      "url":"https://tech.sina.com.cn/it/2020-06-17/doc-iircuyvi8857962.shtml"
     }
   ]
 }
