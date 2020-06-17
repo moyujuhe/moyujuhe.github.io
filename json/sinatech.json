@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 03:30:39",
+  "time":"2020-06-18 05:52:09",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"美国贸易代表：美国已经退出美欧数字服务税谈判",
+      "url":"https://tech.sina.com.cn/it/2020-06-18/doc-iircuyvi9062055.shtml"
+    },
     {
       "name":"董明珠再谈格力手机：我出门就可以看到家里的现状",
       "url":"https://tech.sina.com.cn/i/2020-06-18/doc-iircuyvi9057392.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"路透：字节跳动一季度营收约56亿美元 同比增长超130%",
       "url":"https://tech.sina.com.cn/i/2020-06-17/doc-iirczymk7507689.shtml"
-    },
-    {
-      "name":"特斯拉Model 3或配备100kW·h电池 续航超过640公里",
-      "url":"https://tech.sina.com.cn/roll/2020-06-17/doc-iircuyvi8972829.shtml"
     }
   ]
 }
