@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 08:02:11",
+  "time":"2020-06-17 08:06:22",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京两机场部分航班取消 旅客出行需提前确认信息",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061800"
+    },
     {
       "name":"北京应急响应上调至二级  严格进出京管控",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061799"
@@ -77,10 +81,6 @@
     {
       "name":"广东对近14天内有高风险地区旅居史人员集中隔离14天",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200616-1061581"
-    },
-    {
-      "name":"欧盟对中国和埃及的中资玻璃纤维织物生产商加征关税",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200616-1061580"
     }
   ]
 }
