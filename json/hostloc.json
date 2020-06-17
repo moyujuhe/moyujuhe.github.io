@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 23:39:47",
+  "time":"2020-06-17 23:48:58",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"花了几天，又撸了一个tg发卡机器人",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704885&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"用三角云的大佬帮我备份个驱动好吗？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704884&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"求推荐最便宜的网飞盒子",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704858&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"跟风入了三角主机到了，为什么安装LTSC老是卡住？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704857&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
