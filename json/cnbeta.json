@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-18 07:14:53",
+  "time":"2020-06-18 07:19:07",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"6·18京东领券活动汇总：购物先抢券 最后一轮京享红包在这里",
       "url":"https://www.cnbeta.com/articles/tech/992363.htm"
+    },
+    {
+      "name":"手机听歌不过瘾？一招将Windows 10电脑变成蓝牙音箱",
+      "url":"https://www.cnbeta.com/articles/tech/992421.htm"
     },
     {
       "name":"科学研究称冠状病毒可通过冲厕传播",
@@ -237,10 +241,6 @@
     {
       "name":"未经您的同意 Firefox不会再向您的ISP发送搜索关键词",
       "url":"https://www.cnbeta.com/articles/tech/992301.htm"
-    },
-    {
-      "name":"糗事百科被字节跳动收购？回应：没有被收购 也暂无计划",
-      "url":"https://www.cnbeta.com/articles/tech/992299.htm"
     }
   ]
 }
