@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 13:21:52",
+  "time":"2020-06-17 13:26:09",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"撸了一个月的阿里云10Gbps试用，挂了几个小时然并卵",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704610&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"多发了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704609&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"企鹅小屋的免费cdn删除了？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704578&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"出多余的一台蘑菇机！",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704577&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
