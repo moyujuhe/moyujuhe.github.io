@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-06-18 07:01:44",
+  "time":"2020-06-18 07:06:24",
   "data":[
     {
       "name":"Minecraft",
@@ -540,7 +540,7 @@
       "name":"Streaks",
       "url":"https://apps.apple.com/us/app/streaks/id963034692?uo=4",
       "num":"Health & Fitness",
-      "description":"最新版本:  5.3.4\n更新时间:  2020-05-29 11:11:40 (北京时间)\n\nStreaks 5.3.4:\n\n* Fixed: Issue where timed task may not appear as available in the Shortcuts app\n* Fixed: Issue with iCloud sync on iOS 9\n* Fixed: Issue with notifications not scheduling correctly in some circumstances\n* Added: bookmark icon\n\nStreaks 5.3:\n\n* Added: Ability to archive/restore tasks (see below)\n* Added: App settings now sync across devices, including themes\n* Added: Task notifications now sync across devices\n* Added: Ukulele icon\n* Added: Ability to use fractions of KM/Miles in Walk/Run task\n\nARCHIVED TASKS\n\nYou can archive any task to temporarily remove it from the app.\n\nYou can restore the task using the regular \"add task\" option. The history will be restored, and any days since you archived it will be marked as skipped.\n\n\nIf you have any feedback or suggestions, please contact us at support@streaks.app."
+      "description":"最新版本:  5.3.5\n更新时间:  2020-06-17 11:12:37 (北京时间)\n\nStreaks 5.3.5:\n\n* Fixed: Issue where mini-calendar may appear invisible\n* Fixed: Minor bug with selecting day frequencies\n* Added: soda / no soda icon\n\nStreaks 5.3:\n\n* Added: Ability to archive/restore tasks (see below)\n* Added: App settings now sync across devices, including themes\n* Added: Task notifications now sync across devices\n* Added: Ukulele icon\n* Added: Ability to use fractions of KM/Miles in Walk/Run task\n\nARCHIVED TASKS\n\nYou can archive any task to temporarily remove it from the app.\n\nYou can restore the task using the regular \"add task\" option. The history will be restored, and any days since you archived it will be marked as skipped.\n\n\nIf you have any feedback or suggestions, please contact us at support@streaks.app."
     },
     {
       "name":"Heads Up! Kids",
