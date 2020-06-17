@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-17 15:52:19",
+  "time":"2020-06-17 15:56:29",
   "title":"奇客的资讯",
   "data":[
     {
@@ -21,10 +21,6 @@
     {
       "name":"FFmpeg 4.3 释出",
       "url":"https://www.solidot.org/story?sid=64683"
-    },
-    {
-      "name":"FFmpeg 4.3 释出",
-      "url":"https://www.solidot.org/story?sid=64686"
     },
     {
       "name":"研究称地塞米松可显著降低新冠重症患者死亡率",
@@ -81,6 +77,10 @@
     {
       "name":"多所美国大学遭到勒索软件攻击",
       "url":"https://www.solidot.org/story?sid=64668"
+    },
+    {
+      "name":"大部分新冠病例没有传播病毒，需要阻止的是超级传播者",
+      "url":"https://www.solidot.org/story?sid=64667"
     }
   ]
 }
