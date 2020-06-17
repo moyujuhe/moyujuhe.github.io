@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 13:34:47",
+  "time":"2020-06-17 13:39:02",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"关于域名解析有大佬教教我这个可怜的孩子吗",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704616&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"求测试新搭建的小站whoispage.com",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704615&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"blockchain为啥一刷新就要重新登录？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704587&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"建议RackNerd T中楼的mjj搭建公益服务器",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=704585&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
