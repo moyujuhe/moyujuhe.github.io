@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 14:17:38",
+  "time":"2020-06-17 14:21:52",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Adobe 将到 2020 年底移除 Flash 下载",
+      "url":"https://www.solidot.org/story?sid=64684"
+    },
     {
       "name":"研究称地塞米松可显著降低新冠重症患者死亡率",
       "url":"https://www.solidot.org/story?sid=64682"
@@ -77,10 +81,6 @@
     {
       "name":"汇丰将 65 个关系数据库迁移到一个全球数据库",
       "url":"https://www.solidot.org/story?sid=64662"
-    },
-    {
-      "name":"微软称 Rust 是行业安全系统编程的最佳机会",
-      "url":"https://www.solidot.org/story?sid=64661"
     }
   ]
 }
