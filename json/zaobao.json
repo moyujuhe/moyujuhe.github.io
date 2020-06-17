@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-17 16:14:17",
+  "time":"2020-06-17 16:18:31",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"高福：北京疫情时间可能要前推一个月",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061894"
+    },
     {
       "name":"台湾开放11个国家或地区学生返台 不含中国大陆",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061889"
@@ -77,10 +81,6 @@
     {
       "name":"人大法工委发言人：将加快制定香港国安法",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061823"
-    },
-    {
-      "name":"北京新增31起病例 所有小区严格封闭式管理",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061817"
     }
   ]
 }
