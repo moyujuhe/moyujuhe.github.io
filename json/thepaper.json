@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 03:06:14",
+  "time":"2020-06-18 03:10:28",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"21个州确诊病例数上涨，专家预计美第二波感染高峰正在到来",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7887175"
+    },
     {
       "name":"外交部部长助理陈晓东谈中非团结抗疫特别峰会成果",
       "url":"https://www.thepaper.cn/newsDetail_forward_7886400"
@@ -77,10 +81,6 @@
     {
       "name":"四川丹巴堰塞湖壅塞体已冲开水位开始下降，物资已送到灾区",
       "url":"https://www.thepaper.cn/newsDetail_forward_7885544"
-    },
-    {
-      "name":"天津新增本地确诊病例1例：西餐厅帮厨人员，14天无外出史",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7885556"
     }
   ]
 }
