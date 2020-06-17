@@ -1,10 +1,30 @@
 {
-  "time":"2020-06-17 15:43:30",
+  "time":"2020-06-17 15:52:19",
   "title":"奇客的资讯",
   "data":[
     {
+      "name":"中国科学家实现 1200 公里的量子密钥分发",
+      "url":"https://www.solidot.org/story?sid=64688"
+    },
+    {
+      "name":"FreeBSD 11.4 释出",
+      "url":"https://www.solidot.org/story?sid=64687"
+    },
+    {
+      "name":"内部报告称 CIA 的黑客团队未能确保自己的系统安全",
+      "url":"https://www.solidot.org/story?sid=64685"
+    },
+    {
       "name":"Adobe 将到 2020 年底移除 Flash 下载",
       "url":"https://www.solidot.org/story?sid=64684"
+    },
+    {
+      "name":"FFmpeg 4.3 释出",
+      "url":"https://www.solidot.org/story?sid=64683"
+    },
+    {
+      "name":"FFmpeg 4.3 释出",
+      "url":"https://www.solidot.org/story?sid=64686"
     },
     {
       "name":"研究称地塞米松可显著降低新冠重症患者死亡率",
@@ -61,26 +81,6 @@
     {
       "name":"多所美国大学遭到勒索软件攻击",
       "url":"https://www.solidot.org/story?sid=64668"
-    },
-    {
-      "name":"大部分新冠病例没有传播病毒，需要阻止的是超级传播者",
-      "url":"https://www.solidot.org/story?sid=64667"
-    },
-    {
-      "name":"北京半数市辖区报告新冠确诊病例",
-      "url":"https://www.solidot.org/story?sid=64665"
-    },
-    {
-      "name":"ESNI 进入草案状态",
-      "url":"https://www.solidot.org/story?sid=64664"
-    },
-    {
-      "name":"互联网档案馆提前终止国家紧急图书馆",
-      "url":"https://www.solidot.org/story?sid=64663"
-    },
-    {
-      "name":"汇丰将 65 个关系数据库迁移到一个全球数据库",
-      "url":"https://www.solidot.org/story?sid=64662"
     }
   ]
 }
