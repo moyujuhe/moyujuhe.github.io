@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-18 18:05:25",
+  "time":"2020-06-18 18:09:41",
   "data":[
     {
       "name":"你对你的未来惶恐过吗？",
@@ -103,10 +103,6 @@
       "url":"https://hacpai.com/article/1592313039720"
     },
     {
-      "name":"Solo 可以部署在 K8S 上面么？",
-      "url":"https://hacpai.com/article/1592023518233"
-    },
-    {
       "name":"面包与理想（又辞职了，让我感慨一下吧）",
       "url":"https://hacpai.com/article/1591143787117"
     },
@@ -125,6 +121,10 @@
     {
       "name":"给大家安利一个看漫画的♂软件",
       "url":"https://hacpai.com/article/1592038006225"
+    },
+    {
+      "name":"Solo 可以部署在 K8S 上面么？",
+      "url":"https://hacpai.com/article/1592023518233"
     },
     {
       "name":"佛系摆摊开始啦啦啦",
