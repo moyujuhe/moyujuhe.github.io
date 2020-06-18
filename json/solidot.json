@@ -1,7 +1,19 @@
 {
-  "time":"2020-06-18 13:22:10",
+  "time":"2020-06-18 13:26:42",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"华为将推迟 Mate 新旗舰手机生产",
+      "url":"https://www.solidot.org/story?sid=64700"
+    },
+    {
+      "name":"蜂鸟能看到 5 种非光谱颜色",
+      "url":"https://www.solidot.org/story?sid=64699"
+    },
+    {
+      "name":"加州大学与施普林格自然集团达成开放获取协议",
+      "url":"https://www.solidot.org/story?sid=64698"
+    },
     {
       "name":"Zoom 改变主意将为所有用户提供端对端加密",
       "url":"https://www.solidot.org/story?sid=64696"
@@ -69,18 +81,6 @@
     {
       "name":"CRISP 技术治愈了三名遗传病患者",
       "url":"https://www.solidot.org/story?sid=64678"
-    },
-    {
-      "name":"Linux 5.8-rc1 释出",
-      "url":"https://www.solidot.org/story?sid=64677"
-    },
-    {
-      "name":"朝鲜对韩朝联络办公室实施爆破",
-      "url":"https://www.solidot.org/story?sid=64676"
-    },
-    {
-      "name":"研究称戴口罩能有助于减少新冠感染",
-      "url":"https://www.solidot.org/story?sid=64675"
     }
   ]
 }
