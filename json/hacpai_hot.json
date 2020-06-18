@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-18 21:29:17",
+  "time":"2020-06-18 21:34:07",
   "data":[
     {
       "name":"你对你的未来惶恐过吗？",
@@ -199,10 +199,6 @@
       "url":"https://hacpai.com/article/1590027472618"
     },
     {
-      "name":"使用 Solo 静态站点功能部署站点到 gitee 上的 Pages",
-      "url":"https://hacpai.com/article/1589808850287"
-    },
-    {
       "name":"三星 S20 用机感受如何",
       "url":"https://hacpai.com/article/1592271678531"
     },
@@ -241,6 +237,10 @@
     {
       "name":"solo 搭建后访问域名报错 404，怎么搞？",
       "url":"https://hacpai.com/article/1591284631277"
+    },
+    {
+      "name":"【郑州 Java 架构师】招聘啦 走过路过来瞧一瞧啊",
+      "url":"https://hacpai.com/article/1590973151195"
     }
   ]
 }
