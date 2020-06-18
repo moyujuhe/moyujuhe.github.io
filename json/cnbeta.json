@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-18 19:18:18",
+  "time":"2020-06-18 19:22:33",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"6·18京东领券活动汇总：购物先抢券 最后一轮京享红包在这里",
       "url":"https://www.cnbeta.com/articles/tech/992363.htm"
+    },
+    {
+      "name":"胡润发布中国芯片设计10强民营企业：BAT华为未上榜",
+      "url":"https://www.cnbeta.com/articles/tech/992845.htm"
     },
     {
       "name":"他们可能走在了制造“超级人类”的路上",
@@ -237,10 +241,6 @@
     {
       "name":"澳监管机构表达担忧：谷歌收购Fitbit可能影响行业的健康竞争",
       "url":"https://www.cnbeta.com/articles/tech/992733.htm"
-    },
-    {
-      "name":"研究称新冠病毒会对无症状感染者同样造成伤害",
-      "url":"https://www.cnbeta.com/articles/science/992731.htm"
     }
   ]
 }
