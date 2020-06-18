@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 09:22:00",
+  "time":"2020-06-18 09:26:15",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国大陆昨新增确诊28例  输入四例本土24例",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062089"
+    },
     {
       "name":"中国领导人承诺免除非洲部分贷款",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062087"
@@ -13,6 +17,10 @@
     {
       "name":"特朗普签署涉疆人权法案 将制裁部分大陆官员",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062083"
+    },
+    {
+      "name":"蓬佩奥与杨洁篪夏威夷进行闭门会议",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062082"
     },
     {
       "name":"绑架美的创始人何享健的五名嫌犯全部落网",
@@ -73,14 +81,6 @@
     {
       "name":"台湾开放11个国家或地区学生返台 不含中国大陆",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061889"
-    },
-    {
-      "name":"台湾将允许四类短期商务人士入境时 缩短居家检疫",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061888"
-    },
-    {
-      "name":"王振华因猥亵儿童被判有期徒刑五年",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061885"
     }
   ]
 }
