@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 17:36:26",
+  "time":"2020-06-18 17:47:03",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"京东徐雷的红旗还能打多久？",
+      "url":"http://tech.sina.com.cn/csj/2020-06-18/doc-iirczymk7723831.shtml"
+    },
     {
       "name":"爱奇艺不是百度的鸡肋",
       "url":"http://tech.sina.com.cn/csj/2020-06-18/doc-iirczymk7721587.shtml"
@@ -61,6 +65,10 @@
     {
       "name":"中兴通讯大涨20% 此前表示已具备芯片设计和开发能力",
       "url":"https://tech.sina.com.cn/t/2020-06-18/doc-iirczymk7697806.shtml"
+    },
+    {
+      "name":"特斯拉Model Y预计交付时间缩至4-8周 产能或有明显提升",
+      "url":"https://tech.sina.com.cn/roll/2020-06-18/doc-iirczymk7696920.shtml"
     },
     {
       "name":"传统电商混战又遇抖音快手 618进入战国时代",
@@ -193,14 +201,6 @@
     {
       "name":"宇宙的幽灵：探索暗物质的前世今生",
       "url":"https://tech.sina.com.cn/scientist/2020-06-18/doc-iircuyvi9114424.shtml"
-    },
-    {
-      "name":"传阿里CTO线再调整：胡喜不再担任蚂蚁金服CTO",
-      "url":"https://tech.sina.com.cn/i/2020-06-18/doc-iirczymk7642429.shtml"
-    },
-    {
-      "name":"中移动成立5G智慧矿山联盟 全国首座5G煤矿落地太原",
-      "url":"https://tech.sina.com.cn/5g/2020-06-18/doc-iircuyvi9112549.shtml"
     }
   ]
 }
