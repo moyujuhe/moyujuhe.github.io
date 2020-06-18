@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-18 12:33:40",
+  "time":"2020-06-18 12:37:54",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"6·18京东领券活动汇总：购物先抢券 最后一轮京享红包在这里",
       "url":"https://www.cnbeta.com/articles/tech/992363.htm"
+    },
+    {
+      "name":"亚马逊云服务在二月中旬挡下了2.3Tbps的DDoS攻击",
+      "url":"https://www.cnbeta.com/articles/tech/992669.htm"
     },
     {
       "name":"微软开始将Windows 10 1809自动更新至2004",
@@ -237,10 +241,6 @@
     {
       "name":"科学家为植物授粉找到新方法：肥皂泡",
       "url":"https://www.cnbeta.com/articles/science/992557.htm"
-    },
-    {
-      "name":"爆料称Xbox Series X定价比PlayStation 5更低",
-      "url":"https://hot.cnbeta.com/articles/game/992555.htm"
     }
   ]
 }
