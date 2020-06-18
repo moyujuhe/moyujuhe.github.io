@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 14:13:35",
+  "time":"2020-06-18 14:17:52",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"谷歌浏览器造成大规模用户安全信息泄露",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705124&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"有没有用非CF的CDN套那啥的？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705123&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"京东：618下单金额达2284.88亿元 已超过去年",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705092&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"度盘右上角写的年中大促限时半价为什么点进去还是原价？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705091&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
