@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 12:10:05",
+  "time":"2020-06-18 12:20:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"好莱坞已经启动复工，影院开门，影片开机",
+      "url":"http://www.tmtpost.com/4476452.html"
+    },
     {
       "name":"【在意大利的被Karen生活】最近在美国兴起了一个叫“Karen”的词，特指一些白人种族主义分子，他们平时人模狗样，但看见深肤色的少数族裔就浑身不爽，各种找茬，甚至找警察来收拾你。",
       "url":"https://mp.weixin.qq.com/s/OMyCF4bfOWGoNu2VU1y0gw"
@@ -93,10 +97,6 @@
     {
       "name":"从事玄学行业的年轻人：风水师、道士和占星师",
       "url":"https://mp.weixin.qq.com/s/0JoMH9yGtdR9RKw8R7qjvQ"
-    },
-    {
-      "name":"WWDC 2020：软件生态依旧强大，硬件产品或有惊喜",
-      "url":"http://www.geekpark.net/news/261639"
     }
   ]
 }
