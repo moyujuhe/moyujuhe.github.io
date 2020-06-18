@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 18:39:58",
+  "time":"2020-06-18 18:44:12",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"甲骨文忘记设置SSH密钥了，可以先终止一台再开么，两台了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705255&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"hw的vps有要的没，带价来，合适就出",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705254&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"出个9刀年付Virmach",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705226&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"请教家里移动的宽带，没有公网IP，如果映射3389端口出来",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705225&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
