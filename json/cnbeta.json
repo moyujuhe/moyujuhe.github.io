@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-18 08:56:32",
+  "time":"2020-06-18 09:00:46",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"6·18京东领券活动汇总：购物先抢券 最后一轮京享红包在这里",
       "url":"https://www.cnbeta.com/articles/tech/992363.htm"
+    },
+    {
+      "name":"京东云公布6·18直播活动细节：扫码进群 云主机限量79元秒杀",
+      "url":"https://www.cnbeta.com/articles/tech/992523.htm"
     },
     {
       "name":"又一项研究表明羟氯喹并不是有效的新冠病毒治疗方法",
@@ -237,10 +241,6 @@
     {
       "name":"微软发布Windows 10 Build 20150 供开发渠道的Insider测试者使用",
       "url":"https://www.cnbeta.com/articles/tech/992411.htm"
-    },
-    {
-      "name":"Zoom改口称免费用户也将获得端到端加密服务",
-      "url":"https://www.cnbeta.com/articles/tech/992409.htm"
     }
   ]
 }
