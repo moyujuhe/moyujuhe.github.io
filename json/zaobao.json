@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 11:04:16",
+  "time":"2020-06-18 11:08:29",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国外交部促美纠正涉疆法案：否则必将反制",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062106"
+    },
     {
       "name":"刘鹤：排除干扰 共同落实中美经贸协议",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062102"
@@ -23,7 +27,7 @@
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062097"
     },
     {
-      "name":"美国前国安顾问提惊人指控：特朗普请中国助其连任",
+      "name":"美国前国安顾问博尔顿指控特朗普请中国助其连任",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062093"
     },
     {
@@ -77,10 +81,6 @@
     {
       "name":"程永华担任中日友好协会常务副会长",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061911"
-    },
-    {
-      "name":"中国外交部：不希望看到中印有更多冲突",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200617-1061912"
     }
   ]
 }
