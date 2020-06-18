@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 13:08:59",
+  "time":"2020-06-18 13:13:44",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"甲骨文默认是禁PING的么",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705084&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"东哥不把我当兄弟了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705083&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"管住手、坚决不买",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705052&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"20块左右收个可用的aws账号",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705053&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
