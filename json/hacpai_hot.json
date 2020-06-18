@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-18 17:05:54",
+  "time":"2020-06-18 17:10:08",
   "data":[
     {
       "name":"你对你的未来惶恐过吗？",
@@ -123,6 +123,10 @@
       "url":"https://hacpai.com/article/1592038006225"
     },
     {
+      "name":"Solo 可以部署在 K8S 上面么？",
+      "url":"https://hacpai.com/article/1592023518233"
+    },
+    {
       "name":"佛系摆摊开始啦啦啦",
       "url":"https://hacpai.com/article/1591673472471"
     },
@@ -137,10 +141,6 @@
     {
       "name":"solo 安装问题",
       "url":"https://hacpai.com/article/1592133139941"
-    },
-    {
-      "name":"Solo 可以部署在 K8S 上面么？",
-      "url":"https://hacpai.com/article/1592023518233"
     },
     {
       "name":"在小城市，开发者如何去提高自己的技术水平，如何去获得技术的成就感？",
