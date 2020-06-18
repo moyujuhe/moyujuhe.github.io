@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 06:30:44",
+  "time":"2020-06-19 06:34:58",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"约翰斯·霍普金斯大学：全球新冠死亡病例超45万例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7907126"
+    },
     {
       "name":"意大利：去年12月米兰和都灵废水样本中发现新冠病毒",
       "url":"https://www.thepaper.cn/newsDetail_forward_7907282"
@@ -77,10 +81,6 @@
     {
       "name":"蛋壳公寓CEO高靖被政府部门调查，总裁崔岩出任临时CEO",
       "url":"https://www.thepaper.cn/newsDetail_forward_7902166"
-    },
-    {
-      "name":"特朗普：博尔顿是只“病狗”，其新书“充满谎言，纯属虚构”",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7902153"
     }
   ]
 }
