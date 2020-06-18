@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 19:05:34",
+  "time":"2020-06-18 19:09:53",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"【出】企鹅小屋99年付CN2建站，以及186年付CN2建站",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705271&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"出一个阿里国际账户，里面有一个149.129开头的轻量。",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705269&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"不懂就问，锐角云怎么进入BIOS",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705239&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"请问一下知道nat鸡的内网端口如何找到对应的外网端口呢？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705238&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
