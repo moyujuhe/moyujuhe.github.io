@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 12:47:00",
+  "time":"2020-06-18 13:31:01",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"谷歌浏览器造成大规模用户安全信息泄露",
+      "url":"https://tech.sina.com.cn/i/2020-06-18/doc-iircuyvi9145820.shtml"
+    },
     {
       "name":"美团小贷被判违法放贷 美团：事实有误，已提起上诉",
       "url":"https://tech.sina.com.cn/roll/2020-06-18/doc-iircuyvi9140888.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"为什么戴口罩锻炼很危险？",
       "url":"https://tech.sina.com.cn/d/f/2020-06-18/doc-iircuyvi9077064.shtml"
-    },
-    {
-      "name":"解决安全性问题 Zoom为所有用户提供端到端加密",
-      "url":"https://tech.sina.com.cn/i/2020-06-18/doc-iirczymk7606146.shtml"
     }
   ]
 }
