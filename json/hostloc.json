@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 22:05:15",
+  "time":"2020-06-18 22:09:54",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"发现loc好像不能邀请好友了？？？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705354&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"求好心的大佬们给点干货，最近一直下雨没出门没动力输...",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705353&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"收腾讯云去年9月份之前开通的学生机",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705328&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"【已出】日本CN2GIA+软银",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705327&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
