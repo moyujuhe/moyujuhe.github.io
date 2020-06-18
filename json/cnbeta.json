@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-18 09:00:46",
+  "time":"2020-06-18 09:05:02",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"6·18京东领券活动汇总：购物先抢券 最后一轮京享红包在这里",
       "url":"https://www.cnbeta.com/articles/tech/992363.htm"
+    },
+    {
+      "name":"太阳系第九大行星之谜：它真的存在吗？",
+      "url":"https://www.cnbeta.com/articles/science/992525.htm"
     },
     {
       "name":"京东云公布6·18直播活动细节：扫码进群 云主机限量79元秒杀",
@@ -237,10 +241,6 @@
     {
       "name":"美国NASA计划发射探测器访问海王星卫星海卫一",
       "url":"https://www.cnbeta.com/articles/science/992413.htm"
-    },
-    {
-      "name":"微软发布Windows 10 Build 20150 供开发渠道的Insider测试者使用",
-      "url":"https://www.cnbeta.com/articles/tech/992411.htm"
     }
   ]
 }
