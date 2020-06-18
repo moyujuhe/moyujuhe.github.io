@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-18 14:00:46",
+  "time":"2020-06-18 14:05:00",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"6·18京东领券活动汇总：购物先抢券 最后一轮京享红包在这里",
       "url":"https://www.cnbeta.com/articles/tech/992363.htm"
+    },
+    {
+      "name":"Canalys：Apple Watch 总出货量已接近1亿",
+      "url":"https://www.cnbeta.com/articles/tech/992705.htm"
     },
     {
       "name":"棋圣聂卫平：一场围棋消耗比两场足球大 有前辈一盘棋掉十斤肉",
@@ -237,10 +241,6 @@
     {
       "name":"天文学家发现循环周期为16天的快速射电暴  已被探测到38次",
       "url":"https://www.cnbeta.com/articles/science/992591.htm"
-    },
-    {
-      "name":"吉利汽车计划回归科创板",
-      "url":"https://www.cnbeta.com/articles/tech/992589.htm"
     }
   ]
 }
