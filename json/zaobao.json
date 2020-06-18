@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 15:01:12",
+  "time":"2020-06-18 15:05:24",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京两机场出港航班取消率超七成",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062140"
+    },
     {
       "name":"香港国安法明确四类危害国家安全犯罪行为",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062128"
@@ -77,10 +81,6 @@
     {
       "name":"莱特希泽：望下届世贸总干事理解同中国打交道时的问题",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062097"
-    },
-    {
-      "name":"美国前国安顾问博尔顿指控特朗普请中国助其连任",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062093"
     }
   ]
 }
