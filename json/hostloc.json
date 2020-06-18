@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-18 11:51:08",
+  "time":"2020-06-18 11:55:22",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"阿里今后最便宜的GIA购买组合",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705057&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"我用tor浏览器去某网站一直提示“Checking your browser “",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705055&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"访问的人太多了。",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705028&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"有没有一篇完整的nginx反代教程啊",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705027&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
