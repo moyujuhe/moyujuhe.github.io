@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 10:30:05",
+  "time":"2020-06-19 10:40:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"【DoorDash被薅羊毛？这届商家很优秀！】一个华尔街交易员发现，一份原价24美元的披萨在DoorDash上只卖16美元，并且该披萨店从来没有入驻过DoorDash，他敏锐地嗅到了套利的“商机”：如果餐厅老板在DoorDash上给自己的餐厅下订单，不就可以赚取这价差了吗？何况，DoorDash除了薅餐厅的羊毛，更是连自己家外卖小哥都不放过…",
+      "url":"https://mp.weixin.qq.com/s/7gZ_7ZTFuZJFHlNz_ByPBA"
+    },
     {
       "name":"从基因序列分析来看，北京最近传播的新冠病毒与欧洲流行的病毒有关。但是因为与许多国家/地区的序列类似，还无法定论它可能起源于何处，何时传入北京的。最重要的一点，北京的3个病毒基因序列虽然接近，但都不相同。这暗示了在暴发之前，新冠病毒可能已经在北京社区里默默传播了一段时间。",
       "url":"https://mp.weixin.qq.com/s/2rE1uFCvzr9ZeDAPEFsEVA"
@@ -89,10 +93,6 @@
     {
       "name":"微信“拍一拍”：一个从 1971 年讲起的故事",
       "url":"https://mp.weixin.qq.com/s/tXNcM5rjeTzNLiTHK0thOA"
-    },
-    {
-      "name":"CD PROJEKT RED 宣布，《赛博朋克2077》将延期至 11 月 19 日发售，本作原定于 9 月 17 日发售，首发登陆 PS4/Xbox One/PC 平台。",
-      "url":"https://www.vgtime.com/topic/1088897.jhtml"
     }
   ]
 }
