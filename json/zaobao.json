@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 16:56:11",
+  "time":"2020-06-19 17:00:23",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"滴滴顺风车在中国300个城市上线试运营",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062442"
+    },
     {
       "name":"中疾控专家：购买食物尽量不接触生鱼生肉",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062441"
@@ -77,10 +81,6 @@
     {
       "name":"中国大陆新增32例确诊 北京25例",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062350"
-    },
-    {
-      "name":"路透：印度拟对从中国等国进口的300种商品提高关税和贸易壁垒",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062349"
     }
   ]
 }
