@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-19 09:33:07",
+  "time":"2020-06-19 10:02:52",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -19,12 +19,12 @@
       "url":"https://www.zhihu.com/question/402098839"
     },
     {
-      "name":"你认为家境重要吗？",
-      "url":"https://www.zhihu.com/question/385812424"
-    },
-    {
       "name":"如何评价今天 JDG 打 RNG 的“bug”?",
       "url":"https://www.zhihu.com/question/402205809"
+    },
+    {
+      "name":"你认为家境重要吗？",
+      "url":"https://www.zhihu.com/question/385812424"
     },
     {
       "name":"我是家暴者，家暴真的不能被原谅吗？",
@@ -43,20 +43,16 @@
       "url":"https://www.zhihu.com/question/64477778"
     },
     {
-      "name":"如何看待山东聊城又现冒名顶替上学？",
-      "url":"https://www.zhihu.com/question/401761179"
+      "name":"吴尊友称北京疫情已经控制住了，如何守住这一成果，你有哪些想说的？",
+      "url":"https://www.zhihu.com/question/402176209"
     },
     {
       "name":"男生真的可以忙到一天不理女朋友吗？",
       "url":"https://www.zhihu.com/question/379380906"
     },
     {
-      "name":"吴尊友称北京疫情已经控制住了，如何守住这一成果，你有哪些想说的？",
-      "url":"https://www.zhihu.com/question/402176209"
-    },
-    {
-      "name":"《乘风破浪的姐姐》会不会让女明星们再度翻红?",
-      "url":"https://www.zhihu.com/question/393390793"
+      "name":"如何看待山东聊城又现冒名顶替上学？",
+      "url":"https://www.zhihu.com/question/401761179"
     },
     {
       "name":"如何看待李宇春给《乘风破浪的姐姐》创作的主题曲《无价之姐》？",
@@ -71,24 +67,20 @@
       "url":"https://www.zhihu.com/question/382258933"
     },
     {
-      "name":"狗不能吃人吃的饭是不是卖狗粮的阴谋？",
-      "url":"https://www.zhihu.com/question/306919987"
-    },
-    {
-      "name":"如何看待儿子欠债去世后，吉林 71 岁患癌老人两次被列为老赖？",
-      "url":"https://www.zhihu.com/question/402145609"
+      "name":"《乘风破浪的姐姐》会不会让女明星们再度翻红?",
+      "url":"https://www.zhihu.com/question/393390793"
     },
     {
       "name":"怎样改善圆肩？",
       "url":"https://www.zhihu.com/question/31211469"
     },
     {
-      "name":"如何评价618晚会THE9和创3妹妹的表演？",
-      "url":"https://www.zhihu.com/question/402023599"
-    },
-    {
       "name":"男生提分手以后会后悔吗？真的对女生一点都不想了吗？",
       "url":"https://www.zhihu.com/question/314807694"
+    },
+    {
+      "name":"狗不能吃人吃的饭是不是卖狗粮的阴谋？",
+      "url":"https://www.zhihu.com/question/306919987"
     },
     {
       "name":"为什么费玉清唱《一剪梅》没火到国外，主播蛋哥唱了却火到国外了？",
@@ -99,24 +91,36 @@
       "url":"https://www.zhihu.com/question/401753632"
     },
     {
-      "name":"如何看待王振华猥亵女童被判 5 年，王振华将上诉，请求二审判决无罪？",
-      "url":"https://www.zhihu.com/question/402183010"
+      "name":"为什么美队会认为冬兵是最好的朋友，而对于钢铁侠冷漠？",
+      "url":"https://www.zhihu.com/question/282450507"
     },
     {
-      "name":"智能汽车+新零售业态，是趋势还是伪命题？",
-      "url":"https://www.zhihu.com/question/401061039"
+      "name":"如何看待儿子欠债去世后，吉林 71 岁患癌老人两次被列为老赖？",
+      "url":"https://www.zhihu.com/question/402145609"
     },
     {
       "name":"33岁博士，中山大学助理教授和湖南师大讲师，选哪个？",
       "url":"https://www.zhihu.com/question/399563855"
     },
     {
-      "name":"为什么美队会认为冬兵是最好的朋友，而对于钢铁侠冷漠？",
-      "url":"https://www.zhihu.com/question/282450507"
+      "name":"如何看待王振华猥亵女童被判 5 年，王振华将上诉，请求二审判决无罪？",
+      "url":"https://www.zhihu.com/question/402183010"
+    },
+    {
+      "name":"如何评价618晚会THE9和创3妹妹的表演？",
+      "url":"https://www.zhihu.com/question/402023599"
+    },
+    {
+      "name":"智能汽车+新零售业态，是趋势还是伪命题？",
+      "url":"https://www.zhihu.com/question/401061039"
     },
     {
       "name":"如何看待韩国女主播评价近年来《英雄联盟》LCK 赛区式微为「是输给了资本」？",
       "url":"https://www.zhihu.com/question/401392521"
+    },
+    {
+      "name":"公司里有人踩着点上班，也不愿意晚下班1分钟，安排加班总说家里有事，怎么办？",
+      "url":"https://www.zhihu.com/question/397900440"
     },
     {
       "name":"为什么中国的牛肉这么贵？",
@@ -127,6 +131,10 @@
       "url":"https://www.zhihu.com/question/400619999"
     },
     {
+      "name":"如何看待赛博朋克2077宣布跳票至2020年11月19日？",
+      "url":"https://www.zhihu.com/question/402233325"
+    },
+    {
       "name":"怎样看待男方拿1000万保单当彩礼的行为？",
       "url":"https://www.zhihu.com/question/402083705"
     },
@@ -135,40 +143,28 @@
       "url":"https://www.zhihu.com/question/402054462"
     },
     {
-      "name":"The9的成立会对火箭少女造成什么影响？",
-      "url":"https://www.zhihu.com/question/402110154"
-    },
-    {
       "name":"有哪些比较冷门却用完真香的宝藏国货？",
       "url":"https://www.zhihu.com/question/400720842"
     },
     {
-      "name":"公司里有人踩着点上班，也不愿意晚下班1分钟，安排加班总说家里有事，怎么办？",
-      "url":"https://www.zhihu.com/question/397900440"
-    },
-    {
-      "name":"为什么说画画七彩玻璃风不可取?",
-      "url":"https://www.zhihu.com/question/401658248"
+      "name":"The9的成立会对火箭少女造成什么影响？",
+      "url":"https://www.zhihu.com/question/402110154"
     },
     {
       "name":"《魁拔》的质量这么好，可为什么热度还是不那么高？",
       "url":"https://www.zhihu.com/question/347018880"
     },
     {
+      "name":"为什么说画画七彩玻璃风不可取?",
+      "url":"https://www.zhihu.com/question/401658248"
+    },
+    {
       "name":"现代军队对付异鬼用什么武器好？",
       "url":"https://www.zhihu.com/question/322227155"
     },
     {
-      "name":"减肥期零食基本都戒了，但是嘴巴好寂寞，有没有适合减肥期的零食？",
-      "url":"https://www.zhihu.com/question/38720782"
-    },
-    {
       "name":"“乘风破浪的姐姐们”你pink谁，为什么？",
       "url":"https://www.zhihu.com/question/400961551"
-    },
-    {
-      "name":"为什么是数学而不是文学是“科学的皇后”？",
-      "url":"https://www.zhihu.com/question/401463161"
     },
     {
       "name":"《王者荣耀》你现在最怕队友拿什么英雄？",
@@ -179,6 +175,10 @@
       "url":"https://www.zhihu.com/question/373667742"
     },
     {
+      "name":"为什么是数学而不是文学是“科学的皇后”？",
+      "url":"https://www.zhihu.com/question/401463161"
+    },
+    {
       "name":"如何评价PS5首发价5400元，对于XB的赢面有多大？",
       "url":"https://www.zhihu.com/question/400788370"
     },
@@ -187,8 +187,12 @@
       "url":"https://www.zhihu.com/question/400300549"
     },
     {
-      "name":"00后骑动感单车4小时现茶色尿，医生诊断为过度运动致横纹肌溶解，如何把握自己能承受的运动强度？",
-      "url":"https://www.zhihu.com/question/401884208"
+      "name":"减肥期零食基本都戒了，但是嘴巴好寂寞，有没有适合减肥期的零食？",
+      "url":"https://www.zhihu.com/question/38720782"
+    },
+    {
+      "name":"青岛市第八人民医院发生新生儿意外死亡，怎么回事？",
+      "url":"https://www.zhihu.com/question/402010444"
     },
     {
       "name":"二战诺曼底登陆有多惨烈？",
@@ -197,10 +201,6 @@
     {
       "name":"如何看待虎牙大主播宇文泡儿挑战中式台球排名第一的杨帆？",
       "url":"https://www.zhihu.com/question/401981842"
-    },
-    {
-      "name":"热火三巨头当年是怎么解散的？",
-      "url":"https://www.zhihu.com/question/401763175"
     }
   ]
 }
