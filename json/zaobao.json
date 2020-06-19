@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 10:33:19",
+  "time":"2020-06-19 10:37:40",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国公布北京新发地冠病基因组序列数据",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062365"
+    },
     {
       "name":"应勇当选为湖北省人大常委会主任",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062363"
@@ -77,10 +81,6 @@
     {
       "name":"受北京疫情连累 挪威三文鱼对华出口锐减",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062163"
-    },
-    {
-      "name":"中国外交部称中印边境形势总体稳定可控",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062162"
     }
   ]
 }
