@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 13:45:56",
+  "time":"2020-06-19 13:50:14",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"专家预计香港明年或面临破产高峰期",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062395"
+    },
     {
       "name":"中国发生过疫情的学校不能作为高考考点",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062393"
@@ -77,10 +81,6 @@
     {
       "name":"中国今年液化天然气进口量或跃居全球第一",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062164"
-    },
-    {
-      "name":"中国拟县级以上档案馆档案满25年向社会开放",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062160"
     }
   ]
 }
