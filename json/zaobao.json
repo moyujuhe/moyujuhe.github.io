@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 09:33:09",
+  "time":"2020-06-19 09:37:26",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国大陆新增32例确诊 北京25例",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062350"
+    },
     {
       "name":"路透：印度拟对从中国等国进口的300种商品提高关税和贸易壁垒",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062349"
@@ -77,10 +81,6 @@
     {
       "name":"蔡英文提名陈菊为台湾监察院长",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062150"
-    },
-    {
-      "name":"中国买家5月对澳洲房产购买兴致急冻",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062154"
     }
   ]
 }
