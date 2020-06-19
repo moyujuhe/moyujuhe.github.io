@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-19 13:50:08",
+  "time":"2020-06-19 13:54:25",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"宝可梦“画大饼”，三款全新游戏齐亮相",
+      "url":"https://hot.cnbeta.com/articles/game/993167.htm"
     },
     {
       "name":"Adobe回应终止支持flash：中国大陆地区Flash将继续发行维护",
@@ -237,10 +241,6 @@
     {
       "name":"瑞典街道级图像众包数据库Mapillary已被Facebook收购",
       "url":"https://www.cnbeta.com/articles/tech/993049.htm"
-    },
-    {
-      "name":"[图]Windows Terminal 1.1预览版发布：新增字体粗细、随开机启动等功能",
-      "url":"https://www.cnbeta.com/articles/tech/993047.htm"
     }
   ]
 }
