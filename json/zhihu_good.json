@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 21:11:54",
+  "time":"2020-06-19 21:47:55",
   "title":"知乎每日精选-编辑推荐",
   "data":[
+    {
+      "name":"一周科技数码视频精选（6.11-6.17）",
+      "url":"https://zhuanlan.zhihu.com/p/149177241"
+    },
     {
       "name":"就CVPR2020的来看，目前人工智能的研究热点有哪些进展？未来的研究趋势会有什么变化？",
       "url":"https://www.zhihu.com/question/394503940/answer/1287977696"
@@ -61,10 +65,6 @@
     {
       "name":"2019-20赛季的NBA小前锋如何排名，谁是本赛季第一小前锋？",
       "url":"https://www.zhihu.com/question/401053323/answer/1280493385"
-    },
-    {
-      "name":"新手怎样写好游戏策划案？",
-      "url":"https://www.zhihu.com/question/26796168/answer/1134190716"
     }
   ]
 }
