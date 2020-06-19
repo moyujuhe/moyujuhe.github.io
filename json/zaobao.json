@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 09:50:15",
+  "time":"2020-06-19 09:54:29",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"澳门预计旅游业要2023年才能恢复",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062355"
+    },
     {
       "name":"中国大陆新增32例确诊 北京25例",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062350"
@@ -77,10 +81,6 @@
     {
       "name":"西藏新建五支民兵部队 负责巡逻和紧急救援",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062159"
-    },
-    {
-      "name":"蔡英文提名陈菊为台湾监察院长",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062150"
     }
   ]
 }
