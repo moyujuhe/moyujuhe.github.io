@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 11:03:06",
+  "time":"2020-06-19 11:07:25",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国今年高考设隔离考场 中高风险区全程戴口罩",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062375"
+    },
     {
       "name":"中国公布北京新发地冠病基因组序列数据",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062365"
@@ -77,10 +81,6 @@
     {
       "name":"摩根大通期货获准为中国首家外资全资控股期货公司",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062167"
-    },
-    {
-      "name":"受北京疫情连累 挪威三文鱼对华出口锐减",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062163"
     }
   ]
 }
