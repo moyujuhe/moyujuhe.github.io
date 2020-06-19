@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-20 00:50:19",
+  "time":"2020-06-20 00:54:33",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"世卫组织：北京出现的新冠病毒与欧洲毒株密切相关",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7919555"
+    },
+    {
+      "name":"谭德塞：18日全球新增15万，为疫情暴发来单日最大增幅",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7919554"
+    },
     {
       "name":"北京市领导对院感防控工作不到位的部分医疗机构进行约谈",
       "url":"https://www.thepaper.cn/newsDetail_forward_7919547"
@@ -73,14 +81,6 @@
     {
       "name":"“玉兔二号”揭示月背不明胶状物质身份：或为撞击形成角砾岩",
       "url":"https://www.thepaper.cn/newsDetail_forward_7917206"
-    },
-    {
-      "name":"“两蒋日记”所有权案宣判：任职期间文物归属台湾“国史馆”",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7915891"
-    },
-    {
-      "name":"上海移动试点工地5G网络全覆盖，计划年内开通超1万个基站",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7915988"
     }
   ]
 }
