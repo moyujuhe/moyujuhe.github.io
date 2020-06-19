@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 17:04:48",
+  "time":"2020-06-19 17:09:13",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"原中国国家质检总局副局长魏传忠一审被判无期",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062446"
+    },
     {
       "name":"滴滴顺风车在中国300个城市上线试运营",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062442"
@@ -77,10 +81,6 @@
     {
       "name":"澳门预计旅游业要2023年才能恢复",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062355"
-    },
-    {
-      "name":"中国大陆新增32例确诊 北京25例",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062350"
     }
   ]
 }
