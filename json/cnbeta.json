@@ -1,10 +1,22 @@
 {
-  "time":"2020-06-19 14:02:54",
+  "time":"2020-06-19 14:07:16",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"三星宣布成为加拿大Telus 5G设备供应商",
+      "url":"https://www.cnbeta.com/articles/tech/993175.htm"
+    },
+    {
+      "name":"美国航空将拒戴口罩乘客赶下飞机并禁飞 系全美首例",
+      "url":"https://www.cnbeta.com/articles/tech/993173.htm"
+    },
+    {
+      "name":"特斯拉申请新专利 提高Autopilot系统障碍物识别能力",
+      "url":"https://www.cnbeta.com/articles/tech/993171.htm"
     },
     {
       "name":"霍尼韦尔宣称拥有目前世界上最快的量子计算机",
@@ -229,18 +241,6 @@
     {
       "name":"美专家列出最易感染新冠病毒的五个地方",
       "url":"https://www.cnbeta.com/articles/science/993057.htm"
-    },
-    {
-      "name":"研究称南极海冰大量流失将威胁海洋生物的生存",
-      "url":"https://www.cnbeta.com/articles/science/993055.htm"
-    },
-    {
-      "name":"黑客利用图形验证来忽悠真人下载恶意文件并逃避自动化检测",
-      "url":"https://www.cnbeta.com/articles/tech/993053.htm"
-    },
-    {
-      "name":"[图]Windows 10 May 2020获累积更新 修复打印机问题",
-      "url":"https://www.cnbeta.com/articles/tech/993051.htm"
     }
   ]
 }
