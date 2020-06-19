@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 15:18:17",
+  "time":"2020-06-19 15:22:56",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"名盘：出一个戴尔 2T SAS",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705608&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"老伯力奈非非自制解禁确认",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705607&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"出镇江200M NAT",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705581&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"伯利已经解除了对TG的限制 你们去试试看",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705579&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
