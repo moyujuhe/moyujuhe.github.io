@@ -1,18 +1,14 @@
 {
-  "time":"2020-06-20 05:39:31",
+  "time":"2020-06-20 05:44:00",
   "title":"IT之家",
   "data":[
     {
-      "name":"iOS 14 要改名？苹果全新“ iPhone OS ”曝光",
-      "url":"https://www.ithome.com/0/493/569.htm"
+      "name":"腾讯微信官方疑似回应“30 万资金被冻结”事件：你的钱就是你的钱 ！",
+      "url":"https://www.ithome.com/0/493/783.htm"
     },
     {
-      "name":"雷军不主张大学生创业：没钱最痛苦，很容易走上邪路",
-      "url":"https://www.ithome.com/0/493/659.htm"
-    },
-    {
-      "name":"DigiTimes：苹果 iPhone 12/Pro 将采用骁龙 X60 5G 基带芯片，A14 本月开始生产",
-      "url":"https://www.ithome.com/0/493/573.htm"
+      "name":"苹果 iPhone OS 重出江湖？原来 IOS 商标权归属于思科",
+      "url":"https://www.ithome.com/0/493/786.htm"
     },
     {
       "name":"《英雄联盟》一玩家利用漏洞单局 240 杀，现已被封",
@@ -23,12 +19,8 @@
       "url":"https://www.ithome.com/0/493/768.htm"
     },
     {
-      "name":"腾讯微信官方疑似回应“30 万资金被冻结”事件：你的钱就是你的钱 ！",
-      "url":"https://www.ithome.com/0/493/783.htm"
-    },
-    {
-      "name":"苹果 iPhone OS 重出江湖？原来 IOS 商标权归属于思科",
-      "url":"https://www.ithome.com/0/493/786.htm"
+      "name":"雷军不主张大学生创业：没钱最痛苦，很容易走上邪路",
+      "url":"https://www.ithome.com/0/493/659.htm"
     },
     {
       "name":"Adobe 回应“杀死 Flash ”：继续与重橙网络合作，支持中国大陆 Flash 发行维护",
@@ -49,6 +41,14 @@
     {
       "name":"张国全回应小米10音量问题：调音配置没变，或为心理因素所致",
       "url":"https://www.ithome.com/0/493/621.htm"
+    },
+    {
+      "name":"Lumia 950已跑上Win10五月更新：电话、短信都能用",
+      "url":"https://www.ithome.com/0/493/651.htm"
+    },
+    {
+      "name":"进水了？慢镜头看苹果Apple Watch是如何往外排水的",
+      "url":"https://www.ithome.com/0/493/590.htm"
     },
     {
       "name":"微信悄悄上线“拍一拍”功能，振动头像提醒对方",
@@ -87,12 +87,12 @@
       "url":"https://www.ithome.com/0/492/513.htm"
     },
     {
-      "name":"司机直播性侵爆料网友致歉：好心办坏事，愿承担法律责任",
-      "url":"https://www.ithome.com/0/492/419.htm"
-    },
-    {
       "name":"美国对华为禁令更改原因曝光：忌惮华为 5G 标准影响力",
       "url":"https://www.ithome.com/0/492/989.htm"
+    },
+    {
+      "name":"司机直播性侵爆料网友致歉：好心办坏事，愿承担法律责任",
+      "url":"https://www.ithome.com/0/492/419.htm"
     },
     {
       "name":"UP 主“巫师财经”宣布退出 B 站，B 站回应：单方面违约，账号冻结处理，不排除起诉",
@@ -143,8 +143,8 @@
       "url":"https://www.ithome.com/0/492/540.htm"
     },
     {
-      "name":"论iPhone SE的核“心”竞争力是什么？",
-      "url":"https://www.ithome.com/0/492/710.htm"
+      "name":"618荣耀小米晒战绩，今年没争销量“冠军”",
+      "url":"https://www.ithome.com/0/493/634.htm"
     },
     {
       "name":"腾讯、软媒关于IT之家商业诋毁案终审宣判，山东省高院驳回腾讯诉求",
@@ -165,10 +165,6 @@
     {
       "name":"微信「拍一拍」功能上线后，网友直呼：「有啥用？」",
       "url":"https://www.ithome.com/0/493/364.htm"
-    },
-    {
-      "name":"苹果发布 iOS 13.5/iPadOS 13.5 正式版更新：面容 ID 针对口罩优化！",
-      "url":"https://www.ithome.com/0/488/331.htm"
     },
     {
       "name":"iPhone 12/Pro 要来了，苹果 9 款新手机出现在认证数据库中",
@@ -193,6 +189,10 @@
     {
       "name":"IT之家安卓版 7.21重磅更新：适配Android 11/10分区存储、铺路路路路……",
       "url":"https://www.ithome.com/0/489/316.htm"
+    },
+    {
+      "name":"微信“拍一拍”彩蛋：不光可以拍他人，还可以“自己拍自己”",
+      "url":"https://www.ithome.com/0/493/224.htm"
     }
   ]
 }
