@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 11:54:24",
+  "time":"2020-06-19 11:58:38",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"Oracle用上debian10",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705517&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"各位大佬，服务器一键打补丁有神马办法",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705515&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"伯力要涨价，俄罗斯要解除TG禁令",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705482&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"死海互联又挂了？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705481&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }

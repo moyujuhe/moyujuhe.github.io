@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 11:54:23",
+  "time":"2020-06-19 11:58:37",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"港立法会换届选举提名期为7月18日至31日",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062385"
+    },
     {
       "name":"台湾宜兰沙滩发现写有简体字不明金属 疑导弹弹壳",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062378"
@@ -77,10 +81,6 @@
     {
       "name":"台援港专案出炉：将建立交流办公室提供港人便捷服务",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062168"
-    },
-    {
-      "name":"中国大陆军机连续两日现身台湾上空",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062085"
     }
   ]
 }
