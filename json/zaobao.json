@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 15:22:54",
+  "time":"2020-06-19 15:27:41",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"台湾临时取消监察院院长提名记者会",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062419"
+    },
     {
       "name":"港公务员事务局指公务员不可有反国安法行动",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062399"
@@ -77,10 +81,6 @@
     {
       "name":"中国出台冠病疫苗生产临时性应急标准",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062328"
-    },
-    {
-      "name":"中疾控专家吴尊友：北京疫情已经控制住了",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062327"
     }
   ]
 }
