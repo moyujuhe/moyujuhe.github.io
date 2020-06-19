@@ -1,10 +1,18 @@
 {
-  "time":"2020-06-19 10:11:23",
+  "time":"2020-06-19 10:15:42",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"黑客利用图形验证来忽悠真人下载恶意文件并逃避自动化检测",
+      "url":"https://www.cnbeta.com/articles/tech/993053.htm"
+    },
+    {
+      "name":"[图]Windows 10 May 2020获累积更新 修复打印机问题",
+      "url":"https://www.cnbeta.com/articles/tech/993051.htm"
     },
     {
       "name":"瑞典街道级图像众包数据库Mapillary已被Facebook收购",
@@ -233,14 +241,6 @@
     {
       "name":"京东二次上市，强东“假装离开”",
       "url":"https://www.cnbeta.com/articles/tech/992937.htm"
-    },
-    {
-      "name":"世卫组织：新冠疫苗可能于年底前研发成功",
-      "url":"https://www.cnbeta.com/articles/tech/992935.htm"
-    },
-    {
-      "name":"iOS 14曝光：苹果要为系统改名 重叫iPhone OS？",
-      "url":"https://www.cnbeta.com/articles/tech/992933.htm"
     }
   ]
 }
