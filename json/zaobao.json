@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 12:24:12",
+  "time":"2020-06-19 12:28:28",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"京东港交所二次上市 市值超7200亿港元",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062387"
+    },
     {
       "name":"中疾控：北京没必要全民检测",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062386"
@@ -77,10 +81,6 @@
     {
       "name":"特别国债发行在即 中国央行净投放并重启14天逆回购",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062100"
-    },
-    {
-      "name":"中国国家烟草专卖局原副局长赵洪顺被判无期",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062166"
     }
   ]
 }

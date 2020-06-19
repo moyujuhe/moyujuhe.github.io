@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 09:41:45",
+  "time":"2020-06-19 12:28:27",
   "title":"知乎每日精选-编辑推荐",
   "data":[
+    {
+      "name":"自监督场景去遮挡",
+      "url":"https://zhuanlan.zhihu.com/p/129300832"
+    },
     {
       "name":"CVPR2020 | PV-RCNN: 3D目标检测 Waymo挑战赛+KITTI榜 单模态第一算法",
       "url":"https://zhuanlan.zhihu.com/p/148942116"
@@ -81,10 +85,6 @@
     {
       "name":"你好，时尚盐究员丨这是一群爱分享的「时髦星人」",
       "url":"https://zhuanlan.zhihu.com/p/147008403"
-    },
-    {
-      "name":"如何评价开放世界独立游戏《Kenshi》？",
-      "url":"https://www.zhihu.com/question/306438035/answer/1276522964"
     }
   ]
 }
