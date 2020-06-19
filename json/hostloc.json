@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-20 03:24:55",
+  "time":"2020-06-20 03:29:06",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"【测速】1.5刀/月=1G/40G SSD",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705897&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"IBM Cloud 见鬼了？突发欢乐了一会",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705896&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"A1P确实在解封",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705866&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"解封的A1P要不要作死，去申请OneDrive扩容25TB呢？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705865&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
