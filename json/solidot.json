@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-19 12:49:47",
+  "time":"2020-06-19 12:54:27",
   "title":"奇客的资讯",
   "data":[
     {
@@ -19,6 +19,10 @@
       "url":"https://www.solidot.org/story?sid=64702"
     },
     {
+      "name":"北京疫情复发昭示新常态",
+      "url":"https://www.solidot.org/story?sid=64701"
+    },
+    {
       "name":"华为将推迟 Mate 新旗舰手机生产",
       "url":"https://www.solidot.org/story?sid=64700"
     },
@@ -29,6 +33,10 @@
     {
       "name":"加州大学与施普林格自然集团达成开放获取协议",
       "url":"https://www.solidot.org/story?sid=64698"
+    },
+    {
+      "name":"特朗普去年提议撤销华为诉讼以换取中美贸易协议",
+      "url":"https://www.solidot.org/story?sid=64697"
     },
     {
       "name":"Zoom 改变主意将为所有用户提供端对端加密",
@@ -73,14 +81,6 @@
     {
       "name":"内部报告称 CIA 的黑客团队未能确保自己的系统安全",
       "url":"https://www.solidot.org/story?sid=64685"
-    },
-    {
-      "name":"Adobe 将到 2020 年底移除 Flash 下载",
-      "url":"https://www.solidot.org/story?sid=64684"
-    },
-    {
-      "name":"FFmpeg 4.3 释出",
-      "url":"https://www.solidot.org/story?sid=64683"
     }
   ]
 }
