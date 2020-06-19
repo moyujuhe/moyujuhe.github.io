@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 12:54:27",
+  "time":"2020-06-19 12:58:37",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Eric Schmidt 称华为构成了国家安全挑战",
+      "url":"https://www.solidot.org/story?sid=64706"
+    },
     {
       "name":"早期恐龙蛋可能是软蛋壳",
       "url":"https://www.solidot.org/story?sid=64705"
@@ -77,10 +81,6 @@
     {
       "name":"FreeBSD 11.4 释出",
       "url":"https://www.solidot.org/story?sid=64687"
-    },
-    {
-      "name":"内部报告称 CIA 的黑客团队未能确保自己的系统安全",
-      "url":"https://www.solidot.org/story?sid=64685"
     }
   ]
 }
