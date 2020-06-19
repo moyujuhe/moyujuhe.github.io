@@ -1,7 +1,23 @@
 {
-  "time":"2020-06-19 11:37:21",
+  "time":"2020-06-19 11:41:35",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"早期恐龙蛋可能是软蛋壳",
+      "url":"https://www.solidot.org/story?sid=64705"
+    },
+    {
+      "name":"微软释出紧急补丁修复打印机无法打印问题",
+      "url":"https://www.solidot.org/story?sid=64704"
+    },
+    {
+      "name":"Google Analytics 的轻量级开源替代",
+      "url":"https://www.solidot.org/story?sid=64703"
+    },
+    {
+      "name":"中国正在建立一个庞大的 DNA 数据库",
+      "url":"https://www.solidot.org/story?sid=64702"
+    },
     {
       "name":"华为将推迟 Mate 新旗舰手机生产",
       "url":"https://www.solidot.org/story?sid=64700"
@@ -65,22 +81,6 @@
     {
       "name":"FFmpeg 4.3 释出",
       "url":"https://www.solidot.org/story?sid=64683"
-    },
-    {
-      "name":"研究称地塞米松可显著降低新冠重症患者死亡率",
-      "url":"https://www.solidot.org/story?sid=64682"
-    },
-    {
-      "name":"美国允许企业在标准制定方面与华为合作",
-      "url":"https://www.solidot.org/story?sid=64681"
-    },
-    {
-      "name":"以色列科学家利用白炽灯监听 25 米外的对话",
-      "url":"https://www.solidot.org/story?sid=64679"
-    },
-    {
-      "name":"CRISP 技术治愈了三名遗传病患者",
-      "url":"https://www.solidot.org/story?sid=64678"
     }
   ]
 }
