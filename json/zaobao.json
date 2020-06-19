@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 12:02:51",
+  "time":"2020-06-19 12:07:07",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中疾控：北京没必要全民检测",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062386"
+    },
     {
       "name":"港立法会换届选举提名期为7月18日至31日",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062385"
@@ -77,10 +81,6 @@
     {
       "name":"中国国家烟草专卖局原副局长赵洪顺被判无期",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062166"
-    },
-    {
-      "name":"台援港专案出炉：将建立交流办公室提供港人便捷服务",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062168"
     }
   ]
 }
