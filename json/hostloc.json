@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 11:58:38",
+  "time":"2020-06-19 12:02:53",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"出2个TP-Link目前官方最高规格速率的WiFI信号放大器",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705519&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"Oracle用上debian10",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705517&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"Gandi T-shirt",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705483&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"伯力要涨价，俄罗斯要解除TG禁令",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705482&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
