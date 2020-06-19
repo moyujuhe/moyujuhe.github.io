@@ -1,7 +1,23 @@
 {
-  "time":"2020-06-20 00:41:37",
+  "time":"2020-06-20 00:45:54",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"科学家认为银河系可接触的外星文明大约又 36 个",
+      "url":"https://www.solidot.org/story?sid=64715"
+    },
+    {
+      "name":"日本科学家发现肥皂泡泡可帮助授粉",
+      "url":"https://www.solidot.org/story?sid=64714"
+    },
+    {
+      "name":"Krita 4.3 发布",
+      "url":"https://www.solidot.org/story?sid=64713"
+    },
+    {
+      "name":"Google 发布扩展允许创建和共享特定段落链接",
+      "url":"https://www.solidot.org/story?sid=64712"
+    },
     {
       "name":"澳大利亚声称遭遇大规模网络攻击",
       "url":"https://www.solidot.org/story?sid=64711"
@@ -13,6 +29,10 @@
     {
       "name":"僵尸卫星从坟场轨道回归",
       "url":"https://www.solidot.org/story?sid=64709"
+    },
+    {
+      "name":"Mozilla 宣布将在未来几周正式推出 VPN 服务",
+      "url":"https://www.solidot.org/story?sid=64708"
     },
     {
       "name":"抖音为何在内部架起“中国墙”？",
@@ -61,26 +81,6 @@
     {
       "name":"Zoom 改变主意将为所有用户提供端对端加密",
       "url":"https://www.solidot.org/story?sid=64696"
-    },
-    {
-      "name":"纳米海绵能阻断 SARS-CoV-2 感染",
-      "url":"https://www.solidot.org/story?sid=64695"
-    },
-    {
-      "name":"美国军方认真考虑核热推进",
-      "url":"https://www.solidot.org/story?sid=64694"
-    },
-    {
-      "name":"Ripple20 漏洞影响数亿设备",
-      "url":"https://www.solidot.org/story?sid=64693"
-    },
-    {
-      "name":"Parallels 与 Google 合作将 Windows 应用带到 Chrome OS",
-      "url":"https://www.solidot.org/story?sid=64692"
-    },
-    {
-      "name":"世界上最小的分子马达——只有16个原子",
-      "url":"https://www.solidot.org/story?sid=64691"
     }
   ]
 }
