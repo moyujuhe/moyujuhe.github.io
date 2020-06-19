@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-19 14:34:47",
+  "time":"2020-06-19 14:39:02",
   "data":[
     {
       "name":"你对你的未来惶恐过吗？",
@@ -215,6 +215,10 @@
       "url":"https://hacpai.com/article/1592038750432"
     },
     {
+      "name":"不知道是用 Solo 还是 WordPress",
+      "url":"https://hacpai.com/article/1591954929992"
+    },
+    {
       "name":"Java 社区论坛系统 Sym v3.6.3 发布，编辑器支持类似 Typora 的即时渲染模式",
       "url":"https://hacpai.com/article/1591922629093"
     },
@@ -237,10 +241,6 @@
     {
       "name":"一道另类却简单粗暴的解密题目",
       "url":"https://hacpai.com/article/1591454718604"
-    },
-    {
-      "name":"solo 搭建后访问域名报错 404，怎么搞？",
-      "url":"https://hacpai.com/article/1591284631277"
     }
   ]
 }
