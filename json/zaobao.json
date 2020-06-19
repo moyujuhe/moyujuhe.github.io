@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-19 13:33:08",
+  "time":"2020-06-19 13:37:25",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国发生过疫情的学校不能作为高考考点",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062393"
+    },
     {
       "name":"辽宁丹东小区煤气爆炸 目前三死四伤",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200619-1062392"
@@ -77,10 +81,6 @@
     {
       "name":"中国拟县级以上档案馆档案满25年向社会开放",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062160"
-    },
-    {
-      "name":"中国逾3300家企业今年新增环卫业务",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200618-1062112"
     }
   ]
 }
