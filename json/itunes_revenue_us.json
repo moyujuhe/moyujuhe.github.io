@@ -1,6 +1,6 @@
 {
   "title":"AppStore收入排行榜(美区)",
-  "time":"2020-06-19 21:11:53",
+  "time":"2020-06-19 21:16:17",
   "data":[
     {
       "name":"Fortnite",
@@ -21,28 +21,10 @@
       "description":"最新版本:  2.437.406997\n更新时间:  2020-06-18 23:41:21 (北京时间)\n\nTo make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
     },
     {
-      "name":"Call of Duty®: Mobile",
-      "url":"https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.0.15\n更新时间:  2020-06-11 10:45:51 (北京时间)\n\nCall Of Duty Mobile Season 7: RADIOACTIVE AGENT. Get ready to go nuclear as radioactive agents descend. Season 7 brings brand new updates with the much anticipated Battle Royale map expansion - 7 new zones, new BR class, and new Tank. Ghost and Price will be equipped with new gear to battle radioactive danger. Unlock new weapons to play in Tunisia and fan-favorite Gulag maps, plus Attack of the Undead mode. Accelerate your game with the Season 7 Battle Pass."
-    },
-    {
       "name":"Tinder",
       "url":"https://apps.apple.com/us/app/tinder/id547702041?uo=4",
       "num":"Lifestyle",
       "description":"最新版本:  11.18.0\n更新时间:  2020-06-19 06:26:45 (北京时间)\n\nPesky bugs have been exterminated. Continue as you were."
-    },
-    {
-      "name":"Disney+",
-      "url":"https://apps.apple.com/us/app/disney/id1446075923?uo=4",
-      "num":"Entertainment",
-      "description":"最新版本:  1.6.1\n更新时间:  2020-06-04 23:04:34 (北京时间)\n\nThe latest version of Disney+ includes fixes and updates that should make your streaming experience better."
-    },
-    {
-      "name":"Candy Crush Saga",
-      "url":"https://apps.apple.com/us/app/candy-crush-saga/id553834731?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.179.0.3\n更新时间:  2020-06-17 15:41:34 (北京时间)\n\nWe hope you’re having fun playing Candy Crush Saga! We update the game every week so don't forget to download the latest version to get all the sweet new features and levels!\n\nNew to the game? Don’t be shy, join the fun! \n\nComing back after a break? About time! \n\nLet’s play!"
     },
     {
       "name":"Coin Master",
@@ -57,10 +39,28 @@
       "description":"最新版本:  2006.1\n更新时间:  2020-06-16 02:06:19 (北京时间)\n\nBug fixes and feature improvements to reduce crashes and improve your overall listening experience."
     },
     {
+      "name":"Candy Crush Saga",
+      "url":"https://apps.apple.com/us/app/candy-crush-saga/id553834731?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.179.0.3\n更新时间:  2020-06-17 15:41:34 (北京时间)\n\nWe hope you’re having fun playing Candy Crush Saga! We update the game every week so don't forget to download the latest version to get all the sweet new features and levels!\n\nNew to the game? Don’t be shy, join the fun! \n\nComing back after a break? About time! \n\nLet’s play!"
+    },
+    {
       "name":"Pokémon GO",
       "url":"https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345?uo=4",
       "num":"Games",
       "description":"最新版本:  1.143.1\n更新时间:  2020-06-13 00:37:20 (北京时间)\n\nAs we continue prioritizing Pokémon GO experiences that can be enjoyed in individual settings, Trainers will soon enjoy the following.\n\n- Apple sign-in: Apple ID can now be used to sign in to Pokémon GO.\n- Trainers will be able to contribute to building 3D maps of their favorite PokéStops and Gyms by walking around their favorite public places and recording a stream of images with their phone."
+    },
+    {
+      "name":"Hulu: Stream TV shows & movies",
+      "url":"https://apps.apple.com/us/app/hulu-stream-tv-shows-movies/id376510438?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  7.2\n更新时间:  2020-06-18 01:11:36 (北京时间)\n\nBugs getting in the way? Not on our watch! In this latest update we’ve squashed those pesky suckers that may have been causing the app to crash. Make sure your Hulu app is updated to continue streaming!"
+    },
+    {
+      "name":"Netflix",
+      "url":"https://apps.apple.com/us/app/netflix/id363590051?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  12.36.0\n更新时间:  2020-06-16 00:00:59 (北京时间)\n\nWe’re working on the app experience. You work on what, when, and how you watch next. That's equally as important.\n\nWe know you have choices. In this release, we made gallery improvements so it’s easier to find the perfect thing to watch."
     },
     {
       "name":"Bumble: Matches. Chats. Dating",
@@ -75,34 +75,28 @@
       "description":"最新版本:  4.5.0\n更新时间:  2020-06-16 20:04:01 (北京时间)\n\nA major Gardenscapes summer update!\n\nEVENTS\n- Chocolate Day: earn chocolates and decorate the garden to help the kids win a contest at the end of June!\n- The Sweet Delight event: get more chocolates to spend on decorations!\n- Collect all the rewards in the Prize Fair at the end of June.\n- Earn renovation tickets while playing levels to create a Provence-inspired living room at the end of July.\n\nALSO\n- The adventures in the garden continue! Meet a new character, Captain Susan Boyd.\n- Unique profile pictures for each restored area!\n- A new element: Tarps. Make matches next to Tarps to remove them from the field."
     },
     {
-      "name":"Hulu: Stream TV shows & movies",
-      "url":"https://apps.apple.com/us/app/hulu-stream-tv-shows-movies/id376510438?uo=4",
-      "num":"Entertainment",
-      "description":"最新版本:  7.2\n更新时间:  2020-06-18 01:11:36 (北京时间)\n\nBugs getting in the way? Not on our watch! In this latest update we’ve squashed those pesky suckers that may have been causing the app to crash. Make sure your Hulu app is updated to continue streaming!"
-    },
-    {
-      "name":"Twitch: Live Game Streaming",
-      "url":"https://apps.apple.com/us/app/twitch-live-game-streaming/id460177396?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  9.2.1\n更新时间:  2020-06-16 07:37:09 (北京时间)\n\nBug fixes, stability fixes, and app optimizations"
-    },
-    {
-      "name":"Netflix",
-      "url":"https://apps.apple.com/us/app/netflix/id363590051?uo=4",
-      "num":"Entertainment",
-      "description":"最新版本:  12.36.0\n更新时间:  2020-06-16 00:00:59 (北京时间)\n\nWe’re working on the app experience. You work on what, when, and how you watch next. That's equally as important.\n\nWe know you have choices. In this release, we made gallery improvements so it’s easier to find the perfect thing to watch."
-    },
-    {
       "name":"Clash of Clans",
       "url":"https://apps.apple.com/us/app/clash-of-clans/id529479190?uo=4",
       "num":"Games",
       "description":"最新版本:  13.180.16\n更新时间:  2020-04-27 05:01:47 (北京时间)\n\nVarious minor bug fixes and improvements"
     },
     {
-      "name":"Toon Blast",
-      "url":"https://apps.apple.com/us/app/toon-blast/id1176027022?uo=4",
+      "name":"Disney+",
+      "url":"https://apps.apple.com/us/app/disney/id1446075923?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  1.6.1\n更新时间:  2020-06-04 23:04:34 (北京时间)\n\nThe latest version of Disney+ includes fixes and updates that should make your streaming experience better."
+    },
+    {
+      "name":"Call of Duty®: Mobile",
+      "url":"https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214?uo=4",
       "num":"Games",
-      "description":"最新版本:  5248\n更新时间:  2020-06-15 16:08:42 (北京时间)\n\nIt's time for a hardworking new update!\n\n- PLAY 50 NEW LEVELS! Don't panic by looking at the documents scattered around, these are indispensable for a diligent office atmosphere. Our heroes are working hard to finish all work on time. If you are ready for the funniest office adventures, join us!\n\nBe sure to update to the current version of Toon Blast for the newest content. In every 2 weeks, we bring 50 NEW LEVELS! Come and join the fun!"
+      "description":"最新版本:  1.0.15\n更新时间:  2020-06-11 10:45:51 (北京时间)\n\nCall Of Duty Mobile Season 7: RADIOACTIVE AGENT. Get ready to go nuclear as radioactive agents descend. Season 7 brings brand new updates with the much anticipated Battle Royale map expansion - 7 new zones, new BR class, and new Tank. Ghost and Price will be equipped with new gear to battle radioactive danger. Unlock new weapons to play in Tunisia and fan-favorite Gulag maps, plus Attack of the Undead mode. Accelerate your game with the Season 7 Battle Pass."
+    },
+    {
+      "name":"Twitch: Live Game Streaming",
+      "url":"https://apps.apple.com/us/app/twitch-live-game-streaming/id460177396?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  9.2.1\n更新时间:  2020-06-16 07:37:09 (北京时间)\n\nBug fixes, stability fixes, and app optimizations"
     },
     {
       "name":"Homescapes",
@@ -117,10 +111,16 @@
       "description":"最新版本:  4.36.3\n更新时间:  2020-06-16 10:36:50 (北京时间)\n\n- Now you can duet with someone/some clips you loved.\n- Set your favourite users as Special Follow to get more fun!\n- Optimize the registration and login process.\n- The Live Hourly Rank has been fully upgraded, allowing you to find popular broadcaster quickly!\n- A limited-time Discount Gift is on the shelf now! Buy it to your dear broadcaster~"
     },
     {
-      "name":"PUBG MOBILE - Mad Miramar",
-      "url":"https://apps.apple.com/us/app/pubg-mobile-mad-miramar/id1330123889?uo=4",
+      "name":"Toon Blast",
+      "url":"https://apps.apple.com/us/app/toon-blast/id1176027022?uo=4",
       "num":"Games",
-      "description":"最新版本:  0.18.0\n更新时间:  2020-05-07 11:01:56 (北京时间)\n\nPlay the most popular mobile game in the world for the best Battle Royale experience! \nExplore new areas and items in the updated Miramar map! \nA sandstorm is coming! Prepare well to survive in the extreme climate!\n\nUpgrades to Classic Maps\n1. Miramar Updates\n- A new Oasis in the northern part of the map and Ruins in the northwest are waiting for you to explore. More housing areas, roads, and resources have been added so that you can pick your landing spot and battles wisely.\n- A race track now runs through the whole map and is perfect for motorheads.\n- New Miramar vehicle: Golden Mirado. Only 1 will spawn on the map. Show off your riches in the desert!\n- Miramar's new Vending Machine: Get energy drinks or painkillers from Vending Machines scattered around the map. You might even be lucky enough to get 8 drinks at a time.\n- The Win94 comes with its own 2.7x Scope and only spawns in Miramar.\n2. Sandstorm Incoming\nThere is a chance that some areas in Miramar and the Main Menu will be ravaged by Sandstorms.\n3. Miramar Main Menu Theme\nUpdate and download the base map to get the Miramar Main Lobby and music.\n4. Miramar Achievements\nPlay the new Miramar map and complete the objectives to get these achievements.\n5. Miramar Events\nComplete new events for great rewards!\n\nUpdates to Classic Gameplay\n1. Bluehole Mode (coming soon)\n- Added Bluehole Mode to EvoGround: Erangel will now have 2 zones, an outer and inner zone. The inner zone is the newest addition which will represent the next play zone location. Players will lose health while in this inner zone as long as the outer zone is present. Once the outer zone finishes shrinking to the inner circle, a new inner zone will appear.\n- All supplies spawn with a 50% increase over the Classic Mode Erangel map. Players can revive a teammate in 4 seconds.\n2. Jungle Adventure (coming soon)\nDuring this event, when finding a match in Sanhok there is a random chance to enter Jungle Adventure Mode.\n- Totems: Find ancient totems and invoke their power for a chance to receive a blessing or item.\n- Jungle Food: Fruit and other foods grow in the wild. Eating them may grant mysterious effects.\n- Hot Air Balloon: Control the Hot Air Balloon to survey the battlefield.\nNew Arena Weapon\nNew Weapon: P90\n- The P90 has been added to the Arena and it is a fearsome weapon in close quarters.\n- Fires 9mm rounds and has a default magazine capacity of up to 50 shots. It has a single shot, burst shot, and full auto mode.\n- Equip the P90 with all SMG Muzzle attachments, 1x-6x Scope, and Laser Sight.\nBrand New Content\n1. Cheer Park:\nCheer Park is a social area that can accommodate 20 players at any time. It has most of the basic Training Ground features and lets players interact with other players in real-time!\n- Players can view the information of other players, chat, interact with Emotes, and add friends.\n- Players can team up with other players and play matches in various modes.\n- Invite friends to interact and roast chicken together in Cheer Park.\nPlayers can also engage in other interactions in Cheer Park:\n- Quick Draw: Players can have 1v1 duels with other players.\n- Hunt Game: The Hunt Game that was featured in the anniversary celebration is also available in Cheer Park. Give it a try!\n- The Shooting Range is a way to show off your shooting skills and compete against the other players in the Cheer Park. You can also share your results in chats.\n2. Guncraft Finishes\n- Players can customize the colors, patterns, and emblems of their weapons after obtaining customizable finishes.\n- Players can create custom Emblems to truly personalize their weapons.\n- Guncraft materials are obtained from Lucky Spin. Some materials can also be purchased directly.\n- Graffiti can be exchanged for Guncraft stickers and applied to weapons as a finish."
+      "description":"最新版本:  5248\n更新时间:  2020-06-15 16:08:42 (北京时间)\n\nIt's time for a hardworking new update!\n\n- PLAY 50 NEW LEVELS! Don't panic by looking at the documents scattered around, these are indispensable for a diligent office atmosphere. Our heroes are working hard to finish all work on time. If you are ready for the funniest office adventures, join us!\n\nBe sure to update to the current version of Toon Blast for the newest content. In every 2 weeks, we bring 50 NEW LEVELS! Come and join the fun!"
+    },
+    {
+      "name":"YouTube Music",
+      "url":"https://apps.apple.com/us/app/youtube-music/id1017492454?uo=4",
+      "num":"Music",
+      "description":"最新版本:  3.69\n更新时间:  2020-06-04 01:02:11 (北京时间)\n\nWe update our app all the time in order to make your YouTube Music experience better. We polished a few things, fixed bugs, and made some performance improvements."
     },
     {
       "name":"Fishdom",
@@ -141,22 +141,16 @@
       "description":"最新版本:  6.4.3\n更新时间:  2020-06-17 14:46:49 (北京时间)\n\nHi Slotomania Fans!\n\nHere's a new update with fixes to improve your game experience!\n\nHave fun & good luck!"
     },
     {
-      "name":"YouTube Music",
-      "url":"https://apps.apple.com/us/app/youtube-music/id1017492454?uo=4",
-      "num":"Music",
-      "description":"最新版本:  3.69\n更新时间:  2020-06-04 01:02:11 (北京时间)\n\nWe update our app all the time in order to make your YouTube Music experience better. We polished a few things, fixed bugs, and made some performance improvements."
+      "name":"HBO Max: Stream TV & Movies",
+      "url":"https://apps.apple.com/us/app/hbo-max-stream-tv-movies/id971265422?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  50.1\n更新时间:  2020-06-16 01:11:11 (北京时间)\n\nThe freshest HBO Max yet, this update went hard on bug squashing and optimizing performance to keep problems away from you, so you can focus on streaming more of what you love."
     },
     {
-      "name":"Candy Crush Soda Saga",
-      "url":"https://apps.apple.com/us/app/candy-crush-soda-saga/id850417475?uo=4",
+      "name":"PUBG MOBILE - Mad Miramar",
+      "url":"https://apps.apple.com/us/app/pubg-mobile-mad-miramar/id1330123889?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.170.9\n更新时间:  2020-06-17 15:59:09 (北京时间)\n\nSodalicious! We update our game every week with exciting levels, improvements to the game, and fun new features. Download the latest version to check it out! Joining us after a break? Welcome back! New to the game? You’ll be a pro before you know it! What are you waiting for? Let’s play!"
-    },
-    {
-      "name":"Golf Clash",
-      "url":"https://apps.apple.com/us/app/golf-clash/id1089225191?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.37.3\n更新时间:  2020-02-26 17:04:51 (北京时间)\n\nWelcome to the latest version of Golf Clash. Here’s what’s new:\n\n- Google Play and Apple sign-in – secure your account using your Google or Apple Account..\n- Performance optimizations.\n- Various bug fixes and game improvements.\n\nBe sure to check out the in-game Social Hub to read the full update notes."
+      "description":"最新版本:  0.18.0\n更新时间:  2020-05-07 11:01:56 (北京时间)\n\nPlay the most popular mobile game in the world for the best Battle Royale experience! \nExplore new areas and items in the updated Miramar map! \nA sandstorm is coming! Prepare well to survive in the extreme climate!\n\nUpgrades to Classic Maps\n1. Miramar Updates\n- A new Oasis in the northern part of the map and Ruins in the northwest are waiting for you to explore. More housing areas, roads, and resources have been added so that you can pick your landing spot and battles wisely.\n- A race track now runs through the whole map and is perfect for motorheads.\n- New Miramar vehicle: Golden Mirado. Only 1 will spawn on the map. Show off your riches in the desert!\n- Miramar's new Vending Machine: Get energy drinks or painkillers from Vending Machines scattered around the map. You might even be lucky enough to get 8 drinks at a time.\n- The Win94 comes with its own 2.7x Scope and only spawns in Miramar.\n2. Sandstorm Incoming\nThere is a chance that some areas in Miramar and the Main Menu will be ravaged by Sandstorms.\n3. Miramar Main Menu Theme\nUpdate and download the base map to get the Miramar Main Lobby and music.\n4. Miramar Achievements\nPlay the new Miramar map and complete the objectives to get these achievements.\n5. Miramar Events\nComplete new events for great rewards!\n\nUpdates to Classic Gameplay\n1. Bluehole Mode (coming soon)\n- Added Bluehole Mode to EvoGround: Erangel will now have 2 zones, an outer and inner zone. The inner zone is the newest addition which will represent the next play zone location. Players will lose health while in this inner zone as long as the outer zone is present. Once the outer zone finishes shrinking to the inner circle, a new inner zone will appear.\n- All supplies spawn with a 50% increase over the Classic Mode Erangel map. Players can revive a teammate in 4 seconds.\n2. Jungle Adventure (coming soon)\nDuring this event, when finding a match in Sanhok there is a random chance to enter Jungle Adventure Mode.\n- Totems: Find ancient totems and invoke their power for a chance to receive a blessing or item.\n- Jungle Food: Fruit and other foods grow in the wild. Eating them may grant mysterious effects.\n- Hot Air Balloon: Control the Hot Air Balloon to survey the battlefield.\nNew Arena Weapon\nNew Weapon: P90\n- The P90 has been added to the Arena and it is a fearsome weapon in close quarters.\n- Fires 9mm rounds and has a default magazine capacity of up to 50 shots. It has a single shot, burst shot, and full auto mode.\n- Equip the P90 with all SMG Muzzle attachments, 1x-6x Scope, and Laser Sight.\nBrand New Content\n1. Cheer Park:\nCheer Park is a social area that can accommodate 20 players at any time. It has most of the basic Training Ground features and lets players interact with other players in real-time!\n- Players can view the information of other players, chat, interact with Emotes, and add friends.\n- Players can team up with other players and play matches in various modes.\n- Invite friends to interact and roast chicken together in Cheer Park.\nPlayers can also engage in other interactions in Cheer Park:\n- Quick Draw: Players can have 1v1 duels with other players.\n- Hunt Game: The Hunt Game that was featured in the anniversary celebration is also available in Cheer Park. Give it a try!\n- The Shooting Range is a way to show off your shooting skills and compete against the other players in the Cheer Park. You can also share your results in chats.\n2. Guncraft Finishes\n- Players can customize the colors, patterns, and emblems of their weapons after obtaining customizable finishes.\n- Players can create custom Emblems to truly personalize their weapons.\n- Guncraft materials are obtained from Lucky Spin. Some materials can also be purchased directly.\n- Graffiti can be exchanged for Guncraft stickers and applied to weapons as a finish."
     },
     {
       "name":"MARVEL Strike Force: Squad RPG",
@@ -165,70 +159,10 @@
       "description":"最新版本:  4.1.0\n更新时间:  2020-06-10 01:15:50 (北京时间)\n\nBeat the odds by dropping an Alliance War offensive bomb with X-Force!\n\nArriving over the course of this release:\n• Enhance your squad with 3 new playable characters: Domino, X-23, and Negasonic Teenage Warhead.\n• VS Battle Update - New Balanced Draft mode: All characters at or above gear tier 9 will have their power modified to set levels to even the playing field.\n• New Advanced Option: Quick Alliance Access - Bypass the Alliance load screen and easily manage Alliance members. To activate, go to the Advanced Options in the Settings menu.\n• Ability enhancements for Deadpool and Cable.\n• You can now use Alliance Credits to purchase items in the War Store (located at the bottom of the Supplies section).\n• Health Bar visual update - To accommodate Health scaling systems, like Red Stars, the amount of Health needed to gain an additional health bar segment has been increased.\n• Offers Visual Update - Tap the offer description to view more details\n• Assemble a top squad with the limited-time Lucky trait for Serendipity, Domino’s Event Campaign.\n\nBugs\n• Fixed multiple instances of Black Bolt sometimes causing issues during battle.\n• Ronan's summoned minions now correctly benefit from Red Stars and Stark Tech.\n• Text Clarification: The description for Psylocke's Passive Ability, Reinvigorate, has been updated to match her combat behavior -- clarifying that she can give herself Evade and Counter and not just X-Men allies.\n• Hail bug fix: The chain attack for Red Skull’s Basic Ability, Hydra 99 Pistol, now properly stopped by Counter.\n• Hail 2nd bug fix: The chain attack for Red Skull Basic Ability, Hydra 99 Pistol, will no longer incorrectly chain to enemies with Stealth.\n• Big Fix: Selecting “Find” for a desired gear piece now correctly places you on the gear piece’s location in the Store.\n• Ironheart's Ultimate ability, Heart Breaker, was applying a flat amount of Focus in War, rather than the intended percentage increase. This has been fixed.\n• Thanos's Empowered Passive Ability, Ultimate Power, now correctly triggers when Thanos and each Black Order ally drop below 50% Health. Previously this ability was only triggering once per match - it now correctly triggers once on each Black Order ally and Thanos per battle.\n• Alleviated a delay some devices experienced when tapping “Find” for a character.\n• The two most recent messages will now correctly remain on the Chat bar while changing screens.\n• Visual Fix: Taskmaster’s sword and shield looked a little weird. They look fantastic now."
     },
     {
-      "name":"HBO Max: Stream TV & Movies",
-      "url":"https://apps.apple.com/us/app/hbo-max-stream-tv-movies/id971265422?uo=4",
-      "num":"Entertainment",
-      "description":"最新版本:  50.1\n更新时间:  2020-06-16 01:11:11 (北京时间)\n\nThe freshest HBO Max yet, this update went hard on bug squashing and optimizing performance to keep problems away from you, so you can focus on streaming more of what you love."
-    },
-    {
-      "name":"Cashman Casino Las Vegas Slots",
-      "url":"https://apps.apple.com/us/app/cashman-casino-las-vegas-slots/id1123582513?uo=4",
+      "name":"Candy Crush Soda Saga",
+      "url":"https://apps.apple.com/us/app/candy-crush-soda-saga/id850417475?uo=4",
       "num":"Games",
-      "description":"最新版本:  2.26.1\n更新时间:  2020-06-04 16:20:55 (北京时间)\n\nHey Mr. Cashman fans!\nGet our NEW games in our latest update!\nFor the best experience and most FUN we’ve squashed bugs and optimized your game.\nBecome a fan today using the following link to get daily bonuses and updates: \nhttps://www.facebook.com/cashmancasino/"
-    },
-    {
-      "name":"DoubleDown™- Casino Slots Game",
-      "url":"https://apps.apple.com/us/app/doubledown-casino-slots-game/id485126024?uo=4",
-      "num":"Games",
-      "description":"最新版本:  4.5.60\n更新时间:  2020-05-18 09:32:01 (北京时间)\n\nHi, DoubleDown fans!\n\nWe love to double down on fun, so check out this latest update, which includes the newest season of Journey, Dessert Dreams. Be sure also to check out our latest slot launch, Megabucks Da Vinci Diamonds!\n\nLastly, this update has some minor performance tweaks that will improve the overall experience of playing your favorite slot games on DoubleDown Casino!\n\nHappy spinning!"
-    },
-    {
-      "name":"Rise of Kingdoms",
-      "url":"https://apps.apple.com/us/app/rise-of-kingdoms/id1354260888?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.0.34.15\n更新时间:  2020-06-14 21:59:14 (北京时间)\n\n1. The “Golden Kingdom” Event is beginning!\nInvaders are rampaging throughout Karaku. The legendary Golden Kingdom calls to you, a savior from the outside world foretold in prophecy. You are the last hope of the Golden Kingdom!\nAn epic adventure that will take you on an unpredictable journey filled with random special events, the brand new single-player dungeon “Golden Kingdom” is coming soon!\nPrepare your troops and steel your hearts, for the fate of the Golden Kingdom hangs on every choice you make.\n\n2. New “Alliance Event Calendar” \nWe have added the new “Alliance Event Calendar” function, where you can schedule and arrange Alliance events more conveniently and flexibly. Come try it out!\n\n3. Dragon Boat Festival events \nThe Dragon Boat Festival is almost here, so we’ve prepared plenty of exciting holiday events for you! See below for details:\n- Dragon Boat Bonanza: 7 days of questing for great rewards!\n- Mouth-Watering Zongzi: Wrap zongzi, celebrate the Dragon Boat Festival, and win fabulous rewards!\n- Find the Leaves: Collect Bamboo Leaves to wrap the most delicious Zongzi!\n- Battle on the Water: Boost your power and fight your way upstream!\n- Strange Incidents: Investigate unexplained villages fires and catch the culprits.\n\n4. \"Ceroli Crisis\" Improvements\n1) Added team skills. Use them wisely to gain an advantage.\n2) Added a Select Target feature to allow Governors to shift targets while fighting.\n3). Optimized the Enmity mechanism. Chieftains will now use logic to choose their targets, so watch out! Skills of some Chieftains have also been tuned accordingly.\n\n5. “Ian's Ballads” Improvements\n1) Added team skills. Use them wisely to gain an advantage.\n2) Added a chat channel exclusive to Ian's Ballads. Now you can communicate with your allies more conveniently during the battle.\n3) Added notifications for when you have fallen troops to revive and when the dungeon ends, as well as an Exit button to exit the battlefield.\n\n6. “Arms Training” Improvements\n1) Added 10+ new skills to Armsmaster Lohar. He will become a much more challenging opponent!\n2) UI screens have been adjusted to make them more player-friendly.\n\n7. “Lost Kingdom” & “Past Glory” Improvements\nBased on your feedback about the “Lost Kingdom” and other events, we have made the following optimizations:\n1) Æthelflæd sculptures will no longer be reclaimed at stage 3 of the “Past Glory” event.\n2) Immigration during the \"Lost Kingdom\" event may cause certain unlocked commanders to become unavailable again. Governors who have assigned such a commander as garrison commander before immigrating will need to assign a new one after immigrating.\n3) Reduced the chance to encounter the Ancient Ruins and Altar of Darkness events, and increased Honor Points gained from them.\n4) Reduced the stalker kill count requirements of Ancient Ruins or Altars of Darkness in the kingdom history progression.\n\n8. “Barbarian Keep” Improvements\n1) Notifications will now be displayed when a Chieftain appears or is defeated.\n2) Optimized the “Rewards Preview” screen to make it more intuitive.\n3) Barbarian Keeps have a higher initial level in Provinces closer to the center of the Kingdom Map.\n\n9. Equipment Attribute Optimizations\n1) Pendant of Eternal Night: “Skill damage +5%, normal attack damage -2%” was changed to “Skill damage +5”.\n2) Delane’s Amulet: “Incoming normal attack damage +3, incoming counterattack damage -10%” was changed to “Counterattack damage taken -5%”.\n\n10. Other Changes"
-    },
-    {
-      "name":"Plenty of Fish Dating",
-      "url":"https://apps.apple.com/us/app/plenty-of-fish-dating/id389638243?uo=4",
-      "num":"Social Networking",
-      "description":"最新版本:  13.30\n更新时间:  2020-06-10 01:09:27 (北京时间)\n\n- Enjoy POF with fewer bugs and improved stability"
-    },
-    {
-      "name":"Toy Blast",
-      "url":"https://apps.apple.com/us/app/toy-blast/id890378044?uo=4",
-      "num":"Games",
-      "description":"最新版本:  7281\n更新时间:  2020-06-13 16:00:54 (北京时间)\n\nIt's time for an adventurous new update!\n\n- PLAY 50 NEW LEVELS! Join the Toys on their safari and discover the amazing wildlife of Sub-Saharan Africa! We will cross the golden plains, accompanied by lazy lions and playful hippos!\n\nBe sure to update to the current version of Toy Blast for the newest content. In every 2 weeks, we bring 50 NEW LEVELS! Come and join the fun!"
-    },
-    {
-      "name":"Bingo Blitz™ - Bingo Games",
-      "url":"https://apps.apple.com/us/app/bingo-blitz-bingo-games/id529996768?uo=4",
-      "num":"Games",
-      "description":"最新版本:  4.42.2\n更新时间:  2020-06-12 19:22:10 (北京时间)\n\nBlitzers, we want to thank you all for your continued support over the last few months. We take great pride in knowing that Bingo Blitz is bringing our players joy, and relief, if only for a few moments of your day. We will continue doing our very best to improve the Bingo Blitz experience for our loyal community, and provide more fun opportunities for you to #playaparttogether and stay connected during these challenging times. Stay safe, and we wish good health to all."
-    },
-    {
-      "name":"TikTok - Make Your Day",
-      "url":"https://apps.apple.com/us/app/tiktok-make-your-day/id835599320?uo=4",
-      "num":"Entertainment",
-      "description":"最新版本:  16.5.0\n更新时间:  2020-06-17 16:23:44 (北京时间)\n\nYou'll get our latest and greatest effects."
-    },
-    {
-      "name":"Garena Free Fire: Rampage",
-      "url":"https://apps.apple.com/us/app/garena-free-fire-rampage/id1300146617?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.49.0\n更新时间:  2020-06-17 15:01:31 (北京时间)\n\n1. Clash Squad Season 1 - Begins 06/04 17:00 SGT.\n2. New Weapon - M82B. \n3. New Character - Wolfrahh\n4. Players can now equip active skills from other characters.\n5. Weapon stats adjustment: SKS, SVD, M1887, and M14.\n6. Advanced attachment stats adjustment: VSS and Kar98k.\n7. Info box will now share the safe zone's location with teammates.\n8. Purgatory - Classic now available. \n9. Emote slot has been expanded from 6-8\n10. Guild system improvement and optimization."
-    },
-    {
-      "name":"Episode - Choose Your Story",
-      "url":"https://apps.apple.com/us/app/episode-choose-your-story/id656971078?uo=4",
-      "num":"Games",
-      "description":"最新版本:  12.94\n更新时间:  2020-06-12 06:04:52 (北京时间)\n\nYou’ll love our newest release, BAD MEETS BAD.\nNew school, new town, new people. As you attempt to fit in, can you keep your BAD reputation secret?"
-    },
-    {
-      "name":"IMVU: 3D Avatar Creator & Chat",
-      "url":"https://apps.apple.com/us/app/imvu-3d-avatar-creator-chat/id919745844?uo=4",
-      "num":"Social Networking",
-      "description":"最新版本:  v5.8.2\n更新时间:  2020-06-15 23:31:00 (北京时间)\n\n• New users have a fast and easy way to sign up! Sign in with Apple is now supported for our users on iOS 13.\n• IMVU’s bug patrol has been hard at work squashing bugs and making various fixes and improvements.\n• Questions? Need help? Visit our Community Center: im.vu/help769"
+      "description":"最新版本:  1.170.9\n更新时间:  2020-06-17 15:59:09 (北京时间)\n\nSodalicious! We update our game every week with exciting levels, improvements to the game, and fun new features. Download the latest version to check it out! Joining us after a break? Welcome back! New to the game? You’ll be a pro before you know it! What are you waiting for? Let’s play!"
     },
     {
       "name":"Game of Thrones: Conquest ™",
@@ -237,52 +171,16 @@
       "description":"最新版本:  3.5.283521\n更新时间:  2020-05-26 02:48:05 (北京时间)\n\nGrab the latest update now!\n\nRecent changes and improvements to our game:\n•Bug fixes to peace shields.\n•Combat bug fixes.\n•Improved combat performance.\n•UI bug fixes.\n•Improvements to app performance."
     },
     {
-      "name":"King of Avalon: Dragon Warfare",
-      "url":"https://apps.apple.com/us/app/king-of-avalon-dragon-warfare/id1084930849?uo=4",
-      "num":"Games",
-      "description":"最新版本:  8.6.1\n更新时间:  2020-06-12 10:36:35 (北京时间)\n\nFixed some bugs and made an optimization."
-    },
-    {
-      "name":"Apple Developer",
-      "url":"https://apps.apple.com/us/app/apple-developer/id640199958?uo=4",
-      "num":"Reference",
-      "description":"最新版本:  8.2.1\n更新时间:  2020-06-17 23:55:16 (北京时间)\n\nThank you for your feedback. New in this release:\n\n• Redesigned Discover tab to help you catch up on the latest stories, news, videos, and more.\n• Option to favorite individual articles in addition to videos and session content.\n• Updated Browse tab, where you can search for existing sessions, videos, articles, and news.\n• Updated WWDC tab in preparation for the conference.\n• Various enhancements and bug fixes."
-    },
-    {
-      "name":"MeetMe - Go Live, Chat & Meet",
-      "url":"https://apps.apple.com/us/app/meetme-go-live-chat-meet/id372648912?uo=4",
-      "num":"Social Networking",
-      "description":"最新版本:  14.12.1\n更新时间:  2020-05-08 07:44:43 (北京时间)\n\n- Addressed an issue with being unable to open certain user profiles.\n- Bug fixes and performance optimizations."
-    },
-    {
-      "name":"Heart of Vegas Slots-Casino",
-      "url":"https://apps.apple.com/us/app/heart-of-vegas-slots-casino/id785537179?uo=4",
-      "num":"Games",
-      "description":"最新版本:  4.18.0\n更新时间:  2020-06-01 20:37:01 (北京时间)\n\nHello, Heart of Vegas Friends!\n\nIn this release we have added some more of the biggest games from Aristocrat's all star slots lineup.\nThe original DRAGON LINK™ and LIGHTNING LINK™ games with Lightning-fast Jackpots, Free Games, and the Hold & Spin feature are sure to keep you on the edge of your seat.\n\nGet even MORE BONUSES when you Join Heart of Vegas Communities! Join us on Facebook: https://www.facebook.com/HeartofVegas"
-    },
-    {
       "name":"Amazon Music",
       "url":"https://apps.apple.com/us/app/amazon-music/id510855668?uo=4",
       "num":"Music",
       "description":"最新版本:  9.10.0\n更新时间:  2020-05-28 06:02:43 (北京时间)\n\nWe’re improving your Amazon Music listening experience all the time. In this version, we fixed some bugs and made other improvements."
     },
     {
-      "name":"LinkedIn: Network & Job Finder",
-      "url":"https://apps.apple.com/us/app/linkedin-network-job-finder/id288429040?uo=4",
-      "num":"Business",
-      "description":"最新版本:  9.1.181\n更新时间:  2020-06-17 01:02:43 (北京时间)\n\nWhen you’re in a conversation, speed and stability matter. The LinkedIn app is now more reliable than ever. This update contains bug fixes."
-    },
-    {
-      "name":"State of Survival: Zombie War",
-      "url":"https://apps.apple.com/us/app/state-of-survival-zombie-war/id1452474937?uo=4",
+      "name":"Golf Clash",
+      "url":"https://apps.apple.com/us/app/golf-clash/id1089225191?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.8.40\n更新时间:  2020-06-18 12:38:09 (北京时间)\n\nUpdate v1.8.40\n1. Midsummer Day is here, light up the fire of hope together\n-Midsummer Day events: Midsummer Fire, On Fire, Sturdy Lumberjack, Midsummer Carnival, Midsummer Firewood, Maypole&Bonfire\n-Midsummer Day HQ Skin, Frame Skin, and March Skin added\n-Midsummer Day Decoration Building added\n2. Prosperity Interface Optimized\n3. Chapter Mission interface latency problem optimized\n4. Capital Tower firing countdown display optimizied\n5. Your Heroes will run now when you increase your March Speed\n6. Requirement for upgrading Lv.5 and Lv.6 Intel Post changed\n7. Wilderness Infected respawn optimizied\n8. Explorer Trail reward optimizied\n-Exploration Backpack capacaity limit canceled\n-Special Crate added during Exploration\n-Item pick-up process and animation optimizied\n9. Optimized Arabic version's UI and Text to adapt to the reading and cultural habit of Arabic Chiefs"
-    },
-    {
-      "name":"Chapters: Interactive Stories",
-      "url":"https://apps.apple.com/us/app/chapters-interactive-stories/id1277029359?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.4.7\n更新时间:  2020-05-26 15:54:22 (北京时间)\n\nNew Stories & Chapters such as:\n\nUSA Today bestselling author book - One Rogue at A Time\nSexy, smoldering mercenary Bram Hallowsby has spent his life doing dangerous work for the British nobility. A good girl like you would never dream of spending time with a scoundrel like him--until he turns out to be the only one that can teach you to be a proper noble lady. Will you let yourself be seduced by this rogue?\n\nThe Playboy's Proposal\nNotorious for throwing the best parties in town, the silver-tongued Henry Ellison is nothing but trouble. But when his antics go too far, he makes you an offer that’s too good to refuse. \n\nTrinity\nWith a run-down bar to save, you don't have the time for a man — much less two! After one scorching-hot encounter with two seductive strangers, Jason and Shane are back for more, and this time, they're playing for keeps. Will you be able to resist these all-too-tempting men?\n\nThe Bastard Billionare\nEli Crane is wickedly sexy, whip-smart, and worth a billion dollars— whether he wants to be or not. He's rough around the edges. So rough, he fired his last 10 assistants! Now it's your turn to serve his needs. \n\n& more! Read now.\n\nThe update also includes performance optimization and bug fixes."
+      "description":"最新版本:  2.37.3\n更新时间:  2020-02-26 17:04:51 (北京时间)\n\nWelcome to the latest version of Golf Clash. Here’s what’s new:\n\n- Google Play and Apple sign-in – secure your account using your Google or Apple Account..\n- Performance optimizations.\n- Various bug fixes and game improvements.\n\nBe sure to check out the in-game Social Hub to read the full update notes."
     },
     {
       "name":"Jackpot Party - Casino Slots",
@@ -291,16 +189,10 @@
       "description":"最新版本:  5015.00\n更新时间:  2020-05-26 23:06:57 (北京时间)\n\nHey, Jackpot Partiers!\nThere’s no place like home, and we’ve got a brand new update to keep you company during this madness!\nIn our latest release, our team has fixed some bugs affecting the Honey-Do List. It’s now running better than ever!\nSpeaking of your Honey-Do List, our new Extra Credit feature will help you earn even MORE daily prizes!\nIf you enjoy Dash4Cash, you’ll LOVE our new Tournament of Champions feature offering more competition and increased rewards!\nPlus, don’t miss our newest slot: Double Blessings!\nWould you like to see more BONUS COINS, contests, and tons of fun?! Join the JPSC Community today:\nhttps://www.facebook.com/JackpotPartyCasinoCommunity\nhttps://www.instagram.com/jackpotparty"
     },
     {
-      "name":"DRAGON BALL LEGENDS",
-      "url":"https://apps.apple.com/us/app/dragon-ball-legends/id1358222641?uo=4",
+      "name":"Toy Blast",
+      "url":"https://apps.apple.com/us/app/toy-blast/id890378044?uo=4",
       "num":"Games",
-      "description":"最新版本:  2.8.1\n更新时间:  2020-05-25 15:07:32 (北京时间)\n\n【Update Contents】\n- Improved features in Events\n- Added feature where you can test out new characters.\n- Adjusted other parts of the UI.\n\n【Issues Fixed】\n- Fixed various bugs\n* Check the in-game News for more information."
-    },
-    {
-      "name":"Matchington Mansion",
-      "url":"https://apps.apple.com/us/app/matchington-mansion/id1216575026?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.68.1\n更新时间:  2020-06-08 14:01:45 (北京时间)\n\nClimb higher leagues and get the best rewards in the new Team Tournament! Decorate the spa’s Shower & Pool areas while playing 51 challenging new levels! Check out this year’s dad-tastic Father’s Day sale!\n\n- New Event: Team Tournament\n- New Room: Spa P4: Shower & Poolside area!\n- New Sale: Father's Day Sale!\n- 51 New Levels!\n- Fixed known bugs!"
+      "description":"最新版本:  7281\n更新时间:  2020-06-13 16:00:54 (北京时间)\n\nIt's time for an adventurous new update!\n\n- PLAY 50 NEW LEVELS! Join the Toys on their safari and discover the amazing wildlife of Sub-Saharan Africa! We will cross the golden plains, accompanied by lazy lions and playful hippos!\n\nBe sure to update to the current version of Toy Blast for the newest content. In every 2 weeks, we bring 50 NEW LEVELS! Come and join the fun!"
     },
     {
       "name":"Dropbox - Backup, Sync, Share",
@@ -309,40 +201,58 @@
       "description":"最新版本:  194.2\n更新时间:  2020-06-17 06:43:01 (北京时间)\n\n• Image search is now available for users on the Professional and Dropbox for Business plans. You can now find photos in your Dropbox account by searching for words that describe the photo.\n• When you view a file that’s been shared with you, it will now appear on the “Recent” tab for easy access.\n\nWe release updates regularly, and we’re always looking for ways to make things better. If you have any feedback or run into issues, come find us in our forums. We’re happy to help!"
     },
     {
+      "name":"LinkedIn: Network & Job Finder",
+      "url":"https://apps.apple.com/us/app/linkedin-network-job-finder/id288429040?uo=4",
+      "num":"Business",
+      "description":"最新版本:  9.1.181\n更新时间:  2020-06-17 01:02:43 (北京时间)\n\nWhen you’re in a conversation, speed and stability matter. The LinkedIn app is now more reliable than ever. This update contains bug fixes."
+    },
+    {
+      "name":"Cashman Casino Las Vegas Slots",
+      "url":"https://apps.apple.com/us/app/cashman-casino-las-vegas-slots/id1123582513?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.26.1\n更新时间:  2020-06-04 16:20:55 (北京时间)\n\nHey Mr. Cashman fans!\nGet our NEW games in our latest update!\nFor the best experience and most FUN we’ve squashed bugs and optimized your game.\nBecome a fan today using the following link to get daily bonuses and updates: \nhttps://www.facebook.com/cashmancasino/"
+    },
+    {
+      "name":"Bingo Blitz™ - Bingo Games",
+      "url":"https://apps.apple.com/us/app/bingo-blitz-bingo-games/id529996768?uo=4",
+      "num":"Games",
+      "description":"最新版本:  4.42.2\n更新时间:  2020-06-12 19:22:10 (北京时间)\n\nBlitzers, we want to thank you all for your continued support over the last few months. We take great pride in knowing that Bingo Blitz is bringing our players joy, and relief, if only for a few moments of your day. We will continue doing our very best to improve the Bingo Blitz experience for our loyal community, and provide more fun opportunities for you to #playaparttogether and stay connected during these challenging times. Stay safe, and we wish good health to all."
+    },
+    {
+      "name":"Apple Developer",
+      "url":"https://apps.apple.com/us/app/apple-developer/id640199958?uo=4",
+      "num":"Reference",
+      "description":"最新版本:  8.2.1\n更新时间:  2020-06-17 23:55:16 (北京时间)\n\nThank you for your feedback. New in this release:\n\n• Redesigned Discover tab to help you catch up on the latest stories, news, videos, and more.\n• Option to favorite individual articles in addition to videos and session content.\n• Updated Browse tab, where you can search for existing sessions, videos, articles, and news.\n• Updated WWDC tab in preparation for the conference.\n• Various enhancements and bug fixes."
+    },
+    {
+      "name":"DoubleDown™- Casino Slots Game",
+      "url":"https://apps.apple.com/us/app/doubledown-casino-slots-game/id485126024?uo=4",
+      "num":"Games",
+      "description":"最新版本:  4.5.60\n更新时间:  2020-05-18 09:32:01 (北京时间)\n\nHi, DoubleDown fans!\n\nWe love to double down on fun, so check out this latest update, which includes the newest season of Journey, Dessert Dreams. Be sure also to check out our latest slot launch, Megabucks Da Vinci Diamonds!\n\nLastly, this update has some minor performance tweaks that will improve the overall experience of playing your favorite slot games on DoubleDown Casino!\n\nHappy spinning!"
+    },
+    {
+      "name":"Plenty of Fish Dating",
+      "url":"https://apps.apple.com/us/app/plenty-of-fish-dating/id389638243?uo=4",
+      "num":"Social Networking",
+      "description":"最新版本:  13.30\n更新时间:  2020-06-10 01:09:27 (北京时间)\n\n- Enjoy POF with fewer bugs and improved stability"
+    },
+    {
+      "name":"Rise of Kingdoms",
+      "url":"https://apps.apple.com/us/app/rise-of-kingdoms/id1354260888?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.0.34.16\n更新时间:  2020-06-19 18:02:57 (北京时间)\n\n1. The “Golden Kingdom” Event is beginning!\nInvaders are rampaging throughout Karaku. The legendary Golden Kingdom calls to you, a savior from the outside world foretold in prophecy. You are the last hope of the Golden Kingdom!\nAn epic adventure that will take you on an unpredictable journey filled with random special events, the brand new single-player dungeon “Golden Kingdom” is coming soon!\nPrepare your troops and steel your hearts, for the fate of the Golden Kingdom hangs on every choice you make.\n\n2. New “Alliance Event Calendar” \nWe have added the new “Alliance Event Calendar” function, where you can schedule and arrange Alliance events more conveniently and flexibly. Come try it out!\n\n3. Dragon Boat Festival events \nThe Dragon Boat Festival is almost here, so we’ve prepared plenty of exciting holiday events for you! See below for details:\n- Dragon Boat Bonanza: 7 days of questing for great rewards!\n- Mouth-Watering Zongzi: Wrap zongzi, celebrate the Dragon Boat Festival, and win fabulous rewards!\n- Find the Leaves: Collect Bamboo Leaves to wrap the most delicious Zongzi!\n- Battle on the Water: Boost your power and fight your way upstream!\n- Strange Incidents: Investigate unexplained villages fires and catch the culprits.\n\n4. \"Ceroli Crisis\" Improvements\n1) Added team skills. Use them wisely to gain an advantage.\n2) Added a Select Target feature to allow Governors to shift targets while fighting.\n3). Optimized the Enmity mechanism. Chieftains will now use logic to choose their targets, so watch out! Skills of some Chieftains have also been tuned accordingly.\n\n5. “Ian's Ballads” Improvements\n1) Added team skills. Use them wisely to gain an advantage.\n2) Added a chat channel exclusive to Ian's Ballads. Now you can communicate with your allies more conveniently during the battle.\n3) Added notifications for when you have fallen troops to revive and when the dungeon ends, as well as an Exit button to exit the battlefield.\n\n6. “Arms Training” Improvements\n1) Added 10+ new skills to Armsmaster Lohar. He will become a much more challenging opponent!\n2) UI screens have been adjusted to make them more player-friendly.\n\n7. “Lost Kingdom” & “Past Glory” Improvements\nBased on your feedback about the “Lost Kingdom” and other events, we have made the following optimizations:\n1) Æthelflæd sculptures will no longer be reclaimed at stage 3 of the “Past Glory” event.\n2) Immigration during the \"Lost Kingdom\" event may cause certain unlocked commanders to become unavailable again. Governors who have assigned such a commander as garrison commander before immigrating will need to assign a new one after immigrating.\n3) Reduced the chance to encounter the Ancient Ruins and Altar of Darkness events, and increased Honor Points gained from them.\n4) Reduced the stalker kill count requirements of Ancient Ruins or Altars of Darkness in the kingdom history progression.\n\n8. “Barbarian Keep” Improvements\n1) Notifications will now be displayed when a Chieftain appears or is defeated.\n2) Optimized the “Rewards Preview” screen to make it more intuitive.\n3) Barbarian Keeps have a higher initial level in Provinces closer to the center of the Kingdom Map.\n\n9. Equipment Attribute Optimizations\n1) Pendant of Eternal Night: “Skill damage +5%, normal attack damage -2%” was changed to “Skill damage +5”.\n2) Delane’s Amulet: “Incoming normal attack damage +3, incoming counterattack damage -10%” was changed to “Counterattack damage taken -5%”.\n\n10. Other Changes"
+    },
+    {
       "name":"The Seven Deadly Sins",
       "url":"https://apps.apple.com/us/app/the-seven-deadly-sins/id1475440231?uo=4",
       "num":"Games",
       "description":"最新版本:  1.1.0\n更新时间:  2020-06-02 13:05:16 (北京时间)\n\n[Update Details]\n1. New Heroes added\n2. New Events added\n3. Balance adjusted, minor bugs fixed, and UI/UX optimized"
     },
     {
-      "name":"Lords Mobile: Kingdom Wars",
-      "url":"https://apps.apple.com/us/app/lords-mobile-kingdom-wars/id1071976327?uo=4",
+      "name":"Episode - Choose Your Story",
+      "url":"https://apps.apple.com/us/app/episode-choose-your-story/id656971078?uo=4",
       "num":"Games",
-      "description":"最新版本:  2.24.1\n更新时间:  2020-06-12 21:28:30 (北京时间)\n\nUnveiling the [Sanctuary]!\nThe Sanctuary takes in wounded troops that cannot enter the Infirmary. The Goddess will bless those with Devotion with the power to revive these poor souls!\n\nIntroducing [Auto Use]!\nAutomatically calculate and use multiple Speed Up or resource items to complete your projects! What a breeze!\n\n# New Building: Sanctuary (found besides the Transmutation Lab; does not require upgrades). The Sanctuary takes in wandering souls, those who have fallen in battle but cannot enter the Infirmary. However, souls lost in Wonder battles are not allowed in the Sanctuary. (See in-game for more details.)\n# New [Auto Use] feature for building upgrades, research, training troops, healing wounded troops, resource exchange, etc.\nAutomatically calculate and use multiple Speed Up or resource items required for a project!\n# New [Bonus Displays]: Your bonuses will be displayed in building upgrades, research, training troops, Trap building/repair, Gear crafting, Pact/Skillstone merging, etc.\n# Optimized [Captured Leaders]: Leader boosts (includes Talents, Equipment, and Hero's Battle Skills) will remain active even when they are captured. Deployed boosts will remain inactive.\n# Made changes to allocated number of Newbie Relocators and their expiration date\n# Optimized Speed Up items obtained from Castle upgrades, Voyage Quests, transmuting Dark Essences\n# Optimized mail sending feature\n# Updated Building UI"
-    },
-    {
-      "name":"Mafia City: War of Underworld",
-      "url":"https://apps.apple.com/us/app/mafia-city-war-of-underworld/id1235569398?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.3.957\n更新时间:  2020-05-14 19:33:36 (北京时间)\n\n【New Contents】\n1. Mercenaries: [Hitman Coins] can now be obtained by defeating Mercenaries.\n2. New Decorations:\n (1) [Motorboat] Ops Effect.\n (2) [Majestic Scorpion] Combine Ops Effect.\n (3) [Spring Bamboo] Turf Effect.\n3. Added new sound and FX effects.\n \n【Optimizations & Adjustments】\n1. Optimized certain interfaces and descriptions.\n2. Rankings Display Optimization: Avatars of the top 3 Leaders will now be displayed in the rankings.\n3. Main Jobs Optimization: Rewards of completed Main Jobs can now be claimed ahead of time.\n \n【Fixed Contents】\n1. The incorrect display issue with the Leader Equipment’s Attribute details has been fixed.\n2. The display issue related to Leaders who have used a [Friendly Oath Card] has been fixed.\n3. This display issue concerning the Street Forces on the Map has been fixed."
-    },
-    {
-      "name":"Star Wars™: Galaxy of Heroes",
-      "url":"https://apps.apple.com/us/app/star-wars-galaxy-of-heroes/id921022358?uo=4",
-      "num":"Games",
-      "description":"最新版本:  0.19.2\n更新时间:  2020-04-29 06:05:46 (北京时间)\n\nWelcome Galactic Legends to the holotables, Heroes fans! Featuring Ultimate Abilities – some of the strongest, most thematic abilities available – these are the most powerful units you’ll find in the game. Complete your Galactic Legend prerequisites to unlock a Galactic Ascension event, filled with moments from STAR WARS: The Rise of Skywalker shown through the eyes of your character. This update also features quality of life changes. Thanks for playing!"
-    },
-    {
-      "name":"Marvel Contest of Champions",
-      "url":"https://apps.apple.com/us/app/marvel-contest-of-champions/id896112560?uo=4",
-      "num":"Games",
-      "description":"最新版本:  27.1.0\n更新时间:  2020-06-02 00:02:32 (北京时间)\n\nNEW QUESTS AND EVENTS:\n\nSamurai’s Journey\nHaving just barely escaped from an odd holding cell, TIGRA and HIT-MONKEY must join forces to shake off their pursuers and find out who is behind them being locked up!\n\nThe Island of Doctor M.O.D.O.K.\nEver since M.O.D.O.K. established his Hotel, he's been working tirelessly on his experimental Champions. But the Hotel is no place for his creations to live, so he's been sending them off to a secret secluded island to run free (under careful supervision of course). Now the time has come for M.O.D.O.K. to harvest the fruits of his labors, and it's up to the Summoner to drop in and collect some samples for M.O.D.O.K. to study. Don't worry though, the Summoner will be handsomely rewarded for their efforts with Gold Coins redeemable only at the Hotel M.O.D.O.K. Store!\n\nNEW FEATURES:\n\nBuff Deleter\nM.O.D.O.K. has unleashed a new tool to aid you in your Labs Quests. The new Buff Deleter item can be used much like Rerolls, but can remove a Buff of your choice  instead of replacing them. Get your hands on these rare items while you can and take control of your encounters! These Deleters won’t be sticking around after the Events of this month end, so make use of them while you can!\n\n\nAlliance Treasury Update\nWe are updating how Alliance members donate resources to Alliance Quest Maps. Instead of donating to the Alliance Treasury, Summoners will now be able to purchase Alliance Tickets with resources or by visiting the Unit Store. They will spend these Tickets to gain entry to Maps Six and Seven instead of donating it to the Alliance Treasury. Because of how this new system works we will be removing the Alliance Treasury as a whole and these tickets will live in the Summoner’s Resource Tab.\n\nBUG FIXES AND IMPROVEMENTS:\n\n- Annihilus (Enemies Synergy): Will now provide an increase to Champion PI ratings\n- Black Widow (Claire Voyant): Fixed an issue where the Medium 1 and 2 Attacks would sometimes not make contact\n- Guillotine 2099: Fixed an issue where Combo shield would activate when Dex Evading an Attack\n- Howard the Duck: Will now start each fight with the correct number of Armor Up Buffs\n- Human Torch (Familiar Faces Synergy): Increased the duration of the “Miss” a short amount\n- Hyperion: Special Attack 2 Wind Breath now properly tagged as a projectile\n- Judgement Day Synergy: Fixed an issue where Black Widow (Claire Voyant) and Ghost Rider’s Judgement Day Synergy was not reducing the duration of Unstoppable Buffs\n- Mister Fantastic: Heavy Attack will now pause the Buffs from his Pre-Fight Ability\n- Science Experiment Synergy: Fixed an issue where Captain America (Infinity War)’s synergy was not modifying the damage output of Ice Man’s Coldsnap Debuff at the start of a fight\n- Sorcerer Supreme: Fixed an issue where the Special 2 Attack wouldn’t always pause the Rune Timer\n- Wolverine (Weapon X): Fixed an issue where Wolverine (Weapon X) was not immune to all Regeneration Rate modification\n- Wolverine (Weapon X): Added a Top Champion portrait for Summoner Profiles\n- Fixed an issue with the timing of Parry after a 5-Hit Combo against some older Champions\n\nAll this and more! Check out the full list of exciting updates on the MCoC blog: playcontestofchampions.com/news"
-    },
-    {
-      "name":"Idle Heroes - Idle Games",
-      "url":"https://apps.apple.com/us/app/idle-heroes-idle-games/id1153461915?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.29.0\n更新时间:  2020-06-09 09:47:19 (北京时间)\n\n1. New Shadow Assassin: Ithaqua is arriving.\n2. Celestial Island Reconstruction.\n3. Comeback Radio.\n4. Added a new feature - Backup Stone, where you can save converted stones with proper attributes at the backup slots.\n5. Other game optimizations and BUG fixed."
+      "description":"最新版本:  12.94\n更新时间:  2020-06-12 06:04:52 (北京时间)\n\nYou’ll love our newest release, BAD MEETS BAD.\nNew school, new town, new people. As you attempt to fit in, can you keep your BAD reputation secret?"
     },
     {
       "name":"Tagged -Chill, Chat & Go Live!",
@@ -351,58 +261,16 @@
       "description":"最新版本:  9.25.2\n更新时间:  2020-04-15 00:43:05 (北京时间)\n\n- Add support for Sign in with Apple\n- Safety Pledge\n- Bug fixes and performance optimizations."
     },
     {
-      "name":"Merge Dragons!",
-      "url":"https://apps.apple.com/us/app/merge-dragons/id1208952944?uo=4",
+      "name":"Chapters: Interactive Stories",
+      "url":"https://apps.apple.com/us/app/chapters-interactive-stories/id1277029359?uo=4",
       "num":"Games",
-      "description":"最新版本:  4.11.1\n更新时间:  2020-06-12 22:40:07 (北京时间)\n\nBug fixes and performance improvements."
+      "description":"最新版本:  1.4.7\n更新时间:  2020-05-26 15:54:22 (北京时间)\n\nNew Stories & Chapters such as:\n\nUSA Today bestselling author book - One Rogue at A Time\nSexy, smoldering mercenary Bram Hallowsby has spent his life doing dangerous work for the British nobility. A good girl like you would never dream of spending time with a scoundrel like him--until he turns out to be the only one that can teach you to be a proper noble lady. Will you let yourself be seduced by this rogue?\n\nThe Playboy's Proposal\nNotorious for throwing the best parties in town, the silver-tongued Henry Ellison is nothing but trouble. But when his antics go too far, he makes you an offer that’s too good to refuse. \n\nTrinity\nWith a run-down bar to save, you don't have the time for a man — much less two! After one scorching-hot encounter with two seductive strangers, Jason and Shane are back for more, and this time, they're playing for keeps. Will you be able to resist these all-too-tempting men?\n\nThe Bastard Billionare\nEli Crane is wickedly sexy, whip-smart, and worth a billion dollars— whether he wants to be or not. He's rough around the edges. So rough, he fired his last 10 assistants! Now it's your turn to serve his needs. \n\n& more! Read now.\n\nThe update also includes performance optimization and bug fixes."
     },
     {
-      "name":"Cash Frenzy™ - Slots Casino",
-      "url":"https://apps.apple.com/us/app/cash-frenzy-slots-casino/id1404165333?uo=4",
+      "name":"Marvel Contest of Champions",
+      "url":"https://apps.apple.com/us/app/marvel-contest-of-champions/id896112560?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.61\n更新时间:  2020-06-10 08:23:11 (北京时间)\n\n~~New UI \n~~New Slot Games \nEnjoy a better experience!"
-    },
-    {
-      "name":"RAID: Shadow Legends",
-      "url":"https://apps.apple.com/us/app/raid-shadow-legends/id1371565796?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.00.0\n更新时间:  2020-06-18 17:24:32 (北京时间)\n\nNew in version 2.00.0:\n\n- Tag Team Arena. Assemble 3 separate teams of Champions to fight your rivals across a Series of 3 Arena battles. In Tag Arena, you'll earn Points for each battle you win in a Series, so you'll need 3 strong teams to climb the rankings. Think of it like Classic Arena on Hard Mode.\n\n- Drag & Drop Team Selection. You can now drag and drop Champions into your teams and swap their positions around with a simple drag of the finger!"
-    },
-    {
-      "name":"Last Shelter: Survival",
-      "url":"https://apps.apple.com/us/app/last-shelter-survival/id1342290011?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.250.181\n更新时间:  2020-06-11 11:06:05 (北京时间)\n\nVersion 1.250.181 Out Now\n\nDoomsday Conquest\n1. Eden - Guild List added, other guild infos can be viewed\n2. Eden - Guild Relations added, Hostile and Friendly guilds can be differentiated via different color territories\n3. Total War - Alliance Resource Stations can be attacked by Doomsday missiles\n\nAdjustments\n1. In Eden season, leaving and joining an alliance has no cooldown\n2. New Season Challenge missions added\n3. Adjusted the Unlocking level for Ranger and Phantom material crafting level to Lv.15 and Lv.10\n\nOptimizations\n1. In the Eden, finised relocation points will be shown in the honor structure list\n2. Optimized the parts crafting interface\n3. Optimized the emergency rescue event mission\n\nFixes\n1. Fixed the issue where after a city occupation in the Eden, the guild names are displayed wrong\n2. Fixed the Eden battle report display issue\n3. Fixed the occupation error in the Old World Relics neutral buildings"
-    },
-    {
-      "name":"Lightning Link Slots-Casino",
-      "url":"https://apps.apple.com/us/app/lightning-link-slots-casino/id1243005112?uo=4",
-      "num":"Games",
-      "description":"最新版本:  5.7.1\n更新时间:  2020-06-03 19:33:07 (北京时间)\n\n- Bug fixes and improvements"
-    },
-    {
-      "name":"Guns of Glory: Empires Conquer",
-      "url":"https://apps.apple.com/us/app/guns-of-glory-empires-conquer/id1274354704?uo=4",
-      "num":"Games",
-      "description":"最新版本:  5.9.0\n更新时间:  2020-06-08 16:07:43 (北京时间)\n\nWhat's new:\n- Powerful R7 Airship Parts:Sky Silver!\n\nOptimizations:\n- Coat of Arms and Equipment rewards in the Shooting Gallery will be adjusted. (Players who haven't finished this rewards section will have the rewards draw reset.)\n- Other rewards and operation optimizations."
-    },
-    {
-      "name":"World Series of Poker - WSOP",
-      "url":"https://apps.apple.com/us/app/world-series-of-poker-wsop/id719525810?uo=4",
-      "num":"Games",
-      "description":"最新版本:  7.10.0\n更新时间:  2020-06-09 21:10:33 (北京时间)\n\n● We’ve folded more bugs to improve your WSOP experience."
-    },
-    {
-      "name":"Hero Wars - Fantasy World",
-      "url":"https://apps.apple.com/us/app/hero-wars-fantasy-world/id1158967485?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.72.5\n更新时间:  2020-06-03 15:05:06 (北京时间)\n\nThe Spring is at its peak in Dominion! And with it, exciting festivities are coming! \n\nOutland Update\n- More Skins are added to the Outland Chest!\n- Now you can unlock more Skins with your Skin Coins! Check them out!\n\nSpring Festivities\n- May is a month of celebration and great deals! Don't miss out on fun and amazing offers!\n- Say hi to impoved Heidi! Hurry up and see the Monkey Mage in action!\n\nHave fun, Brave Hero!"
-    },
-    {
-      "name":"Minecraft",
-      "url":"https://apps.apple.com/us/app/minecraft/id479516143?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.14.60\n更新时间:  2020-04-15 23:13:15 (北京时间)\n\nWhat's new in 1.14.60:\nVarious bug fixes"
+      "description":"最新版本:  27.1.0\n更新时间:  2020-06-02 00:02:32 (北京时间)\n\nNEW QUESTS AND EVENTS:\n\nSamurai’s Journey\nHaving just barely escaped from an odd holding cell, TIGRA and HIT-MONKEY must join forces to shake off their pursuers and find out who is behind them being locked up!\n\nThe Island of Doctor M.O.D.O.K.\nEver since M.O.D.O.K. established his Hotel, he's been working tirelessly on his experimental Champions. But the Hotel is no place for his creations to live, so he's been sending them off to a secret secluded island to run free (under careful supervision of course). Now the time has come for M.O.D.O.K. to harvest the fruits of his labors, and it's up to the Summoner to drop in and collect some samples for M.O.D.O.K. to study. Don't worry though, the Summoner will be handsomely rewarded for their efforts with Gold Coins redeemable only at the Hotel M.O.D.O.K. Store!\n\nNEW FEATURES:\n\nBuff Deleter\nM.O.D.O.K. has unleashed a new tool to aid you in your Labs Quests. The new Buff Deleter item can be used much like Rerolls, but can remove a Buff of your choice  instead of replacing them. Get your hands on these rare items while you can and take control of your encounters! These Deleters won’t be sticking around after the Events of this month end, so make use of them while you can!\n\n\nAlliance Treasury Update\nWe are updating how Alliance members donate resources to Alliance Quest Maps. Instead of donating to the Alliance Treasury, Summoners will now be able to purchase Alliance Tickets with resources or by visiting the Unit Store. They will spend these Tickets to gain entry to Maps Six and Seven instead of donating it to the Alliance Treasury. Because of how this new system works we will be removing the Alliance Treasury as a whole and these tickets will live in the Summoner’s Resource Tab.\n\nBUG FIXES AND IMPROVEMENTS:\n\n- Annihilus (Enemies Synergy): Will now provide an increase to Champion PI ratings\n- Black Widow (Claire Voyant): Fixed an issue where the Medium 1 and 2 Attacks would sometimes not make contact\n- Guillotine 2099: Fixed an issue where Combo shield would activate when Dex Evading an Attack\n- Howard the Duck: Will now start each fight with the correct number of Armor Up Buffs\n- Human Torch (Familiar Faces Synergy): Increased the duration of the “Miss” a short amount\n- Hyperion: Special Attack 2 Wind Breath now properly tagged as a projectile\n- Judgement Day Synergy: Fixed an issue where Black Widow (Claire Voyant) and Ghost Rider’s Judgement Day Synergy was not reducing the duration of Unstoppable Buffs\n- Mister Fantastic: Heavy Attack will now pause the Buffs from his Pre-Fight Ability\n- Science Experiment Synergy: Fixed an issue where Captain America (Infinity War)’s synergy was not modifying the damage output of Ice Man’s Coldsnap Debuff at the start of a fight\n- Sorcerer Supreme: Fixed an issue where the Special 2 Attack wouldn’t always pause the Rune Timer\n- Wolverine (Weapon X): Fixed an issue where Wolverine (Weapon X) was not immune to all Regeneration Rate modification\n- Wolverine (Weapon X): Added a Top Champion portrait for Summoner Profiles\n- Fixed an issue with the timing of Parry after a 5-Hit Combo against some older Champions\n\nAll this and more! Check out the full list of exciting updates on the MCoC blog: playcontestofchampions.com/news"
     },
     {
       "name":"Yu-Gi-Oh! Duel Links",
@@ -411,82 +279,28 @@
       "description":"最新版本:  4.8.0\n更新时间:  2020-06-18 08:41:10 (北京时间)\n\nImprovements to the Deck Icon in Duel World\nPreparations for events\nPreparations for new features\n\nBug Fix(es)\n･The following issue has been fixed: When using the effect of \"Bark of Dark Ruler\" \"Psychic Commander,\" or \"Attack of the Cornered Rat\" against a monster with ATK/DEF that is not a multiple of 100, players were not able to pay the minimum amount of Life Points exceeding that number.\n･The following issue has been fixed: If Counters placed on \"Gouki Cage Match\" were removed during your opponent’s Battle Phase, you were unable to activate its effect to Special Summon \"Gouki\" monsters.\n･The following issue has been fixed: When the effect of your opponent's \"Aromage Rosemary\" is about to be applied, the card's activation dialog does not appear at the beginning of the Battle Phase.\n･The following issue has been fixed: If you Synchro Summon a monster using \"Tatsunecro\" and a monster in your hand while your opponent controls \"Chaos Hunter,\" monsters in your hand will be banished."
     },
     {
-      "name":"Big Fish Casino: Slots & Games",
-      "url":"https://apps.apple.com/us/app/big-fish-casino-slots-games/id538212549?uo=4",
+      "name":"Garena Free Fire: Rampage",
+      "url":"https://apps.apple.com/us/app/garena-free-fire-rampage/id1300146617?uo=4",
       "num":"Games",
-      "description":"最新版本:  12.3.10\n更新时间:  2020-06-16 00:08:22 (北京时间)\n\n• Minor bug fixes"
+      "description":"最新版本:  1.49.0\n更新时间:  2020-06-17 15:01:31 (北京时间)\n\n1. Clash Squad Season 1 - Begins 06/04 17:00 SGT.\n2. New Weapon - M82B. \n3. New Character - Wolfrahh\n4. Players can now equip active skills from other characters.\n5. Weapon stats adjustment: SKS, SVD, M1887, and M14.\n6. Advanced attachment stats adjustment: VSS and Kar98k.\n7. Info box will now share the safe zone's location with teammates.\n8. Purgatory - Classic now available. \n9. Emote slot has been expanded from 6-8\n10. Guild system improvement and optimization."
     },
     {
-      "name":"Facebook",
-      "url":"https://apps.apple.com/us/app/facebook/id284882215?uo=4",
+      "name":"IMVU: 3D Avatar Creator & Chat",
+      "url":"https://apps.apple.com/us/app/imvu-3d-avatar-creator-chat/id919745844?uo=4",
       "num":"Social Networking",
-      "description":"最新版本:  275.0\n更新时间:  2020-06-18 23:59:01 (北京时间)\n\nWe update the app regularly so we can make it better for you. Get the latest version for all of the available Facebook features. This version includes several bug fixes and performance improvements."
+      "description":"最新版本:  v5.8.2\n更新时间:  2020-06-15 23:31:00 (北京时间)\n\n• New users have a fast and easy way to sign up! Sign in with Apple is now supported for our users on iOS 13.\n• IMVU’s bug patrol has been hard at work squashing bugs and making various fixes and improvements.\n• Questions? Need help? Visit our Community Center: im.vu/help769"
     },
     {
-      "name":"Yahtzee® with Buddies Dice",
-      "url":"https://apps.apple.com/us/app/yahtzee-with-buddies-dice/id1206967173?uo=4",
+      "name":"State of Survival: Zombie War",
+      "url":"https://apps.apple.com/us/app/state-of-survival-zombie-war/id1452474937?uo=4",
       "num":"Games",
-      "description":"最新版本:  7.3.1\n更新时间:  2020-06-04 23:51:54 (北京时间)\n\nIntroducing Prize Pass!  Check out Yahtzee's all new goals board with daily objectives and season long quests!  Complete goals and earn gems to progress along the prize path, winning you brand new rewards like wallpapers, celebrations and high definition dice to customize your game!"
+      "description":"最新版本:  1.8.40\n更新时间:  2020-06-18 12:38:09 (北京时间)\n\nUpdate v1.8.40\n1. Midsummer Day is here, light up the fire of hope together\n-Midsummer Day events: Midsummer Fire, On Fire, Sturdy Lumberjack, Midsummer Carnival, Midsummer Firewood, Maypole&Bonfire\n-Midsummer Day HQ Skin, Frame Skin, and March Skin added\n-Midsummer Day Decoration Building added\n2. Prosperity Interface Optimized\n3. Chapter Mission interface latency problem optimized\n4. Capital Tower firing countdown display optimizied\n5. Your Heroes will run now when you increase your March Speed\n6. Requirement for upgrading Lv.5 and Lv.6 Intel Post changed\n7. Wilderness Infected respawn optimizied\n8. Explorer Trail reward optimizied\n-Exploration Backpack capacaity limit canceled\n-Special Crate added during Exploration\n-Item pick-up process and animation optimizied\n9. Optimized Arabic version's UI and Text to adapt to the reading and cultural habit of Arabic Chiefs"
     },
     {
-      "name":"Huuuge Casino Slots Vegas 777",
-      "url":"https://apps.apple.com/us/app/huuuge-casino-slots-vegas-777/id1028362533?uo=4",
-      "num":"Games",
-      "description":"最新版本:  5.4.1905\n更新时间:  2020-05-25 15:58:13 (北京时间)\n\nHey, Spinners!\nWe've got a new update for Huuuge Casino.\nAs always, we're constantly working to improve the game experience for you. We've added minor tweaks and other bug fixes so you can feel even right at home while spinning!\nSee you at the Casino! Enjoy spinning and win big!\nLet's play together and #StayHuuuge!"
-    },
-    {
-      "name":"Kim Kardashian: Hollywood",
-      "url":"https://apps.apple.com/us/app/kim-kardashian-hollywood/id860822992?uo=4",
-      "num":"Games",
-      "description":"最新版本:  11.0.0\n更新时间:  2020-06-15 22:48:51 (北京时间)\n\n6-Year Kimiversary Update\n\nCelebrate a major milestone with Kim!\n\nSERVE FACE: New blush, contour & highlight customizations!\nHAIR FLAIR: New accessories for any hairstyle! \nFLAUNT YOUR FASHION WITH KIM: Compete in Show Your Style events to win exclusive clothing! (level 12+)\nFESTIVE SURPRISES: 6-Year Kimiversary festivities from June 24 - 28\n\nThanks for playing!"
-    },
-    {
-      "name":"House of Fun™ - Casino Slots",
-      "url":"https://apps.apple.com/us/app/house-of-fun-casino-slots/id586634331?uo=4",
-      "num":"Games",
-      "description":"最新版本:  3.60\n更新时间:  2020-06-16 21:55:31 (北京时间)\n\nWe’ve just added more FUN to HOUSE OF FUN with new games, amazing features, and updates to bring your HoF experience to another level! \nV 3.60\n- New slot machines: Queens Quest\n- Play our new, exclusive challenges for a great casino experience and huge coin fortunes up for grabs \n- Bug fixes, performance improvements and more surprises to enhance your House of Fun experience \nUpdate now and keep spinning! \nLike us? Please rate us! Your feedback is important!"
-    },
-    {
-      "name":"MLB Tap Sports Baseball 2020",
-      "url":"https://apps.apple.com/us/app/mlb-tap-sports-baseball-2020/id1481470289?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.1.5\n更新时间:  2020-06-04 00:07:22 (北京时间)\n\n• Test your skills and try to earn the top prize in the new DAILY DINGER mode!\n• New DAILY, CLUB, and GLOBAL CHALLENGES with awesome rewards!\n• New FIELD PASS options keep your team in the game!\n• Play in even more AUTHENTIC MLB BALLPARKS like Wrigley Field, Busch Stadium, and Citizens Bank Park\n• New ALL STAR Buffs to better reward your hard work!\n• TARGET BASH now accepts bonus players! Let’s Bash!\n• Bug fixes and other optimizations to game performance"
-    },
-    {
-      "name":"8 Ball Pool™",
-      "url":"https://apps.apple.com/us/app/8-ball-pool/id543186831?uo=4",
-      "num":"Games",
-      "description":"最新版本:  4.8.5\n更新时间:  2020-05-05 20:38:17 (北京时间)\n\nIt is time for a new 8 Ball Pool update!\nWe’ve worked on a number of quality of life improvements and new features, such as a Fine Tune Ruler you can turn on to precisely aim your shots, and faster Lucky Shot and Box animations.\nAlongside that we’ve also solved a number o pesky bugs! \nDownload the latest update now to get your hands on new content! Time to hit the tables!\nBug fixing, general improvements and new functionalities."
-    },
-    {
-      "name":"CSR Racing 2 - #1 Racing Games",
-      "url":"https://apps.apple.com/us/app/csr-racing-2-1-racing-games/id887947640?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.12.1\n更新时间:  2020-06-16 17:51:34 (北京时间)\n\n﻿Various bug fixes and improvements across CSR2"
-    },
-    {
-      "name":"LiveMe –Live Video Chat",
-      "url":"https://apps.apple.com/us/app/liveme-live-video-chat/id1089836344?uo=4",
-      "num":"Social Networking",
-      "description":"最新版本:  4.2.54\n更新时间:  2020-06-18 10:49:14 (北京时间)\n\nBug fixes and performance improvements. The best live-streaming app just got better!"
-    },
-    {
-      "name":"POP! Slots ™ Live Vegas Casino",
-      "url":"https://apps.apple.com/us/app/pop-slots-live-vegas-casino/id1065980436?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.58.3\n更新时间:  2020-06-18 17:20:38 (北京时间)\n\nBringing you a new casino lobby!\nMore social casino events, exciting activities, and tournaments.\nCustomized Avatars - choose your outfit, show your personality. \nGood luck & Have fun!"
-    },
-    {
-      "name":"Hinge: Dating & Relationships",
-      "url":"https://apps.apple.com/us/app/hinge-dating-relationships/id595287172?uo=4",
-      "num":"Lifestyle",
-      "description":"最新版本:  7.21.0\n更新时间:  2020-06-17 05:18:18 (北京时间)\n\nVideo chat to help you instantly talk to your match face to face while practicing safe social distancing."
-    },
-    {
-      "name":"Lily’s Garden: Design & Relax",
-      "url":"https://apps.apple.com/us/app/lilys-garden-design-relax/id1437783446?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.67.0\n更新时间:  2020-06-12 11:57:21 (北京时间)\n\nJoin Lily and her friends in the next part of the story!\n\n- Bug fixes and performance improvements"
+      "name":"TikTok - Make Your Day",
+      "url":"https://apps.apple.com/us/app/tiktok-make-your-day/id835599320?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  16.5.0\n更新时间:  2020-06-17 16:23:44 (北京时间)\n\nYou'll get our latest and greatest effects."
     },
     {
       "name":"Epic Seven",
@@ -495,58 +309,100 @@
       "description":"最新版本:  1.0.249\n更新时间:  2020-06-11 11:03:24 (北京时间)\n\nBug fixes and improvements"
     },
     {
-      "name":"Summoners War",
-      "url":"https://apps.apple.com/us/app/summoners-war/id852912420?uo=4",
+      "name":"Heart of Vegas Slots-Casino",
+      "url":"https://apps.apple.com/us/app/heart-of-vegas-slots-casino/id785537179?uo=4",
       "num":"Games",
-      "description":"最新版本:  5.3.8\n更新时间:  2020-06-15 10:00:06 (北京时间)\n\nA global RPG that mesmerized users worldwide!\nWin battles with unique decks!\n\n- Other Errors Fixed\n\nGot feedback? Leave a review or visit http://www.withhive.com/help/inquire and drop us a line!"
+      "description":"最新版本:  4.18.0\n更新时间:  2020-06-01 20:37:01 (北京时间)\n\nHello, Heart of Vegas Friends!\n\nIn this release we have added some more of the biggest games from Aristocrat's all star slots lineup.\nThe original DRAGON LINK™ and LIGHTNING LINK™ games with Lightning-fast Jackpots, Free Games, and the Hold & Spin feature are sure to keep you on the edge of your seat.\n\nGet even MORE BONUSES when you Join Heart of Vegas Communities! Join us on Facebook: https://www.facebook.com/HeartofVegas"
     },
     {
-      "name":"DoubleU Casino: Vegas Slots",
-      "url":"https://apps.apple.com/us/app/doubleu-casino-vegas-slots/id642727743?uo=4",
+      "name":"Lords Mobile: Kingdom Wars",
+      "url":"https://apps.apple.com/us/app/lords-mobile-kingdom-wars/id1071976327?uo=4",
       "num":"Games",
-      "description":"最新版本:  6.29.1\n更新时间:  2020-06-19 09:55:44 (北京时间)\n\nHi DUC fans! You've got to check out a couple of  brand-new slots from DUC with exciting and generous bonus features!\n\nWishing you huge luck!\n\n~Jiny & Kevin"
+      "description":"最新版本:  2.24.1\n更新时间:  2020-06-12 21:28:30 (北京时间)\n\nUnveiling the [Sanctuary]!\nThe Sanctuary takes in wounded troops that cannot enter the Infirmary. The Goddess will bless those with Devotion with the power to revive these poor souls!\n\nIntroducing [Auto Use]!\nAutomatically calculate and use multiple Speed Up or resource items to complete your projects! What a breeze!\n\n# New Building: Sanctuary (found besides the Transmutation Lab; does not require upgrades). The Sanctuary takes in wandering souls, those who have fallen in battle but cannot enter the Infirmary. However, souls lost in Wonder battles are not allowed in the Sanctuary. (See in-game for more details.)\n# New [Auto Use] feature for building upgrades, research, training troops, healing wounded troops, resource exchange, etc.\nAutomatically calculate and use multiple Speed Up or resource items required for a project!\n# New [Bonus Displays]: Your bonuses will be displayed in building upgrades, research, training troops, Trap building/repair, Gear crafting, Pact/Skillstone merging, etc.\n# Optimized [Captured Leaders]: Leader boosts (includes Talents, Equipment, and Hero's Battle Skills) will remain active even when they are captured. Deployed boosts will remain inactive.\n# Made changes to allocated number of Newbie Relocators and their expiration date\n# Optimized Speed Up items obtained from Castle upgrades, Voyage Quests, transmuting Dark Essences\n# Optimized mail sending feature\n# Updated Building UI"
     },
     {
-      "name":"Property Brothers Home Design",
-      "url":"https://apps.apple.com/us/app/property-brothers-home-design/id1466332776?uo=4",
+      "name":"DRAGON BALL LEGENDS",
+      "url":"https://apps.apple.com/us/app/dragon-ball-legends/id1358222641?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.7.0\n更新时间:  2020-06-14 02:38:49 (北京时间)\n\nNew levels! New makeovers!"
+      "description":"最新版本:  2.8.1\n更新时间:  2020-05-25 15:07:32 (北京时间)\n\n【Update Contents】\n- Improved features in Events\n- Added feature where you can test out new characters.\n- Adjusted other parts of the UI.\n\n【Issues Fixed】\n- Fixed various bugs\n* Check the in-game News for more information."
     },
     {
-      "name":"Choices: Stories You Play",
-      "url":"https://apps.apple.com/us/app/choices-stories-you-play/id1071310449?uo=4",
+      "name":"RAID: Shadow Legends",
+      "url":"https://apps.apple.com/us/app/raid-shadow-legends/id1371565796?uo=4",
       "num":"Games",
-      "description":"最新版本:  2.7.1\n更新时间:  2020-05-14 04:52:48 (北京时间)\n\nPREMIERING THIS UPDATE\nTHE NANNY AFFAIR: You were just hired as a live-in nanny, but you're growing dangerously close to your new boss. Can you handle the consequences of a forbidden romance?\n\nNEW CHAPTERS EACH WEEK\n\nDISTANT SHORES: When you're swept back to the 18th century, you embark on a swashbuckling adventure led by a sexy pirate captain. But will you ever make it home?\n\nBLADES OF LIGHT AND SHADOW: Create your character and rally your party in this truly epic adventure! \n\nOPEN HEART: It's a whole new year at Edenbrook Hospital! Are you ready to impress Dr. Ramsey's diagnostics team and meet your very own intern?\n\nTHE ROYAL HEIR, BOOK 2:  It's the night of the Last Apple Ball... and you've just gone into labor!\n\nWITNESS: A BODYGUARD ROMANCE: After witnessing a murder, you're sent to Nantucket with a U.S. Marshal sworn to protect you at all costs... Will you survive the summer without risking your life or your heart?"
+      "description":"最新版本:  2.00.0\n更新时间:  2020-06-18 17:24:32 (北京时间)\n\nNew in version 2.00.0:\n\n- Tag Team Arena. Assemble 3 separate teams of Champions to fight your rivals across a Series of 3 Arena battles. In Tag Arena, you'll earn Points for each battle you win in a Series, so you'll need 3 strong teams to climb the rankings. Think of it like Classic Arena on Hard Mode.\n\n- Drag & Drop Team Selection. You can now drag and drop Champions into your teams and swap their positions around with a simple drag of the finger!"
     },
     {
-      "name":"Caesars® Casino: Vegas Slots",
-      "url":"https://apps.apple.com/us/app/caesars-casino-vegas-slots/id603097018?uo=4",
+      "name":"Matchington Mansion",
+      "url":"https://apps.apple.com/us/app/matchington-mansion/id1216575026?uo=4",
       "num":"Games",
-      "description":"最新版本:  3.59.1\n更新时间:  2020-06-15 06:47:21 (北京时间)\n\nBug fixes and performance improvements"
+      "description":"最新版本:  1.68.1\n更新时间:  2020-06-08 14:01:45 (北京时间)\n\nClimb higher leagues and get the best rewards in the new Team Tournament! Decorate the spa’s Shower & Pool areas while playing 51 challenging new levels! Check out this year’s dad-tastic Father’s Day sale!\n\n- New Event: Team Tournament\n- New Room: Spa P4: Shower & Poolside area!\n- New Sale: Father's Day Sale!\n- 51 New Levels!\n- Fixed known bugs!"
     },
     {
-      "name":"Clash Royale",
-      "url":"https://apps.apple.com/us/app/clash-royale/id1053012308?uo=4",
-      "num":"Games",
-      "description":"最新版本:  3.2.2\n更新时间:  2020-04-20 15:19:45 (北京时间)\n\nVarious minor bug fixes and improvements."
+      "name":"MeetMe - Go Live, Chat & Meet",
+      "url":"https://apps.apple.com/us/app/meetme-go-live-chat-meet/id372648912?uo=4",
+      "num":"Social Networking",
+      "description":"最新版本:  14.12.1\n更新时间:  2020-05-08 07:44:43 (北京时间)\n\n- Addressed an issue with being unable to open certain user profiles.\n- Bug fixes and performance optimizations."
     },
     {
-      "name":"Township",
-      "url":"https://apps.apple.com/us/app/township/id638689075?uo=4",
+      "name":"Star Wars™: Galaxy of Heroes",
+      "url":"https://apps.apple.com/us/app/star-wars-galaxy-of-heroes/id921022358?uo=4",
       "num":"Games",
-      "description":"最新版本:  7.5.1\n更新时间:  2020-05-12 17:10:49 (北京时间)\n\nTea party and colorful events\nEVENTS AND TOURNAMENTS\n* The Bubble Gum Festival starts on May 18. Get gumballs from the machine to earn event points and spin the Prize Wheel to win prizes!\n* Italian Week starts on May 30. Treat your townspeople to delicious pasta and win awesome rewards!\n* Jump from building to building decorating your town with flowers in an event starting on June 13!\n* Mayors' tournaments: Transport Magnate starts on May 13 and June 7, Industrial Boom on May 26, and Advanced Agriculture on June 21.\n* Catch a wave in the Age of Knights regatta season and get ready for a trip to the Wild West starting on June 2.\nTEA PARTY\n* Grow a new Tea Plant starting in Level 84.\n* Build a Tea Factory to make goods from the Tea Plant.\n* Unlock new tea-related factory goods.\nALSO\n* Keep an eye on the event calendar so you don't miss any great limited-time offers.\n* Enjoy 2 new town expansions."
+      "description":"最新版本:  0.19.2\n更新时间:  2020-04-29 06:05:46 (北京时间)\n\nWelcome Galactic Legends to the holotables, Heroes fans! Featuring Ultimate Abilities – some of the strongest, most thematic abilities available – these are the most powerful units you’ll find in the game. Complete your Galactic Legend prerequisites to unlock a Galactic Ascension event, filled with moments from STAR WARS: The Rise of Skywalker shown through the eyes of your character. This update also features quality of life changes. Thanks for playing!"
     },
     {
-      "name":"MyFitnessPal",
-      "url":"https://apps.apple.com/us/app/myfitnesspal/id341232718?uo=4",
-      "num":"Health & Fitness",
-      "description":"最新版本:  20.11.0\n更新时间:  2020-06-17 01:08:09 (北京时间)\n\nWhether you want to log your lowest weight in years, your first run in weeks, or your heart healthy afternoon snack, we know you count on MyFitnessPal to be working smoothly.\n\nThat’s why this release is full of bug fixes, performance updates, and improved reliability so we can be there to support you during every moment of your health journey. \n\nWe hope you enjoy and happy tracking!"
+      "name":"Cash Frenzy™ - Slots Casino",
+      "url":"https://apps.apple.com/us/app/cash-frenzy-slots-casino/id1404165333?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.61\n更新时间:  2020-06-10 08:23:11 (北京时间)\n\n~~New UI \n~~New Slot Games \nEnjoy a better experience!"
     },
     {
-      "name":"Age of Z",
-      "url":"https://apps.apple.com/us/app/age-of-z/id1376515087?uo=4",
+      "name":"Mafia City: War of Underworld",
+      "url":"https://apps.apple.com/us/app/mafia-city-war-of-underworld/id1235569398?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.2.18\n更新时间:  2020-06-18 16:17:25 (北京时间)\n\nOptimized some of the game play."
+      "description":"最新版本:  1.3.957\n更新时间:  2020-05-14 19:33:36 (北京时间)\n\n【New Contents】\n1. Mercenaries: [Hitman Coins] can now be obtained by defeating Mercenaries.\n2. New Decorations:\n (1) [Motorboat] Ops Effect.\n (2) [Majestic Scorpion] Combine Ops Effect.\n (3) [Spring Bamboo] Turf Effect.\n3. Added new sound and FX effects.\n \n【Optimizations & Adjustments】\n1. Optimized certain interfaces and descriptions.\n2. Rankings Display Optimization: Avatars of the top 3 Leaders will now be displayed in the rankings.\n3. Main Jobs Optimization: Rewards of completed Main Jobs can now be claimed ahead of time.\n \n【Fixed Contents】\n1. The incorrect display issue with the Leader Equipment’s Attribute details has been fixed.\n2. The display issue related to Leaders who have used a [Friendly Oath Card] has been fixed.\n3. This display issue concerning the Street Forces on the Map has been fixed."
+    },
+    {
+      "name":"ESPN: Live Sports & Scores",
+      "url":"https://apps.apple.com/us/app/espn-live-sports-scores/id317469184?uo=4",
+      "num":"Sports",
+      "description":"最新版本:  6.24.1\n更新时间:  2020-06-19 02:29:44 (北京时间)\n\n[+] Bug fixes and optimizations."
+    },
+    {
+      "name":"Huuuge Casino Slots Vegas 777",
+      "url":"https://apps.apple.com/us/app/huuuge-casino-slots-vegas-777/id1028362533?uo=4",
+      "num":"Games",
+      "description":"最新版本:  5.4.1905\n更新时间:  2020-05-25 15:58:13 (北京时间)\n\nHey, Spinners!\nWe've got a new update for Huuuge Casino.\nAs always, we're constantly working to improve the game experience for you. We've added minor tweaks and other bug fixes so you can feel even right at home while spinning!\nSee you at the Casino! Enjoy spinning and win big!\nLet's play together and #StayHuuuge!"
+    },
+    {
+      "name":"Merge Dragons!",
+      "url":"https://apps.apple.com/us/app/merge-dragons/id1208952944?uo=4",
+      "num":"Games",
+      "description":"最新版本:  4.11.1\n更新时间:  2020-06-12 22:40:07 (北京时间)\n\nBug fixes and performance improvements."
+    },
+    {
+      "name":"King of Avalon: Dragon Warfare",
+      "url":"https://apps.apple.com/us/app/king-of-avalon-dragon-warfare/id1084930849?uo=4",
+      "num":"Games",
+      "description":"最新版本:  8.6.1\n更新时间:  2020-06-12 10:36:35 (北京时间)\n\nFixed some bugs and made an optimization."
+    },
+    {
+      "name":"Facebook",
+      "url":"https://apps.apple.com/us/app/facebook/id284882215?uo=4",
+      "num":"Social Networking",
+      "description":"最新版本:  275.0\n更新时间:  2020-06-18 23:59:01 (北京时间)\n\nWe update the app regularly so we can make it better for you. Get the latest version for all of the available Facebook features. This version includes several bug fixes and performance improvements."
+    },
+    {
+      "name":"Guns of Glory: Empires Conquer",
+      "url":"https://apps.apple.com/us/app/guns-of-glory-empires-conquer/id1274354704?uo=4",
+      "num":"Games",
+      "description":"最新版本:  5.9.0\n更新时间:  2020-06-08 16:07:43 (北京时间)\n\nWhat's new:\n- Powerful R7 Airship Parts:Sky Silver!\n\nOptimizations:\n- Coat of Arms and Equipment rewards in the Shooting Gallery will be adjusted. (Players who haven't finished this rewards section will have the rewards draw reset.)\n- Other rewards and operation optimizations."
+    },
+    {
+      "name":"MLB Tap Sports Baseball 2020",
+      "url":"https://apps.apple.com/us/app/mlb-tap-sports-baseball-2020/id1481470289?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.1.5\n更新时间:  2020-06-04 00:07:22 (北京时间)\n\n• Test your skills and try to earn the top prize in the new DAILY DINGER mode!\n• New DAILY, CLUB, and GLOBAL CHALLENGES with awesome rewards!\n• New FIELD PASS options keep your team in the game!\n• Play in even more AUTHENTIC MLB BALLPARKS like Wrigley Field, Busch Stadium, and Citizens Bank Park\n• New ALL STAR Buffs to better reward your hard work!\n• TARGET BASH now accepts bonus players! Let’s Bash!\n• Bug fixes and other optimizations to game performance"
     },
     {
       "name":"Crunchyroll",
@@ -555,16 +411,58 @@
       "description":"最新版本:  4.0.2\n更新时间:  2020-06-11 18:18:18 (北京时间)\n\nWe’ve rebuilt and redesigned our app to provide you a superior user experience with it. We’ve made finding your next anime series much easier with a new home screen with curated collections and recommendations tailored to you! We’ve also improved the Watchlist experience, and we’ve enhanced the app’s search and browsing capabilities! To top it all off, we have upgraded our video player and Chromecast experience to make anime watching more enjoyable and reliable.\n\n*Solved an issue of users being logged out and fixed some bugs."
     },
     {
+      "name":"Lightning Link Slots-Casino",
+      "url":"https://apps.apple.com/us/app/lightning-link-slots-casino/id1243005112?uo=4",
+      "num":"Games",
+      "description":"最新版本:  5.7.1\n更新时间:  2020-06-03 19:33:07 (北京时间)\n\n- Bug fixes and improvements"
+    },
+    {
+      "name":"Big Fish Casino: Slots & Games",
+      "url":"https://apps.apple.com/us/app/big-fish-casino-slots-games/id538212549?uo=4",
+      "num":"Games",
+      "description":"最新版本:  12.3.10\n更新时间:  2020-06-16 00:08:22 (北京时间)\n\n• Minor bug fixes"
+    },
+    {
+      "name":"MyFitnessPal",
+      "url":"https://apps.apple.com/us/app/myfitnesspal/id341232718?uo=4",
+      "num":"Health & Fitness",
+      "description":"最新版本:  20.11.0\n更新时间:  2020-06-17 01:08:09 (北京时间)\n\nWhether you want to log your lowest weight in years, your first run in weeks, or your heart healthy afternoon snack, we know you count on MyFitnessPal to be working smoothly.\n\nThat’s why this release is full of bug fixes, performance updates, and improved reliability so we can be there to support you during every moment of your health journey. \n\nWe hope you enjoy and happy tracking!"
+    },
+    {
+      "name":"Minecraft",
+      "url":"https://apps.apple.com/us/app/minecraft/id479516143?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.14.60\n更新时间:  2020-04-15 23:13:15 (北京时间)\n\nWhat's new in 1.14.60:\nVarious bug fixes"
+    },
+    {
+      "name":"Yahtzee® with Buddies Dice",
+      "url":"https://apps.apple.com/us/app/yahtzee-with-buddies-dice/id1206967173?uo=4",
+      "num":"Games",
+      "description":"最新版本:  7.3.1\n更新时间:  2020-06-04 23:51:54 (北京时间)\n\nIntroducing Prize Pass!  Check out Yahtzee's all new goals board with daily objectives and season long quests!  Complete goals and earn gems to progress along the prize path, winning you brand new rewards like wallpapers, celebrations and high definition dice to customize your game!"
+    },
+    {
+      "name":"POP! Slots ™ Live Vegas Casino",
+      "url":"https://apps.apple.com/us/app/pop-slots-live-vegas-casino/id1065980436?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.58.3\n更新时间:  2020-06-18 17:20:38 (北京时间)\n\nBringing you a new casino lobby!\nMore social casino events, exciting activities, and tournaments.\nCustomized Avatars - choose your outfit, show your personality. \nGood luck & Have fun!"
+    },
+    {
       "name":"TIDAL Music",
       "url":"https://apps.apple.com/us/app/tidal-music/id913943275?uo=4",
       "num":"Music",
       "description":"最新版本:  2.11.0\n更新时间:  2020-06-18 15:45:52 (北京时间)\n\nGeneral bug fixes and app improvements"
     },
     {
-      "name":"Evony",
-      "url":"https://apps.apple.com/us/app/evony/id1098157959?uo=4",
+      "name":"Last Shelter: Survival",
+      "url":"https://apps.apple.com/us/app/last-shelter-survival/id1342290011?uo=4",
       "num":"Games",
-      "description":"最新版本:  3.82.15\n更新时间:  2020-06-05 09:30:14 (北京时间)\n\n- Introduced the 2nd All Star Battlefield!"
+      "description":"最新版本:  1.250.181\n更新时间:  2020-06-11 11:06:05 (北京时间)\n\nVersion 1.250.181 Out Now\n\nDoomsday Conquest\n1. Eden - Guild List added, other guild infos can be viewed\n2. Eden - Guild Relations added, Hostile and Friendly guilds can be differentiated via different color territories\n3. Total War - Alliance Resource Stations can be attacked by Doomsday missiles\n\nAdjustments\n1. In Eden season, leaving and joining an alliance has no cooldown\n2. New Season Challenge missions added\n3. Adjusted the Unlocking level for Ranger and Phantom material crafting level to Lv.15 and Lv.10\n\nOptimizations\n1. In the Eden, finised relocation points will be shown in the honor structure list\n2. Optimized the parts crafting interface\n3. Optimized the emergency rescue event mission\n\nFixes\n1. Fixed the issue where after a city occupation in the Eden, the guild names are displayed wrong\n2. Fixed the Eden battle report display issue\n3. Fixed the occupation error in the Old World Relics neutral buildings"
+    },
+    {
+      "name":"Hero Wars - Fantasy World",
+      "url":"https://apps.apple.com/us/app/hero-wars-fantasy-world/id1158967485?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.72.5\n更新时间:  2020-06-03 15:05:06 (北京时间)\n\nThe Spring is at its peak in Dominion! And with it, exciting festivities are coming! \n\nOutland Update\n- More Skins are added to the Outland Chest!\n- Now you can unlock more Skins with your Skin Coins! Check them out!\n\nSpring Festivities\n- May is a month of celebration and great deals! Don't miss out on fun and amazing offers!\n- Say hi to impoved Heidi! Hurry up and see the Monkey Mage in action!\n\nHave fun, Brave Hero!"
     },
     {
       "name":"Smule - The Social Singing App",
@@ -573,34 +471,136 @@
       "description":"最新版本:  8.5.7\n更新时间:  2020-06-19 14:28:54 (北京时间)\n\nGeneral Enhancements\nSmall changes to make the app work even smoother"
     },
     {
-      "name":"Fate/Grand Order (English)",
-      "url":"https://apps.apple.com/us/app/fate-grand-order-english/id1183802626?uo=4",
+      "name":"Summoners War",
+      "url":"https://apps.apple.com/us/app/summoners-war/id852912420?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.44.1\n更新时间:  2020-05-29 11:57:40 (北京时间)\n\n[ver.1.44.1] Update Contents\n\nThank you for playing Fate/Grand Order. Here's a list of changes going into this update.\n\n- Various Bug Fixes\n\nThank you for your continuous support of Fate/Grand Order."
+      "description":"最新版本:  5.3.8\n更新时间:  2020-06-15 10:00:06 (北京时间)\n\nA global RPG that mesmerized users worldwide!\nWin battles with unique decks!\n\n- Other Errors Fixed\n\nGot feedback? Leave a review or visit http://www.withhive.com/help/inquire and drop us a line!"
     },
     {
-      "name":"Empires & Puzzles Epic Match 3",
-      "url":"https://apps.apple.com/us/app/empires-puzzles-epic-match-3/id1117841866?uo=4",
+      "name":"House of Fun™ - Casino Slots",
+      "url":"https://apps.apple.com/us/app/house-of-fun-casino-slots/id586634331?uo=4",
       "num":"Games",
-      "description":"最新版本:  30.0.0\n更新时间:  2020-06-17 15:51:25 (北京时间)\n\nDefend your empire with new exciting features!\n\n∙ New Stronghold Level is here - enhance your Empire with Hero Academy!\n∙ Updated Alchemy Lab is here - transmute your items with exciting new recipes!\n∙ Updated Empire of Sand Event is here - prepare for new challenges in late June!\n∙ Various bug fixes and smaller improvements"
+      "description":"最新版本:  3.60\n更新时间:  2020-06-16 21:55:31 (北京时间)\n\nWe’ve just added more FUN to HOUSE OF FUN with new games, amazing features, and updates to bring your HoF experience to another level! \nV 3.60\n- New slot machines: Queens Quest\n- Play our new, exclusive challenges for a great casino experience and huge coin fortunes up for grabs \n- Bug fixes, performance improvements and more surprises to enhance your House of Fun experience \nUpdate now and keep spinning! \nLike us? Please rate us! Your feedback is important!"
     },
     {
-      "name":"AFK Arena",
-      "url":"https://apps.apple.com/us/app/afk-arena/id1375425432?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.40.02\n更新时间:  2020-06-12 19:29:43 (北京时间)\n\n1. Added the new Mauler hero: Anoki - The Blood Guard"
+      "name":"WW Weight Watchers Reimagined",
+      "url":"https://apps.apple.com/us/app/ww-weight-watchers-reimagined/id331308914?uo=4",
+      "num":"Health & Fitness",
+      "description":"最新版本:  8.13.0\n更新时间:  2020-06-12 00:55:05 (北京时间)\n\nWe've fine-tuned a handful of things behind the scenes for future updates coming your way! Our Personal Coaching members will now be able to see past sessions and message history with their Personal Coaches, whether the Coach is active or not."
     },
     {
-      "name":"Game of Sultans",
-      "url":"https://apps.apple.com/us/app/game-of-sultans/id1372638631?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.5.03\n更新时间:  2020-06-15 21:18:39 (北京时间)\n\n1. Enabled Sign In with Apple Option (iOS 13 required);\n2. Fixed some known bugs."
+      "name":"STARZ",
+      "url":"https://apps.apple.com/us/app/starz/id550221096?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  4.3.3\n更新时间:  2020-05-09 08:10:09 (北京时间)\n\nBug fixes and feature enhancements."
     },
     {
-      "name":"Klondike Adventures",
-      "url":"https://apps.apple.com/us/app/klondike-adventures/id1127240206?uo=4",
+      "name":"Choices: Stories You Play",
+      "url":"https://apps.apple.com/us/app/choices-stories-you-play/id1071310449?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.67.2\n更新时间:  2020-05-25 01:22:36 (北京时间)\n\nGo to the Silver Mines and travel through dreams!\nSILVER MINES\n- Change in course: silver is the new gold! Go to the mines with Paul and Kate!\n- Missed inventions? The Bronze Wheel is already on sale!\nCHAPTER 12 CONTINUED AND THE MARATHON:\n- Wander through dreams with Silent Shadow and look for clues from the past!\n- Collect all the chests on your way in our updated Marathon!"
+      "description":"最新版本:  2.7.1\n更新时间:  2020-05-14 04:52:48 (北京时间)\n\nPREMIERING THIS UPDATE\nTHE NANNY AFFAIR: You were just hired as a live-in nanny, but you're growing dangerously close to your new boss. Can you handle the consequences of a forbidden romance?\n\nNEW CHAPTERS EACH WEEK\n\nDISTANT SHORES: When you're swept back to the 18th century, you embark on a swashbuckling adventure led by a sexy pirate captain. But will you ever make it home?\n\nBLADES OF LIGHT AND SHADOW: Create your character and rally your party in this truly epic adventure! \n\nOPEN HEART: It's a whole new year at Edenbrook Hospital! Are you ready to impress Dr. Ramsey's diagnostics team and meet your very own intern?\n\nTHE ROYAL HEIR, BOOK 2:  It's the night of the Last Apple Ball... and you've just gone into labor!\n\nWITNESS: A BODYGUARD ROMANCE: After witnessing a murder, you're sent to Nantucket with a U.S. Marshal sworn to protect you at all costs... Will you survive the summer without risking your life or your heart?"
+    },
+    {
+      "name":"SoundCloud - Music & Audio",
+      "url":"https://apps.apple.com/us/app/soundcloud-music-audio/id336353151?uo=4",
+      "num":"Music",
+      "description":"最新版本:  5.97.0\n更新时间:  2020-06-17 16:26:49 (北京时间)\n\nWe constantly update SoundCloud to keep the tunes flowing and beats bumping. In this version:\n\n- We improved performance and fixed bugs.\n\nLoving the app? Rate us to make it official. Have questions or suggestions? Find us on Twitter @SoundCloud or the SoundCloud Help Center. We're always listening."
+    },
+    {
+      "name":"World Series of Poker - WSOP",
+      "url":"https://apps.apple.com/us/app/world-series-of-poker-wsop/id719525810?uo=4",
+      "num":"Games",
+      "description":"最新版本:  7.10.0\n更新时间:  2020-06-09 21:10:33 (北京时间)\n\n● We’ve folded more bugs to improve your WSOP experience."
+    },
+    {
+      "name":"Hinge: Dating & Relationships",
+      "url":"https://apps.apple.com/us/app/hinge-dating-relationships/id595287172?uo=4",
+      "num":"Lifestyle",
+      "description":"最新版本:  7.21.0\n更新时间:  2020-06-17 05:18:18 (北京时间)\n\nVideo chat to help you instantly talk to your match face to face while practicing safe social distancing."
+    },
+    {
+      "name":"Caesars® Casino: Vegas Slots",
+      "url":"https://apps.apple.com/us/app/caesars-casino-vegas-slots/id603097018?uo=4",
+      "num":"Games",
+      "description":"最新版本:  3.59.1\n更新时间:  2020-06-15 06:47:21 (北京时间)\n\nBug fixes and performance improvements"
+    },
+    {
+      "name":"Kim Kardashian: Hollywood",
+      "url":"https://apps.apple.com/us/app/kim-kardashian-hollywood/id860822992?uo=4",
+      "num":"Games",
+      "description":"最新版本:  11.0.0\n更新时间:  2020-06-15 22:48:51 (北京时间)\n\n6-Year Kimiversary Update\n\nCelebrate a major milestone with Kim!\n\nSERVE FACE: New blush, contour & highlight customizations!\nHAIR FLAIR: New accessories for any hairstyle! \nFLAUNT YOUR FASHION WITH KIM: Compete in Show Your Style events to win exclusive clothing! (level 12+)\nFESTIVE SURPRISES: 6-Year Kimiversary festivities from June 24 - 28\n\nThanks for playing!"
+    },
+    {
+      "name":"iHeart: Radio, Music, Podcasts",
+      "url":"https://apps.apple.com/us/app/iheart-radio-music-podcasts/id290638154?uo=4",
+      "num":"Music",
+      "description":"最新版本:  9.20.1\n更新时间:  2020-06-17 03:21:48 (北京时间)\n\nThank you for choosing iHeartRadio. We update our app regularly to improve your experience and make it faster and more reliable, as well as bringing diverse radio stations, new and popular podcasts and music. \n\nThis update includes:\n• Bug fixes and performance improvements"
+    },
+    {
+      "name":"Township",
+      "url":"https://apps.apple.com/us/app/township/id638689075?uo=4",
+      "num":"Games",
+      "description":"最新版本:  7.5.1\n更新时间:  2020-05-12 17:10:49 (北京时间)\n\nTea party and colorful events\nEVENTS AND TOURNAMENTS\n* The Bubble Gum Festival starts on May 18. Get gumballs from the machine to earn event points and spin the Prize Wheel to win prizes!\n* Italian Week starts on May 30. Treat your townspeople to delicious pasta and win awesome rewards!\n* Jump from building to building decorating your town with flowers in an event starting on June 13!\n* Mayors' tournaments: Transport Magnate starts on May 13 and June 7, Industrial Boom on May 26, and Advanced Agriculture on June 21.\n* Catch a wave in the Age of Knights regatta season and get ready for a trip to the Wild West starting on June 2.\nTEA PARTY\n* Grow a new Tea Plant starting in Level 84.\n* Build a Tea Factory to make goods from the Tea Plant.\n* Unlock new tea-related factory goods.\nALSO\n* Keep an eye on the event calendar so you don't miss any great limited-time offers.\n* Enjoy 2 new town expansions."
+    },
+    {
+      "name":"Lily’s Garden: Design & Relax",
+      "url":"https://apps.apple.com/us/app/lilys-garden-design-relax/id1437783446?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.67.0\n更新时间:  2020-06-12 11:57:21 (北京时间)\n\nJoin Lily and her friends in the next part of the story!\n\n- Bug fixes and performance improvements"
+    },
+    {
+      "name":"Amazon Prime Video",
+      "url":"https://apps.apple.com/us/app/amazon-prime-video/id545519333?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  8.8\n更新时间:  2020-06-17 17:02:19 (北京时间)\n\nBug fixes and performance improvements"
+    },
+    {
+      "name":"Clash Royale",
+      "url":"https://apps.apple.com/us/app/clash-royale/id1053012308?uo=4",
+      "num":"Games",
+      "description":"最新版本:  3.2.2\n更新时间:  2020-04-20 15:19:45 (北京时间)\n\nVarious minor bug fixes and improvements."
+    },
+    {
+      "name":"CSR Racing 2 - #1 Racing Games",
+      "url":"https://apps.apple.com/us/app/csr-racing-2-1-racing-games/id887947640?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.12.1\n更新时间:  2020-06-16 17:51:34 (北京时间)\n\n﻿Various bug fixes and improvements across CSR2"
+    },
+    {
+      "name":"Fire Emblem Heroes",
+      "url":"https://apps.apple.com/us/app/fire-emblem-heroes/id1181774280?uo=4",
+      "num":"Games",
+      "description":"最新版本:  4.6.1\n更新时间:  2020-06-18 10:01:13 (北京时间)\n\nIssues have been addressed."
+    },
+    {
+      "name":"8 Ball Pool™",
+      "url":"https://apps.apple.com/us/app/8-ball-pool/id543186831?uo=4",
+      "num":"Games",
+      "description":"最新版本:  4.8.5\n更新时间:  2020-05-05 20:38:17 (北京时间)\n\nIt is time for a new 8 Ball Pool update!\nWe’ve worked on a number of quality of life improvements and new features, such as a Fine Tune Ruler you can turn on to precisely aim your shots, and faster Lucky Shot and Box animations.\nAlongside that we’ve also solved a number o pesky bugs! \nDownload the latest update now to get your hands on new content! Time to hit the tables!\nBug fixing, general improvements and new functionalities."
+    },
+    {
+      "name":"Property Brothers Home Design",
+      "url":"https://apps.apple.com/us/app/property-brothers-home-design/id1466332776?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.7.0\n更新时间:  2020-06-14 02:38:49 (北京时间)\n\nNew levels! New makeovers!"
+    },
+    {
+      "name":"Jackpot Magic Slots™ & Casino",
+      "url":"https://apps.apple.com/us/app/jackpot-magic-slots-casino/id1090242126?uo=4",
+      "num":"Games",
+      "description":"最新版本:  12.3.8\n更新时间:  2020-05-15 02:59:57 (北京时间)\n\n• Minor bug fixes"
+    },
+    {
+      "name":"DoubleU Casino: Vegas Slots",
+      "url":"https://apps.apple.com/us/app/doubleu-casino-vegas-slots/id642727743?uo=4",
+      "num":"Games",
+      "description":"最新版本:  6.29.1\n更新时间:  2020-06-19 09:55:44 (北京时间)\n\nHi DUC fans! You've got to check out a couple of  brand-new slots from DUC with exciting and generous bonus features!\n\nWishing you huge luck!\n\n~Jiny & Kevin"
+    },
+    {
+      "name":"Evony",
+      "url":"https://apps.apple.com/us/app/evony/id1098157959?uo=4",
+      "num":"Games",
+      "description":"最新版本:  3.82.15\n更新时间:  2020-06-05 09:30:14 (北京时间)\n\n- Introduced the 2nd All Star Battlefield!"
     }
   ]
 }
