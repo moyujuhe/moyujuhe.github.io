@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-20 23:05:27",
+  "time":"2020-06-20 23:09:50",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美联邦法官允许博尔顿新书发行，该书拟于6月26日上市",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7931741"
+    },
     {
       "name":"北京预计22日完成快递人员核酸采样，目前无确诊和疑似病例",
       "url":"https://www.thepaper.cn/newsDetail_forward_7931658"
@@ -77,10 +81,6 @@
     {
       "name":"中华人民共和国人民武装警察法（全文）",
       "url":"https://www.thepaper.cn/newsDetail_forward_7931576"
-    },
-    {
-      "name":"中华人民共和国档案法（全文）",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7931574"
     }
   ]
 }
