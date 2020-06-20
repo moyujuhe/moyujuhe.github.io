@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 00:51:44",
+  "time":"2020-06-21 00:55:53",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"IBM可以用百度云的CDN不啊，CF真的卡死了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706261&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"hostdare之前买的年付被偷改流量",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706260&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"virmach 失联一台chicago",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706231&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"百度竞价推广的效果是不是不太好？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706230&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
