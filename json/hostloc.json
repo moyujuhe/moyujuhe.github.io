@@ -1,13 +1,17 @@
 {
-  "time":"2020-06-20 21:35:50",
+  "time":"2020-06-20 21:40:12",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"原价 214 元的 Win10 商店字幕自动翻译工具限免",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706203&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"Cloudflare其实还没闻到钱的味道",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706202&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
-      "name":"明盘出彩虹日本0刀",
+      "name":"明盘出彩虹日本40刀",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706201&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
@@ -105,10 +109,6 @@
     {
       "name":"ikoula用户请进，自建cdn用什么方案呢？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706175&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"IBMCloud Okteto Euserv测速",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706173&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
