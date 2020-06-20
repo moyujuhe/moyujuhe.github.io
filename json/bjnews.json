@@ -1,11 +1,7 @@
 {
-  "time":"2020-06-20 19:59:59",
+  "time":"2020-06-20 20:04:18",
   "title":"新京报-排行",
   "data":[
-    {
-      "name":"北京28名餐饮员工确诊 有厨师、服务员、冷荤师傅等",
-      "url":"http://www.bjnews.com.cn/news/2020/06/19/740366.html"
-    },
     {
       "name":"北京昨日新增22例确诊病例 涉海淀丰台大兴3区",
       "url":"http://www.bjnews.com.cn/feature/2020/06/20/740521.html"
@@ -23,16 +19,12 @@
       "url":"http://www.bjnews.com.cn/feature/2020/06/20/740512.html"
     },
     {
-      "name":"​新发地疫情病毒溯源最新消息",
-      "url":"http://www.bjnews.com.cn/news/2020/06/19/740421.html"
-    },
-    {
       "name":"通州一小区两居民核酸检测为阳性？街道：尚未确诊",
       "url":"http://www.bjnews.com.cn/news/2020/06/20/740591.html"
     },
     {
-      "name":"北京大兴西红门镇疫情风险等级调整为高风险地区",
-      "url":"http://www.bjnews.com.cn/news/2020/06/19/740371.html"
+      "name":"​新发地疫情病毒溯源最新消息",
+      "url":"http://www.bjnews.com.cn/news/2020/06/19/740421.html"
     },
     {
       "name":"女县委书记被“双开”，通报称胆大妄为、肆无忌惮",
@@ -41,6 +33,14 @@
     {
       "name":"武汉大学师生为新冠肺炎牺牲烈士和逝世同胞默哀",
       "url":"http://www.bjnews.com.cn/wevideo/2020/06/20/740542.html"
+    },
+    {
+      "name":"北京集中公布近日77例确诊病例涉及小区",
+      "url":"http://www.bjnews.com.cn/news/2020/06/20/740570.html"
+    },
+    {
+      "name":"在京快递小哥、外卖骑手将全部接受核酸检测",
+      "url":"http://www.bjnews.com.cn/news/2020/06/20/740531.html"
     },
     {
       "name":"五楼住户上班开门发现楼梯没了！当事人现身解答网友疑惑",
@@ -103,10 +103,6 @@
       "url":"http://www.bjnews.com.cn/wevideo/2020/06/04/734969.html"
     },
     {
-      "name":"公安部关切头盔涨价 声明骑电动车暂不强制要求戴头盔",
-      "url":"http://www.bjnews.com.cn/wevideo/2020/05/20/729502.html"
-    },
-    {
       "name":"国际丨查尔斯王子康复后谈“后遗症”：味觉嗅觉仍未恢复",
       "url":"http://www.bjnews.com.cn/wevideo/2020/06/17/739335.html"
     },
@@ -121,6 +117,10 @@
     {
       "name":"北京：14天内出入新发地12973人核酸阴性",
       "url":"http://www.bjnews.com.cn/wevideo/2020/06/15/738345.html"
+    },
+    {
+      "name":"昨日新增本土病例38例，北京36例辽宁2例",
+      "url":"http://www.bjnews.com.cn/news/2020/06/14/738054.html"
     }
   ]
 }

@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-20 19:46:35",
+  "time":"2020-06-20 20:00:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"ARM之所以罢免中国合资公司CEO吴雄昂，是因为他们发现吴雄昂成立了一只名为Alphatecture的基金，投资使用ARM技术的初创公司。问题在于，ARM和厚朴已经拥有了这样一只基金，吴雄昂的举动使他与他的雇主站在了直接竞争的对立面上。",
+      "url":"https://tech.ifeng.com/c/7xSAAXGzu6q"
+    },
     {
       "name":"十只兔子",
       "url":"https://y.qq.com/n/yqq/song/003LK8CL44iUum.html"
@@ -93,10 +97,6 @@
     {
       "name":"港风变妆挑战，她们也太好看了吧",
       "url":"https://video.weibo.com/show?fid=1034:4517643655249941"
-    },
-    {
-      "name":"为什么我电脑上看抽屉用vpn更快",
-      "url":""
     }
   ]
 }
