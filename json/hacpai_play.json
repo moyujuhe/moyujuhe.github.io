@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-06-20 15:08:08",
+  "time":"2020-06-20 15:12:23",
   "data":[
+    {
+      "name":"每周电影 EP20《一一》",
+      "url":"https://hacpai.com/article/1592632322461"
+    },
     {
       "name":"20200619 TGIF",
       "url":"https://hacpai.com/article/1592533580266"
@@ -185,10 +189,6 @@
     {
       "name":"[自荐]：个人开源 Web 应用——倾城之链",
       "url":"https://hacpai.com/article/1572674133917"
-    },
-    {
-      "name":"开发者福利：免费获取 JetBrains 全家桶",
-      "url":"https://hacpai.com/article/1572081344293"
     },
     {
       "name":"天知道为何我如此沙雕",
