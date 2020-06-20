@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-20 12:49:43",
+  "time":"2020-06-20 12:53:59",
   "title":"V2EX热帖",
   "data":[
     {
@@ -12,7 +12,7 @@
     },
     {
       "name":"基本完美从 cmder 迁移到 Windows Terminal",
-      "url":"https://www.v2ex.com/t/683259#reply17"
+      "url":"https://www.v2ex.com/t/683259#reply18"
     },
     {
       "name":"Java web 可以高并发支持原生 tcp socket 吗",
@@ -36,7 +36,11 @@
     },
     {
       "name":"618 下狠心买了 Parallels Desktop Pro",
-      "url":"https://www.v2ex.com/t/683240#reply11"
+      "url":"https://www.v2ex.com/t/683240#reply12"
+    },
+    {
+      "name":"话说为啥 windows 平台会有人用 7z 以外的压缩软件？",
+      "url":"https://www.v2ex.com/t/683281#reply11"
     },
     {
       "name":"知网搜索有没有替代品？",
@@ -44,7 +48,7 @@
     },
     {
       "name":"为什么现在好多地方显示时间都是用相对时间？",
-      "url":"https://www.v2ex.com/t/683271#reply8"
+      "url":"https://www.v2ex.com/t/683271#reply9"
     },
     {
       "name":"Makefile 命令中能使用 gcc，不能用 cc（Windows 中）",
@@ -89,10 +93,6 @@
     {
       "name":"如何设置服务器升级提示页？",
       "url":"https://www.v2ex.com/t/683270#reply4"
-    },
-    {
-      "name":"话说为啥 windows 平台会有人用 7z 以外的压缩软件？",
-      "url":"https://www.v2ex.com/t/683281#reply4"
     },
     {
       "name":"如何判断 struct 的值知否存在",
