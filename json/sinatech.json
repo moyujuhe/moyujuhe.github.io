@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-20 15:10:46",
+  "time":"2020-06-20 15:12:23",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"沈向洋：中国未来的一个新红利是工程师红利",
+      "url":"https://tech.sina.com.cn/it/2020-06-20/doc-iirczymk8063937.shtml"
+    },
     {
       "name":"蔚来李斌：预计2020年中国汽车销量较去年减少10%",
       "url":"https://tech.sina.com.cn/it/2020-06-20/doc-iirczymk8063684.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"618年中大促，网联单日交易处理15.99亿笔刷历史新高",
       "url":"https://tech.sina.com.cn/roll/2020-06-19/doc-iirczymk7952273.shtml"
-    },
-    {
-      "name":"三星否认将中国大部分显示器生产转移至越南",
-      "url":"https://tech.sina.com.cn/i/2020-06-19/doc-iirczymk7965808.shtml"
     }
   ]
 }
