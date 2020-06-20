@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 00:25:52",
+  "time":"2020-06-21 00:30:14",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"北京6月19日新增22名确诊病例，涉及这些小区或场所",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7931764"
+    },
     {
       "name":"美联邦法官允许博尔顿新书发行，该书拟于6月26日上市",
       "url":"https://www.thepaper.cn/newsDetail_forward_7931741"
@@ -77,10 +81,6 @@
     {
       "name":"保定官方：网传“保定银行出问题”系不实言论，公安已处理",
       "url":"https://www.thepaper.cn/newsDetail_forward_7931564"
-    },
-    {
-      "name":"中华人民共和国人民武装警察法（全文）",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7931576"
     }
   ]
 }
