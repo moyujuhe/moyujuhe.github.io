@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-20 18:11:09",
+  "time":"2020-06-20 18:15:40",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"BuyVM小鸡支持25端口发信吗？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706121&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"其实甲骨文比IBM强",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706119&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"别人有的我也要有,IBM CLOUD油管80Mbps+",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706090&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"求教，国内中转香港az，哪种方式能把带宽跑上去",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706088&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
