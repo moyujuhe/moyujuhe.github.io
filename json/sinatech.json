@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-20 10:10:36",
+  "time":"2020-06-20 10:48:20",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"日本科学家开发出复杂到无法复制的图案",
+      "url":"https://tech.sina.com.cn/d/i/2020-06-20/doc-iirczymk8020253.shtml"
+    },
     {
       "name":"美团将组织全部在京外卖骑手进行核酸检测",
       "url":"https://tech.sina.com.cn/i/2020-06-20/doc-iircuyvi9481757.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"瑞幸咖啡：公司独立董事濮天若因个人原因辞职",
       "url":"https://tech.sina.com.cn/i/2020-06-19/doc-iircuyvi9410338.shtml"
-    },
-    {
-      "name":"58同城6月26日发布2020年第一季度业绩报告",
-      "url":"https://tech.sina.com.cn/i/2020-06-19/doc-iircuyvi9408280.shtml"
     }
   ]
 }
