@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 01:00:09",
+  "time":"2020-06-21 01:04:24",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"撸爆了》？我的ibm只剩下200Kb",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706262&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"IBM可以用百度云的CDN不啊，CF真的卡死了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706261&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"怎么联系到ikoula家的中文客服啊",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706232&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"virmach 失联一台chicago",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706231&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
