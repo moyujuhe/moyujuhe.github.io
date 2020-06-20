@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-20 10:28:27",
+  "time":"2020-06-20 10:32:43",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"a1p大佬在论坛被封的号叫做OneList",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705945&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"白女票的IBM，ibmcloud cf push 后就停止了。",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705943&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"明盘出个阿里云学生机",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705908&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"ProtonMail解除了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=705907&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
