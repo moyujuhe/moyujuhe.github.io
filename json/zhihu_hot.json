@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-20 22:47:20",
+  "time":"2020-06-21 01:08:38",
   "title":"知乎全站热榜",
   "data":[
+    {
+      "name":"有哪些应该坚持的好习惯？",
+      "url":"https://www.zhihu.com/question/268776431"
+    },
     {
       "name":"电视剧《隐秘的角落》有哪些细思恐极的细节？",
       "url":"https://www.zhihu.com/question/401512703"
@@ -11,16 +15,12 @@
       "url":"https://www.zhihu.com/question/401740267"
     },
     {
-      "name":"如何看待印度掀起「抵制中国制造」，这轮抵制管用吗？",
-      "url":"https://www.zhihu.com/question/402297657"
-    },
-    {
       "name":"如何看待西南交大对陈玉钰事件的处理结果？",
       "url":"https://www.zhihu.com/question/402430189"
     },
     {
-      "name":"如何看待2020年毕业生被称为最惨的一届毕业生？",
-      "url":"https://www.zhihu.com/question/396105968"
+      "name":"如何看待印度掀起「抵制中国制造」，这轮抵制管用吗？",
+      "url":"https://www.zhihu.com/question/402297657"
     },
     {
       "name":"为什么女生提分手，男生都基本答应？",
@@ -31,8 +31,16 @@
       "url":"https://www.zhihu.com/question/402494298"
     },
     {
-      "name":"有哪些是减肥后的翻车现场？",
-      "url":"https://www.zhihu.com/question/330275453"
+      "name":"如何评价《创造营2020》第八期（上）「学长合作第三次公演舞台」？",
+      "url":"https://www.zhihu.com/question/402474249"
+    },
+    {
+      "name":"如何看待2020年毕业生被称为最惨的一届毕业生？",
+      "url":"https://www.zhihu.com/question/396105968"
+    },
+    {
+      "name":"为什么小领导讲话都很严厉，大领导都很和蔼?",
+      "url":"https://www.zhihu.com/question/349944053"
     },
     {
       "name":"2020 LPL 夏季赛 TES 2:0 LGD 四连胜至今不败领跑联赛，如何评价这场比赛？",
@@ -43,12 +51,16 @@
       "url":"https://www.zhihu.com/question/401141527"
     },
     {
-      "name":"为什么小领导讲话都很严厉，大领导都很和蔼?",
-      "url":"https://www.zhihu.com/question/349944053"
-    },
-    {
       "name":"上海土著家庭穷的到底有多穷？",
       "url":"https://www.zhihu.com/question/281861160"
+    },
+    {
+      "name":"有哪些是减肥后的翻车现场？",
+      "url":"https://www.zhihu.com/question/330275453"
+    },
+    {
+      "name":"如何看待「贝多芬是黑人」话题，在美国抗议期间被顶上热搜榜？",
+      "url":"https://www.zhihu.com/question/402459421"
     },
     {
       "name":"如何看研究称新冠感染风险或与血型有关：A 型血人群感染风险比非 A 型血高 45%，O 型血不易感？",
@@ -57,10 +69,6 @@
     {
       "name":"2020 年有哪些高性价比的手机值得推荐？",
       "url":"https://www.zhihu.com/question/373080282"
-    },
-    {
-      "name":"如何看待「贝多芬是黑人」话题，在美国抗议期间被顶上热搜榜？",
-      "url":"https://www.zhihu.com/question/402459421"
     },
     {
       "name":"怎样说服父母给我3w炒股？",
@@ -75,10 +83,6 @@
       "url":"https://www.zhihu.com/question/402482939"
     },
     {
-      "name":"你们相信冥冥之中注定的缘分吗？",
-      "url":"https://www.zhihu.com/question/322148297"
-    },
-    {
       "name":"如何评价因新生儿出生后死亡家属打砸医院萧山医院被砸一事?",
       "url":"https://www.zhihu.com/question/400984814"
     },
@@ -87,120 +91,116 @@
       "url":"https://www.zhihu.com/question/59792674"
     },
     {
-      "name":"智商140以上的人会怎样感知世界？",
-      "url":"https://www.zhihu.com/question/396673634"
-    },
-    {
-      "name":"如何看待北京本次疫情首例确诊患者准确回忆两周内所有接触者并提供 38 人名单?对本次疫情防控有多重要？",
-      "url":"https://www.zhihu.com/question/402064589"
-    },
-    {
       "name":"日向雏田和春野樱如果现实生活中你会选择谁作为妻子?",
       "url":"https://www.zhihu.com/question/401865762"
-    },
-    {
-      "name":"姜贞羽因伤病宣布退出《创造营  2020》比赛，你有什么想对她说的？",
-      "url":"https://www.zhihu.com/question/402337579"
-    },
-    {
-      "name":"《最后生还者 2》的剧情要怎么编才能让多数人满意？",
-      "url":"https://www.zhihu.com/question/402411223"
     },
     {
       "name":"生物全国卷有哪些书上可能考但还没考的话？",
       "url":"https://www.zhihu.com/question/400311163"
     },
     {
-      "name":"怎样看待港生申请内地大学比率创九年新高，你身边有来内地求学的港生吗？",
-      "url":"https://www.zhihu.com/question/402098814"
+      "name":"如何看待北京本次疫情首例确诊患者准确回忆两周内所有接触者并提供 38 人名单?对本次疫情防控有多重要？",
+      "url":"https://www.zhihu.com/question/402064589"
     },
     {
-      "name":"为什么会有很多成年人喜欢追动漫？动漫脸到底好看在哪里？",
-      "url":"https://www.zhihu.com/question/402476457"
+      "name":"都说中世纪平民很惨，那中世纪平民到底有多惨？",
+      "url":"https://www.zhihu.com/question/388748858"
     },
     {
       "name":"如何评价佟丽娅在天猫618的表演？",
       "url":"https://www.zhihu.com/question/401807223"
     },
     {
-      "name":"iPad 上不可错过的应用有哪些？",
-      "url":"https://www.zhihu.com/question/19671759"
+      "name":"父亲节，如何优雅地表达对父亲的感恩？",
+      "url":"https://www.zhihu.com/question/47498232"
     },
     {
       "name":"我应该去当练习生吗？能不能推荐一个好的韩娱公司？",
       "url":"https://www.zhihu.com/question/401168270"
     },
     {
-      "name":"明星是怎么做到频繁染头发但发质还不受损的？",
-      "url":"https://www.zhihu.com/question/331176081"
-    },
-    {
-      "name":"有啥情话可以撩到男友呢？",
-      "url":"https://www.zhihu.com/question/390905088"
-    },
-    {
-      "name":"王一博喜欢摩托是人设吗?",
-      "url":"https://www.zhihu.com/question/352183213"
-    },
-    {
-      "name":"历史上有哪些由于“刀下留人”而活下来的著名人物？",
-      "url":"https://www.zhihu.com/question/401602850"
-    },
-    {
-      "name":"如何看待天文学泰斗为今年毕业生写的一封信？",
-      "url":"https://www.zhihu.com/question/402496351"
+      "name":"为什么会有很多成年人喜欢追动漫？动漫脸到底好看在哪里？",
+      "url":"https://www.zhihu.com/question/402476457"
     },
     {
       "name":"唐朝和宋朝相距只有短短的53年，但为何感觉像是隔了好几百年？",
       "url":"https://www.zhihu.com/question/401274927"
     },
     {
-      "name":"如何评价网络小说《万族之劫》？",
-      "url":"https://www.zhihu.com/question/370225207"
+      "name":"怎样看待港生申请内地大学比率创九年新高，你身边有来内地求学的港生吗？",
+      "url":"https://www.zhihu.com/question/402098814"
     },
     {
       "name":"现实中会有学霸故意考倒数吗？",
       "url":"https://www.zhihu.com/question/399713005"
     },
     {
-      "name":"你见过最丑的猫丑到什么程度了？",
-      "url":"https://www.zhihu.com/question/374430083"
+      "name":"王一博喜欢摩托是人设吗?",
+      "url":"https://www.zhihu.com/question/352183213"
     },
     {
-      "name":"初中还有一个多月中考，应该怎么复习呢？",
-      "url":"https://www.zhihu.com/question/398081377"
+      "name":"如何评价网络小说《万族之劫》？",
+      "url":"https://www.zhihu.com/question/370225207"
     },
     {
-      "name":"有哪些每天坚持效果显著的高中学习习惯？",
-      "url":"https://www.zhihu.com/question/47351966"
+      "name":"明星是怎么做到频繁染头发但发质还不受损的？",
+      "url":"https://www.zhihu.com/question/331176081"
     },
     {
-      "name":"如何评价全聚德？已经衰落了吗？",
-      "url":"https://www.zhihu.com/question/396679409"
+      "name":"你们相信冥冥之中注定的缘分吗？",
+      "url":"https://www.zhihu.com/question/322148297"
     },
     {
-      "name":"月薪4千是攒钱好还是让自己过得更加舒服好？",
-      "url":"https://www.zhihu.com/question/400607595"
+      "name":"如何看待潘粤明父亲新发脑梗，母亲与医生视频用血糖针放血治疗后好转？",
+      "url":"https://www.zhihu.com/question/402443946"
+    },
+    {
+      "name":"进入高三，一轮复习我该怎么做才能快速提分？",
+      "url":"https://www.zhihu.com/question/55033059"
+    },
+    {
+      "name":"作为医生，有哪些生理知识你希望大家都知道？",
+      "url":"https://www.zhihu.com/question/393036219"
     },
     {
       "name":"一台 5000 块以上的 Android 旗舰手机是否能流畅地使用 2-3 年？",
       "url":"https://www.zhihu.com/question/402109307"
     },
     {
-      "name":"有哪些适合在父亲节送给父亲的贴心礼物？",
-      "url":"https://www.zhihu.com/question/402534809"
+      "name":"富贵包能消除吗?",
+      "url":"https://www.zhihu.com/question/335484815"
+    },
+    {
+      "name":"月薪4千是攒钱好还是让自己过得更加舒服好？",
+      "url":"https://www.zhihu.com/question/400607595"
     },
     {
       "name":"为什么有人认为虐待动物会发展成杀人？",
       "url":"https://www.zhihu.com/question/402226771"
     },
     {
-      "name":"富贵包能消除吗?",
-      "url":"https://www.zhihu.com/question/335484815"
+      "name":"有哪些真正写到你心里去了的句子？",
+      "url":"https://www.zhihu.com/question/281637180"
     },
     {
-      "name":"作为医生，有哪些生理知识你希望大家都知道？",
-      "url":"https://www.zhihu.com/question/393036219"
+      "name":"怎样使大一女生的气质大大提高？",
+      "url":"https://www.zhihu.com/question/392978052"
+    },
+    {
+      "name":"你最中意的一句文案是什么？",
+      "url":"https://www.zhihu.com/question/363361102"
+    },
+    {
+      "name":"你听过最残忍的诗是什么？",
+      "url":"https://www.zhihu.com/question/339919577"
+    },
+    {
+      "name":"动画《一人之下》最让你上头的一幕是哪一幕？",
+      "url":"https://www.zhihu.com/question/390050486"
+    },
+    {
+      "name":"大家收集过哪些网易云热评？",
+      "url":"https://www.zhihu.com/question/328230336"
     }
   ]
 }
