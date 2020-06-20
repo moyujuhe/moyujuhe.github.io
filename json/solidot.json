@@ -1,7 +1,19 @@
 {
-  "time":"2020-06-20 14:20:26",
+  "time":"2020-06-20 14:24:52",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"三星蓝光播放器突然大规模停止工作",
+      "url":"https://www.solidot.org/story?sid=64718"
+    },
+    {
+      "name":"黑客组织利用 CAPTCHA 阻止自动检测工具",
+      "url":"https://www.solidot.org/story?sid=64717"
+    },
+    {
+      "name":"111 个 Chrome 扩展被发现秘密收集用户敏感数据",
+      "url":"https://www.solidot.org/story?sid=64716"
+    },
     {
       "name":"科学家认为银河系可接触的外星文明大约有 36 个",
       "url":"https://www.solidot.org/story?sid=64715"
@@ -69,18 +81,6 @@
     {
       "name":"蜂鸟能看到 5 种非光谱颜色",
       "url":"https://www.solidot.org/story?sid=64699"
-    },
-    {
-      "name":"加州大学与施普林格自然集团达成开放获取协议",
-      "url":"https://www.solidot.org/story?sid=64698"
-    },
-    {
-      "name":"特朗普去年提议撤销华为诉讼以换取中美贸易协议",
-      "url":"https://www.solidot.org/story?sid=64697"
-    },
-    {
-      "name":"Zoom 改变主意将为所有用户提供端对端加密",
-      "url":"https://www.solidot.org/story?sid=64696"
     }
   ]
 }
