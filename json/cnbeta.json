@@ -1,10 +1,18 @@
 {
-  "time":"2020-06-20 16:13:18",
+  "time":"2020-06-20 16:17:32",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"传阿里员工把小三招进公司？当事人:纯属凭空捏造 已报警",
+      "url":"https://www.cnbeta.com/articles/tech/993575.htm"
+    },
+    {
+      "name":"蔚来李斌：预计2020年中国汽车销量较去年减少10%",
+      "url":"https://www.cnbeta.com/articles/tech/993573.htm"
     },
     {
       "name":"美国国会：若苹果CEO库克不配合反垄断调查将被传唤",
@@ -233,14 +241,6 @@
     {
       "name":"量子计算机领域内第一种高级编程语言 Silq 诞生",
       "url":"https://www.cnbeta.com/articles/tech/993459.htm"
-    },
-    {
-      "name":"上证综指作出三大修订：纳入科创板和存托凭证",
-      "url":"https://www.cnbeta.com/articles/tech/993457.htm"
-    },
-    {
-      "name":"Windows 10 May 2020 中 WSL 与 WSL2 的性能比较",
-      "url":"https://www.cnbeta.com/articles/tech/993455.htm"
     }
   ]
 }
