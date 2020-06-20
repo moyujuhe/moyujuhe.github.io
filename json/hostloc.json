@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 07:06:39",
+  "time":"2020-06-21 07:10:51",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"【图文教程】轻松搭建或许是世界上最牛逼的网站统计程序",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706288&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"自建反代能代替IP路由吗？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706287&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"哪里有便宜能跑满G口的小鸡",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706259&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"未北岸反代（CDN）有啥比较便宜的方案？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706256&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
