@@ -1,10 +1,18 @@
 {
-  "time":"2020-06-21 21:05:44",
+  "time":"2020-06-21 21:09:55",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"中国移动发布《超级SIM卡技术白皮书》 从硬件到应用全面升级",
+      "url":"https://www.cnbeta.com/articles/tech/993835.htm"
+    },
+    {
+      "name":"WWDC 2020前瞻：iOS大更新 Mac或转向ARM芯片 不少硬件传言将成真？",
+      "url":"https://www.cnbeta.com/articles/tech/993833.htm"
     },
     {
       "name":"网友用AMD撕裂者3990X 126个框框演奏音乐",
@@ -233,14 +241,6 @@
     {
       "name":"比特币矿机企业亿邦国际6月26日美国上市：拟募资1亿美元",
       "url":"https://www.cnbeta.com/articles/tech/993719.htm"
-    },
-    {
-      "name":"特朗普称检测越多确诊越多 建议放慢检测速度",
-      "url":"https://www.cnbeta.com/articles/tech/993717.htm"
-    },
-    {
-      "name":"继Edge之后 谷歌将采取措施减少Chrome在Windows 10上的内存占用",
-      "url":"https://www.cnbeta.com/articles/tech/993715.htm"
     }
   ]
 }
