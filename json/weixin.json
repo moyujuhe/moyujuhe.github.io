@@ -1,56 +1,5 @@
 {
-  "time":"2020-06-21 23:31:43",
+  "time":"2020-06-21 23:35:54",
   "title":"微信公众号搜索热词",
-  "data":[
-    {
-      "name":"李现午后公园大片",
-      "url":"http://weixin.sogou.com/weixin?type=2&ie=utf8&s_from=hotnews&query=%E6%9D%8E%E7%8E%B0%E5%8D%88%E5%90%8E%E5%85%AC%E5%9B%AD%E5%A4%A7%E7%89%87",
-      "num":"100"
-    },
-    {
-      "name":"苹果AirPods爆炸",
-      "url":"http://weixin.sogou.com/weixin?type=2&ie=utf8&s_from=hotnews&query=%E8%8B%B9%E6%9E%9CAirPods%E7%88%86%E7%82%B8",
-      "num":"93"
-    },
-    {
-      "name":"放开手脚更敢闯",
-      "url":"http://weixin.sogou.com/weixin?type=2&ie=utf8&s_from=hotnews&query=%E6%94%BE%E5%BC%80%E6%89%8B%E8%84%9A%E6%9B%B4%E6%95%A2%E9%97%AF",
-      "num":"86"
-    },
-    {
-      "name":"曼城完胜阿森纳",
-      "url":"http://weixin.sogou.com/weixin?type=2&ie=utf8&s_from=hotnews&query=%E6%9B%BC%E5%9F%8E%E5%AE%8C%E8%83%9C%E9%98%BF%E6%A3%AE%E7%BA%B3",
-      "num":"79"
-    },
-    {
-      "name":"超级买手带你抄底",
-      "url":"http://weixin.sogou.com/weixin?type=2&ie=utf8&s_from=hotnews&query=%E8%B6%85%E7%BA%A7%E4%B9%B0%E6%89%8B%E5%B8%A6%E4%BD%A0%E6%8A%84%E5%BA%95",
-      "num":"72"
-    },
-    {
-      "name":"王俊凯贝雷帽",
-      "url":"http://weixin.sogou.com/weixin?type=2&ie=utf8&s_from=hotnews&query=%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%B4%9D%E9%9B%B7%E5%B8%BD",
-      "num":"65"
-    },
-    {
-      "name":"电商主播人才政策",
-      "url":"http://weixin.sogou.com/weixin?type=2&ie=utf8&s_from=hotnews&query=%E7%94%B5%E5%95%86%E4%B8%BB%E6%92%AD%E4%BA%BA%E6%89%8D%E6%94%BF%E7%AD%96",
-      "num":"58"
-    },
-    {
-      "name":"伊能静放狠话",
-      "url":"http://weixin.sogou.com/weixin?type=2&ie=utf8&s_from=hotnews&query=%E4%BC%8A%E8%83%BD%E9%9D%99%E6%94%BE%E7%8B%A0%E8%AF%9D",
-      "num":"51"
-    },
-    {
-      "name":"北京确诊病例过百",
-      "url":"http://weixin.sogou.com/weixin?type=2&ie=utf8&s_from=hotnews&query=%E5%8C%97%E4%BA%AC%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%BF%87%E7%99%BE",
-      "num":"44"
-    },
-    {
-      "name":"清华云毕业典礼",
-      "url":"http://weixin.sogou.com/weixin?type=2&ie=utf8&s_from=hotnews&query=%E6%B8%85%E5%8D%8E%E4%BA%91%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC",
-      "num":"37"
-    }
-  ]
+  "data":[]
 }
