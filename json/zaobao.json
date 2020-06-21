@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 13:27:40",
+  "time":"2020-06-21 13:31:58",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国600公里高速磁浮试验样车在上海成功试跑",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062847"
+    },
     {
       "name":"美全球鹰无人机疑似徘徊台湾北部空域",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062845"
@@ -77,10 +81,6 @@
     {
       "name":"中央成立驻港公署 对“极少数”案件行使管辖权",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200620-1062705"
-    },
-    {
-      "name":"中资银行在中企境外银团贷款市场中份额上升",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200620-1062610"
     }
   ]
 }
