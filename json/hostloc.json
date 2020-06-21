@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-22 02:03:38",
+  "time":"2020-06-22 02:07:49",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"关于onevps，给mjj提个邪恶的建议",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706709&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"新开机器ip被墙怎么办？ onevps",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706708&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"大晚上的，onevps还是这么卡！",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706682&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"BUG机没有开通的貌似都是香港的？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706681&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
