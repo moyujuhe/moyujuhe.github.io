@@ -1,7 +1,23 @@
 {
-  "time":"2020-06-22 00:16:48",
+  "time":"2020-06-22 00:21:17",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"为什么睡眠剥夺会致命",
+      "url":"https://www.solidot.org/story?sid=64731"
+    },
+    {
+      "name":"地球五分之一的海床完成测绘",
+      "url":"https://www.solidot.org/story?sid=64730"
+    },
+    {
+      "name":"在 20 岁交易员自杀后 Robinhood 修改应用",
+      "url":"https://www.solidot.org/story?sid=64729"
+    },
+    {
+      "name":"在量子世界远距传输也许是可能的",
+      "url":"https://www.solidot.org/story?sid=64728"
+    },
     {
       "name":"新冠可能在 2019 年 12 月就出现在意大利",
       "url":"https://www.solidot.org/story?sid=64726"
@@ -65,22 +81,6 @@
     {
       "name":"Mozilla 宣布将在未来几周正式推出 VPN 服务",
       "url":"https://www.solidot.org/story?sid=64708"
-    },
-    {
-      "name":"抖音为何在内部架起“中国墙”？",
-      "url":"https://www.solidot.org/story?sid=64707"
-    },
-    {
-      "name":"Eric Schmidt 称华为构成了国家安全挑战",
-      "url":"https://www.solidot.org/story?sid=64706"
-    },
-    {
-      "name":"早期恐龙蛋可能是软蛋壳",
-      "url":"https://www.solidot.org/story?sid=64705"
-    },
-    {
-      "name":"微软释出紧急补丁修复打印机无法打印问题",
-      "url":"https://www.solidot.org/story?sid=64704"
     }
   ]
 }
