@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 08:59:49",
+  "time":"2020-06-21 09:04:00",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"IBM yes?No,CF yes!",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706303&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"loc应该专门开一个各大IDC发布广告的版块",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706301&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"明盘出个小姨子域名。",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706272&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"收10-20个azure 35",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706271&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }

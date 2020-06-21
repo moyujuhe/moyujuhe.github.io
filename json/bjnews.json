@@ -1,26 +1,18 @@
 {
-  "time":"2020-06-21 08:59:46",
+  "time":"2020-06-21 09:03:57",
   "title":"新京报-排行",
   "data":[
-    {
-      "name":"北京昨日新增22例确诊病例 涉海淀丰台大兴3区",
-      "url":"http://www.bjnews.com.cn/feature/2020/06/20/740521.html"
-    },
-    {
-      "name":"河北新增确诊病例1例 系北京关联病例密切接触者",
-      "url":"http://www.bjnews.com.cn/feature/2020/06/20/740522.html"
-    },
     {
       "name":"通州一小区两居民核酸检测为阳性？街道：尚未确诊",
       "url":"http://www.bjnews.com.cn/news/2020/06/20/740591.html"
     },
     {
-      "name":"全国人大常委会法工委：中央在香港设立维护国家安全公署",
-      "url":"http://www.bjnews.com.cn/news/2020/06/20/740643.html"
-    },
-    {
       "name":"金环日食明天下午登场 下次在我国观测要等到2030年",
       "url":"http://www.bjnews.com.cn/news/2020/06/20/740555.html"
+    },
+    {
+      "name":"全国人大常委会法工委：中央在香港设立维护国家安全公署",
+      "url":"http://www.bjnews.com.cn/news/2020/06/20/740643.html"
     },
     {
       "name":"北京集中公布近日77例确诊病例涉及小区",
@@ -39,8 +31,16 @@
       "url":"http://www.bjnews.com.cn/news/2020/06/20/740531.html"
     },
     {
-      "name":"国家卫健委：昨日新增确诊病例27例 本土病例23例",
-      "url":"http://www.bjnews.com.cn/news/2020/06/20/740524.html"
+      "name":"北京丰台马家堡街道疫情风险等级调整为中风险地区",
+      "url":"http://www.bjnews.com.cn/news/2020/06/20/740637.html"
+    },
+    {
+      "name":"一图速览│6月20日北京疫情晚报",
+      "url":"http://www.bjnews.com.cn/feature/2020/06/20/740655.html"
+    },
+    {
+      "name":"这14天内未接触过新发地市场的人员被感染风险极低",
+      "url":"http://www.bjnews.com.cn/wevideo/2020/06/20/740623.html"
     },
     {
       "name":"五楼住户上班开门发现楼梯没了！当事人现身解答网友疑惑",
@@ -57,10 +57,6 @@
     {
       "name":"北京：14天内出入新发地12973人核酸阴性",
       "url":"http://www.bjnews.com.cn/wevideo/2020/06/15/738345.html"
-    },
-    {
-      "name":"昨日新增本土病例38例，北京36例辽宁2例",
-      "url":"http://www.bjnews.com.cn/news/2020/06/14/738054.html"
     },
     {
       "name":"北京西城一菜市场1人确诊 周边7社区实施封闭管理",
@@ -81,6 +77,10 @@
     {
       "name":"北京昨日新增病例涉及丰台、大兴、海淀等7区",
       "url":"http://www.bjnews.com.cn/wevideo/2020/06/15/738493.html"
+    },
+    {
+      "name":"男子日常在楼梯扶手秘密藏钱 3年后取出一看惊喜万分",
+      "url":"http://www.bjnews.com.cn/wevideo/2020/06/19/740301.html"
     },
     {
       "name":"民法典审议通过：以人民名义，铸权利法典",
