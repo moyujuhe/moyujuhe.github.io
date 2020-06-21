@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 09:16:34",
+  "time":"2020-06-21 09:20:46",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京昨新增22例确诊 通州121天后首现本地病例",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062828"
+    },
     {
       "name":"蓬佩奥称美国正就香港研究制裁名单",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062827"
@@ -77,10 +81,6 @@
     {
       "name":"谭耀宗：料大陆不会公开香港国安法条例草案",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200620-1062673"
-    },
-    {
-      "name":"消息：私人银行积极扩充 为大中华客户打理海外财富",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200620-1062671"
     }
   ]
 }
