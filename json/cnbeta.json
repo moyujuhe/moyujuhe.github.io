@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-21 20:22:37",
+  "time":"2020-06-21 20:26:57",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"欧洲多家大企业宣布裁员，疫情下新一轮失业潮要来了？",
+      "url":"https://www.cnbeta.com/articles/tech/993813.htm"
     },
     {
       "name":"研究发现动物的“一夫一妻制”有可能导致它们灭绝",
@@ -237,10 +241,6 @@
     {
       "name":"本田皓影撞弯A柱 测试成绩被撤回 中保研官方回应",
       "url":"https://www.cnbeta.com/articles/tech/993697.htm"
-    },
-    {
-      "name":"微软宣布 WSL2 对 GPU 的初始支持",
-      "url":"https://www.cnbeta.com/articles/tech/993695.htm"
     }
   ]
 }
