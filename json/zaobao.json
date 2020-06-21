@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 16:50:54",
+  "time":"2020-06-21 16:55:07",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京百事公司出现确诊病例 已停工停产",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062897"
+    },
     {
       "name":"解放军战机两周内第七次现身台湾西南空域",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062889"
@@ -77,10 +81,6 @@
     {
       "name":"大陆昨天新增26例确诊病例",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062834"
-    },
-    {
-      "name":"严厉谴责两罢公投 张建宗：不会视若无睹",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062832"
     }
   ]
 }
