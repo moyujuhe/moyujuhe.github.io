@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 22:16:42",
+  "time":"2020-06-21 22:35:26",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"微信回应朋友圈无法刷新：正在紧急修复中",
+      "url":"https://tech.sina.com.cn/i/2020-06-21/doc-iircuyvi9713401.shtml"
+    },
     {
       "name":"微信朋友圈疑似崩溃 一直处于加载状态",
       "url":"https://tech.sina.com.cn/i/2020-06-21/doc-iirczymk8241721.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"中国最大LGBT社区冲击全球同性社交第一股 多家机构入局",
       "url":"https://tech.sina.com.cn/i/2020-06-20/doc-iirczymk8014608.shtml"
-    },
-    {
-      "name":"美团将组织全部在京外卖骑手进行核酸检测",
-      "url":"https://tech.sina.com.cn/i/2020-06-20/doc-iircuyvi9481757.shtml"
     }
   ]
 }
