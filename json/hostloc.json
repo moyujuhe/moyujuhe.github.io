@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 10:02:37",
+  "time":"2020-06-21 10:06:48",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"200内租一个国内服务器，配置低点无所谓，带宽要大稳",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706322&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"求购已北岸的短域名",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706320&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"大家试下这个网盘下载速度",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706286&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"（解决了）WIN10系统用fping工具出错",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706284&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
