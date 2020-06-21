@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 21:00:05",
+  "time":"2020-06-21 21:15:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"【Matlab被禁感悟：把东西做出来，而不是追求把论文发出来】Matlab最终走上商业化，就是因为Coler教授在斯坦福大学给学生上课时，有两个学生对Matlab很感兴趣，主动提出用C重写一遍，同时移植到IBM PC上。很多技术最早都是从课堂上发展起来，比如RISC架构是David Patterson教授在伯克利的课程实验。",
+      "url":"http://www.zhishifenzi.com/depth/depth/9378.html"
+    },
     {
       "name":"今天，印度边防部队在山上练瑜伽",
       "url":"https://www.guancha.cn/internation/2020_06_21_554916.shtml"
@@ -85,10 +89,6 @@
     {
       "name":"【《浪姐》背后的女人】湖南广电中一直不乏优秀的女性节目制作人和导演。从“内地选秀教母”龙丹妮和她的黄金搭档马昊，到后来《创造101》的总制片、总导演都艳、孙莉，再到如今《浪姐》的吴梦知、何忱。“电视湘军”里，娘子军撑起了半边天。",
       "url":"https://mp.weixin.qq.com/s/4C0sYS6lPQvP2ibnwOqinw"
-    },
-    {
-      "name":"夏天消暑最好的选择——超级温柔的日式 Jazz Hiphop",
-      "url":"https://www.xiaoyuzhoufm.com/episodes/5eea15c3418a84a04634cecc?s=eyJ1IjogIjVlYjNkNDg2OWM3MzVmOWNmNGY3ZDRiMiJ9"
     }
   ]
 }
