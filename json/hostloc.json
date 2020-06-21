@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 09:04:00",
+  "time":"2020-06-21 09:08:11",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"Teams Exploratory 翻车",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706305&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"IBM yes?No,CF yes!",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706303&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"香港虚拟主机那家强",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706273&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"明盘出个小姨子域名。",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706272&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
