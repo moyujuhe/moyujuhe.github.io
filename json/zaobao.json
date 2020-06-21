@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 10:06:47",
+  "time":"2020-06-21 10:10:59",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"三星否认今年将显示器生产从中国转移至越南",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062830"
+    },
     {
       "name":"传马、吴不满九二共识成历史描述 拒赴江启臣餐叙",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062829"
@@ -77,10 +81,6 @@
     {
       "name":"国民党公开标售六笔不动产 收入将付劳工退休金",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200620-1062678"
-    },
-    {
-      "name":"北京昨日22位确诊者均与新发地有关 最小患者一岁",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200620-1062676"
     }
   ]
 }
