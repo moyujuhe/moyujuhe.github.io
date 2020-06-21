@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 16:59:38",
+  "time":"2020-06-21 17:03:46",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京：如采用5:1混检 每日可检测近100万人",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062898"
+    },
     {
       "name":"北京百事公司出现确诊病例 已停工停产",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062897"
@@ -77,10 +81,6 @@
     {
       "name":"日防卫省：九州海域疑似中国潜艇航线异常 将分析调查",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062836"
-    },
-    {
-      "name":"大陆昨天新增26例确诊病例",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062834"
     }
   ]
 }
