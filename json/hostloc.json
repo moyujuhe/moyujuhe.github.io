@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 12:00:23",
+  "time":"2020-06-21 12:04:30",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"windows 2012 r2 更新系统，一直卡在正在下载。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706361&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"买个nas好，还是移动硬盘好",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706360&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"据说10T的天翼云盘比30T的稳",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706328&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"镇江199是哪家的？想收一个 大带宽 月付200内的国内机",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706327&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
