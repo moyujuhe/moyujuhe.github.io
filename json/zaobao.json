@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-21 10:48:52",
+  "time":"2020-06-21 10:53:00",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"大陆昨天新增26例确诊病例",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062834"
+    },
     {
       "name":"严厉谴责两罢公投 张建宗：不会视若无睹",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062832"
@@ -77,10 +81,6 @@
     {
       "name":"消息：软银旗下芯片公司安谋开除中国合资企业CEO",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200620-1062632"
-    },
-    {
-      "name":"中国将加入特朗普反对的武器贸易条约",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200620-1062683"
     }
   ]
 }
