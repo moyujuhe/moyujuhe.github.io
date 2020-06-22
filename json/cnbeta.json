@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 07:18:06",
+  "time":"2020-06-23 07:22:17",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"iOS 14查找应用拓展范围 已经支持第三方产品",
+      "url":"https://www.cnbeta.com/articles/tech/994389.htm"
     },
     {
       "name":"Mac正式踢开Intel iOS与macOS全面融合 它还在向微信学习",
@@ -237,10 +241,6 @@
     {
       "name":"Intel 5年内量产纳米线/纳米带晶体管 搭档3nm？",
       "url":"https://www.cnbeta.com/articles/tech/994273.htm"
-    },
-    {
-      "name":"配备Mini-LED显示屏的iPad Pro正在试生产中",
-      "url":"https://www.cnbeta.com/articles/tech/994271.htm"
     }
   ]
 }
