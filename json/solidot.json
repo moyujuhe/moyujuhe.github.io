@@ -1,7 +1,35 @@
 {
-  "time":"2020-06-22 16:35:55",
+  "time":"2020-06-22 16:40:12",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Ron Gilbert 开源了 Delores",
+      "url":"https://www.solidot.org/story?sid=64738"
+    },
+    {
+      "name":"Sergey Brin 秘密建立了一支紧急救援队",
+      "url":"https://www.solidot.org/story?sid=64737"
+    },
+    {
+      "name":"越南如何做到无人死于新冠",
+      "url":"https://www.solidot.org/story?sid=64736"
+    },
+    {
+      "name":"Uber 开源自动清理过时代码的工具",
+      "url":"https://www.solidot.org/story?sid=64735"
+    },
+    {
+      "name":"西伯利亚北极小镇气温达到 38 摄氏度",
+      "url":"https://www.solidot.org/story?sid=64734"
+    },
+    {
+      "name":"WireGuard 合并到 OpenBSD",
+      "url":"https://www.solidot.org/story?sid=64733"
+    },
+    {
+      "name":"新冠新增病例创下单日最高纪录",
+      "url":"https://www.solidot.org/story?sid=64732"
+    },
     {
       "name":"为什么睡眠剥夺会致命",
       "url":"https://www.solidot.org/story?sid=64731"
@@ -53,34 +81,6 @@
     {
       "name":"科学家认为银河系可接触的外星文明大约有 36 个",
       "url":"https://www.solidot.org/story?sid=64715"
-    },
-    {
-      "name":"日本科学家发现肥皂泡泡可帮助授粉",
-      "url":"https://www.solidot.org/story?sid=64714"
-    },
-    {
-      "name":"Krita 4.3 发布",
-      "url":"https://www.solidot.org/story?sid=64713"
-    },
-    {
-      "name":"Google 发布扩展允许创建和共享特定段落链接",
-      "url":"https://www.solidot.org/story?sid=64712"
-    },
-    {
-      "name":"澳大利亚声称遭遇大规模网络攻击",
-      "url":"https://www.solidot.org/story?sid=64711"
-    },
-    {
-      "name":"研究称新冠抗体可能只能持续 2 到 3 个月",
-      "url":"https://www.solidot.org/story?sid=64710"
-    },
-    {
-      "name":"僵尸卫星从坟场轨道回归",
-      "url":"https://www.solidot.org/story?sid=64709"
-    },
-    {
-      "name":"Mozilla 宣布将在未来几周正式推出 VPN 服务",
-      "url":"https://www.solidot.org/story?sid=64708"
     }
   ]
 }
