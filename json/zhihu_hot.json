@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-22 17:44:42",
+  "time":"2020-06-22 17:49:32",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -39,12 +39,12 @@
       "url":"https://www.zhihu.com/question/399714567"
     },
     {
-      "name":"如何评价杨超越在《炙热的我们》中的「僵尸新娘」造型？",
-      "url":"https://www.zhihu.com/question/402540120"
-    },
-    {
       "name":"妻子是扶弟魔的家庭最后都怎样了？",
       "url":"https://www.zhihu.com/question/388115245"
+    },
+    {
+      "name":"如何评价杨超越在《炙热的我们》中的「僵尸新娘」造型？",
+      "url":"https://www.zhihu.com/question/402540120"
     },
     {
       "name":"6 月 21 日北京新增新冠肺炎 9 例，一周以来首次降到个位数，是否意味着北京疫情逐步稳定？",
@@ -63,12 +63,12 @@
       "url":"https://www.zhihu.com/question/402733463"
     },
     {
-      "name":"华盛顿雕像被推倒了，林肯的还会远吗？",
-      "url":"https://www.zhihu.com/question/402404295"
-    },
-    {
       "name":"如何看待高校硕士自称在秦皇岛任家教时，猥亵十四岁女初中生的行为？",
       "url":"https://www.zhihu.com/question/402820019"
+    },
+    {
+      "name":"华盛顿雕像被推倒了，林肯的还会远吗？",
+      "url":"https://www.zhihu.com/question/402404295"
     },
     {
       "name":"《三体2:黑暗森林》会在日本引起怎样的反响以及带给日本人怎样的思考？",
@@ -99,12 +99,12 @@
       "url":"https://www.zhihu.com/question/357577156"
     },
     {
-      "name":"如何看待 618 期间京东 2692 亿与阿里 6982 亿的销售额对比？如何看待二者均创下新纪录？",
-      "url":"https://www.zhihu.com/question/402264397"
-    },
-    {
       "name":"如何看待仝卓艾特湖南卫视说承蒙厚爱后会有期?",
       "url":"https://www.zhihu.com/question/402850082"
+    },
+    {
+      "name":"如何看待 618 期间京东 2692 亿与阿里 6982 亿的销售额对比？如何看待二者均创下新纪录？",
+      "url":"https://www.zhihu.com/question/402264397"
     },
     {
       "name":"作为一个老师我做的不对吗？",
@@ -135,20 +135,12 @@
       "url":"https://www.zhihu.com/question/402864196"
     },
     {
-      "name":"如何看待李紫婷患突发性耳鸣并退出火箭少女101告别典礼录制？",
-      "url":"https://www.zhihu.com/question/402732329"
-    },
-    {
       "name":"你最庆幸自己养成了什么习惯？",
       "url":"https://www.zhihu.com/question/393200731"
     },
     {
       "name":"如何评价由秦昊、王景春主演的网剧《隐秘的角落》？",
       "url":"https://www.zhihu.com/question/401512298"
-    },
-    {
-      "name":"《肖申克的救赎》中的「救赎」到底指什么？",
-      "url":"https://www.zhihu.com/question/27771305"
     },
     {
       "name":"如何看待特朗普在竞选集会中自夸「抗疫这件事我做得很好」，要求放慢检测赶快开学，称「检测越多确诊越多」？",
@@ -171,14 +163,6 @@
       "url":"https://www.zhihu.com/question/402723738"
     },
     {
-      "name":"如何以“我不想进宫”为开头写一篇文？",
-      "url":"https://www.zhihu.com/question/394859217"
-    },
-    {
-      "name":"2025 年中国 65 岁及以上的老年人将超过 2.1 亿，如何应对老龄化？你期待的养老方式是怎样的？",
-      "url":"https://www.zhihu.com/question/402351189"
-    },
-    {
       "name":"卡卡西的查克拉那么少，为什么每次使用土流壁要浪费查克拉在上面雕狗头？",
       "url":"https://www.zhihu.com/question/314732377"
     },
@@ -187,8 +171,20 @@
       "url":"https://www.zhihu.com/question/402080073"
     },
     {
+      "name":"2025 年中国 65 岁及以上的老年人将超过 2.1 亿，如何应对老龄化？你期待的养老方式是怎样的？",
+      "url":"https://www.zhihu.com/question/402351189"
+    },
+    {
       "name":"为什么笔记本电脑少有提及快充技术？",
       "url":"https://www.zhihu.com/question/329551401"
+    },
+    {
+      "name":"《肖申克的救赎》中的「救赎」到底指什么？",
+      "url":"https://www.zhihu.com/question/27771305"
+    },
+    {
+      "name":"如何看待李紫婷患突发性耳鸣并退出火箭少女101告别典礼录制？",
+      "url":"https://www.zhihu.com/question/402732329"
     },
     {
       "name":"如何评价《英雄联盟》赛娜、刀妹「西部魔影」皮肤？",
@@ -201,6 +197,10 @@
     {
       "name":"有什么好看的小说推荐一下？",
       "url":"https://www.zhihu.com/question/334449041"
+    },
+    {
+      "name":"有人把耐克广告语 Just do it 翻译成「干就完了」，如何反驳？",
+      "url":"https://www.zhihu.com/question/402636777"
     }
   ]
 }
