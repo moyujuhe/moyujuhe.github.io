@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 03:00:05",
+  "time":"2020-06-23 03:04:13",
   "title":"cnBeta",
   "data":[
     {
@@ -15,6 +15,10 @@
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
     },
     {
+      "name":"苹果AppleTV：目前超过10亿个屏幕在使用电视订阅服务",
+      "url":"https://www.cnbeta.com/articles/tech/994363.htm"
+    },
+    {
       "name":"苹果提供1亿美元成立基金 帮助更多有色人种开发者",
       "url":"https://www.cnbeta.com/articles/tech/994361.htm"
     },
@@ -23,8 +27,8 @@
       "url":"https://www.cnbeta.com/articles/tech/994359.htm"
     },
     {
-      "name":"WWDC前夕苹果批准电子邮件应用 Hey上架 新增14天免费选项",
-      "url":"https://www.cnbeta.com/articles/soft/994357.htm"
+      "name":"WWDC前夕苹果批准电子邮件应用“Hey”上架 新增14天免费选项",
+      "url":"https://www.cnbeta.com/articles/tech/994357.htm"
     },
     {
       "name":"小细节结束20年篇章：macOS Big Sur 版本号升级到11",
@@ -237,10 +241,6 @@
     {
       "name":"飞骧科技宣布推出完整5G射频前端解决方案",
       "url":"https://www.cnbeta.com/articles/tech/994245.htm"
-    },
-    {
-      "name":"五菱汽车：已推出螺蛳粉专用售卖车 可深入定制更多摆摊车型",
-      "url":"https://www.cnbeta.com/articles/tech/994243.htm"
     }
   ]
 }

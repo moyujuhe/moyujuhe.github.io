@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 02:53:18",
+  "time":"2020-06-23 03:00:55",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"苹果首次线上开发者大会 五大系统更新 自研电脑芯片终登场",
+      "url":"https://tech.sina.com.cn/apple/if/2020-06-23/doc-iirczymk8446484.shtml"
+    },
     {
       "name":"苹果自研电脑芯片亮相，首款产品预期年底上市",
       "url":"https://tech.sina.com.cn/it/2020-06-23/doc-iirczymk8446264.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"中国联通5月4G用户净增数190.5万户",
       "url":"https://tech.sina.com.cn/t/2020-06-22/doc-iirczymk8385328.shtml"
-    },
-    {
-      "name":"OPPO与一加，终归是一家",
-      "url":"https://tech.sina.com.cn/t/2020-06-22/doc-iircuyvi9859827.shtml"
     }
   ]
 }
