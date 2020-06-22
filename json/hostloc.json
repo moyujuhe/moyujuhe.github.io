@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 01:01:44",
+  "time":"2020-06-23 01:06:01",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"苹果WWDC20全球开发者大会开始了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707199&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"出【几个小鸡】HostHatch/virmach/BudgetNode",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706865&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"【求】极客时间《web协议详解与抓包实战（陶辉）》",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707169&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"smsjiema 或 smsjiems 能用不？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707168&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }

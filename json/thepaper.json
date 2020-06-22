@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 01:01:41",
+  "time":"2020-06-23 01:05:58",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"甘肃兰州一食品仓库发生火灾，暂无人员伤亡",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7956517"
+    },
     {
       "name":"美国白宫取消强制体温检测",
       "url":"https://www.thepaper.cn/newsDetail_forward_7956515"
@@ -77,10 +81,6 @@
     {
       "name":"吉利德：本周将筛选志愿者进行吸入型瑞德西韦1期临床试验",
       "url":"https://www.thepaper.cn/newsDetail_forward_7956403"
-    },
-    {
-      "name":"中国一周图片精选｜第10期（6月15日-6月21日）",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7951361"
     }
   ]
 }
