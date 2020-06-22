@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-22 16:22:00",
+  "time":"2020-06-22 16:38:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"苹果连续5次拒绝Facebook上架游戏应用，再次引发垄断质疑",
+      "url":"https://tech.sina.com.cn/roll/2020-06-22/doc-iircuyvi9844963.shtml"
+    },
     {
       "name":"腾讯自3月低点涨46%距历史高点一步之遥 市值逼近阿里",
       "url":"https://tech.sina.com.cn/i/2020-06-22/doc-iirczymk8373442.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"马斯克：7月1日之后特斯拉全自动驾驶的价格将上涨1000美元",
       "url":"https://tech.sina.com.cn/roll/2020-06-22/doc-iirczymk8313357.shtml"
-    },
-    {
-      "name":"超冷原子量子计算与量子模拟领域获重大突破",
-      "url":"https://tech.sina.com.cn/d/i/2020-06-22/doc-iirczymk8312391.shtml"
     }
   ]
 }
