@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 02:20:22",
+  "time":"2020-06-23 02:24:38",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"macOS名为Big Sur 界面迎来近两年最大调整",
+      "url":"https://tech.sina.com.cn/apple/mac/2020-06-23/doc-iirczymk8445092.shtml"
+    },
     {
       "name":"苹果AppleTV：目前超过10亿个屏幕在使用电视订阅服务",
       "url":"https://tech.sina.com.cn/apple/parts/2020-06-23/doc-iircuyvi9916489.shtml"
@@ -23,7 +27,7 @@
       "url":"https://tech.sina.com.cn/apple/aw/2020-06-23/doc-iirczymk8444053.shtml"
     },
     {
-      "name":"苹果今年将推iPadOS14 增设“来电弹窗”拒绝霸屏",
+      "name":"苹果今年将推iPadOS 14 增设“来电弹窗”拒绝霸屏",
       "url":"https://tech.sina.com.cn/n/k/2020-06-23/doc-iircuyvi9915577.shtml"
     },
     {
@@ -197,10 +201,6 @@
     {
       "name":"15个月之后，宝马与戴姆勒终止自动驾驶合作",
       "url":"https://tech.sina.com.cn/roll/2020-06-22/doc-iirczymk8381453.shtml"
-    },
-    {
-      "name":"苹果连续5次拒绝Facebook上架游戏应用，再次引发垄断质疑",
-      "url":"https://tech.sina.com.cn/roll/2020-06-22/doc-iircuyvi9844963.shtml"
     }
   ]
 }
