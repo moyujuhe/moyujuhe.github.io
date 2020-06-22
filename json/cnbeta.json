@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 07:47:34",
+  "time":"2020-06-23 07:51:55",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"美国洛杉矶国际机场将使用红外热像仪为旅客监测体温",
+      "url":"https://www.cnbeta.com/articles/tech/994417.htm"
     },
     {
       "name":"交通运输部：预约通行过渡期延至年底 这三种车没装ETC继续免费",
@@ -237,10 +241,6 @@
     {
       "name":"诺基亚将在法国子公司裁员1233人 占比超三成",
       "url":"https://www.cnbeta.com/articles/tech/994303.htm"
-    },
-    {
-      "name":"微星推出全新游戏台式电脑 搭载英特尔第十代CPU",
-      "url":"https://www.cnbeta.com/articles/tech/994301.htm"
     }
   ]
 }
