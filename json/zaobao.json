@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-22 09:02:04",
+  "time":"2020-06-22 09:06:09",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京新增九例本地确诊 系一周来首次降至个位",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200622-1063050"
+    },
     {
       "name":"特朗普：为中美贸易谈判 暂缓涉疆制裁",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200622-1063048"
@@ -77,10 +81,6 @@
     {
       "name":"香港网民发起四区商场集合“和你Shop” 防暴警戒备",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062883"
-    },
-    {
-      "name":"防疫致台湾新移民儿童难回家 台内政部长道歉",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062879"
     }
   ]
 }
