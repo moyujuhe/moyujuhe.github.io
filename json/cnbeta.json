@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-22 11:25:36",
+  "time":"2020-06-22 11:29:45",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"腾讯自3月暴涨45%市值增1822亿美元 马化腾身家增153亿",
+      "url":"https://www.cnbeta.com/articles/tech/994055.htm"
     },
     {
       "name":"[图]Milrem展示无人战车Type-X原型 减少战场士兵伤亡",
@@ -19,7 +23,7 @@
       "url":"https://www.cnbeta.com/articles/tech/994049.htm"
     },
     {
-      "name":"全球抗疫再添强心剂 我国又一新冠灭活疫苗进入Ⅱ期临床试验",
+      "name":"又一新型冠状病毒灭活疫苗进入Ⅱ期临床试验",
       "url":"https://www.cnbeta.com/articles/tech/994047.htm"
     },
     {
@@ -237,10 +241,6 @@
     {
       "name":"三大运营商5G资费下降引热议 从打折到降价仅一步之遥",
       "url":"https://www.cnbeta.com/articles/tech/993939.htm"
-    },
-    {
-      "name":"NVIDIA 工程师为早期 Raspberry Pi 设备提供 Vulkan 支持",
-      "url":"https://www.cnbeta.com/articles/tech/993937.htm"
     }
   ]
 }
