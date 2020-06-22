@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-22 10:26:38",
+  "time":"2020-06-22 10:30:50",
   "data":[
     {
       "name":"你对你的未来惶恐过吗？",
@@ -151,10 +151,6 @@
       "url":"https://hacpai.com/article/1591101742563"
     },
     {
-      "name":"20200522 TGIF",
-      "url":"https://hacpai.com/article/1590114930519"
-    },
-    {
       "name":"找 Java Spring Cloud 后端技术 远程 每月 20K 最短六个月",
       "url":"https://hacpai.com/article/1590997480566"
     },
@@ -241,6 +237,10 @@
     {
       "name":"想在本地用 typora 编写 markdown, 如何设置黑客派为图床服务?",
       "url":"https://hacpai.com/article/1590311053592"
+    },
+    {
+      "name":"HelloWorld",
+      "url":"https://hacpai.com/article/1592462176832"
     }
   ]
 }
