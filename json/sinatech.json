@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-23 01:48:28",
+  "time":"2020-06-23 01:55:55",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"苹果发布watchOS 7 让你的Apple Watch千人千面",
+      "url":"https://tech.sina.com.cn/apple/aw/2020-06-23/doc-iirczymk8444053.shtml"
+    },
+    {
+      "name":"苹果今年将推iPadOS14 增设“来电弹窗”拒绝霸屏",
+      "url":"https://tech.sina.com.cn/n/k/2020-06-23/doc-iircuyvi9915577.shtml"
+    },
     {
       "name":"iPadOS 14支持手写识别功能 可中英文自动识别",
       "url":"https://tech.sina.com.cn/apple/ip/2020-06-23/doc-iirczymk8443784.shtml"
@@ -193,14 +201,6 @@
     {
       "name":"腾讯持京东约5.27亿股A类普通股 占已发行普通股17.1%",
       "url":"https://tech.sina.com.cn/i/2020-06-22/doc-iirczymk8369700.shtml"
-    },
-    {
-      "name":"中兴的芯片，到底什么水平？",
-      "url":"http://tech.sina.com.cn/csj/2020-06-22/doc-iircuyvi9840057.shtml"
-    },
-    {
-      "name":"互联网人才“大迁徙”：新基建人均月薪17895元",
-      "url":"https://tech.sina.com.cn/roll/2020-06-22/doc-iirczymk8369378.shtml"
     }
   ]
 }
