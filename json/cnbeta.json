@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 07:22:17",
+  "time":"2020-06-23 07:26:34",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,18 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"iOS/iPadOS 14中还有这些不容错过的小彩蛋",
+      "url":"https://www.cnbeta.com/articles/tech/994395.htm"
+    },
+    {
+      "name":"宝马确认：iOS 13.6用户即可使用数字汽车钥匙功能",
+      "url":"https://www.cnbeta.com/articles/tech/994393.htm"
+    },
+    {
+      "name":"“分手”英特尔 从苹果“芯”开始",
+      "url":"https://www.cnbeta.com/articles/tech/994391.htm"
     },
     {
       "name":"iOS 14查找应用拓展范围 已经支持第三方产品",
@@ -229,18 +241,6 @@
     {
       "name":"维珍银河公司将为NASA组织私人乘客前往空间站旅行",
       "url":"https://www.cnbeta.com/articles/tech/994281.htm"
-    },
-    {
-      "name":"传闻称三星Galaxy Fold 2设计将比第一代机型好很多",
-      "url":"https://www.cnbeta.com/articles/tech/994277.htm"
-    },
-    {
-      "name":"一种配备脑机接口的电动自行车 遇险时可以接管车手大脑威胁反应系统",
-      "url":"https://www.cnbeta.com/articles/tech/994275.htm"
-    },
-    {
-      "name":"Intel 5年内量产纳米线/纳米带晶体管 搭档3nm？",
-      "url":"https://www.cnbeta.com/articles/tech/994273.htm"
     }
   ]
 }
