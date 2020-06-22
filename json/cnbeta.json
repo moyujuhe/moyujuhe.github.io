@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 03:20:47",
+  "time":"2020-06-23 03:24:55",
   "title":"cnBeta",
   "data":[
     {
@@ -27,20 +27,12 @@
       "url":"https://www.cnbeta.com/articles/tech/994367.htm"
     },
     {
-      "name":"特斯拉将在今年第四季度推出Model Y七座版",
-      "url":"https://www.cnbeta.com/articles/tech/994365.htm"
-    },
-    {
       "name":"苹果AppleTV：目前超过10亿个屏幕在使用电视订阅服务",
       "url":"https://www.cnbeta.com/articles/tech/994363.htm"
     },
     {
       "name":"苹果提供1亿美元成立基金 帮助更多有色人种开发者",
       "url":"https://www.cnbeta.com/articles/tech/994361.htm"
-    },
-    {
-      "name":"意大利银行准备测试数字欧元 推出官方指南",
-      "url":"https://www.cnbeta.com/articles/tech/994359.htm"
     },
     {
       "name":"WWDC前夕苹果批准电子邮件应用“Hey”上架 新增14天免费选项",
@@ -51,12 +43,20 @@
       "url":"https://www.cnbeta.com/articles/tech/994355.htm"
     },
     {
+      "name":"恶评如潮？特斯拉新车Model Y交付遭遇“品控危机”",
+      "url":"https://www.cnbeta.com/articles/tech/994373.htm"
+    },
+    {
       "name":"iOS 14兼容列表公布：支持iPhone 6s及更高版本",
       "url":"https://www.cnbeta.com/articles/tech/994349.htm"
     },
     {
       "name":"苹果发布macOS“Big Sur”带来新的设计变化、控制中心、新版小工具",
       "url":"https://www.cnbeta.com/articles/tech/994347.htm"
+    },
+    {
+      "name":"特斯拉将在今年第四季度推出Model Y七座版",
+      "url":"https://www.cnbeta.com/articles/tech/994365.htm"
     },
     {
       "name":"tvOS 14为Apple TV带来了改进后的多用户支持以及IoT可视门铃功能",
@@ -69,6 +69,10 @@
     {
       "name":"苹果宣布watchOS 7 带来睡眠辅助、表盘分享与舞蹈锻炼选项等新特性",
       "url":"https://www.cnbeta.com/articles/tech/994341.htm"
+    },
+    {
+      "name":"意大利银行准备测试数字欧元 推出官方指南",
+      "url":"https://www.cnbeta.com/articles/tech/994359.htm"
     },
     {
       "name":"Andrew Yang正在推动大科技公司为用户数据付费",
@@ -237,10 +241,6 @@
     {
       "name":"再登《Science》! 中科大潘建伟团队新突破 量子计算和模拟向前一步",
       "url":"https://www.cnbeta.com/articles/tech/994255.htm"
-    },
-    {
-      "name":"技嘉发布4U 10x NVIDIA A100 G492服务器",
-      "url":"https://www.cnbeta.com/articles/tech/994253.htm"
     }
   ]
 }
