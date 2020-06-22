@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 01:05:58",
+  "time":"2020-06-23 01:10:09",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"约翰斯·霍普金斯大学：全球新冠确诊病例累计逾900万例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7956519"
+    },
     {
       "name":"甘肃兰州一食品仓库发生火灾，暂无人员伤亡",
       "url":"https://www.thepaper.cn/newsDetail_forward_7956517"
@@ -77,10 +81,6 @@
     {
       "name":"北京首座气膜版“火眼”实验室完工：可日检核酸上万份",
       "url":"https://www.thepaper.cn/newsDetail_forward_7953264"
-    },
-    {
-      "name":"吉利德：本周将筛选志愿者进行吸入型瑞德西韦1期临床试验",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7956403"
     }
   ]
 }
