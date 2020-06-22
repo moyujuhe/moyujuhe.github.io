@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 03:04:13",
+  "time":"2020-06-23 03:08:24",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"特斯拉将在今年第四季度推出Model Y7座版",
+      "url":"https://www.cnbeta.com/articles/tech/994365.htm"
     },
     {
       "name":"苹果AppleTV：目前超过10亿个屏幕在使用电视订阅服务",
@@ -237,10 +241,6 @@
     {
       "name":"AirPods 3将于2021年上半年推出 外形设计与AirPods Pro相似",
       "url":"https://www.cnbeta.com/articles/tech/994247.htm"
-    },
-    {
-      "name":"飞骧科技宣布推出完整5G射频前端解决方案",
-      "url":"https://www.cnbeta.com/articles/tech/994245.htm"
     }
   ]
 }
