@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 07:26:34",
+  "time":"2020-06-23 07:30:45",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,18 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"[视频]iOS 14发布小部件后：用户吐槽苹果最终还是妥协了",
+      "url":"https://www.cnbeta.com/articles/tech/994401.htm"
+    },
+    {
+      "name":"宝马新专利亮相：通过感知驾驶员气味检测疲劳驾驶",
+      "url":"https://www.cnbeta.com/articles/tech/994399.htm"
+    },
+    {
+      "name":"watchOS 7 发布：继续在运动健康领域“深耕”",
+      "url":"https://www.cnbeta.com/articles/tech/994397.htm"
     },
     {
       "name":"iOS/iPadOS 14中还有这些不容错过的小彩蛋",
@@ -229,18 +241,6 @@
     {
       "name":"生存还是毁灭 这是笔记本摄像头面对的问题",
       "url":"https://www.cnbeta.com/articles/tech/994287.htm"
-    },
-    {
-      "name":"台积电300人团队与苹果合作高性能ARM处理器",
-      "url":"https://www.cnbeta.com/articles/tech/994285.htm"
-    },
-    {
-      "name":"三大运营商公布2020年5月份运营数据 联通5G用户数依旧未知",
-      "url":"https://www.cnbeta.com/articles/tech/994283.htm"
-    },
-    {
-      "name":"维珍银河公司将为NASA组织私人乘客前往空间站旅行",
-      "url":"https://www.cnbeta.com/articles/tech/994281.htm"
     }
   ]
 }
