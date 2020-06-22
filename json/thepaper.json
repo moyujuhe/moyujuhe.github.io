@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 00:57:24",
+  "time":"2020-06-23 01:01:41",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美国白宫取消强制体温检测",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7956515"
+    },
     {
       "name":"伊拉克新增新冠肺炎确诊病例1808例，累计32676例",
       "url":"https://www.thepaper.cn/newsDetail_forward_7956512"
@@ -77,10 +81,6 @@
     {
       "name":"中国一周图片精选｜第10期（6月15日-6月21日）",
       "url":"https://www.thepaper.cn/newsDetail_forward_7951361"
-    },
-    {
-      "name":"6所职业学院更名为职业大学，均首批设置6个职业本科专业",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7956389"
     }
   ]
 }
