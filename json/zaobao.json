@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-22 12:50:41",
+  "time":"2020-06-22 12:54:50",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"日本更改钓鱼岛地址议案通过",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200622-1063084"
+    },
     {
       "name":"中国证监会副主席方星海：香港国际金融中心地位稳固",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200622-1063082"
@@ -77,10 +81,6 @@
     {
       "name":"中国海油与壳牌达成中国大陆首船碳中和LNG交易",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062869"
-    },
-    {
-      "name":"柔性屏还是概念？大陆两年前已经量产",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200621-1062880"
     }
   ]
 }
