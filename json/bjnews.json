@@ -1,14 +1,14 @@
 {
-  "time":"2020-06-22 11:00:24",
+  "time":"2020-06-22 11:04:36",
   "title":"新京报-排行",
   "data":[
     {
-      "name":"北京大兴黄村镇、丰台新村街道调整为疫情高风险地区",
-      "url":"http://www.bjnews.com.cn/feature/2020/06/21/740815.html"
-    },
-    {
       "name":"北京新增9例本地确诊 系一周来首次降至个位",
       "url":"http://www.bjnews.com.cn/feature/2020/06/22/740904.html"
+    },
+    {
+      "name":"北京大兴黄村镇、丰台新村街道调整为疫情高风险地区",
+      "url":"http://www.bjnews.com.cn/feature/2020/06/21/740815.html"
     },
     {
       "name":"百事公司大兴分厂出现确诊病例，已停产停业",
@@ -23,8 +23,8 @@
       "url":"http://www.bjnews.com.cn/finance/2020/06/21/740820.html"
     },
     {
-      "name":"北京通报20日新增22例确诊病例详情 最小不足2岁",
-      "url":"http://www.bjnews.com.cn/feature/2020/06/21/740761.html"
+      "name":"北京疾控：大兴区某食品公司共发现8例确诊病例",
+      "url":"http://www.bjnews.com.cn/wevideo/2020/06/21/740780.html"
     },
     {
       "name":"百事公司磁魏路分厂现确诊病例 87名密接者已集中隔离",
@@ -35,8 +35,8 @@
       "url":"http://www.bjnews.com.cn/news/2020/06/21/740764.html"
     },
     {
-      "name":"北京疾控：大兴区某食品公司共发现8例确诊病例",
-      "url":"http://www.bjnews.com.cn/wevideo/2020/06/21/740780.html"
+      "name":"北京通报20日新增22例确诊病例详情 最小不足2岁",
+      "url":"http://www.bjnews.com.cn/feature/2020/06/21/740761.html"
     },
     {
       "name":"实地探访 北京封闭小区的生活之变",
@@ -53,10 +53,6 @@
     {
       "name":"北京28名餐饮员工确诊 有厨师、服务员、冷荤师傅等",
       "url":"http://www.bjnews.com.cn/news/2020/06/19/740366.html"
-    },
-    {
-      "name":"北京：14天内出入新发地12973人核酸阴性",
-      "url":"http://www.bjnews.com.cn/wevideo/2020/06/15/738345.html"
     },
     {
       "name":"北京西城一菜市场1人确诊 周边7社区实施封闭管理",
@@ -81,6 +77,10 @@
     {
       "name":"北京昨日新增22例确诊病例 涉海淀丰台大兴3区",
       "url":"http://www.bjnews.com.cn/feature/2020/06/20/740521.html"
+    },
+    {
+      "name":"公安部副部长孟庆丰离任，曾领导“猎狐行动”",
+      "url":"http://www.bjnews.com.cn/news/2020/06/16/738715.html"
     },
     {
       "name":"民法典审议通过：以人民名义，铸权利法典",
