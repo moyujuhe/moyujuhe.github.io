@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 07:51:55",
+  "time":"2020-06-23 07:56:08",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"美国防部宣布1亿美元计划 以期令制造业重返美国",
+      "url":"https://www.cnbeta.com/articles/tech/994419.htm"
     },
     {
       "name":"美国洛杉矶国际机场将使用红外热像仪为旅客监测体温",
@@ -237,10 +241,6 @@
     {
       "name":"BlueLeaks 曝光了美国数百个警察部门内部文件 总容量接近270GB",
       "url":"https://www.cnbeta.com/articles/tech/994305.htm"
-    },
-    {
-      "name":"诺基亚将在法国子公司裁员1233人 占比超三成",
-      "url":"https://www.cnbeta.com/articles/tech/994303.htm"
     }
   ]
 }
