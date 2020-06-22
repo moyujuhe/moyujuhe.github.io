@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 07:13:55",
+  "time":"2020-06-23 07:18:06",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,22 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"Mac正式踢开Intel iOS与macOS全面融合 它还在向微信学习",
+      "url":"https://www.cnbeta.com/articles/tech/994387.htm"
+    },
+    {
+      "name":"导演分享《魔兽》三部曲构思：只可惜被放弃",
+      "url":"https://hot.cnbeta.com/articles/game/994385.htm"
+    },
+    {
+      "name":"教你从Windows 10找回忘掉的Wi-Fi密码",
+      "url":"https://www.cnbeta.com/articles/tech/994383.htm"
+    },
+    {
+      "name":"苹果开始推送iOS/iPadOS 14测试版",
+      "url":"https://www.cnbeta.com/articles/tech/994381.htm"
     },
     {
       "name":"iPadOS 14登场：应用界面/搜索/Apple Pencil全增强",
@@ -225,22 +241,6 @@
     {
       "name":"配备Mini-LED显示屏的iPad Pro正在试生产中",
       "url":"https://www.cnbeta.com/articles/tech/994271.htm"
-    },
-    {
-      "name":"中国第一套小功率霍尔电推完成在轨测试：推力10毫牛",
-      "url":"https://www.cnbeta.com/articles/science/994269.htm"
-    },
-    {
-      "name":"美媒为苹果辩解：抗议应用商店并不会改变规则",
-      "url":"https://www.cnbeta.com/articles/tech/994267.htm"
-    },
-    {
-      "name":"百事称涉疫情工厂还在生产薯片消息不实",
-      "url":"https://www.cnbeta.com/articles/tech/994265.htm"
-    },
-    {
-      "name":"三峡电站34台机组2020年首次全开运行 日发电4亿度",
-      "url":"https://www.cnbeta.com/articles/tech/994261.htm"
     }
   ]
 }
