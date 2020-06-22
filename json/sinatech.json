@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-22 17:46:23",
+  "time":"2020-06-22 17:59:15",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"拜腾回应工厂断电传闻：业务运转正常 并无断电情况",
+      "url":"https://tech.sina.com.cn/it/2020-06-22/doc-iircuyvi9861400.shtml"
+    },
     {
       "name":"基石、运气和号角 海尔张瑞敏的工业互联网之战",
       "url":"http://tech.sina.com.cn/csj/2020-06-22/doc-iirczymk8388302.shtml"
@@ -33,6 +37,10 @@
     {
       "name":"小桔租车面向网约车司机推随心租 满1月可无违约金退车",
       "url":"https://tech.sina.com.cn/i/2020-06-22/doc-iirczymk8381679.shtml"
+    },
+    {
+      "name":"15个月之后，宝马与戴姆勒终止自动驾驶合作",
+      "url":"https://tech.sina.com.cn/roll/2020-06-22/doc-iirczymk8381453.shtml"
     },
     {
       "name":"苹果连续5次拒绝Facebook上架游戏应用，再次引发垄断质疑",
@@ -193,14 +201,6 @@
     {
       "name":"王建宙：5G换机潮很快就会到来 应用开发迫在眉睫",
       "url":"https://tech.sina.com.cn/5g/i/2020-06-22/doc-iirczymk8330311.shtml"
-    },
-    {
-      "name":"中国新冠疫苗研发进展：5条技术路线并进 审慎且乐观",
-      "url":"https://tech.sina.com.cn/roll/2020-06-22/doc-iircuyvi9791792.shtml"
-    },
-    {
-      "name":"腾讯音乐娱乐集团与丰华唱片达成战略合作",
-      "url":"https://tech.sina.com.cn/it/2020-06-22/doc-iirczymk8319065.shtml"
     }
   ]
 }
