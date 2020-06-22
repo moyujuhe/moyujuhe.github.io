@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 03:00:05",
+  "time":"2020-06-23 03:20:44",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"苹果正式官宣自研Mac处理器：年底发布首款产品，能运行iOS应用",
+      "url":"https://view.inews.qq.com/a/TEC2020062300126908?uid=&devid=3A7140ED-7B30-40CF-B7FF-3CC4898F90F2"
+    },
     {
       "name":"macOS Big Sur发布：界面更像iOS，Safari迎重大更新",
       "url":"https://view.inews.qq.com/a/TEC202006230010650B?uid=&devid=3A7140ED-7B30-40CF-B7FF-3CC4898F90F2"
@@ -81,10 +85,6 @@
     {
       "name":"文旅部：KTV、网吧消费时间不得超2小时",
       "url":"https://www.pingwest.com/w/212809"
-    },
-    {
-      "name":"《阿基拉》4K修复版，A站今日上线",
-      "url":"https://www.acfun.cn/bangumi/aa6002683"
     }
   ]
 }
