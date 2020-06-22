@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-22 18:24:45",
+  "time":"2020-06-22 18:29:13",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"台湾苹果日报受疫情影响将分批裁退约140名员工",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200622-1063149"
+    },
     {
       "name":"国民党谈钓鱼岛 质问蔡英文维护主权是否有双重标准",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200622-1063145"
@@ -77,10 +81,6 @@
     {
       "name":"台外交部回应钓鱼岛地址更改议案：政府概不承认",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200622-1063088"
-    },
-    {
-      "name":"天津病例病毒溯源初判人传人 其同事多次去北京",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200622-1063083"
     }
   ]
 }
