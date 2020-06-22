@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 02:55:55",
+  "time":"2020-06-23 03:00:05",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,18 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"苹果提供1亿美元成立基金 帮助更多有色人种开发者",
+      "url":"https://www.cnbeta.com/articles/tech/994361.htm"
+    },
+    {
+      "name":"意大利银行准备测试数字欧元 推出官方指南",
+      "url":"https://www.cnbeta.com/articles/tech/994359.htm"
+    },
+    {
+      "name":"WWDC前夕苹果批准电子邮件应用 Hey上架 新增14天免费选项",
+      "url":"https://www.cnbeta.com/articles/soft/994357.htm"
     },
     {
       "name":"小细节结束20年篇章：macOS Big Sur 版本号升级到11",
@@ -229,18 +241,6 @@
     {
       "name":"五菱汽车：已推出螺蛳粉专用售卖车 可深入定制更多摆摊车型",
       "url":"https://www.cnbeta.com/articles/tech/994243.htm"
-    },
-    {
-      "name":"华为正式发布HMS Core 5.0：新增六大服务",
-      "url":"https://www.cnbeta.com/articles/tech/994241.htm"
-    },
-    {
-      "name":"文旅部:KTV网吧等娱乐场所消费时间不得超2小时",
-      "url":"https://www.cnbeta.com/articles/tech/994239.htm"
-    },
-    {
-      "name":"《穿越火线X》测试版中文预告 6月25在X1开测",
-      "url":"https://hot.cnbeta.com/articles/game/994237.htm"
     }
   ]
 }
