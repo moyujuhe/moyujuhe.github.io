@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-22 14:03:59",
+  "time":"2020-06-22 14:08:29",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"小鸡出问题的 有没有知道的大佬帮忙看看",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706917&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"哪里可以下载锐速安装离线包",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706916&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"chevereto 50%折扣了呀，个人版15刀 商业版30刀",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706883&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"用Nginx反代网站的疑问",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=706882&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
