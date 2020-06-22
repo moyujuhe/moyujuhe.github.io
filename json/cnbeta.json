@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 07:34:56",
+  "time":"2020-06-23 07:39:07",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,14 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"美股收涨 纳指创历史新高 科技股多数上涨",
+      "url":"https://www.cnbeta.com/articles/tech/994405.htm"
+    },
+    {
+      "name":"一文读懂苹果WWDC20：iOS 14没更名界面大改 自研芯片正式亮相",
+      "url":"https://www.cnbeta.com/articles/tech/994403.htm"
     },
     {
       "name":"[视频]iOS 14发布小部件后：用户吐槽苹果最终还是妥协了",
@@ -233,14 +241,6 @@
     {
       "name":"美国冠状病毒病例激增 华尔街越来越担心",
       "url":"https://www.cnbeta.com/articles/tech/994291.htm"
-    },
-    {
-      "name":"中国银行考虑终止对德国支付巨头Wirecard授信",
-      "url":"https://www.cnbeta.com/articles/tech/994289.htm"
-    },
-    {
-      "name":"生存还是毁灭 这是笔记本摄像头面对的问题",
-      "url":"https://www.cnbeta.com/articles/tech/994287.htm"
     }
   ]
 }
