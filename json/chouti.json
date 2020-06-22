@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-22 08:15:05",
+  "time":"2020-06-22 08:30:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"从只有六千人出席的竞选集会失望归来的疲惫懂王，像是周一早起上班的你",
+      "url":"https://video.weibo.com/show?fid=1034:4518503257145348"
+    },
     {
       "name":"垄断球星就能为所欲为？其实是运动品牌的资本豪赌",
       "url":"https://www.bilibili.com/video/BV1tV411k7qh"
@@ -89,10 +93,6 @@
     {
       "name":"【Matlab被禁感悟：把东西做出来，而不是追求把论文发出来】Matlab最终走上商业化，就是因为Coler教授在斯坦福大学给学生上课时，有两个学生对Matlab很感兴趣，主动提出用C重写一遍，同时移植到IBM PC上。很多技术最早都是从课堂上发展起来，比如RISC架构是David Patterson教授在伯克利的课程实验。",
       "url":"http://www.zhishifenzi.com/depth/depth/9378.html"
-    },
-    {
-      "name":"今天，印度边防部队在山上练瑜伽",
-      "url":"https://www.guancha.cn/internation/2020_06_21_554916.shtml"
     }
   ]
 }

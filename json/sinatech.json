@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-22 08:21:48",
+  "time":"2020-06-22 08:30:23",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"麻疹最早起源于2500年前 比之前预计的时间早1400年",
+      "url":"https://tech.sina.com.cn/d/f/2020-06-22/doc-iirczymk8269187.shtml"
+    },
     {
       "name":"郭明錤：基于ARM芯片的MacBook Pro和iMac或年底发布",
       "url":"https://tech.sina.com.cn/n/k/2020-06-22/doc-iircuyvi9738648.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"罗永浩:如果你看我温和了 那是没看到我内核依旧坚定",
       "url":"https://tech.sina.com.cn/i/2020-06-22/doc-iirczymk8265708.shtml"
-    },
-    {
-      "name":"微信回应朋友圈无法刷新：正在紧急修复中",
-      "url":"https://tech.sina.com.cn/i/2020-06-21/doc-iircuyvi9713401.shtml"
     }
   ]
 }
