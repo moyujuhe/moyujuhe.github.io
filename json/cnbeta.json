@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 09:45:24",
+  "time":"2020-06-23 09:49:35",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,14 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"苹果发布一系列新隐私功能 可设置分享模糊位置信息",
+      "url":"https://www.cnbeta.com/articles/tech/994469.htm"
+    },
+    {
+      "name":"网售微型隐蔽探头不鲜见：有人买来偷拍女性，越界使用或触刑",
+      "url":"https://www.cnbeta.com/articles/tech/994467.htm"
     },
     {
       "name":"NASA在“毅力号”火星车上安装铝牌  以表达对医护人员的敬意",
@@ -233,14 +241,6 @@
     {
       "name":"iOS 14兼容列表公布：支持iPhone 6s及更高版本",
       "url":"https://www.cnbeta.com/articles/tech/994349.htm"
-    },
-    {
-      "name":"苹果发布macOS“Big Sur”带来新的设计变化、控制中心、新版小工具",
-      "url":"https://www.cnbeta.com/articles/tech/994347.htm"
-    },
-    {
-      "name":"特斯拉将在今年第四季度推出Model Y七座版",
-      "url":"https://www.cnbeta.com/articles/tech/994365.htm"
     }
   ]
 }
