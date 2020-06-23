@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 07:37:11",
+  "time":"2020-06-24 07:41:47",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,22 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"苹果晒自研Mac芯片最大优势：可原生运行iPhone/iPad应用程序",
+      "url":"https://www.cnbeta.com/articles/tech/994887.htm"
+    },
+    {
+      "name":"沃尔沃新技术亮相：给空气充上电 过滤PM2.5",
+      "url":"https://www.cnbeta.com/articles/tech/994885.htm"
+    },
+    {
+      "name":"戴尔考虑拆分、收购或出售VMware股份 盘后暴涨21%",
+      "url":"https://www.cnbeta.com/articles/tech/994883.htm"
+    },
+    {
+      "name":"意大利现有新冠患者人数降至2万人以下",
+      "url":"https://www.cnbeta.com/articles/tech/994881.htm"
     },
     {
       "name":"美国热点地区新冠病例激增 给经济重新开放计划带来阴影",
@@ -225,22 +241,6 @@
     {
       "name":"最新游戏预告片中出现新款Xbox Series X的跨平台兼容标识",
       "url":"https://hot.cnbeta.com/articles/game/994771.htm"
-    },
-    {
-      "name":"[观点]Apple Silicon处理器将使苹果研发成本增加 但不一定影响产品售价",
-      "url":"https://www.cnbeta.com/articles/tech/994769.htm"
-    },
-    {
-      "name":"2020年还得再忍忍 钟南山：今冬明春新冠病毒不会消失",
-      "url":"https://www.cnbeta.com/articles/tech/994767.htm"
-    },
-    {
-      "name":"分析师：苹果是个苛刻的用户 转向自研芯片对英特尔利大于弊",
-      "url":"https://www.cnbeta.com/articles/tech/994765.htm"
-    },
-    {
-      "name":"X10 Max？荣耀7.09寸巨屏新机入网",
-      "url":"https://www.cnbeta.com/articles/tech/994763.htm"
     }
   ]
 }
