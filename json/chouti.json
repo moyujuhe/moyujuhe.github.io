@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 11:10:05",
+  "time":"2020-06-23 11:20:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"继新闻搜索后，谷歌宣布在图片搜索中引入事实核查程序",
+      "url":"https://tech.sina.com.cn/i/2020-06-23/doc-iircuyvi9933266.shtml"
+    },
     {
       "name":"360这么无耻真没有人能干的出来",
       "url":"http://www.newsmth.net/bbstcon.php?board=ITExpress&gid=2140538"
@@ -89,10 +93,6 @@
     {
       "name":"想起我爸爸，从伟岸到庸俗到难堪",
       "url":"https://www.douban.com/note/768154310/"
-    },
-    {
-      "name":"苹果正式发布iOS 14：主界面大改，苹果版小程序正式上线",
-      "url":"https://view.inews.qq.com/a/TEC202006230007210K"
     }
   ]
 }
