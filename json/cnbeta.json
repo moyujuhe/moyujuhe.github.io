@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 13:24:19",
+  "time":"2020-06-23 13:28:30",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"iOS 14和iPadOS 14即将迎来表情符号搜索功能",
+      "url":"https://www.cnbeta.com/articles/tech/994585.htm"
     },
     {
       "name":"苹果宣布Mac两年内转向自家芯片平台 英特尔表示会继续合作",
@@ -237,10 +241,6 @@
     {
       "name":"Facebook收购推出《Lone Echo》游戏的VR工作室",
       "url":"https://hot.cnbeta.com/articles/game/994473.htm"
-    },
-    {
-      "name":"[图]苹果自研Mac芯片 可原生运行iPhone/iPad应用程序",
-      "url":"https://www.cnbeta.com/articles/tech/994471.htm"
     }
   ]
 }
