@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 11:01:04",
+  "time":"2020-06-23 11:05:15",
   "title":"煎蛋网",
   "data":[
+    {
+      "name":"看老吴瞎聊古玩",
+      "url":"http://jandan.net/p/107364"
+    },
     {
       "name":"OpenAI创造出目前最智能的文本生成器",
       "url":"http://jandan.net/p/107356"
@@ -93,10 +97,6 @@
     {
       "name":"现在酸雨已转为塑料雨的形式",
       "url":"http://jandan.net/p/107332"
-    },
-    {
-      "name":"一两行的小短篇",
-      "url":"http://jandan.net/p/107330"
     }
   ]
 }
