@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 16:58:51",
+  "time":"2020-06-23 17:03:12",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京有外卖员确诊 送餐平台检测所有外卖骑手",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063415"
+    },
     {
       "name":"前驻华大使：澳洲不宜与中国进行贸易战",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063411"
@@ -77,10 +81,6 @@
     {
       "name":"白宫顾问澄清中美贸易协议言论",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063337"
-    },
-    {
-      "name":"北斗三号最后一颗全球组网卫星发射升空",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063336"
     }
   ]
 }
