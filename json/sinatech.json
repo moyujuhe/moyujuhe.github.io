@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 08:19:11",
+  "time":"2020-06-23 08:25:33",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"WWDC2020盘点：苹果这些新功能想要“杀死”10款竞品",
+      "url":"https://tech.sina.com.cn/i/2020-06-23/doc-iirczymk8470513.shtml"
+    },
     {
       "name":"外媒评苹果WWDC2020：毁了新iPhone的体验",
       "url":"https://tech.sina.com.cn/i/2020-06-23/doc-iircuyvi9940674.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"苹果明年将推出数字车钥匙 手机被盗后可云端挂失",
       "url":"https://tech.sina.com.cn/it/2020-06-23/doc-iircuyvi9914788.shtml"
-    },
-    {
-      "name":"苹果推出iOS14：用资源库调整App Siri掌握信息达3年前20倍",
-      "url":"https://tech.sina.com.cn/it/2020-06-23/doc-iircuyvi9914511.shtml"
     }
   ]
 }
