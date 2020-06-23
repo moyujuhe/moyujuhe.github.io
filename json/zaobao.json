@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 17:50:13",
+  "time":"2020-06-23 17:54:30",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"国民党征召高雄市议员李眉蓁参加市长补选",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063423"
+    },
     {
       "name":"北京已累计核酸检测234.2万人",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063420"
@@ -77,10 +81,6 @@
     {
       "name":"特朗普澄清中美贸易协议完整无缺",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063340"
-    },
-    {
-      "name":"达美航空25日起恢复西雅图上海航班",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063338"
     }
   ]
 }
