@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 07:20:26",
+  "time":"2020-06-24 07:24:37",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"饿了么骑手确诊 行业快速反应缓解恐慌",
+      "url":"https://www.cnbeta.com/articles/tech/994859.htm"
     },
     {
       "name":"Windows 10的全新开始菜单图像现身 看起来更时尚",
@@ -237,10 +241,6 @@
     {
       "name":"Digital Foundry：无光驱版PS5可能会比普通版便宜50美元",
       "url":"https://hot.cnbeta.com/articles/game/994743.htm"
-    },
-    {
-      "name":"自研处理器 苹果的战斗檄文",
-      "url":"https://www.cnbeta.com/articles/tech/994741.htm"
     }
   ]
 }
