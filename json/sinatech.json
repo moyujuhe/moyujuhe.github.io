@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 09:01:01",
+  "time":"2020-06-23 09:08:07",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"苹果变了：抛弃英特尔自研芯片、学习安卓组件",
+      "url":"http://tech.sina.com.cn/csj/2020-06-23/doc-iirczymk8480770.shtml"
+    },
     {
       "name":"苹果将允许用户更改默认邮箱和浏览器 应对反垄断问题",
       "url":"https://tech.sina.com.cn/i/2020-06-23/doc-iircuyvi9950660.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"App Store上线“小程序” 无需下载应用即可至支付",
       "url":"https://tech.sina.com.cn/mobile/n/n/2020-06-23/doc-iirczymk8443604.shtml"
-    },
-    {
-      "name":"苹果明年将推出数字车钥匙 手机被盗后可云端挂失",
-      "url":"https://tech.sina.com.cn/mobile/n/n/2020-06-23/doc-iircuyvi9914884.shtml"
     }
   ]
 }

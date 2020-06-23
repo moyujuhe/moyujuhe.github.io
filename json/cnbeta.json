@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 09:07:24",
+  "time":"2020-06-23 09:11:37",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"报道称迈克尔·基顿正在洽谈重新扮演蝙蝠侠的事宜",
+      "url":"https://hot.cnbeta.com/articles/movie/994453.htm"
     },
     {
       "name":"[图]iOS 14强化隐私保护：更妥善保护你的个人信息",
@@ -237,10 +241,6 @@
     {
       "name":"苹果在iPadOS 14中引入设置默认浏览器和邮件应用功能",
       "url":"https://www.cnbeta.com/articles/tech/994337.htm"
-    },
-    {
-      "name":"苹果推出AirPods新功能 带来在多个设备之间无缝切换的能力",
-      "url":"https://www.cnbeta.com/articles/tech/994335.htm"
     }
   ]
 }
