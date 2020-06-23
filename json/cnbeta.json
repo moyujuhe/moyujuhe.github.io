@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 23:01:56",
+  "time":"2020-06-23 23:06:17",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"Ampere发布80核心ARM处理器：年底冲到128核心",
+      "url":"https://www.cnbeta.com/articles/tech/994809.htm"
+    },
+    {
+      "name":"国产新冠病毒灭活疫苗进入III期临床 与阿联酋合作",
+      "url":"https://www.cnbeta.com/articles/tech/994807.htm"
     },
     {
       "name":"特朗普昨日暂停H-1B签证 美国科技行业受伤最重？",
@@ -233,14 +241,6 @@
     {
       "name":"斯皮尔伯格经典电影《侏罗纪公园》登顶北美票房榜 上次还是27年前",
       "url":"https://hot.cnbeta.com/articles/movie/994691.htm"
-    },
-    {
-      "name":"iOS 14引入了有趣的Back Tap功能 背部轻拍可触发相关动作",
-      "url":"https://www.cnbeta.com/articles/tech/994689.htm"
-    },
-    {
-      "name":"三星计划在2021年建成位于平泽的P3总半导体工厂",
-      "url":"https://www.cnbeta.com/articles/tech/994687.htm"
     }
   ]
 }
