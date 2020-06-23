@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 08:25:33",
+  "time":"2020-06-23 09:01:01",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"苹果将允许用户更改默认邮箱和浏览器 应对反垄断问题",
+      "url":"https://tech.sina.com.cn/i/2020-06-23/doc-iircuyvi9950660.shtml"
+    },
     {
       "name":"WWDC2020盘点：苹果这些新功能想要“杀死”10款竞品",
       "url":"https://tech.sina.com.cn/i/2020-06-23/doc-iirczymk8470513.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"iOS地图功能新增骑行模式 首批支持北京等五大城市",
       "url":"https://tech.sina.com.cn/mobile/n/n/2020-06-23/doc-iircuyvi9914797.shtml"
-    },
-    {
-      "name":"苹果明年将推出数字车钥匙 手机被盗后可云端挂失",
-      "url":"https://tech.sina.com.cn/it/2020-06-23/doc-iircuyvi9914788.shtml"
     }
   ]
 }
