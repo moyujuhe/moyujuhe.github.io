@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 09:49:35",
+  "time":"2020-06-23 09:53:51",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"[图]苹果自研Mac芯片 可原生运行iPhone/iPad应用程序",
+      "url":"https://www.cnbeta.com/articles/tech/994471.htm"
     },
     {
       "name":"苹果发布一系列新隐私功能 可设置分享模糊位置信息",
@@ -237,10 +241,6 @@
     {
       "name":"恶评如潮？特斯拉新车Model Y交付遭遇“品控危机”",
       "url":"https://www.cnbeta.com/articles/tech/994373.htm"
-    },
-    {
-      "name":"iOS 14兼容列表公布：支持iPhone 6s及更高版本",
-      "url":"https://www.cnbeta.com/articles/tech/994349.htm"
     }
   ]
 }
