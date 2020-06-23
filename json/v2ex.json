@@ -1,10 +1,10 @@
 {
-  "time":"2020-06-23 10:40:09",
+  "time":"2020-06-23 10:44:19",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"有人用上了 MacOS Big Sur 了么",
-      "url":"https://www.v2ex.com/t/683964#reply32"
+      "url":"https://www.v2ex.com/t/683964#reply33"
     },
     {
       "name":"最近一部剧，你们看了吗？",
@@ -15,24 +15,28 @@
       "url":"https://www.v2ex.com/t/683961#reply20"
     },
     {
+      "name":"如何强制将文件推送到 github",
+      "url":"https://www.v2ex.com/t/683990#reply19"
+    },
+    {
       "name":"为什么漫天漫地总有人想让逼站成为 y2b？",
       "url":"https://www.v2ex.com/t/683968#reply18"
     },
     {
-      "name":"如何强制将文件推送到 github",
-      "url":"https://www.v2ex.com/t/683990#reply18"
+      "name":"iOS 14 Public Beta 版升级 Bug 收集贴",
+      "url":"https://www.v2ex.com/t/683982#reply12"
     },
     {
       "name":"[求助] 笔记本桌底收纳板，搜了半天发现并不好找。",
       "url":"https://www.v2ex.com/t/683955#reply10"
     },
     {
-      "name":"iOS 14 Public Beta 版升级 Bug 收集贴",
-      "url":"https://www.v2ex.com/t/683982#reply10"
+      "name":"惊奇的发现， big sur 代号是 11 而不是 10，意味着 OS X...",
+      "url":"https://www.v2ex.com/t/683988#reply10"
     },
     {
-      "name":"惊奇的发现， big sur 代号是 11 而不是 10，意味着 OS X...",
-      "url":"https://www.v2ex.com/t/683988#reply8"
+      "name":"公司 IOS 上架求助",
+      "url":"https://www.v2ex.com/t/683981#reply8"
     },
     {
       "name":"ARM 版 macOS 感觉解决了 macOS 国产软件生态的问题，例如 微信、钉钉 都将是无阉割全功能版",
@@ -47,8 +51,12 @@
       "url":"https://www.v2ex.com/t/683965#reply7"
     },
     {
-      "name":"公司 IOS 上架求助",
-      "url":"https://www.v2ex.com/t/683981#reply7"
+      "name":"求推荐比较好的安卓模拟器 测试了几个游戏模拟器 支付宝 东航之类的都会闪退",
+      "url":"https://www.v2ex.com/t/683985#reply7"
+    },
+    {
+      "name":"Apple 也出“小程序”了，建了一个 App Clips 微信群，聊聊开发者怎么用 App Clips 赚钱",
+      "url":"https://www.v2ex.com/t/683995#reply7"
     },
     {
       "name":"请问一下 vscode 的可以在 macos 下面去编译 windows 平台的 vcproj 或者 solution 吗？",
@@ -59,12 +67,8 @@
       "url":"https://www.v2ex.com/t/683963#reply6"
     },
     {
-      "name":"求推荐比较好的安卓模拟器 测试了几个游戏模拟器 支付宝 东航之类的都会闪退",
-      "url":"https://www.v2ex.com/t/683985#reply6"
-    },
-    {
-      "name":"Apple 也出“小程序”了，建了一个 App Clips 微信群，聊聊开发者怎么用 App Clips 赚钱",
-      "url":"https://www.v2ex.com/t/683995#reply6"
+      "name":"公司降薪了,要不要跑路?",
+      "url":"https://www.v2ex.com/t/683998#reply6"
     },
     {
       "name":"错觉？",
@@ -75,16 +79,12 @@
       "url":"https://www.v2ex.com/t/683959#reply5"
     },
     {
-      "name":"公司降薪了,要不要跑路?",
-      "url":"https://www.v2ex.com/t/683998#reply5"
+      "name":"MacOS Big Sur Beta 升级记录贴",
+      "url":"https://www.v2ex.com/t/683967#reply5"
     },
     {
       "name":"Mac mini (Late 2012) 不能升級新 OS 了",
       "url":"https://www.v2ex.com/t/683966#reply4"
-    },
-    {
-      "name":"MacOS Big Sur Beta 升级记录贴",
-      "url":"https://www.v2ex.com/t/683967#reply4"
     },
     {
       "name":"ElasticsearchRepository 方法命名查询条数限制",
@@ -108,11 +108,19 @@
     },
     {
       "name":"redis server 显示已经启动，为何查询不到 pid",
-      "url":"https://www.v2ex.com/t/683978#reply2"
+      "url":"https://www.v2ex.com/t/683978#reply3"
     },
     {
       "name":"Hugo 建站经验之谈",
       "url":"https://www.v2ex.com/t/684001#reply2"
+    },
+    {
+      "name":"尴尬了，在本站淘了个 WD SN500 500GB 的固态硬盘，不知道淘来干啥。",
+      "url":"https://www.v2ex.com/t/684007#reply2"
+    },
+    {
+      "name":"小程序开发收多少钱合适？",
+      "url":"https://www.v2ex.com/t/684008#reply2"
     },
     {
       "name":"airpods 无缝切换这个 是要把所有设备全部升级到昨晚发的版本么？",
@@ -120,7 +128,7 @@
     },
     {
       "name":"[线上]Elastic{ON}用户大会亚太专场——中国分会场，今天 10 点开始，目前正在报名中",
-      "url":"https://www.v2ex.com/t/683980#reply0"
+      "url":"https://www.v2ex.com/t/683980#reply1"
     }
   ]
 }
