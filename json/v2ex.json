@@ -1,10 +1,10 @@
 {
-  "time":"2020-06-23 11:38:43",
+  "time":"2020-06-23 11:42:56",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"有人用上了 MacOS Big Sur 了么",
-      "url":"https://www.v2ex.com/t/683964#reply46"
+      "url":"https://www.v2ex.com/t/683964#reply47"
     },
     {
       "name":"iOS 14 Public Beta 版升级 Bug 收集贴",
@@ -12,7 +12,11 @@
     },
     {
       "name":"最近一部剧，你们看了吗？",
-      "url":"https://www.v2ex.com/t/683972#reply24"
+      "url":"https://www.v2ex.com/t/683972#reply25"
+    },
+    {
+      "name":"如何强制将文件推送到 github",
+      "url":"https://www.v2ex.com/t/683990#reply23"
     },
     {
       "name":"为什么漫天漫地总有人想让逼站成为 y2b？",
@@ -23,36 +27,36 @@
       "url":"https://www.v2ex.com/t/683961#reply21"
     },
     {
-      "name":"如何强制将文件推送到 github",
-      "url":"https://www.v2ex.com/t/683990#reply21"
-    },
-    {
       "name":"尴尬了，在本站淘了个 WD SN500 500GB 的固态硬盘，不知道淘来干啥。",
-      "url":"https://www.v2ex.com/t/684007#reply18"
-    },
-    {
-      "name":"AirPods 无缝切换怎么样？有尝试了的嘛？",
-      "url":"https://www.v2ex.com/t/683984#reply13"
+      "url":"https://www.v2ex.com/t/684007#reply21"
     },
     {
       "name":"按现在米国风向，是不是苹果得提供官方黑苹果解决方案",
-      "url":"https://www.v2ex.com/t/684026#reply13"
+      "url":"https://www.v2ex.com/t/684026#reply16"
+    },
+    {
+      "name":"AirPods 无缝切换怎么样？有尝试了的嘛？",
+      "url":"https://www.v2ex.com/t/683984#reply14"
+    },
+    {
+      "name":"公司降薪了,要不要跑路?",
+      "url":"https://www.v2ex.com/t/683998#reply13"
+    },
+    {
+      "name":"据说 13 相比 16 性能低很多，而且不支持独显，有必要升级 i7 加内存吗？",
+      "url":"https://www.v2ex.com/t/683960#reply12"
+    },
+    {
+      "name":"求推荐比较好的安卓模拟器 测试了几个游戏模拟器 支付宝 东航之类的都会闪退",
+      "url":"https://www.v2ex.com/t/683985#reply12"
     },
     {
       "name":"Apple 也出“小程序”了，建了一个 App Clips 微信群，聊聊开发者怎么用 App Clips 赚钱",
       "url":"https://www.v2ex.com/t/683995#reply12"
     },
     {
-      "name":"据说 13 相比 16 性能低很多，而且不支持独显，有必要升级 i7 加内存吗？",
-      "url":"https://www.v2ex.com/t/683960#reply11"
-    },
-    {
       "name":"不懂就问：软件适配 ARM 是开发者意愿问题还是能力问题？",
       "url":"https://www.v2ex.com/t/683965#reply11"
-    },
-    {
-      "name":"求推荐比较好的安卓模拟器 测试了几个游戏模拟器 支付宝 东航之类的都会闪退",
-      "url":"https://www.v2ex.com/t/683985#reply11"
     },
     {
       "name":"WWDC2020 有你喜欢的功能吗？",
@@ -61,10 +65,6 @@
     {
       "name":"ARM 版 macOS 感觉解决了 macOS 国产软件生态的问题，例如 微信、钉钉 都将是无阉割全功能版",
       "url":"https://www.v2ex.com/t/683994#reply11"
-    },
-    {
-      "name":"公司降薪了,要不要跑路?",
-      "url":"https://www.v2ex.com/t/683998#reply11"
     },
     {
       "name":"[求助] 笔记本桌底收纳板，搜了半天发现并不好找。",
@@ -123,6 +123,10 @@
       "url":"https://www.v2ex.com/t/683974#reply6"
     },
     {
+      "name":"Deno 将停止在内部代码中继续使用 TypeScript",
+      "url":"https://www.v2ex.com/t/684019#reply6"
+    },
+    {
       "name":"工作问题，求大佬给个建议",
       "url":"https://www.v2ex.com/t/683959#reply5"
     },
@@ -133,10 +137,6 @@
     {
       "name":"我也用 Flutter 做了一个 App， iOS 应用排行榜",
       "url":"https://www.v2ex.com/t/684006#reply5"
-    },
-    {
-      "name":"Deno 将停止在内部代码中继续使用 TypeScript",
-      "url":"https://www.v2ex.com/t/684019#reply5"
     },
     {
       "name":"你们还记得 Apple Watch 微信的「发送小信号」吗",

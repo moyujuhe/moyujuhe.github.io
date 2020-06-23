@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-23 11:38:43",
+  "time":"2020-06-23 11:42:55",
   "data":[
     {
       "name":"你对你的未来惶恐过吗？",
@@ -155,6 +155,10 @@
       "url":"https://hacpai.com/article/1590997480566"
     },
     {
+      "name":"你还活着，我再次被录取了",
+      "url":"https://hacpai.com/article/1592798968502"
+    },
+    {
       "name":"刚刚发生了什么",
       "url":"https://hacpai.com/article/1592399641936"
     },
@@ -237,10 +241,6 @@
     {
       "name":"发现个新技巧，把微博当视频床，插到博客文章",
       "url":"https://hacpai.com/article/1590505049651"
-    },
-    {
-      "name":"想在本地用 typora 编写 markdown, 如何设置黑客派为图床服务?",
-      "url":"https://hacpai.com/article/1590311053592"
     }
   ]
 }
