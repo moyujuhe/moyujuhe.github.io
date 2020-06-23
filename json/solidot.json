@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 17:54:40",
+  "time":"2020-06-23 17:58:43",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"苹果发布《基地》电视剧预告",
+      "url":"https://www.solidot.org/story?sid=64748"
+    },
     {
       "name":"微软关闭游戏直播平台 Mixer",
       "url":"https://www.solidot.org/story?sid=64747"
@@ -77,10 +81,6 @@
     {
       "name":"在 20 岁交易员自杀后 Robinhood 修改应用",
       "url":"https://www.solidot.org/story?sid=64729"
-    },
-    {
-      "name":"在量子世界远距传输也许是可能的",
-      "url":"https://www.solidot.org/story?sid=64728"
     }
   ]
 }
