@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 10:19:11",
+  "time":"2020-06-23 10:23:25",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,14 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"中国联通拆除2G网络，存量功能机用户怎么办？",
+      "url":"https://www.cnbeta.com/articles/tech/994483.htm"
+    },
+    {
+      "name":"催泪瓦斯是否会导致月经提前？专家称缺乏足够的研究来证明这点",
+      "url":"https://www.cnbeta.com/articles/science/994481.htm"
     },
     {
       "name":"[图]iOS 14确认上线FaceTime眼球矫正功能：聊天时能有眼神交流",
@@ -233,14 +241,6 @@
     {
       "name":"苹果宣布为开发人员专供内置Apple Silicon芯片的Mac mini开发机",
       "url":"https://www.cnbeta.com/articles/tech/994369.htm"
-    },
-    {
-      "name":"首批使用“Apple Silicon”芯片的部分Mac型号有望于今年年底前发布",
-      "url":"https://www.cnbeta.com/articles/tech/994367.htm"
-    },
-    {
-      "name":"苹果AppleTV：目前超过10亿个屏幕在使用电视订阅服务",
-      "url":"https://www.cnbeta.com/articles/tech/994363.htm"
     }
   ]
 }
