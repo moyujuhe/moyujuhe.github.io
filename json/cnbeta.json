@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 09:58:03",
+  "time":"2020-06-23 10:02:20",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,14 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"两部《蝙蝠侠》导演乔·舒马赫去世，享年80岁",
+      "url":"https://hot.cnbeta.com/articles/movie/994475.htm"
+    },
+    {
+      "name":"Facebook收购推出《Lone Echo》游戏的VR工作室",
+      "url":"https://hot.cnbeta.com/articles/game/994473.htm"
     },
     {
       "name":"[图]苹果自研Mac芯片 可原生运行iPhone/iPad应用程序",
@@ -233,14 +241,6 @@
     {
       "name":"WWDC前夕苹果批准电子邮件应用“Hey”上架 新增14天免费选项",
       "url":"https://www.cnbeta.com/articles/tech/994357.htm"
-    },
-    {
-      "name":"小细节结束20年篇章：macOS Big Sur 版本号升级到11",
-      "url":"https://www.cnbeta.com/articles/tech/994355.htm"
-    },
-    {
-      "name":"恶评如潮？特斯拉新车Model Y交付遭遇“品控危机”",
-      "url":"https://www.cnbeta.com/articles/tech/994373.htm"
     }
   ]
 }
