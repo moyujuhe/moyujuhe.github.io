@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 08:12:52",
+  "time":"2020-06-23 08:17:03",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"金色碰撞黑色：宝马为8系推出金色雷霆特别版",
+      "url":"https://www.cnbeta.com/articles/tech/994427.htm"
     },
     {
       "name":"Linux 5.8-rc2 发布 带来小幅改进和错误修复",
@@ -237,10 +241,6 @@
     {
       "name":"疫情期间美国亿万富翁财富大增 扎克伯格身家涨近60%",
       "url":"https://www.cnbeta.com/articles/tech/994313.htm"
-    },
-    {
-      "name":"瑞银表示三分之一的员工可能永久远程工作",
-      "url":"https://www.cnbeta.com/articles/tech/994311.htm"
     }
   ]
 }
