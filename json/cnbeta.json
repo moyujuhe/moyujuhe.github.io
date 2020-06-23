@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 02:01:59",
+  "time":"2020-06-24 02:06:19",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"宏碁发布2款全新Chromebook笔记本电脑",
+      "url":"https://www.cnbeta.com/articles/tech/994839.htm"
     },
     {
       "name":"宏碁发布ConceptD 2020个人电脑 为图形专业人员提供强大功能",
@@ -237,10 +241,6 @@
     {
       "name":"旗下外卖小哥确诊，饿了么：相关同事已暂停接单",
       "url":"https://www.cnbeta.com/articles/tech/994723.htm"
-    },
-    {
-      "name":"华为智能机设计新专利曝光 触屏向两侧虚拟按键位置延伸",
-      "url":"https://www.cnbeta.com/articles/tech/994721.htm"
     }
   ]
 }
