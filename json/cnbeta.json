@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 00:23:04",
+  "time":"2020-06-24 00:27:41",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"阿拉斯加超级火山喷发可能帮助终结了罗马共和国",
+      "url":"https://www.cnbeta.com/articles/tech/994823.htm"
     },
     {
       "name":"OnePlus CEO预告平价手机新战略",
@@ -237,10 +241,6 @@
     {
       "name":"在苹果在iOS 14里对读取剪切板操作发出提醒",
       "url":"https://www.cnbeta.com/articles/tech/994705.htm"
-    },
-    {
-      "name":"苹果开售2米长的雷电3 Pro线缆 标价129美元",
-      "url":"https://www.cnbeta.com/articles/tech/994703.htm"
     }
   ]
 }
