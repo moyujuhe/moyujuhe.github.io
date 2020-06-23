@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 08:50:37",
+  "time":"2020-06-23 08:54:48",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"AWS EC2小鸡无限流量每月10元",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707233&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"宝塔终端好用不啊",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707232&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"关于ibm和onevps我有话想说",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707201&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"怎么选CF的高速节点啊？发现一个不错的套ibm云速度贼快！",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707200&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
