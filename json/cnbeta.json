@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 08:42:11",
+  "time":"2020-06-23 08:46:22",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,14 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"伽马射线模式暗示星系可能拥有两个超大质量黑洞",
+      "url":"https://www.cnbeta.com/articles/science/994445.htm"
+    },
+    {
+      "name":"[图]Your Phone优化支持Surface Duo：可区分常规/双屏手机",
+      "url":"https://www.cnbeta.com/articles/tech/994443.htm"
     },
     {
       "name":"《古惑狼4》试玩视频演示全新面具特殊能力",
@@ -233,14 +241,6 @@
     {
       "name":"[多图]苹果宣布iPadOS 14升级 带来多项新特性",
       "url":"https://www.cnbeta.com/articles/tech/994331.htm"
-    },
-    {
-      "name":"iMessage应用在iOS 14中增强对群组的支持",
-      "url":"https://www.cnbeta.com/articles/tech/994329.htm"
-    },
-    {
-      "name":"苹果Carplay功能更新一览：手机变身数字车钥匙",
-      "url":"https://www.cnbeta.com/articles/tech/994327.htm"
     }
   ]
 }
