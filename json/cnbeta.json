@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 00:45:01",
+  "time":"2020-06-24 00:49:27",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"墨西哥发生7.4级地震 震源深度10千米",
+      "url":"https://www.cnbeta.com/articles/tech/994829.htm"
     },
     {
       "name":"部分用户反映Windows 10 2020年5月更新让OneDrive文件无法下载",
@@ -237,10 +241,6 @@
     {
       "name":"产业链人士：高通增加台积电7nm处理器代工订单",
       "url":"https://www.cnbeta.com/articles/tech/994711.htm"
-    },
-    {
-      "name":"卡普空通过Steam营收占比大幅提升 已远超通过索尼平台营收",
-      "url":"https://hot.cnbeta.com/articles/game/994709.htm"
     }
   ]
 }
