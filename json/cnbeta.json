@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 00:31:52",
+  "time":"2020-06-24 00:36:22",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"部分用户反映Windows 10 2020年5月更新破坏了OneDrive文件点播功能",
+      "url":"https://www.cnbeta.com/articles/soft/994827.htm"
     },
     {
       "name":"宏碁发布全新Swift 5蜂鸟轻薄本：首发Intel 11代酷睿",
@@ -237,10 +241,6 @@
     {
       "name":"卡普空通过Steam营收占比大幅提升 已远超通过索尼平台营收",
       "url":"https://hot.cnbeta.com/articles/game/994709.htm"
-    },
-    {
-      "name":"$500 开发者计划解读：那台 A12Z Mac mini 是要还的",
-      "url":"https://www.cnbeta.com/articles/tech/994707.htm"
     }
   ]
 }
