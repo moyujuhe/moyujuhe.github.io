@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 23:19:43",
+  "time":"2020-06-23 23:24:17",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"北京：6月23日起未提供核酸检测阴性证明的无法乘坐火车",
+      "url":"https://www.cnbeta.com/articles/tech/994811.htm"
     },
     {
       "name":"Ampere发布80核心ARM处理器：年底冲到128核心",
@@ -237,10 +241,6 @@
     {
       "name":"特斯拉柏林超级工厂施工机械明显增多 正组装第4台塔吊",
       "url":"https://www.cnbeta.com/articles/tech/994693.htm"
-    },
-    {
-      "name":"斯皮尔伯格经典电影《侏罗纪公园》登顶北美票房榜 上次还是27年前",
-      "url":"https://hot.cnbeta.com/articles/movie/994691.htm"
     }
   ]
 }
