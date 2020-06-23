@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 17:28:39",
+  "time":"2020-06-23 17:32:53",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京已累计核酸检测234.2万人",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063420"
+    },
     {
       "name":"中国外交部：中印双方同意采取必要措施推动事态降温",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063417"
@@ -77,10 +81,6 @@
     {
       "name":"达美航空25日起恢复西雅图上海航班",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063338"
-    },
-    {
-      "name":"港前终院首席法官：特首指定法官审理国安案件会损害司法独立",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063339"
     }
   ]
 }
