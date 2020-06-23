@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 00:27:41",
+  "time":"2020-06-24 00:31:52",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"宏碁发布全新Swift 5蜂鸟轻薄本：首发Intel 11代酷睿",
+      "url":"https://www.cnbeta.com/articles/tech/994825.htm"
     },
     {
       "name":"阿拉斯加超级火山喷发可能帮助终结了罗马共和国",
@@ -237,10 +241,6 @@
     {
       "name":"$500 开发者计划解读：那台 A12Z Mac mini 是要还的",
       "url":"https://www.cnbeta.com/articles/tech/994707.htm"
-    },
-    {
-      "name":"在苹果在iOS 14里对读取剪切板操作发出提醒",
-      "url":"https://www.cnbeta.com/articles/tech/994705.htm"
     }
   ]
 }
