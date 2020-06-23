@@ -1,10 +1,22 @@
 {
-  "time":"2020-06-23 19:00:39",
+  "time":"2020-06-23 19:19:23",
   "title":"新浪科技",
   "data":[
     {
+      "name":"科大讯飞刘庆峰：情感计算将迎黄金十年 人机共存未来可期",
+      "url":"https://tech.sina.com.cn/i/2020-06-23/doc-iircuyvk0078027.shtml"
+    },
+    {
+      "name":"Wirecard财务造假，毕马威的报告都说了什么？",
+      "url":"https://tech.sina.com.cn/i/2020-06-23/doc-iirczymk8606008.shtml"
+    },
+    {
       "name":"工程院院士王坚：城市是技术更快发展和成熟的重要容器",
       "url":"https://tech.sina.com.cn/it/2020-06-23/doc-iircuyvk0075116.shtml"
+    },
+    {
+      "name":"看完苹果WWDC 2020，开发者们忧心忡忡",
+      "url":"https://tech.sina.com.cn/t/2020-06-23/doc-iircuyvk0075222.shtml"
     },
     {
       "name":"北京网信办约谈处置“花椒直播”等三家网络直播平台",
@@ -189,18 +201,6 @@
     {
       "name":"中国超算数量蝉联第一 联想、曙光、浪潮列全球前三",
       "url":"https://tech.sina.com.cn/it/2020-06-23/doc-iirczymk8557502.shtml"
-    },
-    {
-      "name":"滴滴闯入货运赛道，补贴大战将烧入即时货运？",
-      "url":"https://tech.sina.com.cn/i/2020-06-23/doc-iirczymk8554708.shtml"
-    },
-    {
-      "name":"阿里张勇：物流是走向未来数字经济时代的基础设施",
-      "url":"https://tech.sina.com.cn/i/2020-06-23/doc-iirczymk8554978.shtml"
-    },
-    {
-      "name":"滴滴货运成都杭州正式上线 首批8000多名司机上岗",
-      "url":"https://tech.sina.com.cn/it/2020-06-23/doc-iircuyvk0024928.shtml"
     }
   ]
 }
