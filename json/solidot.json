@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-23 13:15:57",
+  "time":"2020-06-23 13:20:09",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"美国将暂停 H1B、H2B 等外国工人工作签证",
+      "url":"https://www.solidot.org/story?sid=64745"
+    },
+    {
+      "name":"日本 ARM 超算富岳登顶 Top 500 榜单",
+      "url":"https://www.solidot.org/story?sid=64744"
+    },
     {
       "name":"Ron Gilbert 开源了 Delores",
       "url":"https://www.solidot.org/story?sid=64738"
@@ -73,14 +81,6 @@
     {
       "name":"黑客组织利用 CAPTCHA 阻止自动检测工具",
       "url":"https://www.solidot.org/story?sid=64717"
-    },
-    {
-      "name":"111 个 Chrome 扩展被发现秘密收集用户敏感数据",
-      "url":"https://www.solidot.org/story?sid=64716"
-    },
-    {
-      "name":"科学家认为银河系可接触的外星文明大约有 36 个",
-      "url":"https://www.solidot.org/story?sid=64715"
     }
   ]
 }
