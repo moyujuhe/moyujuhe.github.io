@@ -1,10 +1,10 @@
 {
-  "time":"2020-06-23 11:13:38",
+  "time":"2020-06-23 11:17:49",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"有人用上了 MacOS Big Sur 了么",
-      "url":"https://www.v2ex.com/t/683964#reply37"
+      "url":"https://www.v2ex.com/t/683964#reply39"
     },
     {
       "name":"最近一部剧，你们看了吗？",
@@ -63,6 +63,10 @@
       "url":"https://www.v2ex.com/t/683981#reply9"
     },
     {
+      "name":"WWDC2020 有你喜欢的功能吗？",
+      "url":"https://www.v2ex.com/t/683987#reply9"
+    },
+    {
       "name":"ARM 版 macOS 感觉解决了 macOS 国产软件生态的问题，例如 微信、钉钉 都将是无阉割全功能版",
       "url":"https://www.v2ex.com/t/683994#reply9"
     },
@@ -79,16 +83,16 @@
       "url":"https://www.v2ex.com/t/683967#reply8"
     },
     {
-      "name":"WWDC2020 有你喜欢的功能吗？",
-      "url":"https://www.v2ex.com/t/683987#reply8"
-    },
-    {
       "name":"据说 13 相比 16 性能低很多，而且不支持独显，有必要升级 i7 加内存吗？",
       "url":"https://www.v2ex.com/t/683960#reply7"
     },
     {
       "name":"小程序开发收多少钱合适？",
       "url":"https://www.v2ex.com/t/684008#reply7"
+    },
+    {
+      "name":"最近要准备搞一个低代码平台，类似氚云、云枢那样，有一些问题",
+      "url":"https://www.v2ex.com/t/684010#reply7"
     },
     {
       "name":"请问一下 vscode 的可以在 macos 下面去编译 windows 平台的 vcproj 或者 solution 吗？",
@@ -103,10 +107,6 @@
       "url":"https://www.v2ex.com/t/683974#reply6"
     },
     {
-      "name":"最近要准备搞一个低代码平台，类似氚云、云枢那样，有一些问题",
-      "url":"https://www.v2ex.com/t/684010#reply6"
-    },
-    {
       "name":"错觉？",
       "url":"https://www.v2ex.com/t/683958#reply5"
     },
@@ -116,7 +116,11 @@
     },
     {
       "name":"Mac mini (Late 2012) 不能升級新 OS 了",
-      "url":"https://www.v2ex.com/t/683966#reply4"
+      "url":"https://www.v2ex.com/t/683966#reply5"
+    },
+    {
+      "name":"按现在米国风向，是不是苹果得提供官方黑苹果解决方案",
+      "url":"https://www.v2ex.com/t/684026#reply5"
     },
     {
       "name":"你们还记得 Apple Watch 微信的「发送小信号」吗",
@@ -133,10 +137,6 @@
     {
       "name":"Mac 切换到 ARM 会不会有助于 ARM Server 的流行？",
       "url":"https://www.v2ex.com/t/683962#reply3"
-    },
-    {
-      "name":"希望以后 macbook 12 的产品线可以复活",
-      "url":"https://www.v2ex.com/t/683989#reply3"
     }
   ]
 }
