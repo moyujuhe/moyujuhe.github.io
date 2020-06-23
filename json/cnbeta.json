@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 22:52:15",
+  "time":"2020-06-23 22:57:11",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"这个比QQ空间还古老的网站 是多少女孩的精神家园？",
+      "url":"https://www.cnbeta.com/articles/tech/994799.htm"
     },
     {
       "name":"滴滴出行：2030年将拥有100万辆自动驾驶网约车",
@@ -237,10 +241,6 @@
     {
       "name":"NASA资助SETI研究  用于寻找外星 \"技术签名\"",
       "url":"https://www.cnbeta.com/articles/science/994681.htm"
-    },
-    {
-      "name":"[图]又是累积更新惹的祸？导致Outlook无法正常运行",
-      "url":"https://www.cnbeta.com/articles/tech/994679.htm"
     }
   ]
 }
