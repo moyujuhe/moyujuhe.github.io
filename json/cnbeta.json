@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 09:11:37",
+  "time":"2020-06-23 09:15:48",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,14 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"[图]WWDC开幕当天刘作虎发推预热一加新品 众博主转发讨论",
+      "url":"https://www.cnbeta.com/articles/tech/994457.htm"
+    },
+    {
+      "name":"苹果发布新iOS隐私更新：将向用户展示应用如何展开追踪",
+      "url":"https://www.cnbeta.com/articles/tech/994455.htm"
     },
     {
       "name":"报道称迈克尔·基顿正在洽谈重新扮演蝙蝠侠的事宜",
@@ -233,14 +241,6 @@
     {
       "name":"意大利银行准备测试数字欧元 推出官方指南",
       "url":"https://www.cnbeta.com/articles/tech/994359.htm"
-    },
-    {
-      "name":"Andrew Yang正在推动大科技公司为用户数据付费",
-      "url":"https://www.cnbeta.com/articles/tech/994339.htm"
-    },
-    {
-      "name":"苹果在iPadOS 14中引入设置默认浏览器和邮件应用功能",
-      "url":"https://www.cnbeta.com/articles/tech/994337.htm"
     }
   ]
 }
