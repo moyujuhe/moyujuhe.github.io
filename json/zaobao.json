@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 18:15:38",
+  "time":"2020-06-23 18:20:00",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国外交部吁美停止将中国媒体列外国使团",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063426"
+    },
     {
       "name":"国民党征召高雄市议员李眉蓁参加市长补选",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063423"
@@ -77,10 +81,6 @@
     {
       "name":"经济学家预测中国在二季出现经济增长",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063343"
-    },
-    {
-      "name":"特朗普澄清中美贸易协议完整无缺",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063340"
     }
   ]
 }
