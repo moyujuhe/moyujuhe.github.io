@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 07:07:43",
+  "time":"2020-06-24 07:12:00",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,18 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"iOS 14 将在应用或小部件访问剪贴板时通知用户",
+      "url":"https://www.cnbeta.com/articles/tech/994855.htm"
+    },
+    {
+      "name":"iOS 14 可以通知用户火警和门铃等声音",
+      "url":"https://www.cnbeta.com/articles/tech/994853.htm"
+    },
+    {
+      "name":"信息“裸奔”触目惊心 揭秘互联网大厂的隐私贩卖产业链",
+      "url":"https://www.cnbeta.com/articles/tech/994851.htm"
     },
     {
       "name":"吉利德拓展抗癌版图 2.75亿美元将收购抗癌药物公司",
@@ -229,18 +241,6 @@
     {
       "name":"难得一见的“One More Thing” 苹果为什么要做自研芯片？",
       "url":"https://www.cnbeta.com/articles/tech/994739.htm"
-    },
-    {
-      "name":"90%国人用上微信、支付宝让坏人失业：抢劫案十年降九成",
-      "url":"https://www.cnbeta.com/articles/tech/994737.htm"
-    },
-    {
-      "name":"德版瑞幸Wirecard CEO拘留 夸大公司资产高达21亿美元",
-      "url":"https://www.cnbeta.com/articles/tech/994735.htm"
-    },
-    {
-      "name":"京东方仍在争取为iPhone 12供屏：两条6代OLED线正内部竞争",
-      "url":"https://www.cnbeta.com/articles/tech/994733.htm"
     }
   ]
 }
