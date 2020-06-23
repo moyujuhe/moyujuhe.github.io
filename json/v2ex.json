@@ -1,26 +1,26 @@
 {
-  "time":"2020-06-23 11:26:10",
+  "time":"2020-06-23 11:30:21",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"有人用上了 MacOS Big Sur 了么",
-      "url":"https://www.v2ex.com/t/683964#reply44"
+      "url":"https://www.v2ex.com/t/683964#reply46"
     },
     {
       "name":"iOS 14 Public Beta 版升级 Bug 收集贴",
-      "url":"https://www.v2ex.com/t/683982#reply28"
+      "url":"https://www.v2ex.com/t/683982#reply33"
     },
     {
       "name":"最近一部剧，你们看了吗？",
       "url":"https://www.v2ex.com/t/683972#reply23"
     },
     {
-      "name":"订单业务处理太过耗时如何优化？",
-      "url":"https://www.v2ex.com/t/683961#reply21"
+      "name":"为什么漫天漫地总有人想让逼站成为 y2b？",
+      "url":"https://www.v2ex.com/t/683968#reply22"
     },
     {
-      "name":"为什么漫天漫地总有人想让逼站成为 y2b？",
-      "url":"https://www.v2ex.com/t/683968#reply21"
+      "name":"订单业务处理太过耗时如何优化？",
+      "url":"https://www.v2ex.com/t/683961#reply21"
     },
     {
       "name":"如何强制将文件推送到 github",
@@ -28,19 +28,23 @@
     },
     {
       "name":"尴尬了，在本站淘了个 WD SN500 500GB 的固态硬盘，不知道淘来干啥。",
-      "url":"https://www.v2ex.com/t/684007#reply14"
+      "url":"https://www.v2ex.com/t/684007#reply16"
     },
     {
       "name":"AirPods 无缝切换怎么样？有尝试了的嘛？",
-      "url":"https://www.v2ex.com/t/683984#reply12"
+      "url":"https://www.v2ex.com/t/683984#reply13"
+    },
+    {
+      "name":"Apple 也出“小程序”了，建了一个 App Clips 微信群，聊聊开发者怎么用 App Clips 赚钱",
+      "url":"https://www.v2ex.com/t/683995#reply12"
+    },
+    {
+      "name":"不懂就问：软件适配 ARM 是开发者意愿问题还是能力问题？",
+      "url":"https://www.v2ex.com/t/683965#reply11"
     },
     {
       "name":"求推荐比较好的安卓模拟器 测试了几个游戏模拟器 支付宝 东航之类的都会闪退",
       "url":"https://www.v2ex.com/t/683985#reply11"
-    },
-    {
-      "name":"Apple 也出“小程序”了，建了一个 App Clips 微信群，聊聊开发者怎么用 App Clips 赚钱",
-      "url":"https://www.v2ex.com/t/683995#reply11"
     },
     {
       "name":"[求助] 笔记本桌底收纳板，搜了半天发现并不好找。",
@@ -51,12 +55,20 @@
       "url":"https://www.v2ex.com/t/683988#reply10"
     },
     {
+      "name":"ARM 版 macOS 感觉解决了 macOS 国产软件生态的问题，例如 微信、钉钉 都将是无阉割全功能版",
+      "url":"https://www.v2ex.com/t/683994#reply10"
+    },
+    {
+      "name":"公司降薪了,要不要跑路?",
+      "url":"https://www.v2ex.com/t/683998#reply10"
+    },
+    {
       "name":"请教大神们如和根据 http header 判断来的请求是是不浏览器？",
       "url":"https://www.v2ex.com/t/683999#reply10"
     },
     {
-      "name":"不懂就问：软件适配 ARM 是开发者意愿问题还是能力问题？",
-      "url":"https://www.v2ex.com/t/683965#reply9"
+      "name":"github 上 readme.md 如何插入图片？",
+      "url":"https://www.v2ex.com/t/684014#reply10"
     },
     {
       "name":"公司 IOS 上架求助",
@@ -67,20 +79,8 @@
       "url":"https://www.v2ex.com/t/683987#reply9"
     },
     {
-      "name":"ARM 版 macOS 感觉解决了 macOS 国产软件生态的问题，例如 微信、钉钉 都将是无阉割全功能版",
-      "url":"https://www.v2ex.com/t/683994#reply9"
-    },
-    {
-      "name":"公司降薪了,要不要跑路?",
-      "url":"https://www.v2ex.com/t/683998#reply9"
-    },
-    {
       "name":"最近要准备搞一个低代码平台，类似氚云、云枢那样，有一些问题",
       "url":"https://www.v2ex.com/t/684010#reply9"
-    },
-    {
-      "name":"github 上 readme.md 如何插入图片？",
-      "url":"https://www.v2ex.com/t/684014#reply9"
     },
     {
       "name":"MacOS Big Sur Beta 升级记录贴",
@@ -93,6 +93,10 @@
     {
       "name":"小程序开发收多少钱合适？",
       "url":"https://www.v2ex.com/t/684008#reply7"
+    },
+    {
+      "name":"按现在米国风向，是不是苹果得提供官方黑苹果解决方案",
+      "url":"https://www.v2ex.com/t/684026#reply7"
     },
     {
       "name":"请问一下 vscode 的可以在 macos 下面去编译 windows 平台的 vcproj 或者 solution 吗？",
@@ -115,16 +119,16 @@
       "url":"https://www.v2ex.com/t/683974#reply6"
     },
     {
-      "name":"按现在米国风向，是不是苹果得提供官方黑苹果解决方案",
-      "url":"https://www.v2ex.com/t/684026#reply6"
-    },
-    {
       "name":"工作问题，求大佬给个建议",
       "url":"https://www.v2ex.com/t/683959#reply5"
     },
     {
       "name":"Hugo 建站经验之谈",
       "url":"https://www.v2ex.com/t/684001#reply5"
+    },
+    {
+      "name":"我也用 Flutter 做了一个 App， iOS 应用排行榜",
+      "url":"https://www.v2ex.com/t/684006#reply5"
     },
     {
       "name":"你们还记得 Apple Watch 微信的「发送小信号」吗",
@@ -137,10 +141,6 @@
     {
       "name":"希望以后 macbook 12 的产品线可以复活",
       "url":"https://www.v2ex.com/t/683989#reply4"
-    },
-    {
-      "name":"我也用 Flutter 做了一个 App， iOS 应用排行榜",
-      "url":"https://www.v2ex.com/t/684006#reply4"
     }
   ]
 }

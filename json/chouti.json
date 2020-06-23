@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 11:20:05",
+  "time":"2020-06-23 11:30:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"冥王星或拥有液态海洋",
+      "url":"https://www.cnbeta.com/articles/science/994447.htm"
+    },
     {
       "name":"继新闻搜索后，谷歌宣布在图片搜索中引入事实核查程序",
       "url":"https://tech.sina.com.cn/i/2020-06-23/doc-iircuyvi9933266.shtml"
@@ -89,10 +93,6 @@
     {
       "name":"重庆8名小学生溺亡：其中7名女生1名男生，涉及7个家庭",
       "url":"http://society.huanqiu.com/article/3yl8XV0wVFZ"
-    },
-    {
-      "name":"想起我爸爸，从伟岸到庸俗到难堪",
-      "url":"https://www.douban.com/note/768154310/"
     }
   ]
 }
