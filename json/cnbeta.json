@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 10:10:49",
+  "time":"2020-06-23 10:15:00",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,14 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"[图]iOS 14确认上线FaceTime眼球矫正功能：聊天时能有眼神交流",
+      "url":"https://www.cnbeta.com/articles/tech/994479.htm"
+    },
+    {
+      "name":"Harmony Bionics展示可用于中风复健的上身外骨骼",
+      "url":"https://www.cnbeta.com/articles/science/994477.htm"
     },
     {
       "name":"两部《蝙蝠侠》导演乔·舒马赫去世，享年80岁",
@@ -233,14 +241,6 @@
     {
       "name":"苹果AppleTV：目前超过10亿个屏幕在使用电视订阅服务",
       "url":"https://www.cnbeta.com/articles/tech/994363.htm"
-    },
-    {
-      "name":"苹果提供1亿美元成立基金 帮助更多有色人种开发者",
-      "url":"https://www.cnbeta.com/articles/tech/994361.htm"
-    },
-    {
-      "name":"WWDC前夕苹果批准电子邮件应用“Hey”上架 新增14天免费选项",
-      "url":"https://www.cnbeta.com/articles/tech/994357.htm"
     }
   ]
 }
