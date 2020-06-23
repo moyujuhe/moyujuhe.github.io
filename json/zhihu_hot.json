@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 16:24:35",
+  "time":"2020-06-23 16:46:00",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -7,20 +7,20 @@
       "url":"https://www.zhihu.com/question/402878768"
     },
     {
-      "name":"怎么看待“就这，就这”、“不会吧，不会吧”、“他急了，他急了”、“你品，你细品”系列网络词汇？",
-      "url":"https://www.zhihu.com/question/402635037"
-    },
-    {
       "name":"如何看待成都一男子公交站外持刀伤人致死?",
       "url":"https://www.zhihu.com/question/402943550"
     },
     {
-      "name":"如何评价 2020 苹果全球开发者大会（WWDC20）？有哪些惊喜或者遗憾？",
-      "url":"https://www.zhihu.com/question/402904357"
+      "name":"怎么看待“就这，就这”、“不会吧，不会吧”、“他急了，他急了”、“你品，你细品”系列网络词汇？",
+      "url":"https://www.zhihu.com/question/402635037"
     },
     {
       "name":"00后在忧虑什么？",
       "url":"https://www.zhihu.com/question/393450972"
+    },
+    {
+      "name":"如何评价 2020 苹果全球开发者大会（WWDC20）？有哪些惊喜或者遗憾？",
+      "url":"https://www.zhihu.com/question/402904357"
     },
     {
       "name":"如何看待UNINE成员嘉羿发微博“要你寡”?",
@@ -31,10 +31,6 @@
       "url":"https://www.zhihu.com/question/402932345"
     },
     {
-      "name":"如何看待仝卓艾特湖南卫视说承蒙厚爱后会有期?",
-      "url":"https://www.zhihu.com/question/402850082"
-    },
-    {
       "name":"如何看待迪士尼少儿英语正式宣布退出中国？",
       "url":"https://www.zhihu.com/question/402832123"
     },
@@ -43,12 +39,16 @@
       "url":"https://www.zhihu.com/question/402332437"
     },
     {
-      "name":"疫情对普通人的影响有多大？",
-      "url":"https://www.zhihu.com/question/369968555"
-    },
-    {
       "name":"如何看待家长花 900 万买学区房，却遭遇对口学校「登记顺位」一事？",
       "url":"https://www.zhihu.com/question/402990012"
+    },
+    {
+      "name":"如何看待仝卓艾特湖南卫视说承蒙厚爱后会有期?",
+      "url":"https://www.zhihu.com/question/402850082"
+    },
+    {
+      "name":"疫情对普通人的影响有多大？",
+      "url":"https://www.zhihu.com/question/369968555"
     },
     {
       "name":"如何看待白冰被《后来》唱哭？",
@@ -67,14 +67,6 @@
       "url":"https://www.zhihu.com/question/386989181"
     },
     {
-      "name":"郎朗为什么频繁参与综艺节目？",
-      "url":"https://www.zhihu.com/question/399995437"
-    },
-    {
-      "name":"如何看待南昌一特斯拉翻车， 车主称车辆突然自加速到127码？",
-      "url":"https://www.zhihu.com/question/402248728"
-    },
-    {
       "name":"《哈利波特》里的人物名字都相当于中国的什么名字？",
       "url":"https://www.zhihu.com/question/402219391"
     },
@@ -87,24 +79,24 @@
       "url":"https://www.zhihu.com/question/402166179"
     },
     {
-      "name":"历史上有什么比小说还要荒谬的事情?",
-      "url":"https://www.zhihu.com/question/268896757"
-    },
-    {
       "name":"为什么中国程序员工资那么高，连一个 MATLAB 的替代品都开发不出来？",
       "url":"https://www.zhihu.com/question/402837414"
     },
     {
+      "name":"历史上有什么比小说还要荒谬的事情?",
+      "url":"https://www.zhihu.com/question/268896757"
+    },
+    {
+      "name":"郎朗为什么频繁参与综艺节目？",
+      "url":"https://www.zhihu.com/question/399995437"
+    },
+    {
+      "name":"如何看待南昌一特斯拉翻车， 车主称车辆突然自加速到127码？",
+      "url":"https://www.zhihu.com/question/402248728"
+    },
+    {
       "name":"为什么学校里很多编程老师的电脑里都安装了像360这样的软件？",
       "url":"https://www.zhihu.com/question/401638713"
-    },
-    {
-      "name":"如何看待拍诺特（Parrot）的新品宣传中「不要信任中国无人机」「你信任大疆无人机吗」？",
-      "url":"https://www.zhihu.com/question/401632711"
-    },
-    {
-      "name":"如何看待张小龙微信朋友圈，新版视频号破2亿？",
-      "url":"https://www.zhihu.com/question/402893013"
     },
     {
       "name":"如何看待最新规定：KTV 网吧消费时间不得超 2 小时？",
@@ -123,6 +115,14 @@
       "url":"https://www.zhihu.com/question/60946217"
     },
     {
+      "name":"如何看待拍诺特（Parrot）的新品宣传中「不要信任中国无人机」「你信任大疆无人机吗」？",
+      "url":"https://www.zhihu.com/question/401632711"
+    },
+    {
+      "name":"如何看待张小龙微信朋友圈，新版视频号破2亿？",
+      "url":"https://www.zhihu.com/question/402893013"
+    },
+    {
       "name":"对于医生跟患者谈话签字被偷偷录音录像你怎么看？",
       "url":"https://www.zhihu.com/question/325766662"
     },
@@ -139,52 +139,52 @@
       "url":"https://www.zhihu.com/question/402278885"
     },
     {
-      "name":"大家觉得朱一龙的拖把头造型怎么样？",
-      "url":"https://www.zhihu.com/question/402865151"
-    },
-    {
       "name":"初中生每天只睡两个小时够吗?",
       "url":"https://www.zhihu.com/question/400688851"
     },
     {
-      "name":"如何看待 17 年前被顶替上大学的王娜娜大学毕业，向顶替者索赔 13 元？",
-      "url":"https://www.zhihu.com/question/402729883"
-    },
-    {
-      "name":"如果二战时期你拥有二十吨无限保质期的自热火锅，会带来什么收益?",
-      "url":"https://www.zhihu.com/question/402598678"
+      "name":"大家觉得朱一龙的拖把头造型怎么样？",
+      "url":"https://www.zhihu.com/question/402865151"
     },
     {
       "name":"《甄嬛传》里有哪些很污的片段？",
       "url":"https://www.zhihu.com/question/386132325"
     },
     {
-      "name":"如何看待卡姆吸毒案详情公布：与笑果同事李国庆、陈扬一起吸大麻？会对笑果文化产生什么影响？",
-      "url":"https://www.zhihu.com/question/403034515"
+      "name":"如果二战时期你拥有二十吨无限保质期的自热火锅，会带来什么收益?",
+      "url":"https://www.zhihu.com/question/402598678"
     },
     {
       "name":"作为一个所谓的年轻人，我就是不想努力，有错吗？",
       "url":"https://www.zhihu.com/question/402066338"
     },
     {
-      "name":"如何评价如今的球鞋文化？",
-      "url":"https://www.zhihu.com/question/379774426"
+      "name":"如何看待卡姆吸毒案详情公布：与笑果同事李国庆、陈扬一起吸大麻？会对笑果文化产生什么影响？",
+      "url":"https://www.zhihu.com/question/403034515"
     },
     {
       "name":"如何看待郑大一附院发生伤医案件，泌尿外科孟庆军主任在碎石中心门诊外手臂被刺穿，另一人胳膊受伤？",
       "url":"https://www.zhihu.com/question/402918681"
     },
     {
-      "name":"如何评价苹果 macOS Big Sur？",
-      "url":"https://www.zhihu.com/question/402959527"
-    },
-    {
-      "name":"如何看待山东理工大学深夜回应，称将努力帮被人顶替女生实现重新入学愿望？",
-      "url":"https://www.zhihu.com/question/403012798"
+      "name":"如何评价如今的球鞋文化？",
+      "url":"https://www.zhihu.com/question/379774426"
     },
     {
       "name":"男性在恋爱和择偶方面有哪些不为人知的小心思？",
       "url":"https://www.zhihu.com/question/63484460"
+    },
+    {
+      "name":"如何评价苹果 macOS Big Sur？",
+      "url":"https://www.zhihu.com/question/402959527"
+    },
+    {
+      "name":"北京一外卖员确诊新冠肺炎，平均每天接 50 单，他接触过的商家和顾客感染风险有多大？",
+      "url":"https://www.zhihu.com/question/403064637"
+    },
+    {
+      "name":"如何看待山东理工大学深夜回应，称将努力帮被人顶替女生实现重新入学愿望？",
+      "url":"https://www.zhihu.com/question/403012798"
     },
     {
       "name":"特朗普国际酒店的房间和服务水平如何？在豪华酒店品牌中口碑好吗？",
@@ -199,8 +199,8 @@
       "url":"https://www.zhihu.com/question/402746180"
     },
     {
-      "name":"《三体3：死神永生》里面，高级文明通过修改数学规律进行星际战争是啥样的?",
-      "url":"https://www.zhihu.com/question/402712418"
+      "name":"如何看待 17 年前被顶替上大学的王娜娜大学毕业，向顶替者索赔 13 元？",
+      "url":"https://www.zhihu.com/question/402729883"
     }
   ]
 }
