@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 13:50:38",
+  "time":"2020-06-23 13:52:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"Mac将用“苹果芯” 库克：第一款产品将于年底面世",
+      "url":"https://tech.sina.com.cn/it/2020-06-23/doc-iircuyvk0015466.shtml"
+    },
     {
       "name":"胡晓明卸任蚂蚁金服旗下公司法定代表人 黄浩接任",
       "url":"https://tech.sina.com.cn/i/2020-06-23/doc-iircuyvk0014708.shtml"
@@ -13,6 +17,10 @@
     {
       "name":"苹果推出iOS 14，iPhone或将取代车钥匙",
       "url":"https://tech.sina.com.cn/it/2020-06-23/doc-iircuyvk0012836.shtml"
+    },
+    {
+      "name":"拜腾汽车回应欠薪：因融资有延迟 会尽快妥善解决",
+      "url":"https://tech.sina.com.cn/2020-06-23/doc-iirczymk8539127.shtml"
     },
     {
       "name":"苹果重新设计iPhone主界面 并增加翻译App",
@@ -193,14 +201,6 @@
     {
       "name":"比特大陆还在宫斗不已 亿邦国际启动上市",
       "url":"https://tech.sina.com.cn/i/2020-06-23/doc-iirczymk8488632.shtml"
-    },
-    {
-      "name":"苹果变了：抛弃英特尔自研芯片、学习安卓组件",
-      "url":"http://tech.sina.com.cn/csj/2020-06-23/doc-iirczymk8480770.shtml"
-    },
-    {
-      "name":"除了传闻中的苹果芯片 首次线上WWDC还发布了这些",
-      "url":"https://tech.sina.com.cn/roll/2020-06-23/doc-iirczymk8481012.shtml"
     }
   ]
 }
