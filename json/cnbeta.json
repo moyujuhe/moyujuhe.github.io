@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 08:46:22",
+  "time":"2020-06-23 08:50:33",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,14 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"谷歌图片添加对ClaimReview或事实核查模式的支持",
+      "url":"https://www.cnbeta.com/articles/tech/994449.htm"
+    },
+    {
+      "name":"冥王星或拥有液态海洋",
+      "url":"https://www.cnbeta.com/articles/science/994447.htm"
     },
     {
       "name":"伽马射线模式暗示星系可能拥有两个超大质量黑洞",
@@ -233,14 +241,6 @@
     {
       "name":"印度用户购买Realme XT新机24小时内爆炸 厂方认为用户施加不当外力",
       "url":"https://www.cnbeta.com/articles/tech/994353.htm"
-    },
-    {
-      "name":"苹果iOS 14带来App Clips特性 无需下载完整的应用就能开始预览",
-      "url":"https://www.cnbeta.com/articles/tech/994333.htm"
-    },
-    {
-      "name":"[多图]苹果宣布iPadOS 14升级 带来多项新特性",
-      "url":"https://www.cnbeta.com/articles/tech/994331.htm"
     }
   ]
 }
