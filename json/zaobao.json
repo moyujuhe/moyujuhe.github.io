@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 09:24:25",
+  "time":"2020-06-23 09:28:36",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"白宫：特朗普不后悔将冠病称为“功夫流感”",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063323"
+    },
     {
       "name":"北京新增13例本土确诊 累计249例",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063320"
@@ -77,10 +81,6 @@
     {
       "name":"北京施工工地发现三人确诊",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200622-1063138"
-    },
-    {
-      "name":"中国否认任意拘留两加拿大人",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200622-1063137"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 09:24:23",
+  "time":"2020-06-23 09:28:34",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"弗吉尼亚州郊外现不速之客：65磅短吻鳄",
+      "url":"https://www.cnbeta.com/articles/tech/994461.htm"
     },
     {
       "name":"因司机拒载残疾乘客   Lyft被罚款4万美元",
@@ -237,10 +241,6 @@
     {
       "name":"维珍银河公司和NASA签约 安排私人宇航员前往国际空间站",
       "url":"https://www.cnbeta.com/articles/tech/994343.htm"
-    },
-    {
-      "name":"苹果宣布watchOS 7 带来睡眠辅助、表盘分享与舞蹈锻炼选项等新特性",
-      "url":"https://www.cnbeta.com/articles/tech/994341.htm"
     }
   ]
 }
