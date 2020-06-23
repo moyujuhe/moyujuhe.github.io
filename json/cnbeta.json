@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 22:47:48",
+  "time":"2020-06-23 22:52:15",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"滴滴出行：2030年将拥有100万辆自动驾驶网约车",
+      "url":"https://www.cnbeta.com/articles/tech/994797.htm"
+    },
+    {
+      "name":"小米宣布回购不超过10%公司股份",
+      "url":"https://www.cnbeta.com/articles/tech/994795.htm"
     },
     {
       "name":"《三体》真人电影将由《大圣归来》导演执导",
@@ -233,14 +241,6 @@
     {
       "name":"[图]又是累积更新惹的祸？导致Outlook无法正常运行",
       "url":"https://www.cnbeta.com/articles/tech/994679.htm"
-    },
-    {
-      "name":"Firefox用户抱怨其数据被强行导入Edge",
-      "url":"https://www.cnbeta.com/articles/tech/994677.htm"
-    },
-    {
-      "name":"[图]你怎么看？微软悄然在Windows 10搜索UI中引入天气磁贴",
-      "url":"https://www.cnbeta.com/articles/tech/994675.htm"
     }
   ]
 }
