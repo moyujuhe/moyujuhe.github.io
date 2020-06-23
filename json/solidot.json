@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 17:11:32",
+  "time":"2020-06-23 17:28:45",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"微软关闭游戏直播平台 Mixer",
+      "url":"https://www.solidot.org/story?sid=64747"
+    },
     {
       "name":"苹果未来的 Mac 电脑将使用它自己设计的 ARM 处理器",
       "url":"https://www.solidot.org/story?sid=64746"
@@ -77,10 +81,6 @@
     {
       "name":"在量子世界远距传输也许是可能的",
       "url":"https://www.solidot.org/story?sid=64728"
-    },
-    {
-      "name":"新冠可能在 2019 年 12 月就出现在意大利",
-      "url":"https://www.solidot.org/story?sid=64726"
     }
   ]
 }
