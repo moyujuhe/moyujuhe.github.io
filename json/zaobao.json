@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 17:07:16",
+  "time":"2020-06-23 17:11:30",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国外交部：中印双方同意采取必要措施推动事态降温",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063417"
+    },
     {
       "name":"北京有外卖员确诊 送餐平台检测所有外卖骑手",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063415"
@@ -77,10 +81,6 @@
     {
       "name":"港前终院首席法官：特首指定法官审理国安案件会损害司法独立",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063339"
-    },
-    {
-      "name":"白宫顾问澄清中美贸易协议言论",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063337"
     }
   ]
 }
