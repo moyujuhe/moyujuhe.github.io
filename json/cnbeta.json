@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 23:47:31",
+  "time":"2020-06-23 23:52:14",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"NASA考虑重返海王星",
+      "url":"https://www.cnbeta.com/articles/science/994815.htm"
     },
     {
       "name":"四名美国运动员加入Intel 2020奥运队",
@@ -237,10 +241,6 @@
     {
       "name":"分析师预计采用全新设计的24英寸iMac将于2020年4季度发布",
       "url":"https://www.cnbeta.com/articles/tech/994697.htm"
-    },
-    {
-      "name":"错字乌龙：苹果意外邀请测试用户体验macOS Bug Sur",
-      "url":"https://www.cnbeta.com/articles/tech/994695.htm"
     }
   ]
 }
