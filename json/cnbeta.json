@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 10:27:36",
+  "time":"2020-06-23 10:31:48",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,26 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"新机载系统将减少飞机降落时燃料消耗并降低噪音",
+      "url":"https://www.cnbeta.com/articles/tech/994493.htm"
+    },
+    {
+      "name":"创业板试点注册制首批受理33家企业",
+      "url":"https://www.cnbeta.com/articles/tech/994491.htm"
+    },
+    {
+      "name":"失去苹果 对英特尔或利大于弊",
+      "url":"https://www.cnbeta.com/articles/tech/994489.htm"
+    },
+    {
+      "name":"[图]苹果强调：iOS应用是否上架Mac商城完全取决于开发者",
+      "url":"https://www.cnbeta.com/articles/tech/994487.htm"
+    },
+    {
+      "name":"发布指日可待！三星Galaxy Note20系列已通过NFC Forum认证",
+      "url":"https://www.cnbeta.com/articles/tech/994485.htm"
     },
     {
       "name":"中国联通拆除2G网络，存量功能机用户怎么办？",
@@ -221,26 +241,6 @@
     {
       "name":"苹果开始推送iOS/iPadOS 14测试版",
       "url":"https://www.cnbeta.com/articles/tech/994381.htm"
-    },
-    {
-      "name":"iPadOS 14登场：应用界面/搜索/Apple Pencil全增强",
-      "url":"https://www.cnbeta.com/articles/tech/994379.htm"
-    },
-    {
-      "name":"macOS Big Sur发布：设计重塑 有史以来最大更新",
-      "url":"https://www.cnbeta.com/articles/tech/994377.htm"
-    },
-    {
-      "name":"iOS 14 正式发布：除了全新主屏幕外观 还有多个实用新功能",
-      "url":"https://www.cnbeta.com/articles/tech/994375.htm"
-    },
-    {
-      "name":"苹果首次线上开发者大会消息汇总：五大系统更新 自研芯片终登场",
-      "url":"https://www.cnbeta.com/articles/tech/994371.htm"
-    },
-    {
-      "name":"苹果宣布为开发人员专供内置Apple Silicon芯片的Mac mini开发机",
-      "url":"https://www.cnbeta.com/articles/tech/994369.htm"
     }
   ]
 }
