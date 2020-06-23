@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 20:07:48",
+  "time":"2020-06-23 20:11:59",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"电力需求激增 中国工业腹地摆脱疫情影响",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063437"
+    },
     {
       "name":"中印边境冲突中方40人死亡？中国外交部：虚假信息",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063434"
@@ -77,10 +81,6 @@
     {
       "name":"中国褐皮书认为中国经济陷入衰退 全年经济迈向萎缩",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063349"
-    },
-    {
-      "name":"巴西英国两家肉企暂停对中国出口 因员工检出冠病",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063348"
     }
   ]
 }
