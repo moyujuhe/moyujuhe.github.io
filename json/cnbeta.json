@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 01:06:47",
+  "time":"2020-06-24 01:11:11",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"天文学家对黑洞与神秘物体的碰撞感到困惑",
+      "url":"https://www.cnbeta.com/articles/science/994833.htm"
     },
     {
       "name":"Lyft称自动驾驶汽车安全将建立在信任的基础上",
@@ -237,10 +241,6 @@
     {
       "name":"腾讯收涨4.89%：股价逼近500港元 市值4.75万亿港元",
       "url":"https://www.cnbeta.com/articles/tech/994717.htm"
-    },
-    {
-      "name":"马斯克妈妈入驻微博 称将开始分享自己的故事",
-      "url":"https://www.cnbeta.com/articles/tech/994715.htm"
     }
   ]
 }
