@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 01:23:48",
+  "time":"2020-06-24 01:28:11",
   "title":"奇客的资讯",
   "data":[
     {
@@ -9,10 +9,6 @@
     {
       "name":"NASA 考虑重返海王星",
       "url":"https://www.solidot.org/story?sid=64753"
-    },
-    {
-      "name":"环球时报等被美国列为外国使团",
-      "url":"https://www.solidot.org/story?sid=64752"
     },
     {
       "name":"阿拉斯加超级火山喷发可能帮助终结了罗马共和国",
@@ -81,6 +77,10 @@
     {
       "name":"Uber 开源自动清理过时代码的工具",
       "url":"https://www.solidot.org/story?sid=64735"
+    },
+    {
+      "name":"西伯利亚北极小镇气温达到 38 摄氏度",
+      "url":"https://www.solidot.org/story?sid=64734"
     }
   ]
 }
