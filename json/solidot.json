@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-24 01:19:37",
+  "time":"2020-06-24 01:23:48",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"BlueLeaks 曝光美国警察局档案",
+      "url":"https://www.solidot.org/story?sid=64754"
+    },
     {
       "name":"NASA 考虑重返海王星",
       "url":"https://www.solidot.org/story?sid=64753"
@@ -77,10 +81,6 @@
     {
       "name":"Uber 开源自动清理过时代码的工具",
       "url":"https://www.solidot.org/story?sid=64735"
-    },
-    {
-      "name":"西伯利亚北极小镇气温达到 38 摄氏度",
-      "url":"https://www.solidot.org/story?sid=64734"
     }
   ]
 }
