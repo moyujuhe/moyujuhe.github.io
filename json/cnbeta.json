@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 01:02:30",
+  "time":"2020-06-24 01:06:47",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"Lyft称自动驾驶汽车安全将建立在信任的基础上",
+      "url":"https://www.cnbeta.com/articles/tech/994831.htm"
     },
     {
       "name":"墨西哥发生7.4级地震 震源深度10千米",
@@ -237,10 +241,6 @@
     {
       "name":"马斯克妈妈入驻微博 称将开始分享自己的故事",
       "url":"https://www.cnbeta.com/articles/tech/994715.htm"
-    },
-    {
-      "name":"产业链人士：高通增加台积电7nm处理器代工订单",
-      "url":"https://www.cnbeta.com/articles/tech/994711.htm"
     }
   ]
 }
