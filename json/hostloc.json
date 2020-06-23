@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 12:54:48",
+  "time":"2020-06-23 12:58:57",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"30多欧的盒子刷PT上传速度以KB计",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707361&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"三角云实测功耗情况如何呢？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707359&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"vimach 怎么了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707327&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"大佬们，有没有tg帖子推送脚本",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707324&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
