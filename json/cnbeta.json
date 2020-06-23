@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 09:03:13",
+  "time":"2020-06-23 09:07:24",
   "title":"cnBeta",
   "data":[
     {
@@ -13,6 +13,10 @@
     {
       "name":"苹果宣布其设备将全面转向“Apple Silicon”计算体系",
       "url":"https://www.cnbeta.com/articles/tech/994351.htm"
+    },
+    {
+      "name":"[图]iOS 14强化隐私保护：更妥善保护你的个人信息",
+      "url":"https://www.cnbeta.com/articles/tech/994451.htm"
     },
     {
       "name":"谷歌图片添加对ClaimReview或事实核查模式的支持",
@@ -237,10 +241,6 @@
     {
       "name":"苹果推出AirPods新功能 带来在多个设备之间无缝切换的能力",
       "url":"https://www.cnbeta.com/articles/tech/994335.htm"
-    },
-    {
-      "name":"印度用户购买Realme XT新机24小时内爆炸 厂方认为用户施加不当外力",
-      "url":"https://www.cnbeta.com/articles/tech/994353.htm"
     }
   ]
 }

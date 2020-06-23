@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 09:03:22",
+  "time":"2020-06-23 09:07:26",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京新增13例本土确诊 累计249例",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063320"
+    },
     {
       "name":"中国指责美军控谈判代表用中国国旗搞噱头",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063319"
@@ -9,6 +13,10 @@
     {
       "name":"加国总理谴责中国拘押两名加拿大人出于政治目的",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063318"
+    },
+    {
+      "name":"消息人士：港版健康码有望下周推出",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063322"
     },
     {
       "name":"欧盟在贸易课题向中国施压 警告香港国安法或产生“非常负面”后果",
@@ -73,14 +81,6 @@
     {
       "name":"中国否认任意拘留两加拿大人",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200622-1063137"
-    },
-    {
-      "name":"在美上市的万国数据 据称考虑在港二次上市",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200622-1063135"
-    },
-    {
-      "name":"中国外交部：更名案得到通过不能改变钓鱼岛属于中国的事实",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200622-1063134"
     }
   ]
 }
