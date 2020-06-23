@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 10:40:05",
+  "time":"2020-06-23 10:50:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"苹果 WWDC 超全总结： iOS 14 巨好用，AirPods Pro 喜提黑科技，ARM Mac 来了",
+      "url":"https://www.ifanr.com/1346491"
+    },
     {
       "name":"没有一个脏字，但每句话都在歧视你",
       "url":"https://weibo.com/1413953705/J6W0ht0T6"
@@ -89,10 +93,6 @@
     {
       "name":"苹果正式官宣自研Mac处理器：年底发布首款产品，能运行iOS应用",
       "url":"https://view.inews.qq.com/a/TEC2020062300126908"
-    },
-    {
-      "name":"macOS Big Sur发布：界面更像iOS，Safari迎重大更新",
-      "url":"https://view.inews.qq.com/a/TEC202006230010650B"
     }
   ]
 }
