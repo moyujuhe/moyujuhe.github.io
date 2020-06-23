@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 02:14:49",
+  "time":"2020-06-24 02:19:00",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"[图文直播]苹果WWDC 2020全球开发者大会开幕演讲",
       "url":"https://www.cnbeta.com/articles/tech/994279.htm"
+    },
+    {
+      "name":"宏碁发布Enduro系列三防笔记本电脑和平板电脑",
+      "url":"https://www.cnbeta.com/articles/tech/994841.htm"
     },
     {
       "name":"宏碁发布2款全新Chromebook笔记本电脑",
@@ -237,10 +241,6 @@
     {
       "name":"福布斯2020中国科技女性榜：腾讯阿里多位科技人才上榜",
       "url":"https://www.cnbeta.com/articles/tech/994725.htm"
-    },
-    {
-      "name":"旗下外卖小哥确诊，饿了么：相关同事已暂停接单",
-      "url":"https://www.cnbeta.com/articles/tech/994723.htm"
     }
   ]
 }
