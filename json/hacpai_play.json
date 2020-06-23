@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-06-23 11:30:21",
+  "time":"2020-06-23 11:34:32",
   "data":[
+    {
+      "name":"昨天的 WWDC 2020 到底讲了什么？一图带你读懂 WWDC 2020",
+      "url":"https://hacpai.com/article/1592883059954"
+    },
     {
       "name":"每周电影 EP20《一一》",
       "url":"https://hacpai.com/article/1592632322461"
@@ -173,10 +177,6 @@
     {
       "name":"20200424 TGIF",
       "url":"https://hacpai.com/article/1587693451282"
-    },
-    {
-      "name":"电瓶赋 -- 窃·格瓦拉",
-      "url":"https://hacpai.com/article/1587537209270"
     },
     {
       "name":"使用 Egg + Vue 的第一个线上小产品——远程工作职位信息收集站点 yuancheng.works",
