@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-23 23:52:14",
+  "time":"2020-06-23 23:57:05",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"墨西哥发生7.4级地震，震源深度10千米",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7969784"
+    },
     {
       "name":"《西安市秦岭生态环境保护条例》将于7月1日起施行",
       "url":"https://www.thepaper.cn/newsDetail_forward_7969780"
@@ -77,10 +81,6 @@
     {
       "name":"全球疫情晚报｜非洲累计确诊超30万，菲律宾新增创纪录",
       "url":"https://www.thepaper.cn/newsDetail_forward_7967606"
-    },
-    {
-      "name":"夜读｜我们敢正视自己“隐秘的角落”吗？",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7966041"
     }
   ]
 }
