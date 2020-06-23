@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-23 16:20:23",
+  "time":"2020-06-23 16:24:35",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"分析师预计采用全新设计的24英寸iMac将于2020年4季度发布",
+      "url":"https://www.cnbeta.com/articles/tech/994697.htm"
     },
     {
       "name":"错字乌龙：苹果意外邀请测试用户体验macOS Bug Sur",
@@ -237,10 +241,6 @@
     {
       "name":"苹果宣布Mac两年内转向自家芯片平台 英特尔表示会继续合作",
       "url":"https://www.cnbeta.com/articles/tech/994583.htm"
-    },
-    {
-      "name":"AMD与英伟达联手打造了Top7新超算Selene",
-      "url":"https://www.cnbeta.com/articles/tech/994581.htm"
     }
   ]
 }
