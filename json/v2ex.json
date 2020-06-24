@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 13:22:17",
+  "time":"2020-06-24 13:26:34",
   "title":"V2EX热帖",
   "data":[
     {
@@ -8,7 +8,7 @@
     },
     {
       "name":"用记事本写代码的人真的比用专业工具写代码的人厉害吗？",
-      "url":"https://www.v2ex.com/t/684411#reply51"
+      "url":"https://www.v2ex.com/t/684411#reply52"
     },
     {
       "name":"关于 IM 你们公司怎么做的",
@@ -23,12 +23,12 @@
       "url":"https://www.v2ex.com/t/684337#reply24"
     },
     {
-      "name":"Netflix 放松 IP 限制了？",
-      "url":"https://www.v2ex.com/t/684333#reply21"
+      "name":"有没有能够提醒用户嘘寒问暖的软件？",
+      "url":"https://www.v2ex.com/t/684327#reply21"
     },
     {
-      "name":"有没有能够提醒用户嘘寒问暖的软件？",
-      "url":"https://www.v2ex.com/t/684327#reply20"
+      "name":"Netflix 放松 IP 限制了？",
+      "url":"https://www.v2ex.com/t/684333#reply21"
     },
     {
       "name":"你们用的电动牙刷头多久换一次？",
@@ -52,7 +52,7 @@
     },
     {
       "name":"开源文档工具 showdoc 推出调试接口的客户端",
-      "url":"https://www.v2ex.com/t/684331#reply12"
+      "url":"https://www.v2ex.com/t/684331#reply14"
     },
     {
       "name":"跨云厂商部署 k3s 集群",
@@ -67,16 +67,20 @@
       "url":"https://www.v2ex.com/t/684405#reply12"
     },
     {
+      "name":"Big Sur 是什么意思？",
+      "url":"https://www.v2ex.com/t/684409#reply11"
+    },
+    {
+      "name":"被 Mac 上的 Python 爆击",
+      "url":"https://www.v2ex.com/t/684341#reply10"
+    },
+    {
       "name":"迫于不在妹子身边，帮刚毕业的妹子找下 [广州] 的房子",
       "url":"https://www.v2ex.com/t/684363#reply10"
     },
     {
       "name":"有没有可以内网部署的“有道云笔记”软件？",
       "url":"https://www.v2ex.com/t/684318#reply9"
-    },
-    {
-      "name":"被 Mac 上的 Python 爆击",
-      "url":"https://www.v2ex.com/t/684341#reply9"
     },
     {
       "name":"如何快速导出或打印出源代码中的所有函数名和类名？",
@@ -89,10 +93,6 @@
     {
       "name":"ipados 和 arm macos 是一个系统的 2 个分支还是 2 个系统？",
       "url":"https://www.v2ex.com/t/684320#reply8"
-    },
-    {
-      "name":"Big Sur 是什么意思？",
-      "url":"https://www.v2ex.com/t/684409#reply8"
     },
     {
       "name":"既然 Mac 可以用 ARM 芯片运行 macOS， iPad Pro 是不是将来有一天也可以装 macOS 呢？",
@@ -119,16 +119,16 @@
       "url":"https://www.v2ex.com/t/684369#reply7"
     },
     {
+      "name":"web 端播放 流式音频（m3u8 格式）",
+      "url":"https://www.v2ex.com/t/684374#reply7"
+    },
+    {
       "name":"长文慎点！ Kaggle 比赛的 top2%和金牌到底差距有多大？",
       "url":"https://www.v2ex.com/t/684406#reply7"
     },
     {
       "name":"今天突然发现 macOS 安全设置里面， FileVault 打开了，这个是不是开启了全盘加密？",
       "url":"https://www.v2ex.com/t/684317#reply6"
-    },
-    {
-      "name":"watchOS6 的 bug 光荣的延续到了 watchOS7 上， watchOS7 使用 bug 记录贴",
-      "url":"https://www.v2ex.com/t/684349#reply6"
     }
   ]
 }
