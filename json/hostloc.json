@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-24 18:56:19",
+  "time":"2020-06-24 19:00:31",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"突然发现自己全是白票鸡，算了一下似乎玩鸡还赚了一点",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707925&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"收az 3500破烂",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707924&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"阿里云国际新加坡续费还是2.5刀吗",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707894&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"Onevps又来码子了！",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707893&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
