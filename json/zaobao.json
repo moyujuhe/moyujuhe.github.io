@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-24 12:35:28",
+  "time":"2020-06-24 12:39:48",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"港保安局长：国安法草案通过后即日在港生效",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063636"
+    },
     {
       "name":"香港中大学生被捕 涉洗黑钱近3.6亿港元",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063634"
@@ -77,10 +81,6 @@
     {
       "name":"国民党征召高雄市议员李眉蓁参加市长补选",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063423"
-    },
-    {
-      "name":"北京已累计核酸检测234.2万人",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063420"
     }
   ]
 }
