@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-24 12:56:38",
+  "time":"2020-06-24 13:01:16",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"美国政府认为最新华为禁令已无漏洞可钻",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063637"
+    },
     {
       "name":"港保安局长：国安法草案通过后即日在港生效",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063636"
@@ -77,10 +81,6 @@
     {
       "name":"中国外交部吁美停止将中国媒体列外国使团",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063426"
-    },
-    {
-      "name":"国民党征召高雄市议员李眉蓁参加市长补选",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063423"
     }
   ]
 }
