@@ -1,7 +1,27 @@
 {
-  "time":"2020-06-24 17:35:39",
+  "time":"2020-06-24 17:39:51",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"苹果中国应用商店将下架数千未获版号的手游",
+      "url":"https://www.solidot.org/story?sid=64762"
+    },
+    {
+      "name":"赛格威停产赛格威",
+      "url":"https://www.solidot.org/story?sid=64761"
+    },
+    {
+      "name":"Safari 屏蔽 Google Analytics",
+      "url":"https://www.solidot.org/story?sid=64760"
+    },
+    {
+      "name":"微软安全软件加入对 Linux 和 Android 的支持",
+      "url":"https://www.solidot.org/story?sid=64759"
+    },
+    {
+      "name":"乔治 R. R. 马丁公布《凛冬的寒风》最新进度",
+      "url":"https://www.solidot.org/story?sid=64758"
+    },
     {
       "name":"Microsoft Edge 被指悄悄导入了 Firefox 数据",
       "url":"https://www.solidot.org/story?sid=64757"
@@ -61,26 +81,6 @@
     {
       "name":"野生动物贸易增加冠状病毒传播",
       "url":"https://www.solidot.org/story?sid=64742"
-    },
-    {
-      "name":"Ruby on Rails 作者谈如何写出优秀的代码",
-      "url":"https://www.solidot.org/story?sid=64741"
-    },
-    {
-      "name":"Facebook 发布工具从单张照片实现高清人像 3D 数字化",
-      "url":"https://www.solidot.org/story?sid=64740"
-    },
-    {
-      "name":"意大利用白色防水布减缓冰川融化",
-      "url":"https://www.solidot.org/story?sid=64739"
-    },
-    {
-      "name":"Ron Gilbert 开源了 Delores",
-      "url":"https://www.solidot.org/story?sid=64738"
-    },
-    {
-      "name":"Sergey Brin 秘密建立了一支紧急救援队",
-      "url":"https://www.solidot.org/story?sid=64737"
     }
   ]
 }
