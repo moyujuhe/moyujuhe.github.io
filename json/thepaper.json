@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 00:37:53",
+  "time":"2020-06-25 00:43:01",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"纽约新泽西康涅狄格三州宣布对疫区旅客实施14天隔离",
+      "url":"https://www.thepaper.cn/newsDetail_forward_7986861"
+    },
     {
       "name":"武汉已连续12天抽检超市和市场环境样本近3万份，均为阴性",
       "url":"https://www.thepaper.cn/newsDetail_forward_7986859"
@@ -77,10 +81,6 @@
     {
       "name":"北斗揭獐子岛扇贝骗局：27条采捕船数万航行数据还原轨迹",
       "url":"https://www.thepaper.cn/newsDetail_forward_7986582"
-    },
-    {
-      "name":"国内制毒活动出现规模小型化、分布零散化、工艺简单化特点",
-      "url":"https://www.thepaper.cn/newsDetail_forward_7986311"
     }
   ]
 }
