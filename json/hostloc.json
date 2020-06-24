@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-24 19:39:59",
+  "time":"2020-06-24 19:44:35",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"关于网站测速，这是为啥，红的反而比绿的快？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707935&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"租点KS3给我吧，月付最好，季付也可以",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707933&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"cloudflare partner账户绝版了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707904&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"有没有出eth 12刀的（原3.6那款）",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707903&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
