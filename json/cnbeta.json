@@ -1,10 +1,18 @@
 {
-  "time":"2020-06-24 11:53:06",
+  "time":"2020-06-24 11:57:18",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"[图]微软承认六月累积更新导致Windows 10强制重新启动",
+      "url":"https://www.cnbeta.com/articles/tech/995071.htm"
+    },
+    {
+      "name":"ARM Mac芯片有多强？缺乏基准对比，目前还很难讲",
+      "url":"https://www.cnbeta.com/articles/tech/995069.htm"
     },
     {
       "name":"索尼Netflix联合打造 中美合拍动画电影《飞奔去月球》首曝预告",
@@ -233,14 +241,6 @@
     {
       "name":"《小鸡快跑》续集确定：明年登陆Netflix",
       "url":"https://hot.cnbeta.com/articles/comic/994955.htm"
-    },
-    {
-      "name":"[图]Android端Microsoft Defender ATP首个公开预览版发布",
-      "url":"https://www.cnbeta.com/articles/tech/994953.htm"
-    },
-    {
-      "name":"微软CEO纳德拉详细介绍公司解决种族不公问题的最新措施",
-      "url":"https://www.cnbeta.com/articles/tech/994951.htm"
     }
   ]
 }
