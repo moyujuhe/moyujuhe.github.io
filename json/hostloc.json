@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 04:01:46",
+  "time":"2020-06-25 04:05:56",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"大佬们 A1有没有办法分配订阅时直接不分配邮件许可证的",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708051&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"唉，不得不承认自己老了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708050&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"onevps车门即将焊死。跳车逃生成功",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708024&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"出 pr 8.8刀-4号机房",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708022&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
