@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-24 16:48:47",
+  "time":"2020-06-24 16:53:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"电子客票正式上线 卧铺票还需要换证吗？官方科普",
+      "url":"https://www.cnbeta.com/articles/tech/995199.htm"
     },
     {
       "name":"资本市场似印证黄光裕已出狱，家电厂商看好国美未来会重生",
@@ -237,10 +241,6 @@
     {
       "name":"苹果公布Rosetta限制：不支持虚拟化x86_64平台的虚拟机应用",
       "url":"https://www.cnbeta.com/articles/tech/995083.htm"
-    },
-    {
-      "name":"Windows 10 Mail应用悄然删除你发送的Gmail邮件",
-      "url":"https://www.cnbeta.com/articles/tech/995081.htm"
     }
   ]
 }
