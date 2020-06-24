@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-24 13:26:36",
+  "time":"2020-06-24 13:30:47",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"国民党两岸新论述 马英九：只是草案",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063639"
+    },
     {
       "name":"美国政府认为最新华为禁令已无漏洞可钻",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063637"
@@ -77,10 +81,6 @@
     {
       "name":"北京百事大兴分厂再现三起确诊病例",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063429"
-    },
-    {
-      "name":"中国外交部吁美停止将中国媒体列外国使团",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063426"
     }
   ]
 }
