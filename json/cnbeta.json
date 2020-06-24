@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-24 14:12:48",
+  "time":"2020-06-24 14:17:01",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"饿了么回应47岁外卖配送员确诊：不会辞退，每天送50单是正常单量",
+      "url":"https://www.cnbeta.com/articles/tech/995123.htm"
     },
     {
       "name":"iPadOS 14在竖屏模式下不支持小组件",
@@ -237,10 +241,6 @@
     {
       "name":"ZeroAvia完成英国首次商业规模的电动飞机飞行",
       "url":"https://www.cnbeta.com/articles/tech/995007.htm"
-    },
-    {
-      "name":"macOS Big Sur引入电池使用记录和剩余电量预估功能",
-      "url":"https://www.cnbeta.com/articles/tech/995005.htm"
     }
   ]
 }
