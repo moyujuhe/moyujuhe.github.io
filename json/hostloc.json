@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-24 21:57:49",
+  "time":"2020-06-24 22:02:16",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"自制的二刺螈随机图API分享",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707981&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"金山云拼团",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707980&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"有没有物联卡渠道的老板",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707948&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"MJJ们建站用什么服务器？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=707947&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
