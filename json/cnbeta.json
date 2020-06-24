@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-24 10:01:01",
+  "time":"2020-06-24 10:05:12",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"NASA将让太空飞船撞击小行星卫星Dimorphos",
+      "url":"https://www.cnbeta.com/articles/science/994989.htm"
     },
     {
       "name":"推特公布六月更新：官网已放弃对IE11的支持",
@@ -51,7 +55,7 @@
       "url":"https://www.cnbeta.com/articles/tech/994967.htm"
     },
     {
-      "name":"NASA将让太空飞船撞击小行星卫星Dimorphos",
+      "name":"NASA终于为即将去撞击的小行星卫星取好名字",
       "url":"https://www.cnbeta.com/articles/science/994965.htm"
     },
     {
@@ -237,10 +241,6 @@
     {
       "name":"中国推行机动车检验标志电子化",
       "url":"https://www.cnbeta.com/articles/tech/994875.htm"
-    },
-    {
-      "name":"孟晚舟引渡案日程确定 法院希望在2021年5月之前结案",
-      "url":"https://www.cnbeta.com/articles/tech/994873.htm"
     }
   ]
 }
