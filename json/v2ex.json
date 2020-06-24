@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-24 10:20:05",
+  "time":"2020-06-24 10:24:17",
   "title":"V2EX热帖",
   "data":[
     {
@@ -7,12 +7,12 @@
       "url":"https://www.v2ex.com/t/684324#reply30"
     },
     {
-      "name":"ipados 和 arm macos 是一个系统的 2 个分支还是 2 个系统？",
-      "url":"https://www.v2ex.com/t/684320#reply8"
+      "name":"有没有能够提醒用户嘘寒问暖的软件？",
+      "url":"https://www.v2ex.com/t/684327#reply10"
     },
     {
-      "name":"有没有能够提醒用户嘘寒问暖的软件？",
-      "url":"https://www.v2ex.com/t/684327#reply8"
+      "name":"ipados 和 arm macos 是一个系统的 2 个分支还是 2 个系统？",
+      "url":"https://www.v2ex.com/t/684320#reply8"
     },
     {
       "name":"github 怎么回退到旧版 UI？",
@@ -24,15 +24,19 @@
     },
     {
       "name":"发现 github 今天换 ui 了",
-      "url":"https://www.v2ex.com/t/684337#reply5"
+      "url":"https://www.v2ex.com/t/684337#reply6"
+    },
+    {
+      "name":"阿里企业智能事业部， 5 面之后等了 20 天。hr 还让等待",
+      "url":"https://www.v2ex.com/t/684335#reply5"
+    },
+    {
+      "name":"关于 IM 你们公司怎么做的",
+      "url":"https://www.v2ex.com/t/684344#reply5"
     },
     {
       "name":"团队 全职 在线接单",
       "url":"https://www.v2ex.com/t/684322#reply4"
-    },
-    {
-      "name":"阿里企业智能事业部， 5 面之后等了 20 天。hr 还让等待",
-      "url":"https://www.v2ex.com/t/684335#reply4"
     },
     {
       "name":"求一款 iOS 上能搜索 NAS 文件的 APP",
@@ -47,12 +51,20 @@
       "url":"https://www.v2ex.com/t/684336#reply3"
     },
     {
+      "name":"既然 Mac 可以用 ARM 芯片运行 macOS， iPad Pro 是不是将来有一天也可以装 macOS 呢？",
+      "url":"https://www.v2ex.com/t/684325#reply2"
+    },
+    {
       "name":"开源文档工具 showdoc 推出调试接口的客户端",
       "url":"https://www.v2ex.com/t/684331#reply2"
     },
     {
       "name":"[杭州] [内推&急招] 蚂蚁金服旗下世界领先的分布式数据库 OceanBase 成立新公司，急聘前端工程师，业务稳空间大大量 HC, P6~P8~",
       "url":"https://www.v2ex.com/t/684332#reply2"
+    },
+    {
+      "name":"Netflix 放松 IP 限制了？",
+      "url":"https://www.v2ex.com/t/684333#reply2"
     },
     {
       "name":"被 Mac 上的 Python 爆击",
@@ -63,16 +75,8 @@
       "url":"https://www.v2ex.com/t/684317#reply1"
     },
     {
-      "name":"既然 Mac 可以用 ARM 芯片运行 macOS， iPad Pro 是不是将来有一天也可以装 macOS 呢？",
-      "url":"https://www.v2ex.com/t/684325#reply1"
-    },
-    {
       "name":"拼多多砍价互助群",
       "url":"https://www.v2ex.com/t/684329#reply1"
-    },
-    {
-      "name":"Netflix 放松 IP 限制了？",
-      "url":"https://www.v2ex.com/t/684333#reply1"
     },
     {
       "name":"有一个 app 想找帮手开发",
@@ -83,8 +87,8 @@
       "url":"https://www.v2ex.com/t/684343#reply1"
     },
     {
-      "name":"关于 IM 你们公司怎么做的",
-      "url":"https://www.v2ex.com/t/684344#reply1"
+      "name":"react 不支持 ie8 的技术原因是什么？",
+      "url":"https://www.v2ex.com/t/684345#reply1"
     },
     {
       "name":"[上海] 米哈游内推 端午安康~",
@@ -103,16 +107,16 @@
       "url":"https://www.v2ex.com/t/684339#reply0"
     },
     {
-      "name":"react 不支持 ie8 的技术原因是什么？",
-      "url":"https://www.v2ex.com/t/684345#reply0"
-    },
-    {
       "name":"OneDev 3.2 发布 - 简单易用功能强大的 GitLab 替代品",
       "url":"https://www.v2ex.com/t/684347#reply0"
     },
     {
       "name":"大厂的新业务值得去吗？比如美团的单车、打车、充电宝之类的。",
       "url":"https://www.v2ex.com/t/684348#reply0"
+    },
+    {
+      "name":"watchOS6 的 bug 光荣的延续到了 watchOS7 上， watchOS7 使用 bug 记录贴",
+      "url":"https://www.v2ex.com/t/684349#reply0"
     }
   ]
 }
