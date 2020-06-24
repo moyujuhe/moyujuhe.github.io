@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-24 08:53:11",
+  "time":"2020-06-24 08:57:21",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"印度暂停与中国三笔交易 涉6亿美元",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063610"
+    },
     {
       "name":"中国5月大豆进口同比增长27.7% 前五月增6.8%",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063606"
@@ -77,10 +81,6 @@
     {
       "name":"香港演艺界若涉“五毒” 传将赔偿资方损失",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063392"
-    },
-    {
-      "name":"美媒：情报机构称中国军官下令在边境地区攻击印军",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063367"
     }
   ]
 }
