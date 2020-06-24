@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-24 12:33:33",
+  "time":"2020-06-24 12:54:08",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"分析师：苹果使用ARM架构芯片表明可与英特尔一争高低",
+      "url":"https://tech.sina.com.cn/it/2020-06-24/doc-iirczymk8739368.shtml"
+    },
     {
       "name":"腾讯发布新一代生态车联方案TAI3.0 两个月可上车",
       "url":"https://tech.sina.com.cn/it/2020-06-24/doc-iircuyvk0208779.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"电商补税，“刷单”的商家慌了",
       "url":"http://tech.sina.com.cn/csj/2020-06-24/doc-iirczymk8689297.shtml"
-    },
-    {
-      "name":"苹果“换芯”背后：生态和开发者是基础保证和信心来源",
-      "url":"https://tech.sina.com.cn/mobile/n/n/2020-06-24/doc-iircuyvk0161004.shtml"
     }
   ]
 }
