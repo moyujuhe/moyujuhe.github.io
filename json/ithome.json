@@ -1,11 +1,7 @@
 {
-  "time":"2020-06-24 12:39:36",
+  "time":"2020-06-24 12:43:51",
   "title":"IT之家",
   "data":[
-    {
-      "name":"苹果iOS 14 支持通过敲击 iPhone 背面实现不同操作",
-      "url":"https://www.ithome.com/0/494/291.htm"
-    },
     {
       "name":"哈工大被禁用Matlab后：国产可替代软件Truffer出现",
       "url":"https://www.ithome.com/0/494/325.htm"
@@ -49,6 +45,10 @@
     {
       "name":"苹果官方介绍 iOS 14 重塑体验：全新主屏幕，App Clips 小程序",
       "url":"https://www.ithome.com/0/494/380.htm"
+    },
+    {
+      "name":"难得一见的“One More Thing”，苹果为什么要做自研芯片？",
+      "url":"https://www.ithome.com/0/494/360.htm"
     },
     {
       "name":"苹果 iOS 14/iPadOS 14 开发者预览/公测版 Beta 推送（附描述文件下载）",
@@ -119,6 +119,10 @@
       "url":"https://www.ithome.com/0/494/195.htm"
     },
     {
+      "name":"Redmi 9国行售价正式公布：799元起",
+      "url":"https://www.ithome.com/0/494/442.htm"
+    },
+    {
       "name":"苹果 iOS 14/iPadOS 14 升级机型正式公布：iPhone SE/6s 再战一年",
       "url":"https://www.ithome.com/0/494/206.htm"
     },
@@ -129,10 +133,6 @@
     {
       "name":"呼叫，呼叫！看看你附近有多少颗北斗卫星",
       "url":"https://www.ithome.com/0/494/362.htm"
-    },
-    {
-      "name":"Redmi 9国行售价正式公布：799元起",
-      "url":"https://www.ithome.com/0/494/442.htm"
     },
     {
       "name":"苹果iPhone 12系列详细屏幕参数前瞻：首批只有三星、LG屏幕，均为OLED面板",
