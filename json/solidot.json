@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-24 20:47:55",
+  "time":"2020-06-24 20:52:09",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"西部数据推出不使用 SMR 技术的 WD Red Plus 硬盘产品",
+      "url":"https://www.solidot.org/story?sid=64764"
+    },
+    {
+      "name":"摩洛哥记者手机被秘密植入 NSO 的间谍软件",
+      "url":"https://www.solidot.org/story?sid=64763"
+    },
     {
       "name":"苹果中国应用商店将下架数千未获版号的手游",
       "url":"https://www.solidot.org/story?sid=64762"
@@ -73,14 +81,6 @@
     {
       "name":"日本 ARM 超算富岳登顶 Top 500 榜单",
       "url":"https://www.solidot.org/story?sid=64744"
-    },
-    {
-      "name":"FBI 如何识别一位蒙面纵火犯",
-      "url":"https://www.solidot.org/story?sid=64743"
-    },
-    {
-      "name":"野生动物贸易增加冠状病毒传播",
-      "url":"https://www.solidot.org/story?sid=64742"
     }
   ]
 }
