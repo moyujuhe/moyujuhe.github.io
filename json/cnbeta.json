@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-25 00:47:29",
+  "time":"2020-06-25 00:51:42",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"Facebook推出新应用Forecast 让人们可以进行预测并为之争论不休",
+      "url":"https://www.cnbeta.com/articles/soft/995299.htm"
     },
     {
       "name":"3D打印火箭初创企业在加州海岸有了第二个发射场",
@@ -237,10 +241,6 @@
     {
       "name":"NASA开始着眼用商业火箭将宇航员及员工送入太空边缘",
       "url":"https://www.cnbeta.com/articles/science/995183.htm"
-    },
-    {
-      "name":"AMD锐龙5000 APU“塞尚”曝光：GPU依然集成Vega",
-      "url":"https://www.cnbeta.com/articles/tech/995181.htm"
     }
   ]
 }
