@@ -1,7 +1,19 @@
 {
-  "time":"2020-06-24 14:25:51",
+  "time":"2020-06-24 14:30:20",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Microsoft Edge 被指悄悄导入了 Firefox 数据",
+      "url":"https://www.solidot.org/story?sid=64757"
+    },
+    {
+      "name":"美国政府认为对华为的最新禁令已无漏洞",
+      "url":"https://www.solidot.org/story?sid=64756"
+    },
+    {
+      "name":"欧盟承认 GDPR 实施有难度",
+      "url":"https://www.solidot.org/story?sid=64755"
+    },
     {
       "name":"BlueLeaks 曝光美国警察局档案",
       "url":"https://www.solidot.org/story?sid=64754"
@@ -69,18 +81,6 @@
     {
       "name":"Sergey Brin 秘密建立了一支紧急救援队",
       "url":"https://www.solidot.org/story?sid=64737"
-    },
-    {
-      "name":"越南如何做到无人死于新冠",
-      "url":"https://www.solidot.org/story?sid=64736"
-    },
-    {
-      "name":"Uber 开源自动清理过时代码的工具",
-      "url":"https://www.solidot.org/story?sid=64735"
-    },
-    {
-      "name":"西伯利亚北极小镇气温达到 38 摄氏度",
-      "url":"https://www.solidot.org/story?sid=64734"
     }
   ]
 }
