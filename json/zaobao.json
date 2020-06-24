@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-24 09:18:42",
+  "time":"2020-06-24 09:31:28",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京新增七例确诊 创11天新低",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063614"
+    },
     {
       "name":"俄外长称中印不需他国协助解决边境局势",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063611"
@@ -77,10 +81,6 @@
     {
       "name":"男子驾车撞中国驻阿根廷使馆前门 建筑受损无人伤",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063396"
-    },
-    {
-      "name":"因传播低俗内容等 网信办处置中国10直播平台",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200623-1063394"
     }
   ]
 }
