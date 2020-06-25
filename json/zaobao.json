@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 10:41:46",
+  "time":"2020-06-25 10:45:51",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"白宫高层称中国试图摧毁美国经济",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063909"
+    },
     {
       "name":"印媒：中国试图在拉达克开设新战线",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063906"
@@ -77,10 +81,6 @@
     {
       "name":"华为全球最大旗舰店今在上海开幕",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063693"
-    },
-    {
-      "name":"北京称与新发地直接关联疫情基本控制",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063692"
     }
   ]
 }
