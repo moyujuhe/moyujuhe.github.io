@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-25 19:04:48",
+  "time":"2020-06-25 19:08:59",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"[图]Edge跟进Chrome新增“扩展”按钮 可集中管理你的扩展程序",
+      "url":"https://www.cnbeta.com/articles/tech/995587.htm"
     },
     {
       "name":"Wirecard申请启动破产程序 股价暴跌80%",
@@ -237,10 +241,6 @@
     {
       "name":"三星表示将在三个月内陆续推出三款旗舰智能机",
       "url":"https://www.cnbeta.com/articles/tech/995471.htm"
-    },
-    {
-      "name":"ARM Mac将无法通过Boot Camp支持Windows",
-      "url":"https://www.cnbeta.com/articles/tech/995469.htm"
     }
   ]
 }
