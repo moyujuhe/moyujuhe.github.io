@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-25 10:02:29",
+  "time":"2020-06-25 10:06:39",
   "title":"V2EX热帖",
   "data":[
     {
@@ -12,11 +12,15 @@
     },
     {
       "name":"目前有 Aoc 27 2k 是否有必要上 4k",
-      "url":"https://www.v2ex.com/t/684629#reply6"
+      "url":"https://www.v2ex.com/t/684629#reply7"
     },
     {
       "name":"有没有同城沙龙、活动类的 app",
       "url":"https://www.v2ex.com/t/684625#reply3"
+    },
+    {
+      "name":"IIJ 公共 DNS 已完全支持 DoH、DoT 以及 DNSSEC",
+      "url":"https://www.v2ex.com/t/684620#reply2"
     },
     {
       "name":"[原生 Android] 有没有可能 直接/间接 实现 [MIUI 照明弹] 功能?",
@@ -25,10 +29,6 @@
     {
       "name":"招远程 Web 开发 golang [全职]",
       "url":"https://www.v2ex.com/t/684631#reply2"
-    },
-    {
-      "name":"IIJ 公共 DNS 已完全支持 DoH、DoT 以及 DNSSEC",
-      "url":"https://www.v2ex.com/t/684620#reply1"
     },
     {
       "name":"关于 macOS Big sur 播放视频的 bug",
@@ -57,6 +57,10 @@
     {
       "name":"原创视频： iOS 14 Beta 1 小改动梳理",
       "url":"https://www.v2ex.com/t/684636#reply0"
+    },
+    {
+      "name":".net /core/C# 进阶书籍推荐",
+      "url":"https://www.v2ex.com/t/684638#reply0"
     }
   ]
 }
