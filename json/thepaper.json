@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-26 05:14:34",
+  "time":"2020-06-26 05:18:41",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"新疆和田地区于田县发生6.4级地震，震源深度10千米",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8004622"
+    },
     {
       "name":"新疆和田地区于田县发生4.6级地震，震源深度8千米",
       "url":"https://www.thepaper.cn/newsDetail_forward_8004323"
@@ -77,10 +81,6 @@
     {
       "name":"美国商务部公布最终修正值：美国一季度经济下滑5%",
       "url":"https://www.thepaper.cn/newsDetail_forward_8000587"
-    },
-    {
-      "name":"香港新增14例新冠肺炎确诊病例，均为输入病例",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8000597"
     }
   ]
 }
