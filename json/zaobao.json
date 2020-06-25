@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 09:41:11",
+  "time":"2020-06-25 09:45:22",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"蓬佩奥批中国贷款给非洲造成债务负担",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063898"
+    },
     {
       "name":"美政府将华为海康威视等列为中国军方控制企业",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063895"
@@ -77,10 +81,6 @@
     {
       "name":"国美创始人黄光裕传已出狱",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063685"
-    },
-    {
-      "name":"邓恢林被免去重庆市副市长等职务",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063687"
     }
   ]
 }
