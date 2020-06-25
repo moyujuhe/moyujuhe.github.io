@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 22:32:23",
+  "time":"2020-06-25 22:36:35",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Google 表示将默认减少浏览历史和位置记录的保存时间",
+      "url":"https://www.solidot.org/story?sid=64771"
+    },
     {
       "name":"引力波记录到已知最轻的黑洞",
       "url":"https://www.solidot.org/story?sid=64770"
@@ -77,10 +81,6 @@
     {
       "name":"阿拉斯加超级火山喷发可能帮助终结了罗马共和国",
       "url":"https://www.solidot.org/story?sid=64751"
-    },
-    {
-      "name":"CERN 计划造 100 公里周长的超级对撞机",
-      "url":"https://www.solidot.org/story?sid=64750"
     }
   ]
 }
