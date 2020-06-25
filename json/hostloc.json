@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 12:28:38",
+  "time":"2020-06-25 12:32:48",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"菜鸡伸手党像大佬致敬，有PivotalYES没啊",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708151&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"win10用OD同步东西，怎么设置同步上传完自动释放空间",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708150&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"我的ONEVPS是不是成了无限期?",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708118&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"com注册5刀",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708116&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
