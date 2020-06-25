@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 08:08:20",
+  "time":"2020-06-25 08:12:30",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"美报告：中国继续借反恐实行压迫政策",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063886"
+    },
     {
       "name":"广东梅州局长夫妇在家死亡 警方排除外来作案",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063874"
@@ -77,10 +81,6 @@
     {
       "name":"台湾放宽外籍及港澳人士入境条件 到台观光仍禁止",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063666"
-    },
-    {
-      "name":"台湾明天零时起开放转机 限时八小时",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063651"
     }
   ]
 }
