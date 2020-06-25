@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 15:29:19",
+  "time":"2020-06-25 15:33:34",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"3天了，瓦工DC6 DC9联通出口终于正常了。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708207&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"我有一个大胆的想法",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708206&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"推广一下3欧的vps",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708175&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"欧洲服务器(如oneprovider或者kimsufi的) cdn方案？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708174&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
