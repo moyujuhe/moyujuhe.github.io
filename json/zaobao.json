@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 19:04:50",
+  "time":"2020-06-25 19:09:12",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"香港新增14冠病确诊病例 多一人离世",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063989"
+    },
     {
       "name":"香港民众端午节在商场示威 港媒：至少10人被捕",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063985"
@@ -77,10 +81,6 @@
     {
       "name":"印媒：中国试图在拉达克开设新战线",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063906"
-    },
-    {
-      "name":"北京新增13起本地病例 专家建议勿在高风险区点外卖",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063901"
     }
   ]
 }
