@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 09:20:06",
+  "time":"2020-06-25 09:24:18",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"美政府将华为海康威视等列为中国军方控制企业",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063895"
+    },
     {
       "name":"中国首个冠病mRNA疫苗获批临床试验",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063894"
@@ -77,10 +81,6 @@
     {
       "name":"邓恢林被免去重庆市副市长等职务",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063687"
-    },
-    {
-      "name":"中国核酸检测累计已接近1亿人份",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063680"
     }
   ]
 }
