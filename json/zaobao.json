@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 08:58:42",
+  "time":"2020-06-25 09:02:52",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"印度港口暂停来自中国货物的清关",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063892"
+    },
     {
       "name":"中国科学家在冠病抗体研究中取得重大突破",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063890"
@@ -77,10 +81,6 @@
     {
       "name":"中国国防部披露中印冲突全过程 称责任全在印方",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063674"
-    },
-    {
-      "name":"钟南山：疫情不会消失但也不会大规模爆发",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063671"
     }
   ]
 }
