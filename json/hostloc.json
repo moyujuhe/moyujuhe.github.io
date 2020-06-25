@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 13:58:45",
+  "time":"2020-06-25 14:02:56",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"大部分公司的网管是不是都很水？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708181&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"WHMCS如何入门？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708179&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"5元钱收台还有10天左右到期的ONEVPS日本小鸡",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708154&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"菜鸡伸手党像大佬致敬，有PivotalYES没啊",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708151&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
