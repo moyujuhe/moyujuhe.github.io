@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-25 12:24:13",
+  "time":"2020-06-25 12:28:33",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"ARM Mac将无法通过Boot Camp支持Windows",
+      "url":"https://www.cnbeta.com/articles/tech/995469.htm"
     },
     {
       "name":"索尼宣布PlayStation漏洞赏金计划 破解PS4可获5万美元",
@@ -237,10 +241,6 @@
     {
       "name":"砌砖机器人Hadrian X获新里程碑：一小时砌砖200块",
       "url":"https://www.cnbeta.com/articles/tech/995353.htm"
-    },
-    {
-      "name":"AMD 64核霄龙斩获超级大单：进驻欧洲大型强子对撞机",
-      "url":"https://www.cnbeta.com/articles/tech/995351.htm"
     }
   ]
 }
