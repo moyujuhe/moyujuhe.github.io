@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 17:47:10",
+  "time":"2020-06-25 17:51:23",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"hetzner有余额是自动付费，还是仍需要手动付呢？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708248&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"618红米显示器到了，问题来了？用VGA还是HDMI接口？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708247&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -11,7 +15,7 @@
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708246&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
-      "name":"【重磅】最新消息！百度云加速海外版绝版",
+      "name":"【重磅】最新消息！CF国区大动作？百度云加速海外版绝版",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708245&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
@@ -35,7 +39,7 @@
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708240&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
-      "name":"[出] 6yun 福建移动NAT",
+      "name":"[已出] 6yun 福建移动NAT",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708239&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
@@ -105,10 +109,6 @@
     {
       "name":"出几只小鸡和玉米",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708222&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"网管，给我下载几个Q币",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708221&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
