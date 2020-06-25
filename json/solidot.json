@@ -1,7 +1,19 @@
 {
-  "time":"2020-06-25 17:13:18",
+  "time":"2020-06-25 17:22:01",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Google 为跨太平洋海底光缆寻找替代目的地",
+      "url":"https://www.solidot.org/story?sid=64768"
+    },
+    {
+      "name":"《新京报》旗下微博账号被查处",
+      "url":"https://www.solidot.org/story?sid=64767"
+    },
+    {
+      "name":"Perl 项目宣布 Perl 7",
+      "url":"https://www.solidot.org/story?sid=64766"
+    },
     {
       "name":"中国向非洲提供的奖学金名额超过西方",
       "url":"https://www.solidot.org/story?sid=64765"
@@ -69,18 +81,6 @@
     {
       "name":"苹果发布《基地》电视剧预告",
       "url":"https://www.solidot.org/story?sid=64748"
-    },
-    {
-      "name":"微软关闭游戏直播平台 Mixer",
-      "url":"https://www.solidot.org/story?sid=64747"
-    },
-    {
-      "name":"苹果未来的 Mac 电脑将使用它自己设计的 ARM 处理器",
-      "url":"https://www.solidot.org/story?sid=64746"
-    },
-    {
-      "name":"美国将暂停 H1B、H2B 等外国工人工作签证",
-      "url":"https://www.solidot.org/story?sid=64745"
     }
   ]
 }

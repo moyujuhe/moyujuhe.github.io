@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 17:17:38",
+  "time":"2020-06-25 17:21:55",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"【老母鸡日记】翻车了，烂手里了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708238&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"今天人多，有没有mjj指导下",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708237&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"第一次买azure 100刀，该怎么用",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708212&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"CC又发促销邮件了，附vps测试信息",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708211&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
