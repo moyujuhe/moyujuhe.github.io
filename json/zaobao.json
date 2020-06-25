@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 09:11:22",
+  "time":"2020-06-25 09:15:54",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国首个冠病mRNA疫苗获批临床试验",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063894"
+    },
     {
       "name":"印度港口暂停来自中国货物的清关",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063892"
@@ -77,10 +81,6 @@
     {
       "name":"中国核酸检测累计已接近1亿人份",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063680"
-    },
-    {
-      "name":"中国国防部披露中印冲突全过程 称责任全在印方",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063674"
     }
   ]
 }
