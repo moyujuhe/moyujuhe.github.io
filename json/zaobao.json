@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 09:58:08",
+  "time":"2020-06-25 10:02:37",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京新增13起本地病例 专家建议勿在高风险区点外卖",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063901"
+    },
     {
       "name":"蓬佩奥批中国贷款给非洲造成债务负担",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063898"
@@ -77,10 +81,6 @@
     {
       "name":"疫情防控下军队如何训练 中国国防部给出四条措施",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063690"
-    },
-    {
-      "name":"国美创始人黄光裕传已出狱",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063685"
     }
   ]
 }
