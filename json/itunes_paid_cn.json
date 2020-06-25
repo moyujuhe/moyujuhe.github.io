@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-06-25 17:51:20",
+  "time":"2020-06-25 17:55:33",
   "data":[
     {
       "name":"弑佛录：佛魔一念间",
@@ -417,6 +417,12 @@
       "description":"最新版本:  2.1.2\n更新时间:  2019-01-06 05:45:28 (北京时间)\n\nFilter adjustment and bug fixes."
     },
     {
+      "name":"终结降临",
+      "url":"https://apps.apple.com/cn/app/%E7%BB%88%E7%BB%93%E9%99%8D%E4%B8%B4/id1502363011?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.0\n更新时间:  2020-06-25 12:56:42 (北京时间)\n\n"
+    },
+    {
       "name":"Kingdom Rush Frontiers",
       "url":"https://apps.apple.com/cn/app/kingdom-rush-frontiers/id598581396?uo=4",
       "num":"游戏",
@@ -595,12 +601,6 @@
       "url":"https://apps.apple.com/cn/app/%E6%9F%90%E6%9F%90%E5%AE%97%E5%A5%B3%E4%BF%AE%E4%BF%AE%E7%82%BC%E6%89%8B%E6%9C%AD/id1509817154?uo=4",
       "num":"游戏",
       "description":"最新版本:  2.01\n更新时间:  2020-06-10 23:42:32 (北京时间)\n\n2.1\n修正部分玩家进入游戏闪退的问题\n减少了降低占有欲需要的时间\n增加了主角结仇的时候，主角的魂契对象会将主角的仇人作为仇人的设定\n修正了部分bug"
-    },
-    {
-      "name":"地狱边境 (LIMBO)",
-      "url":"https://apps.apple.com/cn/app/%E5%9C%B0%E7%8B%B1%E8%BE%B9%E5%A2%83-limbo/id685890408?uo=4",
-      "num":"游戏",
-      "description":"最新版本:  1.1.19\n更新时间:  2017-11-16 00:58:55 (北京时间)\n\n修正了一些小错误"
     }
   ]
 }
