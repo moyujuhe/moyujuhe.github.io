@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 22:26:00",
+  "time":"2020-06-25 22:52:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"历时三年 华为宣布将在英国建立光电子研发制造基地",
+      "url":"https://tech.sina.com.cn/it/2020-06-25/doc-iircuyvk0437515.shtml"
+    },
     {
       "name":"法媒：英国批准华为在剑桥建立研发和制造中心",
       "url":"https://tech.sina.com.cn/it/2020-06-25/doc-iircuyvk0435269.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"张一鸣快给黄光裕打call",
       "url":"http://tech.sina.com.cn/csj/2020-06-24/doc-iircuyvk0306991.shtml"
-    },
-    {
-      "name":"同样是OTA 梁建章挡不住王兴",
-      "url":"http://tech.sina.com.cn/csj/2020-06-24/doc-iircuyvk0306600.shtml"
     }
   ]
 }
