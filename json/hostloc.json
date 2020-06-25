@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 17:21:55",
+  "time":"2020-06-25 17:26:07",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"[出] 6yun 福建移动NAT",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708239&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"【老母鸡日记】翻车了，烂手里了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708238&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"buyvm拉斯维加斯大量补货，还有47台",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708213&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"第一次买azure 100刀，该怎么用",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708212&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
