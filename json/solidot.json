@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 13:07:08",
+  "time":"2020-06-25 13:11:31",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"中国向非洲提供的奖学金名额超过西方",
+      "url":"https://www.solidot.org/story?sid=64765"
+    },
     {
       "name":"西部数据推出不使用 SMR 技术的 WD Red Plus 硬盘产品",
       "url":"https://www.solidot.org/story?sid=64764"
@@ -77,10 +81,6 @@
     {
       "name":"美国将暂停 H1B、H2B 等外国工人工作签证",
       "url":"https://www.solidot.org/story?sid=64745"
-    },
-    {
-      "name":"日本 ARM 超算富岳登顶 Top 500 榜单",
-      "url":"https://www.solidot.org/story?sid=64744"
     }
   ]
 }
