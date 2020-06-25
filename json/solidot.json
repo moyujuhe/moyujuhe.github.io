@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 21:55:51",
+  "time":"2020-06-25 22:01:04",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"引力波记录到已知最轻的黑洞",
+      "url":"https://www.solidot.org/story?sid=64770"
+    },
     {
       "name":"山东调查女子被顶替上大学案件",
       "url":"https://www.solidot.org/story?sid=64769"
@@ -77,10 +81,6 @@
     {
       "name":"CERN 计划造 100 公里周长的超级对撞机",
       "url":"https://www.solidot.org/story?sid=64750"
-    },
-    {
-      "name":"中国发射最后一颗北斗三号卫星",
-      "url":"https://www.solidot.org/story?sid=64749"
     }
   ]
 }
