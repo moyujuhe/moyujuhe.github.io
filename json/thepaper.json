@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-26 07:52:39",
+  "time":"2020-06-26 07:56:51",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"上海昨日无新增本地新冠肺炎确诊病例，新增境外输入2例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8006766"
+    },
     {
       "name":"治帕金森新曙光：中美学者将脑中非神经元细胞转分化为神经元",
       "url":"https://www.thepaper.cn/newsDetail_forward_8000863"
@@ -77,10 +81,6 @@
     {
       "name":"6月26日6时51分新疆和田地区于田县发生4.0级地震",
       "url":"https://www.thepaper.cn/newsDetail_forward_8006631"
-    },
-    {
-      "name":"人民日报海外版刊文：“云节庆”开启传情达意新模式",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8005889"
     }
   ]
 }
