@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-25 08:29:23",
+  "time":"2020-06-25 08:33:30",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国科学家在冠病抗体研究中取得重大突破",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063890"
+    },
     {
       "name":"美报告：中国继续借反恐实行压迫政策",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063886"
@@ -77,10 +81,6 @@
     {
       "name":"钟南山：疫情不会消失但也不会大规模爆发",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063671"
-    },
-    {
-      "name":"台湾放宽外籍及港澳人士入境条件 到台观光仍禁止",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200624-1063666"
     }
   ]
 }
