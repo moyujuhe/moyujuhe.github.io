@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-25 12:37:06",
+  "time":"2020-06-25 12:41:21",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"三星表示将在三个月内陆续推出三款旗舰智能机",
+      "url":"https://www.cnbeta.com/articles/tech/995471.htm"
     },
     {
       "name":"ARM Mac将无法通过Boot Camp支持Windows",
@@ -237,10 +241,6 @@
     {
       "name":"NASA行星搜寻探测器发现一颗隐藏在残骸盘中的行星",
       "url":"https://www.cnbeta.com/articles/science/995355.htm"
-    },
-    {
-      "name":"砌砖机器人Hadrian X获新里程碑：一小时砌砖200块",
-      "url":"https://www.cnbeta.com/articles/tech/995353.htm"
     }
   ]
 }
