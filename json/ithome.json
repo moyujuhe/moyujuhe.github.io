@@ -1,11 +1,7 @@
 {
-  "time":"2020-06-26 15:41:04",
+  "time":"2020-06-26 15:45:15",
   "title":"IT之家",
   "data":[
-    {
-      "name":"苹果 ARM Mac 不能装 Win10，微软回应：Win10 ARM 仅面向 OEM 提供",
-      "url":"https://www.ithome.com/0/494/656.htm"
-    },
     {
       "name":"苹果 iPadOS 14 尝鲜体验：一代版本一代神，这次是 Apple Pencil",
       "url":"https://www.ithome.com/0/494/679.htm"
@@ -15,12 +11,12 @@
       "url":"https://www.ithome.com/0/494/702.htm"
     },
     {
-      "name":"前英特尔工程师：Skylake 处理器的问题是苹果换芯的原因",
-      "url":"https://www.ithome.com/0/494/682.htm"
-    },
-    {
       "name":"苹果iOS 14警报不断，TikTok已停止访问iOS系统剪贴板",
       "url":"https://www.ithome.com/0/494/744.htm"
+    },
+    {
+      "name":"前英特尔工程师：Skylake 处理器的问题是苹果换芯的原因",
+      "url":"https://www.ithome.com/0/494/682.htm"
     },
     {
       "name":"小心翻车！这才是制作Win10安装U盘的正确姿势",
@@ -39,16 +35,20 @@
       "url":"https://www.ithome.com/0/494/735.htm"
     },
     {
-      "name":"巴克莱分析师：苹果 iPhone 12 可能不配耳机和充电器",
-      "url":"https://www.ithome.com/0/494/697.htm"
-    },
-    {
       "name":"卢伟冰：Redmi激活巨屏市场，以前全国一个月98吋电视销量不到100台",
       "url":"https://www.ithome.com/0/494/716.htm"
     },
     {
       "name":"意义非凡！四川电子科技大学毕业礼物是学生自己设计的芯片",
       "url":"https://www.ithome.com/0/494/714.htm"
+    },
+    {
+      "name":"巴克莱分析师：苹果 iPhone 12 可能不配耳机和充电器",
+      "url":"https://www.ithome.com/0/494/697.htm"
+    },
+    {
+      "name":"苹果确认：ARM Mac 无法通过 Boot Camp 运行 Win 10",
+      "url":"https://www.ithome.com/0/494/688.htm"
     },
     {
       "name":"苹果 iOS 14/iPadOS 14 开发者预览/公测版 Beta 推送（附描述文件下载）",
@@ -139,12 +139,12 @@
       "url":"https://www.ithome.com/0/494/593.htm"
     },
     {
-      "name":"来了！小米10获MIUI 12.0.1稳定版更新",
-      "url":"https://www.ithome.com/0/493/727.htm"
-    },
-    {
       "name":"苹果iPhone 12系列详细屏幕参数前瞻：首批只有三星、LG屏幕，均为OLED面板",
       "url":"https://www.ithome.com/0/494/028.htm"
+    },
+    {
+      "name":"黄峥身家超马云：40岁财富高达3200亿，成中国第二大富豪",
+      "url":"https://www.ithome.com/0/493/987.htm"
     },
     {
       "name":"苹果 iOS 14/iPadOS 14 开发者预览/公测版 Beta 推送（附描述文件下载）",
