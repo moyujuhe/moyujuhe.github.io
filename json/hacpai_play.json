@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-06-26 10:42:45",
+  "time":"2020-06-26 10:46:56",
   "data":[
+    {
+      "name":"20200626 TGIF",
+      "url":"https://hacpai.com/article/1593139509126"
+    },
     {
       "name":"JeeBlog 更新日志",
       "url":"https://hacpai.com/article/1592893991956"
@@ -169,10 +173,6 @@
     {
       "name":"你听过多少种版本的《笑傲江湖》？",
       "url":"https://hacpai.com/article/1587867764273"
-    },
-    {
-      "name":"尝试用 Vue.js 开发网页小游戏的过程",
-      "url":"https://hacpai.com/article/1587705632303"
     },
     {
       "name":"使用 Egg + Vue 的第一个线上小产品——远程工作职位信息收集站点 yuancheng.works",
