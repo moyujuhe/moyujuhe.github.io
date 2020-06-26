@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-26 22:00:10",
+  "time":"2020-06-26 22:04:40",
   "title":"V2EX热帖",
   "data":[
     {
@@ -19,16 +19,16 @@
       "url":"https://www.v2ex.com/t/684814#reply46"
     },
     {
+      "name":"比起我们这代， 10 和 20 后想成才的话，需要抵制更多更强的诱惑",
+      "url":"https://www.v2ex.com/t/684854#reply45"
+    },
+    {
       "name":"配了一台黑苹果主机，希望大佬们能给点建议",
       "url":"https://www.v2ex.com/t/684825#reply44"
     },
     {
       "name":"老问题，请教大家多台电脑之间怎么每天同步文件/代码",
       "url":"https://www.v2ex.com/t/684804#reply43"
-    },
-    {
-      "name":"比起我们这代， 10 和 20 后想成才的话，需要抵制更多更强的诱惑",
-      "url":"https://www.v2ex.com/t/684854#reply42"
     },
     {
       "name":"我觉得我们还是少点自嘲吧",
@@ -83,16 +83,16 @@
       "url":"https://www.v2ex.com/t/684856#reply19"
     },
     {
-      "name":"iCloud 误删了很多照片，但是旧设备内还在，有没有快速同步的方法",
-      "url":"https://www.v2ex.com/t/684853#reply18"
-    },
-    {
       "name":"以后 ARM 笔记本会不会是大学生的新选择？",
-      "url":"https://www.v2ex.com/t/684902#reply18"
+      "url":"https://www.v2ex.com/t/684902#reply19"
     },
     {
       "name":"群晖 HyperBackup 求推荐靠谱服务商。",
-      "url":"https://www.v2ex.com/t/684834#reply17"
+      "url":"https://www.v2ex.com/t/684834#reply18"
+    },
+    {
+      "name":"iCloud 误删了很多照片，但是旧设备内还在，有没有快速同步的方法",
+      "url":"https://www.v2ex.com/t/684853#reply18"
     },
     {
       "name":"最近看新闻产生的想法（一个类似天眼查的任职追踪系统）",
@@ -119,16 +119,20 @@
       "url":"https://www.v2ex.com/t/684869#reply14"
     },
     {
+      "name":"不懂就问，为啥同一个软件不能用在 x86 和 amd 的 CPU 上？",
+      "url":"https://www.v2ex.com/t/684925#reply14"
+    },
+    {
       "name":"Catalina10.15.5 睡眠一段时间后系统会崩溃重启，附错误报告。",
       "url":"https://www.v2ex.com/t/684801#reply13"
     },
     {
-      "name":"不懂就问，为啥同一个软件不能用在 x86 和 amd 的 CPU 上？",
-      "url":"https://www.v2ex.com/t/684925#reply13"
-    },
-    {
       "name":"招聘软件都没人找我，是我的简历有问题吗？求指点",
       "url":"https://www.v2ex.com/t/684885#reply12"
+    },
+    {
+      "name":"快手 or 蚂蚁 现金都一样，快手有房补会高一点 快手还有期权的蚂蚁没有 坐标杭州 各位老铁给个意见？",
+      "url":"https://www.v2ex.com/t/684913#reply12"
     },
     {
       "name":"论坛沉帖功能实现",
@@ -145,10 +149,6 @@
     {
       "name":"分享一个快捷打开微信扫一扫的方法",
       "url":"https://www.v2ex.com/t/684872#reply11"
-    },
-    {
-      "name":"单元测试的时候创建数据库，插入测试数据耗时太长怎么办",
-      "url":"https://www.v2ex.com/t/684883#reply11"
     }
   ]
 }
