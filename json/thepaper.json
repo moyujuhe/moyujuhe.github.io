@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-26 13:51:50",
+  "time":"2020-06-26 13:56:53",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"看见惊奇——澎湃新闻影像展",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8008807"
+    },
     {
       "name":"北京：本期约2987人抢一个普通小客车指标，创历史新高",
       "url":"https://www.thepaper.cn/newsDetail_forward_8007998"
@@ -77,10 +81,6 @@
     {
       "name":"一名小镇利物浦球迷的15年：永不独行，我陪你们做到了",
       "url":"https://www.thepaper.cn/newsDetail_forward_8006735"
-    },
-    {
-      "name":"南京抗癌爷爷14年创作近300首民歌，用音乐疗愈人生",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8008518"
     }
   ]
 }
