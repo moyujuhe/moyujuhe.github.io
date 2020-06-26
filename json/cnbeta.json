@@ -1,10 +1,18 @@
 {
-  "time":"2020-06-26 09:08:11",
+  "time":"2020-06-26 09:12:22",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"[图].NET 5.0预览版6发布：Windows ARM64设备支持Windows Forms",
+      "url":"https://www.cnbeta.com/articles/tech/995737.htm"
+    },
+    {
+      "name":"美CDC将3种新冠症状添加到其官方列表中",
+      "url":"https://www.cnbeta.com/articles/tech/995735.htm"
     },
     {
       "name":"[图]苹果将允许你移植Chrome扩展程序到Safari",
@@ -233,14 +241,6 @@
     {
       "name":"阿里巴巴：软银仍然有权提名一名董事进入董事会",
       "url":"https://www.cnbeta.com/articles/tech/995621.htm"
-    },
-    {
-      "name":"深圳厂商成功破解iOS13音频共享功能 非AirPods也能同时连接",
-      "url":"https://www.cnbeta.com/articles/tech/995619.htm"
-    },
-    {
-      "name":"[图]realme Buds Q真无线耳机发布：20小时续航 约合187元",
-      "url":"https://www.cnbeta.com/articles/tech/995617.htm"
     }
   ]
 }
