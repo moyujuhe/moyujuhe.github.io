@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 05:47:37",
+  "time":"2020-06-27 05:51:54",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美国累计新冠确诊病例超245万例，死亡超12万例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8016213"
+    },
     {
       "name":"世卫组织：全球正以前所未有的速度研发新冠疫苗",
       "url":"https://www.thepaper.cn/newsDetail_forward_8012496"
@@ -77,10 +81,6 @@
     {
       "name":"安徽第一城合肥与第二城芜湖间终于有了直达高铁",
       "url":"https://www.thepaper.cn/newsDetail_forward_8012208"
-    },
-    {
-      "name":"美军出动2个航母战斗群，3航母部署朝鲜半岛周边",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8012268"
     }
   ]
 }
