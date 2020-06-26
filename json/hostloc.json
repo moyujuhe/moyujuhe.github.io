@@ -1,9 +1,13 @@
 {
-  "time":"2020-06-26 15:54:36",
+  "time":"2020-06-26 15:58:53",
   "title":"全球主机交流论坛",
   "data":[
     {
-      "name":"CloudFlare自定义界面分享",
+      "name":"收GGC年付 HK-Global",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708544&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
+    {
+      "name":"CloudFlare自定义界面分享（翻译原版）",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708543&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
@@ -105,10 +109,6 @@
     {
       "name":"各位大佬的玉米都在哪里放着",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708515&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"大家都取消机器了  国际网速好转了吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708514&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
