@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 06:00:05",
+  "time":"2020-06-27 06:30:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"【微软宣布将永久关闭全球所有线下零售店】在过去十年左右的时间里，微软开始扩大其零售业务，以努力打造类似于苹果公司提供的购物体验。",
+      "url":"https://tech.sina.com.cn/it/2020-06-26/doc-iircuyvk0579157.shtml"
+    },
     {
       "name":"公众号最受关注的几个问题，微信正面回答了",
       "url":"https://www.ifanr.com/1346275?utm_source=rss&utm_medium=rss&utm_campaign="
@@ -97,10 +101,6 @@
     {
       "name":"iOS 14 太像 Android ？这好像也没什么不好",
       "url":"https://www.ifanr.com/1346951?utm_source=rss&utm_medium=rss&utm_campaign="
-    },
-    {
-      "name":"【一个靠谱的老板有多重要？看看利物浦的夺冠故事就懂了】除了一个德国教练，在这样一个历史性的时刻，你恐怕无论如何不能回避一个美国老板连同他身边的英国总监以及其他幕僚的存在。",
-      "url":"http://www.thepaper.cn/newsDetail_forward_8008065"
     }
   ]
 }
