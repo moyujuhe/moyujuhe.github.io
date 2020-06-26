@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-27 01:34:25",
+  "time":"2020-06-27 01:38:51",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"Google Meet将为教育用户增加49用户平铺布局和背景模糊等功能",
+      "url":"https://www.cnbeta.com/articles/soft/996025.htm"
     },
     {
       "name":"HPC 2U服务器提供两个A64FX节点 售价4万美元",
@@ -237,10 +241,6 @@
     {
       "name":"谷歌拓展地图与搜索服务 拉近用户与企业的距离",
       "url":"https://www.cnbeta.com/articles/tech/995909.htm"
-    },
-    {
-      "name":"Windows 10 2004触屏驱动Bug导致系统托盘图标随机乱舞",
-      "url":"https://www.cnbeta.com/articles/tech/995907.htm"
     }
   ]
 }
