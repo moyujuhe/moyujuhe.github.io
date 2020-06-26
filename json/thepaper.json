@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-26 16:16:41",
+  "time":"2020-06-26 16:21:15",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"北京通报新增11例确诊病例详情：最大62岁，最小24岁",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8009283"
+    },
     {
       "name":"北京一病例核酸检测阴性但抗体检测阳性，后被确诊",
       "url":"https://www.thepaper.cn/newsDetail_forward_8009243"
@@ -77,10 +81,6 @@
     {
       "name":"55名留学人员搭乘临时航班自符拉迪沃斯托克飞往福州",
       "url":"https://www.thepaper.cn/newsDetail_forward_8008967"
-    },
-    {
-      "name":"IMF：在巨大不确定性影响下，金融市场表现与实体经济脱节",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8009163"
     }
   ]
 }
