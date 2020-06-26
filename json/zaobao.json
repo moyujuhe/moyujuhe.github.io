@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-26 09:29:31",
+  "time":"2020-06-26 09:33:39",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国大陆新增13起确诊 11例为北京本土病例",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064182"
+    },
     {
       "name":"民调：香港民众对反修例抗争支持度减少",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064181"
@@ -77,10 +81,6 @@
     {
       "name":"解放军高层之子称边境冲突中 解放军五人受伤",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063953"
-    },
-    {
-      "name":"消息人士：3亿余港元洗黑钱案与反修例示威有关",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200625-1063948"
     }
   ]
 }
