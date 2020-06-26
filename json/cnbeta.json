@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-27 01:25:50",
+  "time":"2020-06-27 01:30:01",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"HPC 2U服务器提供两个A64FX节点 售价4万美元",
+      "url":"https://www.cnbeta.com/articles/tech/996023.htm"
     },
     {
       "name":"报告显示大部分人愿意分享个人隐私数据以阻止新冠疫情",
@@ -237,10 +241,6 @@
     {
       "name":"Windows 10 2004触屏驱动Bug导致系统托盘图标随机乱舞",
       "url":"https://www.cnbeta.com/articles/tech/995907.htm"
-    },
-    {
-      "name":"《辐射76》首发灾难导致了《毁灭战士：永恒》跳票",
-      "url":"https://hot.cnbeta.com/articles/game/995905.htm"
     }
   ]
 }
