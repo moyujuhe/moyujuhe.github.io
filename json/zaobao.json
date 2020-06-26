@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-26 16:51:52",
+  "time":"2020-06-26 16:56:17",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"澳门相隔78天后再新增冠病确诊病例",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064256"
+    },
     {
       "name":"中国军方公布采购信息 疑似建设核动力航母",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064255"
@@ -77,10 +81,6 @@
     {
       "name":"蓬佩奥：美国和欧盟必须共同应对中国",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064193"
-    },
-    {
-      "name":"印度指中国违反协议在边境集结军队和武器",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064188"
     }
   ]
 }
