@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-26 21:33:45",
+  "time":"2020-06-26 21:46:15",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"瑞幸咖啡两度触发熔断 此前宣布6月29日停牌",
+      "url":"https://tech.sina.com.cn/i/2020-06-26/doc-iircuyvk0575885.shtml"
+    },
     {
       "name":"瑞幸咖啡跌29.3% 此前撤回听证会请求",
       "url":"https://tech.sina.com.cn/i/2020-06-26/doc-iircuyvk0574328.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"眼睛天生会“欺骗”我们？",
       "url":"https://tech.sina.com.cn/d/f/2020-06-26/doc-iircuyvk0479425.shtml"
-    },
-    {
-      "name":"苹果称正努力解决开发者和App Store之间争端",
-      "url":"https://tech.sina.com.cn/it/2020-06-26/doc-iircuyvk0478650.shtml"
     }
   ]
 }
