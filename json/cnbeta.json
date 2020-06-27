@@ -1,10 +1,18 @@
 {
-  "time":"2020-06-27 14:15:16",
+  "time":"2020-06-27 14:19:31",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"苹果专利揭示超薄触摸显示技术：iPhone未来将回归轻薄化",
+      "url":"https://www.cnbeta.com/articles/tech/996199.htm"
+    },
+    {
+      "name":"Windows 10五月更新开始支持Chrome SegmentHeap内存管理优化",
+      "url":"https://www.cnbeta.com/articles/tech/996197.htm"
     },
     {
       "name":"特斯拉内部邮件泄露：8年前就知道电池存在起火隐患 但仍交付新车",
@@ -233,14 +241,6 @@
     {
       "name":"马斯克炮轰贝索斯：亚马逊收购Zoox是在盲目模仿",
       "url":"https://www.cnbeta.com/articles/tech/996083.htm"
-    },
-    {
-      "name":"Jakarta EE 9 Milestone 1 发布 从 javax.* 过渡到 jakarta.*",
-      "url":"https://www.cnbeta.com/articles/soft/996081.htm"
-    },
-    {
-      "name":"可口可乐将从7月1日起暂停在社交媒体平台上投放所有广告",
-      "url":"https://www.cnbeta.com/articles/tech/996079.htm"
     }
   ]
 }
