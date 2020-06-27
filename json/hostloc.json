@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 09:05:14",
+  "time":"2020-06-27 09:09:38",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"打算开始玩笔记本模具系列的“准系统”了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708754&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"【明盘10r出】Gullo's 年付2刀洛杉矶Nat，带IPv6",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708753&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"听说CF个别地区会阻断，付费的会不会阻断？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708721&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"JS指定的来路不跳转  非指定来路就跳转到404或指定页面",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708719&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
