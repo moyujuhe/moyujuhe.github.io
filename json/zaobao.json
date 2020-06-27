@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 18:20:38",
+  "time":"2020-06-27 18:24:54",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京将对美容美发行业进行冠病排查",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064517"
+    },
     {
       "name":"消息：印度已在边境派驻3.6万士兵",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064515"
@@ -77,10 +81,6 @@
     {
       "name":"中国央行处罚新浪支付370万元",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064457"
-    },
-    {
-      "name":"中疾控报告：北京疫情有望得到控制",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064453"
     }
   ]
 }
