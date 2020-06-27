@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 09:38:59",
+  "time":"2020-06-27 09:43:10",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国大陆昨日新增21例确诊者",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064446"
+    },
     {
       "name":"大陆军机本月第九次进入台防空识别区",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064444"
@@ -77,10 +81,6 @@
     {
       "name":"河北男子恶作剧修改检测报告发朋友圈被拘留",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064248"
-    },
-    {
-      "name":"中国官媒报道电影《孙杨传》将开拍 消息随后被撤下",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064246"
     }
   ]
 }
