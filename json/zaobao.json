@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 09:09:44",
+  "time":"2020-06-27 09:13:50",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"瑞幸咖啡下周起在美国纳斯达克停牌",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064434"
+    },
     {
       "name":"欧盟据报接近解除对中国的入境限制",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064431"
@@ -77,10 +81,6 @@
     {
       "name":"华为将在英国建造10亿英镑研发中心",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064232"
-    },
-    {
-      "name":"再有大陆军机飞过台湾周围空域",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064228"
     }
   ]
 }
