@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 23:43:14",
+  "time":"2020-06-27 23:47:35",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"CentOS是不是不把内核更新到最新就不安全",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709037&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"这就跟上大学一样啊",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709036&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"这是哪家啊月月扣费",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709007&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"suffocating",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709006&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
