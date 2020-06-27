@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 13:00:53",
+  "time":"2020-06-27 13:05:12",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国驻美使馆指责美国因香港问题对中国官员实施签证限制",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064472"
+    },
     {
       "name":"部分美食品商据悉因中国疫情限制放弃对华出口",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064468"
@@ -77,10 +81,6 @@
     {
       "name":"中国疾控中心：北京6月疫情排除武汉流行毒株或动物病毒外溢导致",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064270"
-    },
-    {
-      "name":"中国军方在社交平台发布高原训练和实弹射击考核照片",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064264"
     }
   ]
 }
