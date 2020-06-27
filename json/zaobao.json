@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 07:58:08",
+  "time":"2020-06-27 08:02:19",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"美国对涉及香港问题的中国官员实施签证限制",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064429"
+    },
     {
       "name":"港府强烈反对美制裁法案 指无法律效力",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064428"
@@ -77,10 +81,6 @@
     {
       "name":"中国将推动制定粽子国际标准",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064219"
-    },
-    {
-      "name":"基本法委员会副主任：全国人大常委通过香港国安法草案机会很大",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064211"
     }
   ]
 }
