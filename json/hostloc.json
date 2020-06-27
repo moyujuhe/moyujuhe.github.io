@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 23:47:35",
+  "time":"2020-06-27 23:51:44",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"学习真的很重要",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709038&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"CentOS是不是不把内核更新到最新就不安全",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709037&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"（随缘收）明盘溢价200收GGC 贴一个骗子大家注意安全",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709008&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"这是哪家啊月月扣费",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709007&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
