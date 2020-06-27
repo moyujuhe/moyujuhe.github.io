@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-28 07:22:49",
+  "time":"2020-06-28 07:35:43",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"Facebook遭广告商集体抵制 扎克伯格资产骤减70亿美元",
+      "url":"https://tech.sina.com.cn/i/2020-06-28/doc-iirczymk9269725.shtml"
+    },
     {
       "name":"继可口可乐后，传百事也加入抵制Facebook广告行列",
       "url":"https://tech.sina.com.cn/i/2020-06-28/doc-iirczymk9268703.shtml"
@@ -21,6 +25,10 @@
     {
       "name":"日本开发出可与智能手机配合使用的智能口罩",
       "url":"https://tech.sina.com.cn/mobile/n/n/2020-06-28/doc-iirczymk9188158.shtml"
+    },
+    {
+      "name":"滴滴上线自动驾驶服务 程维:至少还需要10年持续投入",
+      "url":"https://tech.sina.com.cn/roll/2020-06-28/doc-iirczymk9264134.shtml"
     },
     {
       "name":"就得买贵的 3000元的按摩椅为什么不推荐你买",
@@ -193,14 +201,6 @@
     {
       "name":"下一次SpaceX发射包括57颗星链卫星 全部配备遮阳板",
       "url":"https://tech.sina.com.cn/roll/2020-06-27/doc-iirczymk9140885.shtml"
-    },
-    {
-      "name":"谁能看见紫外光+绿光？",
-      "url":"https://tech.sina.com.cn/d/a/2020-06-27/doc-iirczymk9150104.shtml"
-    },
-    {
-      "name":"如何给太阳做“CT”？",
-      "url":"https://tech.sina.com.cn/d/s/2020-06-27/doc-iircuyvk0621831.shtml"
     }
   ]
 }

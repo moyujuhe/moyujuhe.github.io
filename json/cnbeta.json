@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-28 07:32:01",
+  "time":"2020-06-28 07:36:17",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"WiFi 6比WiFi 5强在哪儿？看完就知道",
+      "url":"https://www.cnbeta.com/articles/tech/996315.htm"
     },
     {
       "name":"Linux Mint 20 “Ulyana” 正式版发布",
@@ -237,10 +241,6 @@
     {
       "name":"苹果专利揭示超薄触摸显示技术：iPhone未来将回归轻薄化",
       "url":"https://www.cnbeta.com/articles/tech/996199.htm"
-    },
-    {
-      "name":"Windows 10五月更新开始支持Chrome SegmentHeap内存管理优化",
-      "url":"https://www.cnbeta.com/articles/tech/996197.htm"
     }
   ]
 }
