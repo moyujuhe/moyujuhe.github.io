@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-28 02:37:09",
+  "time":"2020-06-28 02:41:26",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"Linux Mint 20 “Ulyana” 正式版发布",
+      "url":"https://www.cnbeta.com/articles/tech/996313.htm"
     },
     {
       "name":"腾讯技术DEMO《代号：SYN》公布 融合东亚潮流文化的赛博朋克",
@@ -237,10 +241,6 @@
     {
       "name":"Windows 10五月更新开始支持Chrome SegmentHeap内存管理优化",
       "url":"https://www.cnbeta.com/articles/tech/996197.htm"
-    },
-    {
-      "name":"特斯拉内部邮件泄露：8年前就知道电池存在起火隐患 但仍交付新车",
-      "url":"https://www.cnbeta.com/articles/tech/996195.htm"
     }
   ]
 }
