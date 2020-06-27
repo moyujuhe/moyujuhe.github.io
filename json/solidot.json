@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 21:14:19",
+  "time":"2020-06-27 21:19:04",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Tor 项目呼吁维基百科解除对 Tor 编辑的限制",
+      "url":"https://www.solidot.org/story?sid=64776"
+    },
     {
       "name":"美国波士顿禁止政府使用面部识别技术",
       "url":"https://www.solidot.org/story?sid=64775"
@@ -77,10 +81,6 @@
     {
       "name":"Microsoft Edge 被指悄悄导入了 Firefox 数据",
       "url":"https://www.solidot.org/story?sid=64757"
-    },
-    {
-      "name":"美国政府认为对华为的最新禁令已无漏洞",
-      "url":"https://www.solidot.org/story?sid=64756"
     }
   ]
 }
