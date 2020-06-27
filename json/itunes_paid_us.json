@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-06-27 18:16:20",
+  "time":"2020-06-27 18:20:34",
   "data":[
     {
       "name":"Minecraft",
@@ -300,7 +300,7 @@
       "name":"Crying Suns",
       "url":"https://apps.apple.com/us/app/crying-suns/id1511788295?uo=4",
       "num":"Games",
-      "description":"最新版本:  1.4.0\n更新时间:  2020-06-25 20:17:51 (北京时间)\n\n"
+      "description":"最新版本:  1.4.1\n更新时间:  2020-06-27 17:43:55 (北京时间)\n\n- Fix on a freeze occuring on splash screen at launch, related to Game Center feature\n- Fix on Japanese language detection\n- Memory optimization to improve stability\n- Various bug fixes"
     },
     {
       "name":"Forest - Stay focused",
