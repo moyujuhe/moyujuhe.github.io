@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-27 08:40:06",
+  "time":"2020-06-27 08:44:17",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"美国波士顿禁止政府使用面部识别技术",
+      "url":"https://www.solidot.org/story?sid=64775"
+    },
+    {
+      "name":"Sci-Hub 通过比特币获得捐赠",
+      "url":"https://www.solidot.org/story?sid=64774"
+    },
     {
       "name":"Julian Assange 被控与匿名黑客组织合谋",
       "url":"https://www.solidot.org/story?sid=64773"
@@ -73,14 +81,6 @@
     {
       "name":"美国政府认为对华为的最新禁令已无漏洞",
       "url":"https://www.solidot.org/story?sid=64756"
-    },
-    {
-      "name":"欧盟承认 GDPR 实施有难度",
-      "url":"https://www.solidot.org/story?sid=64755"
-    },
-    {
-      "name":"BlueLeaks 曝光美国警察局档案",
-      "url":"https://www.solidot.org/story?sid=64754"
     }
   ]
 }
