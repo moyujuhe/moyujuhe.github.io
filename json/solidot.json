@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-27 22:36:46",
+  "time":"2020-06-27 22:45:35",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"黑洞合并可能产生了光以及引力波",
+      "url":"https://www.solidot.org/story?sid=64778"
+    },
+    {
+      "name":"微软以避免混淆为由移除手动推迟 Windows Update",
+      "url":"https://www.solidot.org/story?sid=64777"
+    },
     {
       "name":"Tor 项目呼吁维基百科解除对 Tor 编辑的限制",
       "url":"https://www.solidot.org/story?sid=64776"
@@ -73,14 +81,6 @@
     {
       "name":"微软安全软件加入对 Linux 和 Android 的支持",
       "url":"https://www.solidot.org/story?sid=64759"
-    },
-    {
-      "name":"乔治 R. R. 马丁公布《凛冬的寒风》最新进度",
-      "url":"https://www.solidot.org/story?sid=64758"
-    },
-    {
-      "name":"Microsoft Edge 被指悄悄导入了 Firefox 数据",
-      "url":"https://www.solidot.org/story?sid=64757"
     }
   ]
 }
