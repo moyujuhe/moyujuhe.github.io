@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 22:36:45",
+  "time":"2020-06-27 22:41:19",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"新闻分析：西班牙从去年3月废水中检出新冠病毒意味着什么",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8021742"
+    },
     {
       "name":"马克龙：欧洲对俄罗斯敌对政策已失效，将尽快访俄",
       "url":"https://www.thepaper.cn/newsDetail_forward_8021453"
@@ -77,10 +81,6 @@
     {
       "name":"外国诗歌｜佩索阿现代诗歌精选十首",
       "url":"https://www.thepaper.cn/newsDetail_forward_8016519"
-    },
-    {
-      "name":"安徽科技学院何时更名大学？官方：现有条件与设置标准有差距",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8021071"
     }
   ]
 }
