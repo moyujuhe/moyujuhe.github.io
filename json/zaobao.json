@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 12:39:08",
+  "time":"2020-06-27 12:43:26",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"部分美食品商据悉因中国疫情限制放弃对华出口",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064468"
+    },
     {
       "name":"中国今明两日强降雨达鼎盛 或引发洪涝等灾",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064464"
@@ -77,10 +81,6 @@
     {
       "name":"中国军方在社交平台发布高原训练和实弹射击考核照片",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064264"
-    },
-    {
-      "name":"港教育局：立法后会研究向学生介绍香港国安法的方式",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064262"
     }
   ]
 }
