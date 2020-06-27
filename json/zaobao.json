@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 13:40:38",
+  "time":"2020-06-27 13:44:54",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"广西逾29万因暴雨受灾用户全部恢复供电",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064473"
+    },
     {
       "name":"中国驻美使馆指责美国对中国官员实施签证限制",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064472"
@@ -77,10 +81,6 @@
     {
       "name":"中国端午小长假第二天接待国内游客比首日增逾14%",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064272"
-    },
-    {
-      "name":"中国疾控中心：北京6月疫情排除武汉流行毒株或动物病毒外溢导致",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064270"
     }
   ]
 }
