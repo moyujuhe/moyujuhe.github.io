@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 10:45:38",
+  "time":"2020-06-27 11:00:05",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"Android 12曝光：谷歌欲全面抛弃对32位的支持",
+      "url":"https://tech.sina.com.cn/roll/2020-06-27/doc-iircuyvk0619485.shtml"
+    },
     {
       "name":"陆正耀遭弹劾，“铁三角”反目，瑞幸退市前夜风云突变",
       "url":"https://tech.sina.com.cn/i/2020-06-27/doc-iirczymk9160974.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"Wirecard丑闻引发欧盟关注 称将调查德国监管机构BaFin",
       "url":"https://tech.sina.com.cn/it/2020-06-26/doc-iirczymk9086518.shtml"
-    },
-    {
-      "name":"58同城2020年第一季度营收25.603亿元 同比下降15.5%",
-      "url":"https://tech.sina.com.cn/i/2020-06-26/doc-iircuyvk0558861.shtml"
     }
   ]
 }
