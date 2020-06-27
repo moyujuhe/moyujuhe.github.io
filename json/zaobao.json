@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 10:47:31",
+  "time":"2020-06-27 10:52:02",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中疾控报告：北京疫情有望得到控制",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064453"
+    },
     {
       "name":"阿里旗下来赞达CEO更换 新任者曾负责印度尼西亚业务",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064450"
@@ -77,10 +81,6 @@
     {
       "name":"清华设人工智能国际治理研究院 傅莹任名誉院长",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064251"
-    },
-    {
-      "name":"立法会议员李慧琼引述政务司长：港版健康码筹备工作接近完成阶段",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064250"
     }
   ]
 }
