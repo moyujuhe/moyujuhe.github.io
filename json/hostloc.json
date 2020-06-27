@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 10:30:10",
+  "time":"2020-06-27 10:34:18",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"试水lightsail NAT 小鸡，512m只要15一年",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708778&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"不懂就问系列：请问大佬tiktok国内如何上传视频？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708777&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -101,10 +105,6 @@
     {
       "name":"为什么GitHub在大陆已经被完全劫持但是我还能正常访问呢",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708748&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"有人在电厂工作吗？待遇如何？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=708747&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
