@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 11:00:33",
+  "time":"2020-06-27 11:04:43",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国央行处罚新浪支付370万元",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064457"
+    },
     {
       "name":"中疾控报告：北京疫情有望得到控制",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064453"
@@ -77,10 +81,6 @@
     {
       "name":"中国军方公布采购信息 疑似建设核动力航母",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064255"
-    },
-    {
-      "name":"清华设人工智能国际治理研究院 傅莹任名誉院长",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064251"
     }
   ]
 }
