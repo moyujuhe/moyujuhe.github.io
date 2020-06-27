@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 14:56:25",
+  "time":"2020-06-27 15:05:59",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"四川冕宁特大暴雨致三人死亡 12人失联",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064489"
+    },
     {
       "name":"滴滴首次面向公众开放自动驾驶服务",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064478"
@@ -77,10 +81,6 @@
     {
       "name":"美国对涉及香港问题的中国官员实施签证限制",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064429"
-    },
-    {
-      "name":"港府强烈反对美制裁法案 指无法律效力",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064428"
     }
   ]
 }
