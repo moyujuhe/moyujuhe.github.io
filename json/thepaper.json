@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-28 05:24:58",
+  "time":"2020-06-28 05:29:09",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美国新冠肺炎确诊病例突破250万",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8024687"
+    },
     {
       "name":"首个周末6.5万张机票兑换，东航“随心飞”热销！",
       "url":"https://www.thepaper.cn/newsDetail_forward_8021735"
@@ -77,10 +81,6 @@
     {
       "name":"商务部：将举办全国农商互联助农直播带货大赛",
       "url":"https://www.thepaper.cn/newsDetail_forward_8021555"
-    },
-    {
-      "name":"302名NBA球员接受核酸检测，16人呈阳",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8021576"
     }
   ]
 }
