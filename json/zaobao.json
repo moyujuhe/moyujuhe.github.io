@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-27 08:56:57",
+  "time":"2020-06-27 09:01:02",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"欧盟据报接近解除对中国的入境限制",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064431"
+    },
     {
       "name":"越南和菲律宾领导人对南中国海紧张局势提出警告",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064430"
@@ -77,10 +81,6 @@
     {
       "name":"再有大陆军机飞过台湾周围空域",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064228"
-    },
-    {
-      "name":"香港警方禁止七一集会及反对游行",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200626-1064215"
     }
   ]
 }
