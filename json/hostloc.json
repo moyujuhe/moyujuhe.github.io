@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-28 12:58:02",
+  "time":"2020-06-28 13:02:14",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"已向华为云反馈cdn无限流量的漏洞",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709171&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"200重新收hetzner账户",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709169&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"农村自建民房网络布线疑问",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709133&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"loc现在是不是00后特别多？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709132&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
