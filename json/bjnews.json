@@ -1,5 +1,5 @@
 {
-  "time":"2020-06-28 15:56:44",
+  "time":"2020-06-28 16:01:17",
   "title":"新京报-排行",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"申纪兰逝世",
       "url":"http://www.bjnews.com.cn/feature/2020/06/28/742831.html"
+    },
+    {
+      "name":"国际丨一家28口全患新冠：几天内接连中招 感染源不明",
+      "url":"http://www.bjnews.com.cn/wevideo/2020/06/28/742874.html"
     },
     {
       "name":"国际丨美国一记者确诊感染新冠病毒 曾参加特朗普集会",
@@ -23,20 +27,16 @@
       "url":"http://www.bjnews.com.cn/feature/2020/06/27/742759.html"
     },
     {
-      "name":"疑似国科大学生发表不当言论 校方：已成立调查组",
-      "url":"http://www.bjnews.com.cn/news/2020/06/27/742743.html"
-    },
-    {
       "name":"网传厦大学生发表不当言论 校方：该生否认并报警",
       "url":"http://www.bjnews.com.cn/news/2020/06/28/742804.html"
     },
     {
-      "name":"一图速览北京26日新增病例详情",
-      "url":"http://www.bjnews.com.cn/news/2020/06/27/742737.html"
+      "name":"疑似国科大学生发表不当言论 校方：已成立调查组",
+      "url":"http://www.bjnews.com.cn/news/2020/06/27/742743.html"
     },
     {
-      "name":"上海警察披露卡姆涉毒内幕：与一起特大贩毒案有关",
-      "url":"http://www.bjnews.com.cn/video/2020/06/27/742718.html"
+      "name":"一图速览北京26日新增病例详情",
+      "url":"http://www.bjnews.com.cn/news/2020/06/27/742737.html"
     },
     {
       "name":"一图速览│6月28日北京疫情早报",
@@ -83,10 +83,6 @@
       "url":"http://www.bjnews.com.cn/news/2020/06/24/742171.html"
     },
     {
-      "name":"民法典审议通过：以人民名义，铸权利法典",
-      "url":"http://www.bjnews.com.cn/opinion/2020/05/28/732422.html"
-    },
-    {
       "name":"美国“黑人之死”4名涉事警察均被捕 指控罪名升级",
       "url":"http://www.bjnews.com.cn/video/2020/06/04/734699.html"
     },
@@ -121,6 +117,10 @@
     {
       "name":"北京：14天内出入新发地12973人核酸阴性",
       "url":"http://www.bjnews.com.cn/wevideo/2020/06/15/738345.html"
+    },
+    {
+      "name":"昨日新增本土病例38例，北京36例辽宁2例",
+      "url":"http://www.bjnews.com.cn/news/2020/06/14/738054.html"
     }
   ]
 }
