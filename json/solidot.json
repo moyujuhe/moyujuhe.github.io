@@ -1,7 +1,27 @@
 {
-  "time":"2020-06-28 16:36:27",
+  "time":"2020-06-28 16:40:38",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"大量广告商暂停社交媒体广告",
+      "url":"https://www.solidot.org/story?sid=64783"
+    },
+    {
+      "name":"Comcast 和 Mozilla 在 DoH 上合作",
+      "url":"https://www.solidot.org/story?sid=64782"
+    },
+    {
+      "name":"加州旧金山承认向勒索软件支付了超过百万美元赎金",
+      "url":"https://www.solidot.org/story?sid=64780"
+    },
+    {
+      "name":"数据公司利用手机数据对抗议者进行人口统计分析",
+      "url":"https://www.solidot.org/story?sid=64781"
+    },
+    {
+      "name":"TikTok 等应用被指监视剪贴板内容",
+      "url":"https://www.solidot.org/story?sid=64779"
+    },
     {
       "name":"黑洞合并可能产生了光以及引力波",
       "url":"https://www.solidot.org/story?sid=64778"
@@ -61,26 +81,6 @@
     {
       "name":"西部数据推出不使用 SMR 技术的 WD Red Plus 硬盘产品",
       "url":"https://www.solidot.org/story?sid=64764"
-    },
-    {
-      "name":"摩洛哥记者手机被秘密植入 NSO 的间谍软件",
-      "url":"https://www.solidot.org/story?sid=64763"
-    },
-    {
-      "name":"苹果中国应用商店将下架数千未获版号的手游",
-      "url":"https://www.solidot.org/story?sid=64762"
-    },
-    {
-      "name":"赛格威停产赛格威",
-      "url":"https://www.solidot.org/story?sid=64761"
-    },
-    {
-      "name":"Safari 屏蔽 Google Analytics",
-      "url":"https://www.solidot.org/story?sid=64760"
-    },
-    {
-      "name":"微软安全软件加入对 Linux 和 Android 的支持",
-      "url":"https://www.solidot.org/story?sid=64759"
     }
   ]
 }
