@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-28 10:14:54",
+  "time":"2020-06-28 10:19:08",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"iOS/iPadOS 14支持APFS加密磁盘 macOS Big Sur支持APFS时间机器备份",
+      "url":"https://www.cnbeta.com/articles/tech/996399.htm"
     },
     {
       "name":"科学家观测到中子星与黑洞碰撞产生的引力波",
@@ -237,10 +241,6 @@
     {
       "name":"日媒：十年投资8000亿 中国清华紫光自研内存2022年问世",
       "url":"https://www.cnbeta.com/articles/tech/996283.htm"
-    },
-    {
-      "name":"更完美的5G来了 联通首批商用SA站点成功入网",
-      "url":"https://www.cnbeta.com/articles/tech/996281.htm"
     }
   ]
 }
