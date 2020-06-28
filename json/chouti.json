@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-28 16:00:05",
+  "time":"2020-06-28 16:10:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"【500美元就能“买”一台ARM架构的Mac尝鲜了？】很遗憾地告诉你，这第一台内置最新苹果定制芯片的 Mac，并不像你想象的那样。",
+      "url":"https://mp.weixin.qq.com/s/y4rGNT7m1OnPbdC2vRFJ_g"
+    },
     {
       "name":"【中国酒企冲进威士忌市场，它们在着急什么？】对于中国市场上的本土酒企而言，威士忌这个增长迅速且毛利较高的烈酒产品有足够的吸引力，也可能是未来新的增长引擎。但威士忌的酿造方式决定了投资回报较慢，这对于现金流不稳固的酒企而言，可能是个不小的负担。",
       "url":"https://www.cbndata.com/information/70604?utm_source=banner&utm_medium=weishiji0628&utm_campaign=xfz"
@@ -85,10 +89,6 @@
     {
       "name":"开箱169元\"小米屏幕挂灯\"：不输千元挂灯！",
       "url":"https://www.bilibili.com/video/BV1Fz411v7Vj"
-    },
-    {
-      "name":"德剧《暗黑》官方可视化解析，特别好～",
-      "url":"https://darknetflix.io/en"
     }
   ]
 }
