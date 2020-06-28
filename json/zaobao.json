@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-28 09:27:23",
+  "time":"2020-06-28 09:31:39",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"一大陆旅客在香港机场滞留逾14天",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064672"
+    },
     {
       "name":"大陆昨天新增确诊病例17例",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064671"
@@ -77,10 +81,6 @@
     {
       "name":"美议员提案：让政府人员到台湾交流以强化美台关系",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064493"
-    },
-    {
-      "name":"四川冕宁特大暴雨致三人死亡 12人失联",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064489"
     }
   ]
 }
