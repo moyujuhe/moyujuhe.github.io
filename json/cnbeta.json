@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-28 19:29:55",
+  "time":"2020-06-28 19:34:29",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"DNS 作者谈其起源和现状",
+      "url":"https://www.cnbeta.com/articles/tech/996535.htm"
     },
     {
       "name":"4S店账单备注\"此客户媒体人物 爱贪便宜\" 车主看后气炸",
@@ -237,10 +241,6 @@
     {
       "name":"荣耀X10 Max？华为新机现身：天玑800+8GB内存",
       "url":"https://www.cnbeta.com/articles/tech/996419.htm"
-    },
-    {
-      "name":"小米MIUI 12稳定版正式开启全量推送：首批支持13款",
-      "url":"https://www.cnbeta.com/articles/tech/996417.htm"
     }
   ]
 }
