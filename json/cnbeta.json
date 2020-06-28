@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-28 11:27:39",
+  "time":"2020-06-28 11:32:00",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"[图]8核16线程Rocket Lake处理器跑分曝光：OpenCL成绩令人失望",
+      "url":"https://www.cnbeta.com/articles/tech/996445.htm"
     },
     {
       "name":"部分银行为兼容老旧XP/IE6 篡改设置取消浏览器高版本TLS安全协议",
@@ -237,10 +241,6 @@
     {
       "name":"[图]iOS和iPadOS端Facebook开始部署深色模式",
       "url":"https://www.cnbeta.com/articles/tech/996329.htm"
-    },
-    {
-      "name":"部分婚恋平台实名账户可定制 买家多为境外“杀猪盘”",
-      "url":"https://www.cnbeta.com/articles/tech/996327.htm"
     }
   ]
 }
