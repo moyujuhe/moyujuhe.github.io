@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-29 07:12:24",
+  "time":"2020-06-29 07:16:35",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"PuTTY 0.74 正式版发布 SSH/Telnet 程序",
+      "url":"https://www.cnbeta.com/articles/soft/996609.htm"
     },
     {
       "name":"微软官方实锤！这就是下一版Windows 10的开始菜单",
@@ -237,10 +241,6 @@
     {
       "name":"三星M01 Core已获Wi-Fi联盟认证 或将于下半年上市",
       "url":"https://www.cnbeta.com/articles/tech/996493.htm"
-    },
-    {
-      "name":"\"玉兔二号\"完成第十九月昼工作 累计行驶463.26米",
-      "url":"https://www.cnbeta.com/articles/tech/996491.htm"
     }
   ]
 }
