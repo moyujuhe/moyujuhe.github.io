@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-29 05:19:21",
+  "time":"2020-06-29 05:23:29",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"南非新增新冠肺炎确诊病例6334例，累计138134例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8031587"
+    },
     {
       "name":"土耳其新增新冠肺炎确诊病例1356例，累计197239例",
       "url":"https://www.thepaper.cn/newsDetail_forward_8031376"
@@ -77,10 +81,6 @@
     {
       "name":"英国内政大臣：任何袭击警察的人都将“面临法律的全部力量”",
       "url":"https://www.thepaper.cn/newsDetail_forward_8027886"
-    },
-    {
-      "name":"都江堰警方通报：越野车坠河致3人失踪交通事故系刑案",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8027876"
     }
   ]
 }
