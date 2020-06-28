@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-28 09:01:50",
+  "time":"2020-06-28 09:06:02",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"GCP是浮动IP？重启后IP变了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709075&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"权重1的小站来换友链啦",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709074&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"Google Drive 同步最大下载速度",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709046&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"WX视频号终于还是上线了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709045&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
