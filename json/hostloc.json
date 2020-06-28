@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-28 19:04:16",
+  "time":"2020-06-28 19:08:32",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"玛德 腾讯智障，辅助验证结果是对的也给你出验证失败",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709317&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"华为云CDN无限流量漏洞反馈被否定了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709316&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"坐在旁边的同事，天天炫耀他的房子涨到650万了，神烦",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709287&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"esxi 7  支持软raid 方式安装么",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709286&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
