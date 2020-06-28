@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-29 02:17:59",
+  "time":"2020-06-29 02:22:18",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"巴基斯坦新增新冠确诊病例4072例，累计205532例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8028447"
+    },
     {
       "name":"北京海淀区玉泉东市场周边10个社区解除封闭管控",
       "url":"https://www.thepaper.cn/newsDetail_forward_8028230"
@@ -77,10 +81,6 @@
     {
       "name":"戴口罩很重要：北京通报一例长期不戴口罩确诊病例",
       "url":"https://www.thepaper.cn/newsDetail_forward_8027811"
-    },
-    {
-      "name":"沙特新增新冠肺炎确诊病例3989例，累计逾18万例",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8027807"
     }
   ]
 }
