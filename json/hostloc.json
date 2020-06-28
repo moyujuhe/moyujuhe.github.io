@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-28 10:06:24",
+  "time":"2020-06-28 10:10:44",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"n1能不能安装win来挂机?",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709110&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"百度网盘官方linux版有命令行操作么？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709109&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"我朋友入股一个公司了 但是没给钱 是什么套路？？？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709077&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"GCP是浮动IP？重启后IP变了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709075&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
