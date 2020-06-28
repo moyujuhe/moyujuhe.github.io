@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-28 07:57:59",
+  "time":"2020-06-28 08:02:13",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"端午假期中国国内游客同比恢复50.9%",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064652"
+    },
     {
       "name":"人大常委会今起一连三日开会 或审议香港国安法",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064651"
@@ -77,10 +81,6 @@
     {
       "name":"广西逾29万因暴雨受灾用户全部恢复供电",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064473"
-    },
-    {
-      "name":"中国驻美使馆指责美国对中国官员实施签证限制",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064472"
     }
   ]
 }
