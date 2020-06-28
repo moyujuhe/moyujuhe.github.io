@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-28 18:51:02",
+  "time":"2020-06-28 18:55:39",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"【E5利用】Microsoft 365 搭建邮局|设置catch-all邮箱",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709311&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"开了个美国旧金山的DigitalOcean慢到怀疑人生",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709310&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"收到微软发来的OD文件侵权邮件",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709281&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"现在卖鸡都只保障11.4514% 的SLA啦",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709280&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }

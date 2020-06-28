@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-28 18:50:57",
+  "time":"2020-06-28 18:55:34",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"DNS 作者谈其起源和现状",
+      "url":"https://www.solidot.org/story?sid=64784"
+    },
     {
       "name":"大量广告商暂停社交媒体广告",
       "url":"https://www.solidot.org/story?sid=64783"
@@ -77,10 +81,6 @@
     {
       "name":"中国向非洲提供的奖学金名额超过西方",
       "url":"https://www.solidot.org/story?sid=64765"
-    },
-    {
-      "name":"西部数据推出不使用 SMR 技术的 WD Red Plus 硬盘产品",
-      "url":"https://www.solidot.org/story?sid=64764"
     }
   ]
 }
