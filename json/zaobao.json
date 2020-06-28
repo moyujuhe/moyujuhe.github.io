@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-28 14:20:51",
+  "time":"2020-06-28 14:25:11",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国三大航空央企接收首架国产飞机ARJ21",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064699"
+    },
     {
       "name":"兰州大学校领导赴京看望温家宝",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064698"
@@ -77,10 +81,6 @@
     {
       "name":"端午假期中国国内游客同比恢复50.9%",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064652"
-    },
-    {
-      "name":"人大常委会今起一连三日开会 或审议香港国安法",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064651"
     }
   ]
 }
