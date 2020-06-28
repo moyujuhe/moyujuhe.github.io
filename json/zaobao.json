@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-28 09:10:27",
+  "time":"2020-06-28 09:14:39",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"大陆昨天新增确诊病例17例",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064671"
+    },
     {
       "name":"美对中国官员实施签证限制 驻港公署：停止霸凌行径",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064670"
@@ -77,10 +81,6 @@
     {
       "name":"四川冕宁特大暴雨致三人死亡 12人失联",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064489"
-    },
-    {
-      "name":"滴滴首次面向公众开放自动驾驶服务",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200627-1064478"
     }
   ]
 }
