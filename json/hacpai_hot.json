@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-06-28 10:36:23",
+  "time":"2020-06-28 10:40:38",
   "data":[
     {
       "name":"你对你的未来惶恐过吗？",
@@ -171,6 +171,10 @@
       "url":"https://hacpai.com/article/1590997480566"
     },
     {
+      "name":"关于儿童普遍近视成因的谣言，以及近视的真正成因",
+      "url":"https://hacpai.com/article/1593156934639"
+    },
+    {
       "name":"黑客派野生客户端 V1.2 发布",
       "url":"https://hacpai.com/article/1592933257277"
     },
@@ -237,10 +241,6 @@
     {
       "name":"一道另类却简单粗暴的解密题目",
       "url":"https://hacpai.com/article/1591454718604"
-    },
-    {
-      "name":"solo 搭建后访问域名报错 404，怎么搞？",
-      "url":"https://hacpai.com/article/1591284631277"
     }
   ]
 }
