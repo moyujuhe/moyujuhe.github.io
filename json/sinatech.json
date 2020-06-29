@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 00:40:13",
+  "time":"2020-06-30 02:44:29",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"数字经济下如何加快数据共享",
+      "url":"https://tech.sina.com.cn/it/2020-06-30/doc-iirczymk9629455.shtml"
+    },
     {
       "name":"京东方A拟投上百亿进物联网 成都高新区60亿项目领衔",
       "url":"https://tech.sina.com.cn/t/2020-06-30/doc-iircuyvk1098390.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"mRNA疫苗：给病毒画像，让免疫细胞识别",
       "url":"https://tech.sina.com.cn/d/f/2020-06-29/doc-iirczymk9567987.shtml"
-    },
-    {
-      "name":"微信公众号文章底部新增分享和点赞功能",
-      "url":"https://tech.sina.com.cn/2020-06-29/doc-iirczymk9566947.shtml"
     }
   ]
 }
