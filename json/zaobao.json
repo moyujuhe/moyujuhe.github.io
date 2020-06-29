@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 07:13:05",
+  "time":"2020-06-30 07:17:16",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中疾控专家称冠病病毒未发生变异",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065188"
+    },
     {
       "name":"欧盟拟允许14国公民入境 不包括中国",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065186"
@@ -77,10 +81,6 @@
     {
       "name":"高雄市议长妻子与王金平加入国民党市长补选竞选团队",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064980"
-    },
-    {
-      "name":"港警据悉部署近4000警力防7月1日爆发冲突",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064976"
     }
   ]
 }
