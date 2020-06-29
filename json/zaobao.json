@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 07:04:48",
+  "time":"2020-06-30 07:08:54",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"欧盟拟允许14国公民入境 不包括中国",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065186"
+    },
     {
       "name":"日媒：中国立讯正在成为“第二个鸿海”",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065005"
@@ -77,10 +81,6 @@
     {
       "name":"港警据悉部署近4000警力防7月1日爆发冲突",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064976"
-    },
-    {
-      "name":"路透：中国6月官方制造业PMI料略放缓但仍在扩张区间",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064970"
     }
   ]
 }
