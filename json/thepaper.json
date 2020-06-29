@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 02:26:33",
+  "time":"2020-06-30 02:30:44",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"新疆特克斯现大范围降雪降温，牧区近500头只牲畜受冻死亡",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8043677"
+    },
     {
       "name":"伊朗军事检察官发布乌航坠机事件更多细节，导弹操作员已被捕",
       "url":"https://www.thepaper.cn/newsDetail_forward_8043435"
@@ -77,10 +81,6 @@
     {
       "name":"越南多地报告非洲猪瘟疫情",
       "url":"https://www.thepaper.cn/newsDetail_forward_8043378"
-    },
-    {
-      "name":"美特斯邦威创始人回应女儿被限制高消费：尊重法律、敬畏法律",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8043357"
     }
   ]
 }
