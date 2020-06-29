@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 07:29:49",
+  "time":"2020-06-30 07:34:00",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"阿里云续费技巧，解决流量包不到账问题",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709835&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"有个逼没完没了搞我小破站",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709834&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"套路云新手突然可以续费了，有流量包",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709804&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"套路云 可以提前续费",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709803&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
