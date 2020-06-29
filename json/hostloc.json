@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-29 23:05:01",
+  "time":"2020-06-29 23:09:19",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"N3450 小主机刷OpenWRT",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709785&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"提示一下使用onemanager的mjj",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709784&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -79,7 +83,7 @@
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709765&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
-      "name":"明盘30收李家坡2.5",
+      "name":"[已收]明盘30收李家坡2.5",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709764&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     },
     {
@@ -105,10 +109,6 @@
     {
       "name":"各位大佬有没有推荐的指纹锁",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709758&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"收个QN机器",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709756&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
