@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-29 15:24:46",
+  "time":"2020-06-29 15:29:04",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"刚刚电脑竟然死机了，是不是该换电脑了。。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709619&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"搬瓦工这是不能玩了！！！",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709618&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"国内阿里云轻量级和国际版阿里云轻量级区别？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709587&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"万能的MJJ，绿云NVME年付60刀系列如何",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709586&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
