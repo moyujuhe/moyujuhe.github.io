@@ -1,10 +1,18 @@
 {
-  "time":"2020-06-29 18:11:01",
+  "time":"2020-06-29 18:15:21",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"DDoSecrets 捡起了 WikiLeaks 的火炬",
+      "url":"https://www.cnbeta.com/articles/tech/996905.htm"
+    },
+    {
+      "name":"三星拉低折叠屏门槛 Galaxy Fold Lite渲染图首曝",
+      "url":"https://www.cnbeta.com/articles/tech/996903.htm"
     },
     {
       "name":"宁德时代已开始建设其锂离子电池实验室：专注于下一代电池研发",
@@ -233,14 +241,6 @@
     {
       "name":"电饭锅头盔上热搜 交警表示并不符合相关标准",
       "url":"https://hot.cnbeta.com/articles/funny/996789.htm"
-    },
-    {
-      "name":"传言称OPPO挖来联发科一位高管领导其手机芯片部门",
-      "url":"https://www.cnbeta.com/articles/tech/996787.htm"
-    },
-    {
-      "name":"特斯拉上海超级工厂Model Y厂房屋顶施工已基本完成",
-      "url":"https://www.cnbeta.com/articles/tech/996785.htm"
     }
   ]
 }
