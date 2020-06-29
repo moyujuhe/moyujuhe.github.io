@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-29 08:11:12",
+  "time":"2020-06-29 08:15:25",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"习近平对洪灾指示：汛情严峻 做好防汛",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064896"
+    },
     {
       "name":"台国防部证实美军在台协助训练",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064895"
@@ -77,10 +81,6 @@
     {
       "name":"兰州大学校领导赴京看望温家宝",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064698"
-    },
-    {
-      "name":"中国未成年人保护法修订草案提请二审",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064696"
     }
   ]
 }
