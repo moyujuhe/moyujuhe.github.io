@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 02:34:55",
+  "time":"2020-06-30 02:39:04",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"埃及一医院发生火灾：7名新冠患者遇难，7名医护人员受伤",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8043884"
+    },
     {
       "name":"新疆特克斯现大范围降雪降温，牧区近500头只牲畜受冻死亡",
       "url":"https://www.thepaper.cn/newsDetail_forward_8043677"
@@ -77,10 +81,6 @@
     {
       "name":"恺英网络董事长回应被举报：增持方式合法，已履行信披义务",
       "url":"https://www.thepaper.cn/newsDetail_forward_8043285"
-    },
-    {
-      "name":"越南多地报告非洲猪瘟疫情",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8043378"
     }
   ]
 }
