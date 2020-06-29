@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-29 09:02:10",
+  "time":"2020-06-29 09:06:25",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"香港警察昨逮捕53名示威者",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064904"
+    },
     {
       "name":"李克强：中国外贸环境依然严峻复杂",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064897"
@@ -77,10 +81,6 @@
     {
       "name":"泛民区议员取消“反国安法”游行 港警依然高度戒备",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064703"
-    },
-    {
-      "name":"中国三大航空央企接收首架国产飞机ARJ21",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064699"
     }
   ]
 }
