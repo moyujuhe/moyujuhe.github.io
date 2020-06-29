@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-29 20:34:12",
+  "time":"2020-06-29 20:56:36",
   "title":"知乎全站热榜",
   "data":[
     {
       "name":"如何看待网传时尚品牌Calvin Klein签下美国历史上政治最正确的模特：又黑又胖还是一名变性人？",
       "url":"https://www.zhihu.com/question/403950192"
+    },
+    {
+      "name":"为什么鬼不会攻击躲在被窝里的人？",
+      "url":"https://www.zhihu.com/question/403489485"
     },
     {
       "name":"如何看待因考试违规，《天天向上》主持人高天鹤镜头被剪，后道歉称「感到羞愧，自责反省」？",
@@ -13,10 +17,6 @@
     {
       "name":"本人高中生，为什么网上有很多人说普通一本和二本没什么区别，那我为什么要努力考一本？",
       "url":"https://www.zhihu.com/question/391907816"
-    },
-    {
-      "name":"为什么鬼不会攻击躲在被窝里的人？",
-      "url":"https://www.zhihu.com/question/403489485"
     },
     {
       "name":"为什么伊能静在《乘风破浪的姐姐》里明明很励志，却不那么讨喜？",
@@ -31,12 +31,12 @@
       "url":"https://www.zhihu.com/question/403065443"
     },
     {
-      "name":"如何看待任天堂系列游戏《塞尔达》的微博话题封面被改为肖战与王一博合照?",
-      "url":"https://www.zhihu.com/question/403728127"
-    },
-    {
       "name":"有没有一种让人很爽的学习方法？",
       "url":"https://www.zhihu.com/question/58772932"
+    },
+    {
+      "name":"如何看待任天堂系列游戏《塞尔达》的微博话题封面被改为肖战与王一博合照?",
+      "url":"https://www.zhihu.com/question/403728127"
     },
     {
       "name":"假如我在地外宜居行星上拉一泡屎，几十亿年后那里会发展出智慧生物吗？",
@@ -83,44 +83,48 @@
       "url":"https://www.zhihu.com/question/404106235"
     },
     {
-      "name":"如何评价A站AcFun拿下人气作品《租借女友》的独播权？",
-      "url":"https://www.zhihu.com/question/403378575"
-    },
-    {
       "name":"如何评价检察官孙某「收受贿赂不办事说明工作人员保证了道德底线」这一言论？",
       "url":"https://www.zhihu.com/question/403943139"
+    },
+    {
+      "name":"发生了什么导致你从此再不吃某样食物？",
+      "url":"https://www.zhihu.com/question/269344536"
     },
     {
       "name":"「教育部给本科教育教学打分，指出学业挑战度中等偏下」，反映了目前高校本科教学的哪些问题？应该如何解决？",
       "url":"https://www.zhihu.com/question/403877676"
     },
     {
-      "name":"成为女装大佬是什么样的体验？",
-      "url":"https://www.zhihu.com/question/321770310"
-    },
-    {
       "name":"丁当 28 日上午 11 点发文夸《艾瑞巴蒂》组成员，晚上 11 点全组才集体回应，发生了什么？",
       "url":"https://www.zhihu.com/question/403964972"
-    },
-    {
-      "name":"飞机2小时和高铁7小时你愿意坐哪个？",
-      "url":"https://www.zhihu.com/question/396801797"
     },
     {
       "name":"如何看待杭州富阳区公望街光头男路怒症发作，险遭司机碾压?",
       "url":"https://www.zhihu.com/question/403270516"
     },
     {
+      "name":"如何评价A站AcFun拿下人气作品《租借女友》的独播权？",
+      "url":"https://www.zhihu.com/question/403378575"
+    },
+    {
       "name":"为什么白雪公主是黑头发？",
       "url":"https://www.zhihu.com/question/289592571"
+    },
+    {
+      "name":"成为女装大佬是什么样的体验？",
+      "url":"https://www.zhihu.com/question/321770310"
+    },
+    {
+      "name":"把曹操放到水浒能做到什么程度？",
+      "url":"https://www.zhihu.com/question/403023109"
     },
     {
       "name":"如何看待荣耀2020年累计前5个月的国内市场占率远超小米+红米之和？",
       "url":"https://www.zhihu.com/question/403856374"
     },
     {
-      "name":"把曹操放到水浒能做到什么程度？",
-      "url":"https://www.zhihu.com/question/403023109"
+      "name":"飞机2小时和高铁7小时你愿意坐哪个？",
+      "url":"https://www.zhihu.com/question/396801797"
     },
     {
       "name":"如果刘雨昕去创造营了会怎么样？",
@@ -131,6 +135,10 @@
       "url":"https://www.zhihu.com/question/399517809"
     },
     {
+      "name":"如何看待动画片因角色染发被举报，频道停播并整改？",
+      "url":"https://www.zhihu.com/question/404107056"
+    },
+    {
       "name":"《我的祖国》里面说的“一条大河波浪宽”。这条河是什么河？",
       "url":"https://www.zhihu.com/question/39040809"
     },
@@ -139,68 +147,60 @@
       "url":"https://www.zhihu.com/question/350706982"
     },
     {
-      "name":"你觉得《创造营2020》谁会是最终的 C 位?",
-      "url":"https://www.zhihu.com/question/402531783"
-    },
-    {
-      "name":"研究生的你，择偶标准是什么？",
-      "url":"https://www.zhihu.com/question/356957129"
+      "name":"只招录一两个的公务员岗位可以报吗？",
+      "url":"https://www.zhihu.com/question/402608867"
     },
     {
       "name":"为什么宠物突然不喜欢和我睡一起了？",
       "url":"https://www.zhihu.com/question/401337930"
     },
     {
-      "name":"只招录一两个的公务员岗位可以报吗？",
-      "url":"https://www.zhihu.com/question/402608867"
-    },
-    {
-      "name":"19-20 赛季西甲武磊首发西班牙人 0:1 皇家马德里，如何评价这场比赛？",
-      "url":"https://www.zhihu.com/question/404003391"
+      "name":"伊朗向美国总统特朗普等数十位参与袭击苏莱曼尼将军的人发出「逮捕令」，对中东局势有何影响？",
+      "url":"https://www.zhihu.com/question/404125790"
     },
     {
       "name":"男生谈恋爱久了真的会腻吗？",
       "url":"https://www.zhihu.com/question/314691125"
     },
     {
-      "name":"如何评价小米众筹即将上线的小米小爱鼠标?",
-      "url":"https://www.zhihu.com/question/402852092"
-    },
-    {
       "name":"哪些电视剧可以被称作现象级电视剧？",
       "url":"https://www.zhihu.com/question/401979238"
     },
     {
-      "name":"医学生拒绝了家里给介绍的研究生导师，只靠自己，以后的路有多难走？",
-      "url":"https://www.zhihu.com/question/398832078"
+      "name":"如何评价小米众筹即将上线的小米小爱鼠标?",
+      "url":"https://www.zhihu.com/question/402852092"
     },
     {
-      "name":"如何看待「THE9队长是安崎」这一瓜？",
-      "url":"https://www.zhihu.com/question/404044556"
+      "name":"孕期能看出来以后宝宝好不好带吗?",
+      "url":"https://www.zhihu.com/question/366263762"
     },
     {
       "name":"多年后猫咪还认识猫爸猫妈吗？",
       "url":"https://www.zhihu.com/question/403137180"
     },
     {
+      "name":"医学生拒绝了家里给介绍的研究生导师，只靠自己，以后的路有多难走？",
+      "url":"https://www.zhihu.com/question/398832078"
+    },
+    {
+      "name":"7月四号创造营2020的女团即将诞生，会对the9产生什么影响吗？",
+      "url":"https://www.zhihu.com/question/403927900"
+    },
+    {
       "name":"如何以“我是被王爷/将军从青楼里赎回来的”为开头写一个故事?",
       "url":"https://www.zhihu.com/question/403115565"
+    },
+    {
+      "name":"研究生的你，择偶标准是什么？",
+      "url":"https://www.zhihu.com/question/356957129"
     },
     {
       "name":"一枚硬币，扔了一亿次都是正面朝上，再扔一次反面朝上的概率是多少？",
       "url":"https://www.zhihu.com/question/29683794"
     },
     {
-      "name":"是什么原因让你想养猫？",
-      "url":"https://www.zhihu.com/question/403223645"
-    },
-    {
       "name":"有哪些文艺(无关爱情)的朋友圈文案？",
       "url":"https://www.zhihu.com/question/347110347"
-    },
-    {
-      "name":"你看好变焦轻量化的腾龙还是定焦重量化的适马？",
-      "url":"https://www.zhihu.com/question/402423274"
     }
   ]
 }
