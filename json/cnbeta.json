@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-30 01:09:00",
+  "time":"2020-06-30 01:13:12",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"苹果强势逼迫整个CA行业进入一年的证书寿命期",
+      "url":"https://www.cnbeta.com/articles/tech/997007.htm"
     },
     {
       "name":"微软为模块化双屏可拆卸Surface平板电脑申请专利",
@@ -237,10 +241,6 @@
     {
       "name":"AMD锐龙6000 APU首曝：终于换上Navi GPU",
       "url":"https://www.cnbeta.com/articles/tech/996891.htm"
-    },
-    {
-      "name":"企查查宣布起诉天眼查：因其使用误导性用语 涉嫌不正当竞争",
-      "url":"https://www.cnbeta.com/articles/tech/996889.htm"
     }
   ]
 }
