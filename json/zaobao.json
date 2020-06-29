@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-29 12:31:15",
+  "time":"2020-06-29 12:35:31",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"港媒：中国人大常委会或明天对香港国安法草案进行表决",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064961"
+    },
     {
       "name":"美国警告日立勿售英核电项目予中国",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064955"
@@ -77,10 +81,6 @@
     {
       "name":"大陆端午期间定制游暴增43倍",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064739"
-    },
-    {
-      "name":"北京基本完成“应检尽检”人员动态清零 累计采样829.9万人",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064744"
     }
   ]
 }
