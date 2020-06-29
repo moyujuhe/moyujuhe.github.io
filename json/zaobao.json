@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-29 09:23:28",
+  "time":"2020-06-29 09:27:39",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国新增确诊病例12例 本土病例七例均在北京",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064908"
+    },
     {
       "name":"香港警察昨逮捕53名示威者",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064904"
@@ -77,10 +81,6 @@
     {
       "name":"叶国谦:法工委提及港国安法草案有两方面修改",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064706"
-    },
-    {
-      "name":"泛民区议员取消“反国安法”游行 港警依然高度戒备",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064703"
     }
   ]
 }
