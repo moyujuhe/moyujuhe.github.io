@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 07:42:20",
+  "time":"2020-06-30 07:46:31",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"Chrome的功能真香",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709837&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"阿里云续费技巧，解决流量包不到账问题",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709835&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"腾讯云CENTOS修改不了内核 怎么回事？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709805&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"套路云新手突然可以续费了，有流量包",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709804&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
