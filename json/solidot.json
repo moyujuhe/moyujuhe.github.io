@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-29 17:32:40",
+  "time":"2020-06-29 17:36:55",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"DDoSecrets 捡起了 WikiLeaks 的火炬",
+      "url":"https://www.solidot.org/story?sid=64795"
+    },
+    {
+      "name":"ARM China 内斗内幕",
+      "url":"https://www.solidot.org/story?sid=64794"
+    },
     {
       "name":"英国想用 OneWeb 的宽带卫星充当导航卫星",
       "url":"https://www.solidot.org/story?sid=64793"
@@ -73,14 +81,6 @@
     {
       "name":"Tor 项目呼吁维基百科解除对 Tor 编辑的限制",
       "url":"https://www.solidot.org/story?sid=64776"
-    },
-    {
-      "name":"美国波士顿禁止政府使用面部识别技术",
-      "url":"https://www.solidot.org/story?sid=64775"
-    },
-    {
-      "name":"Sci-Hub 通过比特币获得捐赠",
-      "url":"https://www.solidot.org/story?sid=64774"
     }
   ]
 }
