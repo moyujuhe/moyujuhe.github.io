@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-29 08:02:51",
+  "time":"2020-06-29 08:06:55",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"台国防部证实美军在台协助训练",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064895"
+    },
     {
       "name":"四川特大暴雨灾害已致12人遇难 10人失联",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1064893"
@@ -77,10 +81,6 @@
     {
       "name":"中国未成年人保护法修订草案提请二审",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064696"
-    },
-    {
-      "name":"日媒:港国安法倘通过 日政府拟表达“遗憾”",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200628-1064695"
     }
   ]
 }
