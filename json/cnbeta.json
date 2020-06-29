@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-30 07:08:52",
+  "time":"2020-06-30 07:13:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"亚马逊旗下视频网站Twitch暂时封停特朗普账号",
+      "url":"https://www.cnbeta.com/articles/tech/997041.htm"
     },
     {
       "name":"[图]Windows Insider告别Ring拥抱Channel：Fast自动升级为Dev频道",
@@ -237,10 +241,6 @@
     {
       "name":"研究称同床共枕会促进睡眠效果 改善身心健康",
       "url":"https://www.cnbeta.com/articles/tech/996927.htm"
-    },
-    {
-      "name":"GitHub今日的宕机事件影响数千名软件开发者",
-      "url":"https://www.cnbeta.com/articles/tech/996911.htm"
     }
   ]
 }
