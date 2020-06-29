@@ -1,11 +1,7 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-06-29 14:53:58",
+  "time":"2020-06-29 14:58:13",
   "data":[
-    {
-      "name":"观看《暗黑》第三季的感受",
-      "url":"https://hacpai.com/article/1593405394742"
-    },
     {
       "name":"Java 开源博客系统 Solo v4.2.0 发布，支持同步 GitHub solo-blog 仓库，支持在线导入 Markdown zip 文件包",
       "url":"https://hacpai.com/article/1593362504287"
@@ -177,6 +173,14 @@
     {
       "name":"推荐 7 款好用的开发工具",
       "url":"https://hacpai.com/article/1588056116169"
+    },
+    {
+      "name":"一款生成在线数据库文档的小工具（Golang）",
+      "url":"https://hacpai.com/article/1587970215919"
+    },
+    {
+      "name":"每周电影 EP18《月球》",
+      "url":"https://hacpai.com/article/1587873482886"
     },
     {
       "name":"使用 Egg + Vue 的第一个线上小产品——远程工作职位信息收集站点 yuancheng.works",
