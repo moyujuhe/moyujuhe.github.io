@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 11:39:00",
+  "time":"2020-06-30 11:43:09",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"套路轻量，AZURE，AWS，是时候举个爪了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709944&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"EUserv要更新客户信息？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709943&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"如果苹果app想在日区上架 必须要注册日区开发者账号？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709912&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"gcore信用卡充值失败的原因",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709911&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
