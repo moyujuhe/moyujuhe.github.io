@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-07-01 00:03:52",
+  "time":"2020-07-01 00:08:03",
   "data":[
+    {
+      "name":"关于开源的提问",
+      "url":"https://hacpai.com/article/1593533106660"
+    },
     {
       "name":"赛博朋克动漫 human lost 资源，无迅雷会员，有大佬下载后上传至百度云盘吗？",
       "url":"https://hacpai.com/article/1593525856161"
@@ -177,10 +181,6 @@
     {
       "name":"推荐 7 款好用的开发工具",
       "url":"https://hacpai.com/article/1588056116169"
-    },
-    {
-      "name":"一款生成在线数据库文档的小工具（Golang）",
-      "url":"https://hacpai.com/article/1587970215919"
     },
     {
       "name":"使用 Egg + Vue 的第一个线上小产品——远程工作职位信息收集站点 yuancheng.works",
