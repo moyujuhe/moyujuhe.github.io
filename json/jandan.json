@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 23:00:21",
+  "time":"2020-06-30 23:04:35",
   "title":"煎蛋网",
   "data":[
+    {
+      "name":"动物实验指出：这种常用食品添加剂或有害健康",
+      "url":"http://jandan.net/p/107389"
+    },
     {
       "name":"Aphantasia:无法在内心可视化形象的怪病",
       "url":"http://jandan.net/p/107386"
@@ -93,10 +97,6 @@
     {
       "name":"看老吴瞎聊古玩",
       "url":"http://jandan.net/p/107364"
-    },
-    {
-      "name":"OpenAI创造出目前最智能的文本生成器",
-      "url":"http://jandan.net/p/107356"
     }
   ]
 }
