@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 14:29:43",
+  "time":"2020-06-30 14:33:57",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"西部数码又提醒我续费域名了，短位域名 有要的么？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710030&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"Cisco的anyconnect客户端有没有linux命令行的版本",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710028&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"10086.cn的绿标短网址免费生成",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709998&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"As you have had your server for less than 14 days",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=709997&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
