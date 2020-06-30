@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 02:17:17",
+  "time":"2020-07-01 02:21:26",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"土耳其新增新冠肺炎确诊病例1293例，累计逼近20万例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8059690"
+    },
     {
       "name":"成都警方深夜通报高层火灾：纵火男子跳楼身亡，其前妻死亡",
       "url":"https://www.thepaper.cn/newsDetail_forward_8059493"
@@ -77,10 +81,6 @@
     {
       "name":"中移动董事长建议：加快5G等基础设施建设，推动标准统一",
       "url":"https://www.thepaper.cn/newsDetail_forward_8059137"
-    },
-    {
-      "name":"沪苏通长江公铁大桥｜通车在即，一大波大桥美图来袭",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8055638"
     }
   ]
 }
