@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-06-30 11:09:24",
+  "time":"2020-06-30 11:13:33",
   "data":[
     {
       "name":"Minecraft",
@@ -258,7 +258,7 @@
       "name":"Shadowrocket",
       "url":"https://apps.apple.com/us/app/shadowrocket/id932747118?uo=4",
       "num":"Utilities",
-      "description":"最新版本:  2.1.53\n更新时间:  2020-06-30 10:02:11 (北京时间)\n\n* fix alert view dark mode issue\n* fix cloak tls handshake issue\n* fix config file update issue\n* fix dns over tls issue\n* fix gmail feedback compose issue\n* fix ipv6 host parse issue\n* fix network usage reset issue\n* fix subscribe server add issue\n* fix swipe gesture issue\n* fix today widget tap issue\n* fix v2ray plugin mux zero issue"
+      "description":"最新版本:  2.1.52\n更新时间:  2020-04-09 02:41:26 (北京时间)\n\n* fix mux server tls handshake issue\n* fix http backend http pipeline issue\n* fix dns query key crash issue\n* fix http2 multiple authority issue\n* fix kcptun plugin options parse issue\n* fix feedback email compose issue\n* fix subscribe server remarks issue\n* fix server options dark mode issue"
     },
     {
       "name":"Lowriders Comeback 2: Cruising",
