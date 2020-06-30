@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 08:00:05",
+  "time":"2020-06-30 08:08:04",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"国家卫健委：昨日新增确诊病例19例，其中境外输入病例11例（广东4例，上海3例，四川3例，甘肃1例），本土病例8例（北京7例，上海1例）；无新增死亡病例；新增疑似病例1例，为境外输入病例（在上海）。",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8049357"
+    },
     {
       "name":"印度政府公布禁用59款中国App，包括微信/抖音/美图",
       "url":"https://mparticle.uc.cn/article.html?uc_param_str=frdnsnpfvecpntnwprdssskt&btifl=100&app=smds-iflow&title_type=1&wm_id=00e60c57533241c78230249c54b5ca84&wm_cid=363706121076082688&pagetype=share&client=&uc_share_depth=1"
@@ -97,10 +101,6 @@
     {
       "name":"动画片因人物染发被举报：已停播进行整改",
       "url":"http://user.guancha.cn/main/content?id=337021"
-    },
-    {
-      "name":"【日本人为什么现在还在用翻盖手机？】为了能守住老用户，让他们在不改变原有习惯的情况下，跟上智能机的服务，运营商们采取了一个变通方案：在传统翻盖机的机身内，定制了Android，支持4G、WiFi、蓝牙，并集成了 Line 这样的主流社交软件。",
-      "url":"https://www.ifanr.com/1347704?utm_source=rss&utm_medium=rss&utm_campaign="
     }
   ]
 }
