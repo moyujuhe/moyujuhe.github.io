@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 09:35:34",
+  "time":"2020-06-30 09:39:48",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"美国宣布已取消对香港的特殊相关待遇",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065215"
+    },
     {
       "name":"中国知识产权使用5月成第二大服贸逆差来源",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065210"
@@ -77,10 +81,6 @@
     {
       "name":"民阵召集人申请司法复核 质疑港警去年612用催泪弹做法不合法",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065016"
-    },
-    {
-      "name":"中国股市收盘下跌 券商股领跌",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065015"
     }
   ]
 }
