@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 07:00:53",
+  "time":"2020-07-01 07:22:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"彩电市场上半年呈V型走势 下半年将持续承压前行",
+      "url":"https://tech.sina.com.cn/e/2020-07-01/doc-iircuyvk1325120.shtml"
+    },
     {
       "name":"B&O发布88英寸电视：8K OLED 售470888元起",
       "url":"https://tech.sina.com.cn/digi/2020-06-30/doc-iirczymk9794758.shtml"
@@ -95,6 +99,10 @@
       "url":"https://tech.sina.com.cn/roll/2020-07-01/doc-iircuyvk1308438.shtml"
     },
     {
+      "name":"三星The Premier系列曝光 下一个高端电视系列来了？",
+      "url":"https://tech.sina.com.cn/roll/2020-06-30/doc-iircuyvk1170310.shtml"
+    },
+    {
       "name":"直播带货：有了“软约束”还需“硬规矩”",
       "url":"https://tech.sina.com.cn/roll/2020-07-01/doc-iirczymk9834402.shtml"
     },
@@ -159,6 +167,10 @@
       "url":"https://tech.sina.com.cn/i/2020-06-30/doc-iircuyvk1293229.shtml"
     },
     {
+      "name":"吉利德治丙肝药物在中国上市，临床试验有效率达97%以上",
+      "url":"https://tech.sina.com.cn/roll/2020-06-30/doc-iircuyvk1292268.shtml"
+    },
+    {
       "name":"天上地下，马斯克和贝佐斯终有一战？",
       "url":"http://tech.sina.com.cn/csj/2020-06-30/doc-iircuyvk1290749.shtml"
     },
@@ -175,6 +187,10 @@
       "url":"http://tech.sina.com.cn/csj/2020-06-30/doc-iircuyvk1287919.shtml"
     },
     {
+      "name":"学者发现一新型重组猪流感病毒：具备在人群中流行潜力",
+      "url":"https://tech.sina.com.cn/roll/2020-06-30/doc-iirczymk9815102.shtml"
+    },
+    {
       "name":"外媒：亚马逊一仓库新冠病毒感染率是周边4倍",
       "url":"https://tech.sina.com.cn/i/2020-06-30/doc-iircuyvk1285694.shtml"
     },
@@ -185,22 +201,6 @@
     {
       "name":"我们围观腾讯PK老干妈，但剧情却有点儿……啥？！",
       "url":"https://tech.sina.com.cn/i/2020-06-30/doc-iirczymk9816366.shtml"
-    },
-    {
-      "name":"特斯拉股价盘中创历史新高 市值一度突破1900亿美元",
-      "url":"https://tech.sina.com.cn/it/2020-06-30/doc-iircuyvk1283115.shtml"
-    },
-    {
-      "name":"评论：李佳琦落户上海 打造直播经济要引才更要造才",
-      "url":"https://tech.sina.com.cn/i/2020-06-30/doc-iirczymk9819248.shtml"
-    },
-    {
-      "name":"华为郭平：后疫情时代 5G加速全社会数字化转型",
-      "url":"https://tech.sina.com.cn/5g/i/2020-06-30/doc-iirczymk9806776.shtml"
-    },
-    {
-      "name":"印度“封杀”59款中国应用：损人不利己",
-      "url":"https://tech.sina.com.cn/i/2020-06-30/doc-iirczymk9808869.shtml"
     }
   ]
 }
