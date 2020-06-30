@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-30 11:05:11",
+  "time":"2020-06-30 11:09:29",
   "title":"联合早报-中港台",
   "data":[
     {
-      "name":"世卫下周将派小组赴中国对调查疫情起源",
+      "name":"世卫下周将派小组赴中国调查疫情起源",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065233"
+    },
+    {
+      "name":"中国军队在昆仑山腹地演练",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065236"
     },
     {
       "name":"中国6月官方制造业PMI升至50.9 为三月高位",
@@ -77,10 +81,6 @@
     {
       "name":"中共政治局：要毫不动摇坚持中共对军队绝对领导",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065029"
-    },
-    {
-      "name":"美国航母在菲律宾海展开军演 中国将在西沙群岛海域进行军演",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065026"
     }
   ]
 }
