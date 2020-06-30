@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-30 15:16:53",
+  "time":"2020-06-30 15:21:05",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Reddit 正式封杀特朗普粉丝论坛",
+      "url":"https://www.solidot.org/story?sid=64806"
+    },
+    {
+      "name":"Twitch 封杀特朗普账号",
+      "url":"https://www.solidot.org/story?sid=64805"
+    },
     {
       "name":"印度禁止 TikTok 微信等中国应用",
       "url":"https://www.solidot.org/story?sid=64804"
@@ -73,14 +81,6 @@
     {
       "name":"新冠感染人数突破 1000 万",
       "url":"https://www.solidot.org/story?sid=64787"
-    },
-    {
-      "name":"基因编辑可能会造成染色体混乱",
-      "url":"https://www.solidot.org/story?sid=64786"
-    },
-    {
-      "name":"AWS 发布零编程应用构建服务 Honeycode",
-      "url":"https://www.solidot.org/story?sid=64785"
     }
   ]
 }
