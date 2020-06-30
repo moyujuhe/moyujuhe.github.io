@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 23:59:45",
+  "time":"2020-07-01 00:03:58",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"好鸡儿垃圾,大佬们来个脚本，萌新不会玩",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710257&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"IPT邀请*1枚",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710256&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"MYSQL的替换语句",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710231&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"原价租dedispec特价机",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710230&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
