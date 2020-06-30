@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 00:35:10",
+  "time":"2020-07-01 00:39:22",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"香港新增2例境外输入型确诊病例，患者均从美国抵港",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8059475"
+    },
     {
       "name":"人民日报评论员：“一国两制”行稳致远的“压舱石”",
       "url":"https://www.thepaper.cn/newsDetail_forward_8059470"
@@ -77,10 +81,6 @@
     {
       "name":"国内最强地级市苏州，这次为何大手笔投资建“姑苏实验室”",
       "url":"https://www.thepaper.cn/newsDetail_forward_8056987"
-    },
-    {
-      "name":"欧盟延长对美国居民旅行禁令至少2周",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8059131"
     }
   ]
 }
