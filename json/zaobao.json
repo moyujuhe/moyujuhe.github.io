@@ -1,13 +1,17 @@
 {
-  "time":"2020-06-30 10:35:04",
+  "time":"2020-06-30 10:39:18",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国6月官方制造业PMI升至50.9 为三月高位",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065226"
+    },
     {
       "name":"高晓松直播被辱骂弹幕刷屏 疑因过往言论触怒网民",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065222"
     },
     {
-      "name":"中国人大常委会据悉全票通过香港国安法草案",
+      "name":"据悉中国人大常委会全票通过香港国安法草案",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065218"
     },
     {
@@ -77,10 +81,6 @@
     {
       "name":"长江中上游强降雨致三峡枢纽今年首次泄洪",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065025"
-    },
-    {
-      "name":"大湾区开展“跨境理财通”业务试点",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065023"
     }
   ]
 }
