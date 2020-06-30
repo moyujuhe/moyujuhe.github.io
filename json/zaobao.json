@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 09:44:05",
+  "time":"2020-06-30 09:48:16",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国人大常委会据悉全票通过香港国安法草案",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065218"
+    },
     {
       "name":"美国宣布已取消对香港的特殊相关待遇",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065215"
@@ -77,10 +81,6 @@
     {
       "name":"台立法院7月17日就监察院人事同意权案进行投票",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065019"
-    },
-    {
-      "name":"民阵召集人申请司法复核 质疑港警去年612用催泪弹做法不合法",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065016"
     }
   ]
 }
