@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 16:25:50",
+  "time":"2020-06-30 16:30:00",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国外交部回应美国制裁香港：将采取必要反制",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065300"
+    },
     {
       "name":"中国国新办明日将就香港国安法召开发布会",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065295"
@@ -77,10 +81,6 @@
     {
       "name":"中国人大常委会全票通过香港国安法草案",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065218"
-    },
-    {
-      "name":"美国暂停给予香港部分贸易特殊待遇",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065215"
     }
   ]
 }
