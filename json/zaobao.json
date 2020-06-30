@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 20:07:15",
+  "time":"2020-06-30 20:11:26",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"香港国安法正式生效施行",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065322"
+    },
     {
       "name":"香港官方楼价指数按月升1.9%创今年新高",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065279"
@@ -77,10 +81,6 @@
     {
       "name":"中国大陆新增19例冠病病例 北京本土病例七例",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065240"
-    },
-    {
-      "name":"黄之锋和罗冠聪宣布退出香港众志",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065238"
     }
   ]
 }
