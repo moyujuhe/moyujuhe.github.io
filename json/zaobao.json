@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 09:01:47",
+  "time":"2020-06-30 09:05:59",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国知识产权使用5月成第二大服贸逆差来源",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065210"
+    },
     {
       "name":"中国据报仅完成中美贸易协议约19%采购目标",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065209"
@@ -77,10 +81,6 @@
     {
       "name":"中国股市收盘下跌 券商股领跌",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065015"
-    },
-    {
-      "name":"澳洲议员莫索曼否认自己是中国间谍",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065013"
     }
   ]
 }
