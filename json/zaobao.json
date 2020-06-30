@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 19:16:58",
+  "time":"2020-06-30 19:21:09",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"香港官方楼价指数按月升1.9%创今年新高",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065279"
+    },
     {
       "name":"美国最高法院驳回澳门亿万富翁行贿案上诉",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065306"
@@ -77,10 +81,6 @@
     {
       "name":"黄之锋和罗冠聪宣布退出香港众志",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065238"
-    },
-    {
-      "name":"世卫下周将派小组赴中国调查疫情起源",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065233"
     }
   ]
 }
