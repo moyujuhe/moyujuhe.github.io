@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 00:12:21",
+  "time":"2020-07-01 00:16:45",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"分享一下flatris的汉化包，已经开源",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710260&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"白**的咪咕kindle可以签到了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710258&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"hetzner开机器不是自动的吗？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710233&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"【Microsoft 365 A3 - 适用于学生使用权益的无人参与许可】到期",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710232&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
