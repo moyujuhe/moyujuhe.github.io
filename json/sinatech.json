@@ -1,13 +1,17 @@
 {
-  "time":"2020-06-30 16:23:15",
+  "time":"2020-06-30 16:35:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"印度封禁中国3款游戏应用 字节日均损失超七百万",
+      "url":"https://tech.sina.com.cn/i/2020-06-30/doc-iircuyvk1229749.shtml"
+    },
     {
       "name":"外交部回应印度封杀中国App：中方强烈关注",
       "url":"https://tech.sina.com.cn/i/2020-06-30/doc-iircuyvk1226081.shtml"
     },
     {
-      "name":"“网红主播”可以批量复制吗？有高校开设直播课程调查",
+      "name":"“网红主播”可以批量复制吗？——部分高校开设直播课程调查",
       "url":"https://tech.sina.com.cn/i/2020-06-30/doc-iirczymk9752866.shtml"
     },
     {
@@ -197,10 +201,6 @@
     {
       "name":"新发现：地球上最快的眼睛",
       "url":"https://tech.sina.com.cn/d/a/2020-06-30/doc-iirczymk9683032.shtml"
-    },
-    {
-      "name":"当小行星来袭，除了让地球流浪，我们还能怎么做？",
-      "url":"https://tech.sina.com.cn/d/s/2020-06-30/doc-iircuyvk1156644.shtml"
     }
   ]
 }
