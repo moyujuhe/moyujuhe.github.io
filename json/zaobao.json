@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 11:43:10",
+  "time":"2020-06-30 11:47:36",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国大陆新增19例冠病病例 北京本土病例七例",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065240"
+    },
     {
       "name":"黄之锋和罗冠聪宣布退出香港众志",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065238"
@@ -77,10 +81,6 @@
     {
       "name":"辽宁检察官称\"受贿不办事说明道德底线” 检察单位展开调查",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065035"
-    },
-    {
-      "name":"中国国产C919客机将在吐鲁番进行高温专项试飞",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065030"
     }
   ]
 }
