@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 20:15:40",
+  "time":"2020-06-30 20:19:53",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国因担心冠病暂时禁止从巴西三家工厂进口肉类",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065231"
+    },
     {
       "name":"香港国安法正式生效施行",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065322"
@@ -77,10 +81,6 @@
     {
       "name":"林郑：若中央政府提出对美反制 港府将全面配合",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065246"
-    },
-    {
-      "name":"中国大陆新增19例冠病病例 北京本土病例七例",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065240"
     }
   ]
 }
