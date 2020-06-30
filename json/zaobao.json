@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 15:04:18",
+  "time":"2020-06-30 15:08:29",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"麦当劳中国宣布逐步停用塑料吸管 每年减少400吨塑料用量",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065277"
+    },
     {
       "name":"日本防卫相：香港国安法通过将影响中国领导人访日",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065274"
@@ -77,10 +81,6 @@
     {
       "name":"研究：中国新型猪流感具大流行病潜力",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065206"
-    },
-    {
-      "name":"印度禁抖音、微信等59款中国应用",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065205"
     }
   ]
 }
