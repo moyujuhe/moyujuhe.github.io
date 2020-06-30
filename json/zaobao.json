@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 17:17:43",
+  "time":"2020-06-30 17:21:56",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"蔡英文：香港国安法通过证明一国两制不可行",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065307"
+    },
     {
       "name":"台湾剑龙级潜舰时隔13年将再试射鱼雷",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065304"
@@ -77,10 +81,6 @@
     {
       "name":"中国军队在昆仑山腹地演练",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065236"
-    },
-    {
-      "name":"中国6月官方制造业PMI升至50.9 为三月高位",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065226"
     }
   ]
 }
