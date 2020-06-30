@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 19:12:44",
+  "time":"2020-06-30 19:16:56",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Quibi 为何如此快的丧失光环",
+      "url":"https://www.solidot.org/story?sid=64811"
+    },
     {
       "name":"Reddit 正式封杀特朗普粉丝论坛",
       "url":"https://www.solidot.org/story?sid=64806"
@@ -77,10 +81,6 @@
     {
       "name":"Firefox 79 将允许用户测试未发布的实验功能",
       "url":"https://www.solidot.org/story?sid=64788"
-    },
-    {
-      "name":"新冠感染人数突破 1000 万",
-      "url":"https://www.solidot.org/story?sid=64787"
     }
   ]
 }
