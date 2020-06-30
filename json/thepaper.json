@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 05:39:31",
+  "time":"2020-07-01 05:43:38",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"南非新增新冠肺炎确诊病例6945例，累计151209例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8063976"
+    },
     {
       "name":"土耳其新增新冠肺炎确诊病例1293例，累计逼近20万例",
       "url":"https://www.thepaper.cn/newsDetail_forward_8059690"
@@ -77,10 +81,6 @@
     {
       "name":"欧盟正式宣布允许14国旅客进入，对中国“有条件”开放",
       "url":"https://www.thepaper.cn/newsDetail_forward_8059359"
-    },
-    {
-      "name":"中移动董事长建议：加快5G等基础设施建设，推动标准统一",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8059137"
     }
   ]
 }
