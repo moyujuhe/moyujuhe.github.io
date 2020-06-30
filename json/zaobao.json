@@ -1,7 +1,15 @@
 {
-  "time":"2020-06-30 08:45:04",
+  "time":"2020-06-30 08:49:17",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国据报仅完成中美贸易协议约19%采购目标",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065209"
+    },
+    {
+      "name":"研究：中国新型猪流感具大流行病潜力",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065206"
+    },
     {
       "name":"印度禁抖音、微信等59款中国应用",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065205"
@@ -73,14 +81,6 @@
     {
       "name":"澳洲议员莫索曼否认自己是中国间谍",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065013"
-    },
-    {
-      "name":"中国称将对涉港表现恶劣的美方人员实施签证限制",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065009"
-    },
-    {
-      "name":"【视频】解放军驻港部队狙击手进行实弹射击训练",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200629-1065007"
     }
   ]
 }
