@@ -1,7 +1,11 @@
 {
-  "time":"2020-06-30 18:13:44",
+  "time":"2020-06-30 18:18:05",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"谷歌AD的PIN码一直收不到啊。",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710135&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"才发现 hosthatch 不计算下载流量",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710133&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"给大家说说 cf cdn是可以用来做站的啊",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710104&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"给你一个赚100万的机会",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710103&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
