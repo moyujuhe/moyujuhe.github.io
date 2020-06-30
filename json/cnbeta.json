@@ -1,10 +1,14 @@
 {
-  "time":"2020-06-30 12:00:30",
+  "time":"2020-06-30 12:04:41",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"特斯拉在纳斯达克上市满10年 现股价是发行价近60倍",
+      "url":"https://www.cnbeta.com/articles/tech/997277.htm"
     },
     {
       "name":"AWS正式推出基于AI的CodeGuru代码检查与性能分析器",
@@ -237,10 +241,6 @@
     {
       "name":"京东方未能成为首批5G iPhone的OLED屏幕供应商",
       "url":"https://www.cnbeta.com/articles/tech/997161.htm"
-    },
-    {
-      "name":"Facebook与Full Fact合作  帮助人们识别假新闻",
-      "url":"https://www.cnbeta.com/articles/tech/997159.htm"
     }
   ]
 }
