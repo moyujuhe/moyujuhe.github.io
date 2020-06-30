@@ -1,7 +1,43 @@
 {
-  "time":"2020-06-30 09:27:04",
+  "time":"2020-06-30 09:31:18",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"印度禁止 TikTok 微信等中国应用",
+      "url":"https://www.solidot.org/story?sid=64804"
+    },
+    {
+      "name":"科学家研发出降低血液的转基因水稻",
+      "url":"https://www.solidot.org/story?sid=64803"
+    },
+    {
+      "name":"太空行走的宇航员丢失了腕镜",
+      "url":"https://www.solidot.org/story?sid=64802"
+    },
+    {
+      "name":"治愈心脏病的希望",
+      "url":"https://www.solidot.org/story?sid=64801"
+    },
+    {
+      "name":"关键词自动屏蔽导致外卖留言遭误解",
+      "url":"https://www.solidot.org/story?sid=64800"
+    },
+    {
+      "name":"为什么新冠病毒在美国杀死了如此多的人",
+      "url":"https://www.solidot.org/story?sid=64799"
+    },
+    {
+      "name":"微软发布 Windows 文件恢复工具",
+      "url":"https://www.solidot.org/story?sid=64798"
+    },
+    {
+      "name":"美国经济过早重启导致疫情卷土重来",
+      "url":"https://www.solidot.org/story?sid=64797"
+    },
+    {
+      "name":"康希诺新冠疫苗获批供军方使用",
+      "url":"https://www.solidot.org/story?sid=64796"
+    },
     {
       "name":"DDoSecrets 捡起了 WikiLeaks 的火炬",
       "url":"https://www.solidot.org/story?sid=64795"
@@ -45,42 +81,6 @@
     {
       "name":"AWS 发布零编程应用构建服务 Honeycode",
       "url":"https://www.solidot.org/story?sid=64785"
-    },
-    {
-      "name":"DNS 作者谈其起源和现状",
-      "url":"https://www.solidot.org/story?sid=64784"
-    },
-    {
-      "name":"大量广告商暂停社交媒体广告",
-      "url":"https://www.solidot.org/story?sid=64783"
-    },
-    {
-      "name":"Comcast 和 Mozilla 在 DoH 上合作",
-      "url":"https://www.solidot.org/story?sid=64782"
-    },
-    {
-      "name":"加州旧金山承认向勒索软件支付了超过百万美元赎金",
-      "url":"https://www.solidot.org/story?sid=64780"
-    },
-    {
-      "name":"数据公司利用手机数据对抗议者进行人口统计分析",
-      "url":"https://www.solidot.org/story?sid=64781"
-    },
-    {
-      "name":"TikTok 等应用被指监视剪贴板内容",
-      "url":"https://www.solidot.org/story?sid=64779"
-    },
-    {
-      "name":"黑洞合并可能产生了光以及引力波",
-      "url":"https://www.solidot.org/story?sid=64778"
-    },
-    {
-      "name":"微软以避免混淆为由移除手动推迟 Windows Update",
-      "url":"https://www.solidot.org/story?sid=64777"
-    },
-    {
-      "name":"Tor 项目呼吁维基百科解除对 Tor 编辑的限制",
-      "url":"https://www.solidot.org/story?sid=64776"
     }
   ]
 }
