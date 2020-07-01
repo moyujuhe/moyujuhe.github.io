@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 08:59:55",
+  "time":"2020-07-01 09:04:06",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"国家职业技能培训快速刷题",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710302&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"怎么确定我的小鸡有没有受到此次调整的影响？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710301&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"流量包至今未到 这样看起来是被套路云（阿里云）反薅了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710272&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"蚊子这东西咋就不灭绝呢？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710271&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
