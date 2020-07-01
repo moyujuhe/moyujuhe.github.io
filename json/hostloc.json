@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 07:07:15",
+  "time":"2020-07-02 07:11:21",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"有没有那种UBUNTU镜像或者方法，能让他装完了就自动上网",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710699&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"爬虫大佬进来下，",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710698&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"centos6想装BBR 发现只有4.4的内核 去哪下高版本内核？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710669&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"偷偷告诉你们，你们觉得CF这个节点怎么样？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710668&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
