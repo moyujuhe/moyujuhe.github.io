@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-01 12:52:21",
+  "time":"2020-07-01 12:57:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"腾讯讨债简史",
+      "url":"https://www.cnbeta.com/articles/tech/997729.htm"
     },
     {
       "name":"Netflix奇幻剧《天命之咒》曝正式预告 7月17日播出",
@@ -237,10 +241,6 @@
     {
       "name":"Switch Joy-Con手柄漂移成通病：任天堂社长向全球玩家致歉",
       "url":"https://hot.cnbeta.com/articles/game/997613.htm"
-    },
-    {
-      "name":"59款App被印度封杀背后，是中国科技公司压倒性实力的体现",
-      "url":"https://www.cnbeta.com/articles/tech/997611.htm"
     }
   ]
 }
