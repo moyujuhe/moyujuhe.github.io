@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-01 13:30:43",
+  "time":"2020-07-01 13:34:57",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"高通加入互动 OnePlus Nord极有可能采用骁龙765 5G芯片组",
+      "url":"https://www.cnbeta.com/articles/tech/997735.htm"
     },
     {
       "name":"OpenSignal发布2020年中报告：哪家美国运营商的5G网速最快？",
@@ -237,10 +241,6 @@
     {
       "name":"亚马逊宣布成立航天卫星部门 欲将云计算业务拓展至太空",
       "url":"https://www.cnbeta.com/articles/tech/997619.htm"
-    },
-    {
-      "name":"FDA：因担心有甲醇残留 Saniderm一款洗手液被召回",
-      "url":"https://www.cnbeta.com/articles/tech/997617.htm"
     }
   ]
 }
