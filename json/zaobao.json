@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 15:04:04",
+  "time":"2020-07-01 15:08:21",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"港警发射水炮驱散聚集者 铜锣湾拘捕30人",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065578"
+    },
     {
       "name":"林郑：立国安法展示中央决心恢复香港稳定",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065571"
@@ -77,10 +81,6 @@
     {
       "name":"中国指印度禁用其移动应用涉违反世贸规则",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065519"
-    },
-    {
-      "name":"香港警务处：将严正执行香港国安法 以维护国家安全",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065514"
     }
   ]
 }
