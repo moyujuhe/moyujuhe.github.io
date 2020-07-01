@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 21:23:01",
+  "time":"2020-07-01 21:27:12",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"华为投资控股注册资本增至315亿 任正非持股比例下降",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065575"
+    },
     {
       "name":"中国创业板指数上半年涨36%领跑全球主要股指",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065583"
@@ -77,10 +81,6 @@
     {
       "name":"港澳办副主任：美若就香港国安法祭出制裁措施 中国必反制",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065552"
-    },
-    {
-      "name":"财新6月中国制造业PMI升至51.2 创半年新高",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065550"
     }
   ]
 }
