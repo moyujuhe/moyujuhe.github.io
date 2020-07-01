@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-02 01:28:31",
+  "time":"2020-07-02 01:33:11",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"微软官方免费数据恢复工具Windows File Recovery体验",
+      "url":"https://www.cnbeta.com/articles/tech/998007.htm"
+    },
+    {
+      "name":"Intel酷睿i9-10910泄露：10核心20线程、频率有点怪",
+      "url":"https://www.cnbeta.com/articles/tech/998005.htm"
     },
     {
       "name":"科学家发现古气态巨行星核心 正在围绕类太阳的恒星运行",
@@ -233,14 +241,6 @@
     {
       "name":"腾讯回应被骗：一言难尽 送一千瓶老干妈求骗子线索",
       "url":"https://www.cnbeta.com/articles/tech/997891.htm"
-    },
-    {
-      "name":"律师：骗腾讯嫌疑人涉伪造印章与诈骗罪 最高判10年",
-      "url":"https://www.cnbeta.com/articles/tech/997889.htm"
-    },
-    {
-      "name":"精度提升三倍的GPS III SV03卫星升空",
-      "url":"https://www.cnbeta.com/articles/tech/997887.htm"
     }
   ]
 }
