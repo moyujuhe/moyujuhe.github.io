@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 21:44:56",
+  "time":"2020-07-01 21:49:26",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"老哥们都是从哪看新闻，我感觉很落后",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710614&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"有谁保存过cfg大佬的Ubuntu 20.04 一键安装脚本吗",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710612&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"大家白票科索沃免费主机能登录吗",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710583&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"提前还房贷有必要吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710582&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
