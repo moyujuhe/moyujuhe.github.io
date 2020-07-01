@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 07:19:56",
+  "time":"2020-07-02 07:24:06",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"想不到pr这么灵车，这还没一年，官方居然先自爆了",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710700&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"有没有那种UBUNTU镜像或者方法，能让他装完了就自动上网",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710699&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"就是你们心不心动 我又来促销了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710671&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"centos6想装BBR 发现只有4.4的内核 去哪下高版本内核？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710669&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
