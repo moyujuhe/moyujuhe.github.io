@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-01 23:47:40",
+  "time":"2020-07-01 23:52:32",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"特斯拉超越丰田成为全球市值最高汽车公司",
+      "url":"https://www.cnbeta.com/articles/tech/997979.htm"
     },
     {
       "name":"研究称中国实施的社交隔离有助于控制疫情",
@@ -237,10 +241,6 @@
     {
       "name":"三人伪造公章腾讯被骗？律师：老干妈如若构成表见代理则仍需承担广告费",
       "url":"https://www.cnbeta.com/articles/tech/997863.htm"
-    },
-    {
-      "name":"“苹果，请送Linus Torvalds一台ARM电脑”",
-      "url":"https://www.cnbeta.com/articles/tech/997861.htm"
     }
   ]
 }
