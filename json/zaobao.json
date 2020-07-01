@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 15:29:47",
+  "time":"2020-07-01 15:33:58",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"郑若骅指驻港国安公署极少数特别情况才立案",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065581"
+    },
     {
       "name":"德国外长称香港局势令人忧心 将影响中欧关系",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065572"
@@ -77,10 +81,6 @@
     {
       "name":"香港国安法生效 美英等多国反对",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065527"
-    },
-    {
-      "name":"北京新增三例本土确诊 19天来最少",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065524"
     }
   ]
 }

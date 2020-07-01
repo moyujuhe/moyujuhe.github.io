@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-07-01 15:29:42",
+  "time":"2020-07-01 15:33:54",
   "data":[
     {
       "name":"主持人系统",
@@ -183,10 +183,6 @@
       "url":"https://hacpai.com/article/1592751578245"
     },
     {
-      "name":"找 Java Spring Cloud 后端技术 远程 每月 20K 最短六个月",
-      "url":"https://hacpai.com/article/1590997480566"
-    },
-    {
       "name":"有没有大神了解 http 请求走私",
       "url":"https://hacpai.com/article/1593306652374"
     },
@@ -241,6 +237,10 @@
     {
       "name":"Java 社区论坛系统 Sym v3.6.3 发布，编辑器支持类似 Typora 的即时渲染模式",
       "url":"https://hacpai.com/article/1591922629093"
+    },
+    {
+      "name":"请教一个关于 Solo 通过 NGINX 反代的问题",
+      "url":"https://hacpai.com/article/1591890932642"
     }
   ]
 }
