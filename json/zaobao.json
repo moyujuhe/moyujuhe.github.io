@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 10:15:34",
+  "time":"2020-07-01 10:19:46",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"消息：非洲国家索马里兰将派代表驻台湾",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065522"
+    },
     {
       "name":"林郑：国安法立法是香港回归最重要发展",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065529"
@@ -77,10 +81,6 @@
     {
       "name":"中国外交部回应美国制裁香港：将采取必要反制",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065300"
-    },
-    {
-      "name":"中国国新办明日将就香港国安法召开发布会",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065295"
     }
   ]
 }
