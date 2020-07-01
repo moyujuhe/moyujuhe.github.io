@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-01 14:13:12",
+  "time":"2020-07-01 14:17:23",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"​高通总裁安蒙：5G助力全球经济寻找新机遇",
+      "url":"https://www.cnbeta.com/articles/tech/997753.htm"
     },
     {
       "name":"微软警告不得在《极限竞速》游戏中使用“臭名昭著”的标记",
@@ -237,10 +241,6 @@
     {
       "name":"黑客更新Switch全系破解：更稳定、变砖几率进一步降低",
       "url":"https://www.cnbeta.com/articles/tech/997637.htm"
-    },
-    {
-      "name":"新勒索软件EvilQuest正主动向macOS用户发动攻击",
-      "url":"https://www.cnbeta.com/articles/tech/997635.htm"
     }
   ]
 }
