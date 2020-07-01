@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 03:40:08",
+  "time":"2020-07-02 03:44:14",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"巴西圣卡塔琳娜州州长确诊新冠，此前已有7名州长被确诊",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8078056"
+    },
     {
       "name":"土耳其新增新冠肺炎确诊病例1192例，累计超20万例",
       "url":"https://www.thepaper.cn/newsDetail_forward_8077674"
@@ -77,10 +81,6 @@
     {
       "name":"京东数科拟登科创板：京东持股36.8%，估值近2000亿",
       "url":"https://www.thepaper.cn/newsDetail_forward_8075961"
-    },
-    {
-      "name":"华住集团一季度净亏损21亿元，客房入住率不到去年一半",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8075881"
     }
   ]
 }
