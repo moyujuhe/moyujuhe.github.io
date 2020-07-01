@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 00:14:23",
+  "time":"2020-07-02 00:18:35",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"香港举办逾百场活动庆祝回归祖国23周年",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8076217"
+    },
     {
       "name":"白俄罗斯代表46个国家共同支持中国保障新疆和平安宁",
       "url":"https://www.thepaper.cn/newsDetail_forward_8076213"
@@ -77,10 +81,6 @@
     {
       "name":"新华时评：美方扬言制裁香港注定徒劳",
       "url":"https://www.thepaper.cn/newsDetail_forward_8076055"
-    },
-    {
-      "name":"北京美高美酒店集中隔离点23例确诊，感染原因揭开",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8075883"
     }
   ]
 }
