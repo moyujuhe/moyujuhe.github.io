@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 03:11:23",
+  "time":"2020-07-02 03:15:32",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"沃尔沃汽车在全球召回210万辆汽车",
+      "url":"https://www.cnbeta.com/articles/tech/998017.htm"
     },
     {
       "name":"疫情持续反弹 苹果再关30家美国门店",
@@ -237,10 +241,6 @@
     {
       "name":"黄峥发全员信:与创始团队捐赠2.37%股份成立繁星慈善基金",
       "url":"https://www.cnbeta.com/articles/tech/997901.htm"
-    },
-    {
-      "name":"拼多多组织架构升级：黄峥不再担任CEO 陈磊接任",
-      "url":"https://www.cnbeta.com/articles/tech/997899.htm"
     }
   ]
 }
