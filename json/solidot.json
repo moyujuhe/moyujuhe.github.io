@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 14:59:50",
+  "time":"2020-07-01 15:04:02",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Firefox 78 发布",
+      "url":"https://www.solidot.org/story?sid=64818"
+    },
     {
       "name":"紫光准备量产 DRAM",
       "url":"https://www.solidot.org/story?sid=64817"
@@ -77,10 +81,6 @@
     {
       "name":"为什么新冠病毒在美国杀死了如此多的人",
       "url":"https://www.solidot.org/story?sid=64799"
-    },
-    {
-      "name":"微软发布 Windows 文件恢复工具",
-      "url":"https://www.solidot.org/story?sid=64798"
     }
   ]
 }
