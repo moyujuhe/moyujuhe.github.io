@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 12:35:37",
+  "time":"2020-07-01 12:39:50",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"财新6月中国制造业PMI升至51.2 创半年新高",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065550"
+    },
     {
       "name":"美参议员希望疫情后减少对中国药品的依赖",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065547"
@@ -77,10 +81,6 @@
     {
       "name":"墨西哥据报与中国就冠病疫苗的试验进行沟通",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065211"
-    },
-    {
-      "name":"中国因担心冠病暂时禁止从巴西三家工厂进口肉类",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065231"
     }
   ]
 }
