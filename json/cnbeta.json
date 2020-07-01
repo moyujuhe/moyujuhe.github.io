@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 00:18:35",
+  "time":"2020-07-02 00:22:52",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"科学家发现古气态巨行星核心 正在围绕类太阳的恒星运行",
+      "url":"https://www.cnbeta.com/articles/science/998003.htm"
     },
     {
       "name":"AMD 7nm锐龙7 4700G真身露面：B450主板成功点亮",
@@ -237,10 +241,6 @@
     {
       "name":"精度提升三倍的GPS III SV03卫星升空",
       "url":"https://www.cnbeta.com/articles/tech/997887.htm"
-    },
-    {
-      "name":"Spotify将推出针对情侣的进阶套餐 可分摊费用",
-      "url":"https://hot.cnbeta.com/articles/music/997885.htm"
     }
   ]
 }
