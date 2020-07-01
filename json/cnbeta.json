@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-01 18:33:24",
+  "time":"2020-07-01 18:37:34",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"男子无证驾驶被查诉苦：5年花10余万没考过科目一",
+      "url":"https://hot.cnbeta.com/articles/funny/997893.htm"
     },
     {
       "name":"腾讯回应被骗：一言难尽 送一千瓶老干妈求骗子线索",
@@ -237,10 +241,6 @@
     {
       "name":"新版1号店启动灰度测试 京东要深入实践会员制电商？",
       "url":"https://www.cnbeta.com/articles/tech/997777.htm"
-    },
-    {
-      "name":"公用电话全面停止服务？中国联通辟谣",
-      "url":"https://www.cnbeta.com/articles/tech/997775.htm"
     }
   ]
 }
