@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 13:01:19",
+  "time":"2020-07-01 13:05:33",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"登录阿里云国际网站的bug",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710403&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"乘风破浪的mjj 送芒果月卡一张",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710402&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"推荐个usb千m网卡",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710375&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"这个MJJ应该有印象吧",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710374&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
