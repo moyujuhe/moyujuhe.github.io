@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-01 09:04:03",
+  "time":"2020-07-01 09:08:12",
   "title":"cnBeta",
   "data":[
     {
@@ -7,11 +7,15 @@
       "url":"https://click.aliyun.com/m/1000132724/"
     },
     {
+      "name":"Redis 作者辞去 Redis 项目的领导者和维护者职务",
+      "url":"https://www.cnbeta.com/articles/tech/997601.htm"
+    },
+    {
       "name":"美FDA发布新冠疫苗官方指南 获批疫苗需在至少50%的接种者中有效",
       "url":"https://www.cnbeta.com/articles/science/997599.htm"
     },
     {
-      "name":"[图]Lexar推出全新SL200便携式SSD：重量40.6g 传输速度550 MB/s",
+      "name":"[图]Lexar推出全新SL200便携式SSD：重量40.6g 传输速度550MB/s",
       "url":"https://www.cnbeta.com/articles/tech/997597.htm"
     },
     {
@@ -237,10 +241,6 @@
     {
       "name":"不进反退？《孤岛危机：复刻版》vs原版截图对比",
       "url":"https://hot.cnbeta.com/articles/game/997485.htm"
-    },
-    {
-      "name":"Netflix捐2%现金支持美国黑人社区 初期投入1亿美元",
-      "url":"https://www.cnbeta.com/articles/tech/997483.htm"
     }
   ]
 }
