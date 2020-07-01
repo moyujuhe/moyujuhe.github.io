@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 20:31:20",
+  "time":"2020-07-01 20:35:27",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国创业板指数上半年涨36%领跑全球主要股指",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065583"
+    },
     {
       "name":"中国足协：中超将于7月25日开赛",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065594"
@@ -77,10 +81,6 @@
     {
       "name":"财新6月中国制造业PMI升至51.2 创半年新高",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065550"
-    },
-    {
-      "name":"美参议员希望疫情后减少对中国药品的依赖",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065547"
     }
   ]
 }

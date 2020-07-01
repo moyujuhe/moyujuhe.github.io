@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-07-01 20:31:13",
+  "time":"2020-07-01 20:35:25",
   "data":[
     {
       "name":"三国霸业·单机",
@@ -507,12 +507,6 @@
       "description":"最新版本:  1.23\n更新时间:  2020-06-16 04:15:19 (北京时间)\n\n- 优化截图同步速度"
     },
     {
-      "name":"定位精灵-GPS位置分享必备",
-      "url":"https://apps.apple.com/cn/app/%E5%AE%9A%E4%BD%8D%E7%B2%BE%E7%81%B5-gps%E4%BD%8D%E7%BD%AE%E5%88%86%E4%BA%AB%E5%BF%85%E5%A4%87/id1511663548?uo=4",
-      "num":"导航",
-      "description":"最新版本:  1.2.1\n更新时间:  2020-06-02 08:19:21 (北京时间)\n\n体积优化"
-    },
-    {
       "name":"钢铁战队！(Iron Marines)",
       "url":"https://apps.apple.com/cn/app/%E9%92%A2%E9%93%81%E6%88%98%E9%98%9F-iron-marines/id1056920931?uo=4",
       "num":"游戏",
@@ -601,6 +595,12 @@
       "url":"https://apps.apple.com/cn/app/%E7%8E%A9%E5%8D%A1-%E8%BD%BB%E6%9D%BE%E5%8A%A0%E5%BE%AE%E4%BF%A1/id1026740206?uo=4",
       "num":"社交",
       "description":"最新版本:  2.1.6\n更新时间:  2020-07-01 10:54:14 (北京时间)\n\n- 修复了修改微信号时的一点小问题"
+    },
+    {
+      "name":"YaoYao - 跳绳",
+      "url":"https://apps.apple.com/cn/app/yaoyao-%E8%B7%B3%E7%BB%B3/id1179393901?uo=4",
+      "num":"健康健美",
+      "description":"最新版本:  2.2.9\n更新时间:  2020-06-28 08:09:55 (北京时间)\n\n- 添加勋章\n- UI 优化与 bug 修复"
     }
   ]
 }
