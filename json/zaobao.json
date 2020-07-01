@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 09:33:20",
+  "time":"2020-07-01 09:37:31",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"香港国安法生效 美英等多国反对",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065527"
+    },
     {
       "name":"北京新增三例本土确诊 19天来最少",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065524"
@@ -77,10 +81,6 @@
     {
       "name":"三峡水库今年首泄洪 腾库容迎接可能的洪水",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065294"
-    },
-    {
-      "name":"中国最大黄金首饰商抵押80吨假黄金融资160亿人民币",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065291"
     }
   ]
 }

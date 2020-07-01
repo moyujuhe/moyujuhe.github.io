@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 09:20:22",
+  "time":"2020-07-01 09:35:53",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"Reddit CEO专访：为何封禁特朗普的讨论群组",
+      "url":"https://tech.sina.com.cn/i/2020-07-01/doc-iircuyvk1346552.shtml"
+    },
     {
       "name":"起底“花小猪”：滴滴新马甲，打车版“拼多多”",
       "url":"http://tech.sina.com.cn/csj/2020-07-01/doc-iirczymk9868880.shtml"
@@ -37,6 +41,10 @@
     {
       "name":"高通发布智能手表芯片Wear4100系列：性能提升85%",
       "url":"https://tech.sina.com.cn/e/x/2020-07-01/doc-iircuyvk1329134.shtml"
+    },
+    {
+      "name":"刚刚，马斯克身家超马云！",
+      "url":"https://tech.sina.com.cn/it/2020-07-01/doc-iirczymk9873450.shtml"
     },
     {
       "name":"5G版iPhone会采用哪种技术？ 目前依旧说法不一",
@@ -193,14 +201,6 @@
     {
       "name":"净水器会过滤掉矿物质所以不健康？属实谣言！",
       "url":"https://tech.sina.com.cn/e/2020-07-01/doc-iircuyvk1323806.shtml"
-    },
-    {
-      "name":"特斯拉涨近7% 总市值突破2000亿美元",
-      "url":"https://tech.sina.com.cn/it/2020-07-01/doc-iircuyvk1306377.shtml"
-    },
-    {
-      "name":"Facebook同意第三方审计其仇恨言论控制 安抚广告主",
-      "url":"https://tech.sina.com.cn/i/2020-06-30/doc-iircuyvk1305195.shtml"
     }
   ]
 }
