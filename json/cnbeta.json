@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-01 09:24:56",
+  "time":"2020-07-01 09:29:07",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云“上云年中促”：云服务器爆款0.9折起",
       "url":"https://click.aliyun.com/m/1000132724/"
+    },
+    {
+      "name":"亚马逊宣布成立航天卫星部门 欲将云计算业务拓展至太空",
+      "url":"https://www.cnbeta.com/articles/tech/997619.htm"
     },
     {
       "name":"FDA：因担心有甲醇残留 Saniderm一款洗手液被召回",
@@ -237,10 +241,6 @@
     {
       "name":"静脉扫描可帮助未来的Apple Watch检测非触摸手势",
       "url":"https://www.cnbeta.com/articles/tech/997503.htm"
-    },
-    {
-      "name":"苹果研究如何缩小和增加iPhone电源键的触觉效果",
-      "url":"https://www.cnbeta.com/articles/tech/997501.htm"
     }
   ]
 }
