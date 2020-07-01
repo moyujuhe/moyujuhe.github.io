@@ -1,10 +1,22 @@
 {
-  "time":"2020-07-01 14:42:50",
+  "time":"2020-07-01 14:47:02",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"Android版Gboard输入法正测试面向IM应用的自动撰写功能",
+      "url":"https://www.cnbeta.com/articles/tech/997781.htm"
+    },
+    {
+      "name":"东京迪士尼乐园今起恢复营业",
+      "url":"https://www.cnbeta.com/articles/tech/997779.htm"
+    },
+    {
+      "name":"新版1号店启动灰度测试 京东要深入实践会员制电商？",
+      "url":"https://www.cnbeta.com/articles/tech/997777.htm"
     },
     {
       "name":"公用电话全面停止服务？中国联通辟谣",
@@ -229,18 +241,6 @@
     {
       "name":"美国企业退出日本企业补缺，为华为供应5G零部件",
       "url":"https://www.cnbeta.com/articles/tech/997665.htm"
-    },
-    {
-      "name":"马斯克身价接近450亿美元 超过黄峥马云但仍低于马化腾",
-      "url":"https://www.cnbeta.com/articles/tech/997663.htm"
-    },
-    {
-      "name":"[图]网件推出Wi-Fi 6三频Orbi mesh路由器RBK752 售价449.99美元",
-      "url":"https://www.cnbeta.com/articles/tech/997661.htm"
-    },
-    {
-      "name":"一辆特斯拉开启Autopilot后撞向警车 司机正面临刑事指控",
-      "url":"https://www.cnbeta.com/articles/tech/997659.htm"
     }
   ]
 }
