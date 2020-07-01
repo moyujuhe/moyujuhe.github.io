@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-01 22:11:52",
+  "time":"2020-07-01 22:16:12",
   "title":"奇客的资讯",
   "data":[
     {
@@ -17,6 +17,10 @@
     {
       "name":"有人转移了价值 10 亿美元的比特币",
       "url":"https://www.solidot.org/story?sid=64820"
+    },
+    {
+      "name":"FCC 认定华为中兴对美国国家安全构成威胁",
+      "url":"https://www.solidot.org/story?sid=64819"
     },
     {
       "name":"Firefox 78 发布",
@@ -77,10 +81,6 @@
     {
       "name":"印度禁止 TikTok 微信等中国应用",
       "url":"https://www.solidot.org/story?sid=64804"
-    },
-    {
-      "name":"科学家研发出降低血压的转基因水稻",
-      "url":"https://www.solidot.org/story?sid=64803"
     }
   ]
 }
