@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 06:54:45",
+  "time":"2020-07-02 06:58:50",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"[图]OneDrive企业版上传限制提升至100GB 进一步整合Teams",
+      "url":"https://www.cnbeta.com/articles/tech/998025.htm"
     },
     {
       "name":"[图]Excel新增STOCKHISTORY函数：能显示指定时间段内股价变动信息",
@@ -237,10 +241,6 @@
     {
       "name":"德国警方突袭Wirecard总部 调查21亿美元会计丑闻",
       "url":"https://www.cnbeta.com/articles/tech/997909.htm"
-    },
-    {
-      "name":"外媒：苹果冻结中国App Store上万款手游更新",
-      "url":"https://www.cnbeta.com/articles/tech/997907.htm"
     }
   ]
 }
