@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 20:48:31",
+  "time":"2020-07-01 20:52:49",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"新买的mate30，安装不了谷歌套件",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710592&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"鹅厂提交了个域名实名模板，三个工作日了还在审核中",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710591&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"这是谁家的CDN？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710565&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"怎么构建多架构docker镜像并推送到远程仓库",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710564&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
