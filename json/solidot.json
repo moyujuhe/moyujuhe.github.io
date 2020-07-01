@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-01 11:44:51",
+  "time":"2020-07-01 11:49:02",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"紫光准备量产 DRAM",
+      "url":"https://www.solidot.org/story?sid=64817"
+    },
+    {
+      "name":"TikTok 将停止访问用户剪贴板",
+      "url":"https://www.solidot.org/story?sid=64816"
+    },
     {
       "name":"苹果 ARM 开发者过渡套装基准测试出炉",
       "url":"https://www.solidot.org/story?sid=64815"
@@ -73,14 +81,6 @@
     {
       "name":"微软发布 Windows 文件恢复工具",
       "url":"https://www.solidot.org/story?sid=64798"
-    },
-    {
-      "name":"美国经济过早重启导致疫情卷土重来",
-      "url":"https://www.solidot.org/story?sid=64797"
-    },
-    {
-      "name":"康希诺新冠疫苗获批供军方使用",
-      "url":"https://www.solidot.org/story?sid=64796"
     }
   ]
 }
