@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-01 13:43:34",
+  "time":"2020-07-01 13:47:45",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"[图]微软发布紧急安全更新 修复Windows 10/Server中的安全漏洞",
+      "url":"https://www.cnbeta.com/articles/tech/997737.htm"
     },
     {
       "name":"高通加入互动 OnePlus Nord极有可能采用骁龙765 5G芯片组",
@@ -237,10 +241,6 @@
     {
       "name":"科学家开发可提供电刺激的支架材料  有望被用于治愈断裂的骨头",
       "url":"https://www.cnbeta.com/articles/science/997621.htm"
-    },
-    {
-      "name":"亚马逊宣布成立航天卫星部门 欲将云计算业务拓展至太空",
-      "url":"https://www.cnbeta.com/articles/tech/997619.htm"
     }
   ]
 }
