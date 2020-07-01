@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-01 20:01:23",
+  "time":"2020-07-01 20:05:34",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"MATLAB断供哈工大首月：师生科研一切照常",
+      "url":"https://www.cnbeta.com/articles/tech/997915.htm"
+    },
+    {
+      "name":"日本学生众筹500万成功 欲起诉“游戏防沉迷条例”",
+      "url":"https://hot.cnbeta.com/articles/game/997913.htm"
     },
     {
       "name":"腾讯公关总监朋友圈自嘲：食堂今晚就老干妈一个菜",
@@ -233,14 +241,6 @@
     {
       "name":"OLED面板需求增长， 三星独占2020年Q1全球手机屏幕过半份额",
       "url":"https://www.cnbeta.com/articles/tech/997799.htm"
-    },
-    {
-      "name":"日本网友自创FaceApp新玩法：肉山大魔王化",
-      "url":"https://hot.cnbeta.com/articles/funny/997797.htm"
-    },
-    {
-      "name":"苹果服务如何“突出重围”？",
-      "url":"https://www.cnbeta.com/articles/tech/997795.htm"
     }
   ]
 }
