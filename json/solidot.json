@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-01 23:20:50",
+  "time":"2020-07-01 23:24:58",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"研究称中国实施的社交隔离有助于控制疫情",
+      "url":"https://www.solidot.org/story?sid=64825"
+    },
+    {
+      "name":"英特尔暂停向浪潮供应服务器芯片",
+      "url":"https://www.solidot.org/story?sid=64824"
+    },
     {
       "name":"警方通报腾讯被骗签署老干妈合作协议",
       "url":"https://www.solidot.org/story?sid=64823"
@@ -73,14 +81,6 @@
     {
       "name":"Reddit 正式封杀特朗普粉丝论坛",
       "url":"https://www.solidot.org/story?sid=64806"
-    },
-    {
-      "name":"Twitch 封杀特朗普账号",
-      "url":"https://www.solidot.org/story?sid=64805"
-    },
-    {
-      "name":"印度禁止 TikTok 微信等中国应用",
-      "url":"https://www.solidot.org/story?sid=64804"
     }
   ]
 }
