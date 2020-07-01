@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-01 12:26:59",
+  "time":"2020-07-01 12:31:14",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"美参议员希望疫情后减少对中国药品的依赖",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065547"
+    },
     {
       "name":"公安部副部级官员筹建港国安公署 刘兆佳：将发挥震慑作用",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065546"
@@ -77,10 +81,6 @@
     {
       "name":"中国因担心冠病暂时禁止从巴西三家工厂进口肉类",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065231"
-    },
-    {
-      "name":"香港国安法正式生效施行",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200630-1065322"
     }
   ]
 }
