@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 11:57:19",
+  "time":"2020-07-02 12:01:35",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国连续31天发出暴雨预警 五省局地预计有大暴雨",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065808"
+    },
     {
       "name":"中国教育部：企图冒名顶替的高校新生将被取消入学资格",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065806"
@@ -77,10 +81,6 @@
     {
       "name":"香港新增28例冠病确诊病例",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065607"
-    },
-    {
-      "name":"港警捕70逾名示威者 两人涉违反香港国安法",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065605"
     }
   ]
 }
