@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 17:11:20",
+  "time":"2020-07-02 17:15:35",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"新增确诊连续四天个位数 北京：仍需保持战时状态",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065856"
+    },
     {
       "name":"黎智英说他会留在香港",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065860"
@@ -77,10 +81,6 @@
     {
       "name":"中国连续31天发出暴雨预警 五省局地预计有大暴雨",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065808"
-    },
-    {
-      "name":"中国教育部：企图冒名顶替的高校新生将被取消入学资格",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065806"
     }
   ]
 }
