@@ -1,6 +1,6 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-07-02 19:09:15",
+  "time":"2020-07-02 19:13:26",
   "data":[
     {
       "name":"【Chrome 插件蝴蝶主页 v1.0.0】写了一个 Chrome 插件 蝴蝶主页 更新在这！",
@@ -183,10 +183,6 @@
       "url":"https://hacpai.com/article/1588129011542"
     },
     {
-      "name":"推荐 7 款好用的开发工具",
-      "url":"https://hacpai.com/article/1588056116169"
-    },
-    {
       "name":"使用 Egg + Vue 的第一个线上小产品——远程工作职位信息收集站点 yuancheng.works",
       "url":"https://hacpai.com/article/1587115780863"
     },
@@ -225,6 +221,10 @@
     {
       "name":"「Mobi.css」轻量，灵活的移动端 css library， built with love",
       "url":"https://hacpai.com/article/1472435623476"
+    },
+    {
+      "name":"谁能介绍一个开源的 todo 系统",
+      "url":"https://hacpai.com/article/1435208394112"
     }
   ]
 }
