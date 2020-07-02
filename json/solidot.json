@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-02 15:47:12",
+  "time":"2020-07-02 16:29:21",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"印度 ISP 屏蔽 DuckDuckGo",
+      "url":"https://www.solidot.org/story?sid=64829"
+    },
+    {
+      "name":"特斯拉成为最有价值的汽车公司",
+      "url":"https://www.solidot.org/story?sid=64828"
+    },
     {
       "name":"印度命令 ISP 屏蔽被禁止的中国应用",
       "url":"https://www.solidot.org/story?sid=64827"
@@ -73,14 +81,6 @@
     {
       "name":"黑客如何从加州旧金山勒索到 114 万美元",
       "url":"https://www.solidot.org/story?sid=64810"
-    },
-    {
-      "name":"Linux Mint 20 发布",
-      "url":"https://www.solidot.org/story?sid=64809"
-    },
-    {
-      "name":"GnuCash 4.0 释出",
-      "url":"https://www.solidot.org/story?sid=64808"
     }
   ]
 }
