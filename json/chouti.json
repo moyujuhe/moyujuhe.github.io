@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 19:15:05",
+  "time":"2020-07-02 19:30:05",
   "title":"抽屉新热榜",
   "data":[
+    {
+      "name":"【Sci-Hub下载量成论文影响力预测指标：能被下载的论文，被引次数高出72%】这项针对Sci-hub影响力的研究，被公开放在了arXiv上。”天下苦学术出版商久矣“，研究人员希望通过数据证明，Sci-hub的下载量与论文未来的引用量是正相关的——绕过大多数学术出版商的付费墙，实际上增强了论文的潜在影响力。",
+      "url":"https://www.qbitai.com/2020/07/16184.html"
+    },
     {
       "name":"【咪蒙不再制造咪蒙】@编辑下山：君以此始，必以此终。咪蒙的文章以其标志性的对抗性和撕裂感把每个人的生活都异化为一场廉价劣质的真人秀。最后，这种对抗性和撕裂感入侵了她的公司，入侵了她的家庭，所有温情的，柔软的都消失了。这像是一个诅咒。",
       "url":"https://mp.weixin.qq.com/s/vECAlJwvVzr_tfxIFYKsmw"
@@ -81,10 +85,6 @@
     {
       "name":"两市成交破万亿沪指大涨2.1%，券商板块迎涨停潮",
       "url":"https://finance.sina.com.cn/stock/jsy/2020-07-02/doc-iircuyvk1603009.shtml?cref=cj"
-    },
-    {
-      "name":"芯片卡的江湖故事",
-      "url":"https://mp.weixin.qq.com/s/2rQKiFqFDuix1UUNE1hoSg"
     }
   ]
 }
