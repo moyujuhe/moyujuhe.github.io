@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 09:51:11",
+  "time":"2020-07-02 09:55:22",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"哈佛开发新冠肺炎风险地图：让用户更容易掌握当地疫情",
+      "url":"https://www.cnbeta.com/articles/tech/998153.htm"
     },
     {
       "name":"福奇建议美国民众应避免在酒吧聚集",
@@ -237,10 +241,6 @@
     {
       "name":"[图]Mozilla发布Firefox 78.0.1紧急维护版本： 修复搜索引擎故障",
       "url":"https://www.cnbeta.com/articles/tech/998037.htm"
-    },
-    {
-      "name":"苹果、Facebook、谷歌和亚马逊CEO将出席反垄断听证会",
-      "url":"https://www.cnbeta.com/articles/tech/998035.htm"
     }
   ]
 }
