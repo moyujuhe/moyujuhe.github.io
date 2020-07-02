@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 20:13:02",
+  "time":"2020-07-02 20:17:12",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"脸书将把投票登记链接固顶在News Feed 供所有美国选民使用",
+      "url":"https://www.cnbeta.com/articles/tech/998423.htm"
     },
     {
       "name":"上海超级工厂或成救星 助特斯拉避免二季度亏损",
@@ -237,10 +241,6 @@
     {
       "name":"牺牲稳定换更短发布周期 Firefox的这步棋真的下对了吗？",
       "url":"https://www.cnbeta.com/articles/tech/998303.htm"
-    },
-    {
-      "name":"Ecosia搜索引擎已贡献植树将近一亿棵",
-      "url":"https://www.cnbeta.com/articles/tech/998301.htm"
     }
   ]
 }
