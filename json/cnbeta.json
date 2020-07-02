@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 14:46:57",
+  "time":"2020-07-02 14:51:08",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"亚马逊云服务推出.NET Core迁移助手工具",
+      "url":"https://www.cnbeta.com/articles/tech/998305.htm"
     },
     {
       "name":"牺牲稳定换更短发布周期 Firefox的这步棋真的下对了吗？",
@@ -237,10 +241,6 @@
     {
       "name":"中国公司市值500强出炉：工行跌出三甲 阿里第二 第一市值暴涨",
       "url":"https://www.cnbeta.com/articles/tech/998189.htm"
-    },
-    {
-      "name":"复旦大学400架无人机黄浦江畔送别毕业生",
-      "url":"https://www.cnbeta.com/articles/tech/998187.htm"
     }
   ]
 }
