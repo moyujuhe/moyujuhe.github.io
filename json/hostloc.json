@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 14:55:45",
+  "time":"2020-07-02 14:59:56",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"你们服务器都用centos哪个版本？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710896&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"有哪个大佬是阿里云的大代理，我在你线下注册，返点多...",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710895&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -101,10 +105,6 @@
     {
       "name":"大佬们 搭建TG转存机器人推荐啥机器",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710862&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"收到一封邮件，这个能用来当图床或者网盘吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710861&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
