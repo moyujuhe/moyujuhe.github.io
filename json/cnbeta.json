@@ -1,10 +1,22 @@
 {
-  "time":"2020-07-02 11:06:58",
+  "time":"2020-07-02 11:11:10",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"乐高推出一系列新的可搭建流行艺术“海报”  包括钢铁侠和披头士乐队等",
+      "url":"https://www.cnbeta.com/articles/tech/998223.htm"
+    },
+    {
+      "name":"量子涨落在人体大小物体上测得：移动10的负20次方米",
+      "url":"https://www.cnbeta.com/articles/science/998221.htm"
+    },
+    {
+      "name":"腾讯公关总监回应字节副总裁吐槽：知识储备不足 记性还不好",
+      "url":"https://www.cnbeta.com/articles/tech/998219.htm"
     },
     {
       "name":"《釜山行2：半岛》新剧照公开 末日紧张感扑面而来",
@@ -229,18 +241,6 @@
     {
       "name":"贝索斯身家飙升至1716亿美元 2年超越离婚前水平",
       "url":"https://www.cnbeta.com/articles/tech/998105.htm"
-    },
-    {
-      "name":"Zoom错过发布第一份透明度报告的最后期限",
-      "url":"https://www.cnbeta.com/articles/tech/998103.htm"
-    },
-    {
-      "name":"科学家观测到很少有机会看到的地球磁场运动",
-      "url":"https://www.cnbeta.com/articles/science/998101.htm"
-    },
-    {
-      "name":"Facebook将关闭其实验性应用Hobbi",
-      "url":"https://www.cnbeta.com/articles/tech/998099.htm"
     }
   ]
 }
