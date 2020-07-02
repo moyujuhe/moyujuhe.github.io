@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-03 01:23:28",
+  "time":"2020-07-03 01:27:36",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"松下Technics推出首款降噪真无线耳机",
+      "url":"https://www.cnbeta.com/articles/tech/998459.htm"
     },
     {
       "name":"《F1 2020》特性预告片展示全新领奖台挑战系统",
@@ -237,10 +241,6 @@
     {
       "name":"SpaceX就星链卫星项目向FCC争取更多政策优惠",
       "url":"https://www.cnbeta.com/articles/science/998337.htm"
-    },
-    {
-      "name":"59款中国应用在印度遭苹果、谷歌下架",
-      "url":"https://www.cnbeta.com/articles/tech/998335.htm"
     }
   ]
 }
