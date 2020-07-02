@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 09:25:57",
+  "time":"2020-07-02 09:30:14",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"科学家们观察到新冠病毒使细胞长出了“触角”",
+      "url":"https://www.cnbeta.com/articles/science/998143.htm"
     },
     {
       "name":"微软或在7月23日举办Xbox Series X主机的第二场揭幕活动",
@@ -237,10 +241,6 @@
     {
       "name":"[图]Surface Pro 7/Laptop 3等设备已移除限制 现可升级Windows 10 20H1",
       "url":"https://www.cnbeta.com/articles/tech/998027.htm"
-    },
-    {
-      "name":"[图]OneDrive企业版上传限制提升至100GB 进一步整合Teams",
-      "url":"https://www.cnbeta.com/articles/tech/998025.htm"
     }
   ]
 }
