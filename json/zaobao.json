@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 08:10:01",
+  "time":"2020-07-02 08:14:11",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"大陆新增三起确诊",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065785"
+    },
     {
       "name":"高雄市长补选最新民调 陈其迈优势明显",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065770"
@@ -77,10 +81,6 @@
     {
       "name":"铜锣湾示威：港警首举香港国安法紫色警告旗",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065562"
-    },
-    {
-      "name":"港国安法生效后首例 男子携带港独旗被捕",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065560"
     }
   ]
 }
