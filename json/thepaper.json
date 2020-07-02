@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 23:30:57",
+  "time":"2020-07-02 23:35:42",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"尼泊尔南部地区雷暴天气致4人死亡",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8093516"
+    },
     {
       "name":"棋手范蕴若去世，中国围棋协会表示哀悼",
       "url":"https://www.thepaper.cn/newsDetail_forward_8093508"
@@ -77,10 +81,6 @@
     {
       "name":"缅甸帕敢翡翠矿区大规模塌方，已致162人遇难、54人受伤",
       "url":"https://www.thepaper.cn/newsDetail_forward_8093171"
-    },
-    {
-      "name":"龚正调研上海交大、华东师大、紫竹高新区，鼓励服务国家战略",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8093173"
     }
   ]
 }
