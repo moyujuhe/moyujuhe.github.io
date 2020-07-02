@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 08:30:53",
+  "time":"2020-07-02 08:35:04",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"科学家观测到很少有机会看到的地球磁场运动",
+      "url":"https://www.cnbeta.com/articles/science/998101.htm"
     },
     {
       "name":"Facebook将关闭其实验性应用Hobbi",
@@ -237,10 +241,6 @@
     {
       "name":"美国经济重开不容乐观 全美40%人口已经取消或暂停重开",
       "url":"https://www.cnbeta.com/articles/tech/997985.htm"
-    },
-    {
-      "name":"瑞幸咖啡完成内部调查：营收夸大21亿元 费用夸大13亿元",
-      "url":"https://www.cnbeta.com/articles/tech/997983.htm"
     }
   ]
 }
