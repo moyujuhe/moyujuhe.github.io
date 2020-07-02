@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 13:30:07",
+  "time":"2020-07-02 13:34:21",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"微软或于7月下旬的夏日直播活动中介绍百款Xbox One游戏",
+      "url":"https://hot.cnbeta.com/articles/game/998249.htm"
     },
     {
       "name":"WhatsApp更新预告：扫二维码添加联系人 改进群组视频通话体验",
@@ -237,10 +241,6 @@
     {
       "name":"[图]谷歌确认Pixel 3a系列已经停产",
       "url":"https://www.cnbeta.com/articles/tech/998131.htm"
-    },
-    {
-      "name":"哈佛新冠地图显示了美国各县COVID-19的传播情况 并确定风险水平",
-      "url":"https://www.cnbeta.com/articles/tech/998129.htm"
     }
   ]
 }
