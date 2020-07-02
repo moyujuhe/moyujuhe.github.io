@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-02 10:45:52",
+  "time":"2020-07-02 10:50:14",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"群体免疫背后的棘手数学问题",
+      "url":"https://www.cnbeta.com/articles/science/998191.htm"
+    },
+    {
+      "name":"中国公司市值500强出炉：工行跌出三甲 阿里第二 第一市值暴涨",
+      "url":"https://www.cnbeta.com/articles/tech/998189.htm"
     },
     {
       "name":"复旦大学400架无人机黄浦江畔送别毕业生",
@@ -23,7 +31,7 @@
       "url":"https://www.cnbeta.com/articles/tech/998181.htm"
     },
     {
-      "name":"医生的简单实验证明了为什么口罩是降低新冠传播风险的关键工具",
+      "name":"简单实验证明了为什么口罩是降低COVID-19传播风险的关键工具",
       "url":"https://www.cnbeta.com/articles/science/998179.htm"
     },
     {
@@ -233,14 +241,6 @@
     {
       "name":"团购便宜50% 群主说我去官方渠道买就是傻？",
       "url":"https://www.cnbeta.com/articles/tech/998073.htm"
-    },
-    {
-      "name":"盖茨：社交媒体对新冠病毒快速传播起到推波助澜的作用",
-      "url":"https://www.cnbeta.com/articles/tech/998071.htm"
-    },
-    {
-      "name":"这两款移动电源存在安全隐患 看看你有没有在用",
-      "url":"https://www.cnbeta.com/articles/tech/998069.htm"
     }
   ]
 }
