@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 12:01:33",
+  "time":"2020-07-02 12:05:44",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"iCloud门户网站周三出现短时无法访问的故障",
+      "url":"https://www.cnbeta.com/articles/tech/998239.htm"
     },
     {
       "name":"微软正在调整Windows 10窗口切换组合键的体验",
@@ -237,10 +241,6 @@
     {
       "name":"微软解释 Edge 为何静默导入 Firefox 和 Chrome 数据",
       "url":"https://www.cnbeta.com/articles/tech/998121.htm"
-    },
-    {
-      "name":"openGauss 正式开源并成立开源社区",
-      "url":"https://www.cnbeta.com/articles/tech/998119.htm"
     }
   ]
 }
