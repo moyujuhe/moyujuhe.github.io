@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 11:48:52",
+  "time":"2020-07-02 11:53:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"微软正在调整Windows 10窗口切换组合键的体验",
+      "url":"https://www.cnbeta.com/articles/tech/998237.htm"
     },
     {
       "name":"在收到《纽约时报版》版权投诉后  Twitter删除了特朗普上传的照片",
@@ -237,10 +241,6 @@
     {
       "name":"openGauss 正式开源并成立开源社区",
       "url":"https://www.cnbeta.com/articles/tech/998119.htm"
-    },
-    {
-      "name":"硬核测试：50个主流App，41个都在“偷看”你的剪贴板",
-      "url":"https://www.cnbeta.com/articles/tech/998117.htm"
     }
   ]
 }
