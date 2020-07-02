@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 09:13:26",
+  "time":"2020-07-02 09:17:38",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"想要批量做垃圾站，求指点",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710724&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"求日本、新加坡、美国的CN2推荐",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710723&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"晕死，今天弄了个DNSPOD账号，发现……",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710694&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"境外也有北岸",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710693&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }

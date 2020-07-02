@@ -1,10 +1,22 @@
 {
-  "time":"2020-07-02 09:13:23",
+  "time":"2020-07-02 09:17:34",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"[图]Edge Canary新版允许用户查看和验证PDF文件中的数字签名",
+      "url":"https://www.cnbeta.com/articles/tech/998139.htm"
+    },
+    {
+      "name":"英国反竞争监管部门正在审查苹果-谷歌搜索引擎协议",
+      "url":"https://www.cnbeta.com/articles/tech/998137.htm"
+    },
+    {
+      "name":"新冠康复后 汤姆·汉克斯呼吁人们戴口罩",
+      "url":"https://www.cnbeta.com/articles/tech/998135.htm"
     },
     {
       "name":"Facebook再曝漏洞：与开发者超时分享用户数据",
@@ -229,18 +241,6 @@
     {
       "name":"[图]Excel新增STOCKHISTORY函数：能显示指定时间段内股价变动信息",
       "url":"https://www.cnbeta.com/articles/tech/998023.htm"
-    },
-    {
-      "name":"[图]Galaxy Note 20 Ultra渲染图官网偷跑：背面三摄 S Pen或采用金属材质",
-      "url":"https://www.cnbeta.com/articles/tech/998021.htm"
-    },
-    {
-      "name":"疑似新款 iMac 曝光？10 核 i9-10910 、5300 显卡",
-      "url":"https://www.cnbeta.com/articles/tech/998019.htm"
-    },
-    {
-      "name":"沃尔沃汽车在全球召回210万辆汽车",
-      "url":"https://www.cnbeta.com/articles/tech/998017.htm"
     }
   ]
 }
