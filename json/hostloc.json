@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 14:59:56",
+  "time":"2020-07-02 15:04:09",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"X10 Max......",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710897&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"你们服务器都用centos哪个版本？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710896&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -101,10 +105,6 @@
     {
       "name":"255",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710864&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"大佬们 搭建TG转存机器人推荐啥机器",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=710862&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }

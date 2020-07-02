@@ -1,10 +1,22 @@
 {
-  "time":"2020-07-02 14:59:52",
+  "time":"2020-07-02 15:04:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"生殖内分泌专家、中国工程院院士肖碧莲逝世",
+      "url":"https://www.cnbeta.com/articles/tech/998317.htm"
+    },
+    {
+      "name":"玩手机对孩子危害有多大？",
+      "url":"https://www.cnbeta.com/articles/tech/998315.htm"
+    },
+    {
+      "name":"小米发布首款OLED电视：定位旗舰 65寸售价12999元",
+      "url":"https://www.cnbeta.com/articles/tech/998313.htm"
     },
     {
       "name":"合肥长鑫LPDDR5内存预计2-3年内攻坚成功",
@@ -229,18 +241,6 @@
     {
       "name":"华为正式宣布开源数据虚拟化引擎openLooKeng",
       "url":"https://www.cnbeta.com/articles/tech/998203.htm"
-    },
-    {
-      "name":"恒星神秘“消失”：天文学家认为可能已坍缩成黑洞",
-      "url":"https://www.cnbeta.com/articles/science/998201.htm"
-    },
-    {
-      "name":"烹饪会产生哪些健康风险？",
-      "url":"https://www.cnbeta.com/articles/science/998199.htm"
-    },
-    {
-      "name":"Salesforce提出减轻AI性别偏见的新方法",
-      "url":"https://www.cnbeta.com/articles/tech/998197.htm"
     }
   ]
 }

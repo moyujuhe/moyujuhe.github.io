@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 14:59:54",
+  "time":"2020-07-02 15:04:06",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"哈佛研究人员发现北京6月冠病毒株或源自南亚或东南亚",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065832"
+    },
     {
       "name":"英国放宽持BNO港人居留权 中方坚决反对",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065829"
@@ -77,10 +81,6 @@
     {
       "name":"英公布港人移居新措施 学者料其他国家会有类似计划",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065787"
-    },
-    {
-      "name":"大陆新增三起确诊",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065785"
     }
   ]
 }
