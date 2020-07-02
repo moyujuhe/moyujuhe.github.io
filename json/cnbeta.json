@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 09:55:22",
+  "time":"2020-07-02 09:59:40",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"[图]Windows 10 Build 20161发布：优化开始菜单 带来个性化任务栏",
+      "url":"https://www.cnbeta.com/articles/tech/998155.htm"
     },
     {
       "name":"哈佛开发新冠肺炎风险地图：让用户更容易掌握当地疫情",
@@ -237,10 +241,6 @@
     {
       "name":"乐高停止30天社交媒体广告 抗议平台对内容监管不力",
       "url":"https://www.cnbeta.com/articles/tech/998039.htm"
-    },
-    {
-      "name":"[图]Mozilla发布Firefox 78.0.1紧急维护版本： 修复搜索引擎故障",
-      "url":"https://www.cnbeta.com/articles/tech/998037.htm"
     }
   ]
 }
