@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 09:17:34",
+  "time":"2020-07-02 09:21:45",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"微软或在7月23日举办Xbox Series X主机的第二场揭幕活动",
+      "url":"https://hot.cnbeta.com/articles/game/998141.htm"
     },
     {
       "name":"[图]Edge Canary新版允许用户查看和验证PDF文件中的数字签名",
@@ -237,10 +241,6 @@
     {
       "name":"[图]OneDrive企业版上传限制提升至100GB 进一步整合Teams",
       "url":"https://www.cnbeta.com/articles/tech/998025.htm"
-    },
-    {
-      "name":"[图]Excel新增STOCKHISTORY函数：能显示指定时间段内股价变动信息",
-      "url":"https://www.cnbeta.com/articles/tech/998023.htm"
     }
   ]
 }
