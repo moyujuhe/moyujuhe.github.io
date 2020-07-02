@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-02 11:23:46",
+  "time":"2020-07-02 11:27:57",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"马云再谈数学：用处是无用之用 学的是不同之同",
+      "url":"https://www.cnbeta.com/articles/tech/998229.htm"
+    },
+    {
+      "name":"Apple Watch再记一功：帮助麻醉医师及早发现严重心脏疾病",
+      "url":"https://www.cnbeta.com/articles/science/998227.htm"
     },
     {
       "name":"英特尔开售NUC 9 Extreme迷你主机 采用酷睿i9-9980HK处理器",
@@ -233,14 +241,6 @@
     {
       "name":"《赛博朋克2077》仅支持DX12 只能在Windows 7/10系统上运行",
       "url":"https://hot.cnbeta.com/articles/game/998111.htm"
-    },
-    {
-      "name":"外卖困局： Postmates上市还是被Uber收购？",
-      "url":"https://www.cnbeta.com/articles/tech/998109.htm"
-    },
-    {
-      "name":"苹果启动Apple Card限时纳新活动 新用户消费可获50美元返现",
-      "url":"https://www.cnbeta.com/articles/tech/998107.htm"
     }
   ]
 }
