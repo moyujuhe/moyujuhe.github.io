@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 12:18:17",
+  "time":"2020-07-02 12:22:28",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"谷歌去年向苹果支付了15亿美元 以成为英国Safari默认搜索引擎",
+      "url":"https://www.cnbeta.com/articles/tech/998243.htm"
     },
     {
       "name":"历史性的阿波罗11号任务的飞行控制装置将被拍卖",
@@ -237,10 +241,6 @@
     {
       "name":"Manjaro Linux 32 位已死",
       "url":"https://www.cnbeta.com/articles/tech/998125.htm"
-    },
-    {
-      "name":"苹果CEO本月将出席美国科技反垄断调查听证会",
-      "url":"https://www.cnbeta.com/articles/tech/998123.htm"
     }
   ]
 }
