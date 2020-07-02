@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 16:12:30",
+  "time":"2020-07-02 16:16:41",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"研究人员开发的新药物有助于减少小鼠中风造成的脑损伤",
+      "url":"https://www.cnbeta.com/articles/science/998365.htm"
     },
     {
       "name":"爆料称Xbox Series S的GPU拥有20个计算单元 性能较上代强得多",
@@ -237,10 +241,6 @@
     {
       "name":"微软或于7月下旬的夏日直播活动中介绍百款Xbox One游戏",
       "url":"https://hot.cnbeta.com/articles/game/998249.htm"
-    },
-    {
-      "name":"WhatsApp更新预告：扫二维码添加联系人 改进群组视频通话体验",
-      "url":"https://www.cnbeta.com/articles/tech/998247.htm"
     }
   ]
 }
