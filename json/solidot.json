@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 12:26:41",
+  "time":"2020-07-02 12:30:56",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"印度命令 ISP 屏蔽被禁止的中国应用",
+      "url":"https://www.solidot.org/story?sid=64827"
+    },
     {
       "name":"群体免疫背后的棘手数学问题",
       "url":"https://www.solidot.org/story?sid=64826"
@@ -77,10 +81,6 @@
     {
       "name":"GnuCash 4.0 释出",
       "url":"https://www.solidot.org/story?sid=64808"
-    },
-    {
-      "name":"中国新发现的猪流感具有大流行的潜力",
-      "url":"https://www.solidot.org/story?sid=64807"
     }
   ]
 }
