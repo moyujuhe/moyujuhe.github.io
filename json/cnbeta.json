@@ -1,10 +1,22 @@
 {
-  "time":"2020-07-02 13:51:21",
+  "time":"2020-07-02 13:55:32",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"SK海力士大规模量产HBM2E显存：轻松单颗16GB、带宽超460GB/s",
+      "url":"https://www.cnbeta.com/articles/tech/998257.htm"
+    },
+    {
+      "name":"报道称苹果敦促供应商莫错过iPhone 12的既定发布日期",
+      "url":"https://www.cnbeta.com/articles/tech/998255.htm"
+    },
+    {
+      "name":"腾讯和老干妈跨界开撕的魔幻故事有哪些不合常理的地方？",
+      "url":"https://www.cnbeta.com/articles/tech/998253.htm"
     },
     {
       "name":"教育部：最高标准 最严举措 全力以赴做好2020年高考工作",
@@ -229,18 +241,6 @@
     {
       "name":"[图]Edge Canary新版允许用户查看和验证PDF文件中的数字签名",
       "url":"https://www.cnbeta.com/articles/tech/998139.htm"
-    },
-    {
-      "name":"英国反竞争监管部门正在审查苹果-谷歌搜索引擎协议",
-      "url":"https://www.cnbeta.com/articles/tech/998137.htm"
-    },
-    {
-      "name":"新冠康复后 汤姆·汉克斯呼吁人们戴口罩",
-      "url":"https://www.cnbeta.com/articles/tech/998135.htm"
-    },
-    {
-      "name":"Facebook再曝漏洞：与开发者超时分享用户数据",
-      "url":"https://www.cnbeta.com/articles/tech/998133.htm"
     }
   ]
 }
