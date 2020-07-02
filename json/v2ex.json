@@ -1,10 +1,10 @@
 {
-  "time":"2020-07-02 09:38:36",
+  "time":"2020-07-02 09:42:49",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"同学有了个女儿，今天办出生证明，姓魏，求个名字，谢谢",
-      "url":"https://www.v2ex.com/t/686429#reply29"
+      "url":"https://www.v2ex.com/t/686429#reply38"
     },
     {
       "name":"免费申请的域名，能继续续约并且免费吗？",
@@ -16,11 +16,11 @@
     },
     {
       "name":"一个关于 Raft 协议的疑问",
-      "url":"https://www.v2ex.com/t/686420#reply10"
+      "url":"https://www.v2ex.com/t/686420#reply12"
     },
     {
       "name":"进了外包，三天两头的跑人，心态有点崩",
-      "url":"https://www.v2ex.com/t/686423#reply10"
+      "url":"https://www.v2ex.com/t/686423#reply12"
     },
     {
       "name":"iPhone 上有什么好用的 epub 阅读器？",
@@ -31,16 +31,20 @@
       "url":"https://www.v2ex.com/t/686416#reply5"
     },
     {
+      "name":"闲鱼 bug 转账 2.1 付款 2.09 收款 2.09",
+      "url":"https://www.v2ex.com/t/686419#reply5"
+    },
+    {
+      "name":"大家公司要求每天下班强制关机吗?",
+      "url":"https://www.v2ex.com/t/686437#reply5"
+    },
+    {
       "name":"突然有个想法：搞一个类似 codepen 的前端创作平台",
       "url":"https://www.v2ex.com/t/686417#reply4"
     },
     {
-      "name":"闲鱼 bug 转账 2.1 付款 2.09 收款 2.09",
-      "url":"https://www.v2ex.com/t/686419#reply3"
-    },
-    {
       "name":"坐标深圳，出一张双人沙发和一台除湿机，都很新",
-      "url":"https://www.v2ex.com/t/686421#reply3"
+      "url":"https://www.v2ex.com/t/686421#reply4"
     },
     {
       "name":"MAC WPS 和 Clash 感觉冲突，有人遇到？",
@@ -63,6 +67,14 @@
       "url":"https://www.v2ex.com/t/686432#reply1"
     },
     {
+      "name":"用梯子才能上 V2",
+      "url":"https://www.v2ex.com/t/686434#reply1"
+    },
+    {
+      "name":"关于反代网站的疑问？",
+      "url":"https://www.v2ex.com/t/686438#reply1"
+    },
+    {
       "name":"无法正常使用 markdown 插入图片或链接？",
       "url":"https://www.v2ex.com/t/686412#reply0"
     },
@@ -79,20 +91,12 @@
       "url":"https://www.v2ex.com/t/686433#reply0"
     },
     {
-      "name":"用梯子才能上 V2",
-      "url":"https://www.v2ex.com/t/686434#reply0"
-    },
-    {
       "name":"Mac App Store 更新标签页卡内容空白 无法显示 问题解决",
       "url":"https://www.v2ex.com/t/686436#reply0"
     },
     {
-      "name":"大家公司要求每天下班强制关机吗?",
-      "url":"https://www.v2ex.com/t/686437#reply0"
-    },
-    {
-      "name":"关于反代网站的疑问？",
-      "url":"https://www.v2ex.com/t/686438#reply0"
+      "name":"有一个数据类型的 Model，其中有子项 C 和 B， Model 的实例要么有 C 无 B，要么有 B 无 C。怎么设计合适的数据表？",
+      "url":"https://www.v2ex.com/t/686439#reply0"
     }
   ]
 }
