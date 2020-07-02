@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 10:28:57",
+  "time":"2020-07-02 10:33:12",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国科研人员：尚未找到新猪流感人传人证据",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065796"
+    },
     {
       "name":"拜登批香港国安法 称若当上美总统或对华实施经济制裁",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200702-1065795"
@@ -77,10 +81,6 @@
     {
       "name":"消息：铜锣湾出现新设国安部门便衣警 配“N字母”卡纸",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065591"
-    },
-    {
-      "name":"中国对美媒体采取反制措施 要求七日内申报中国业务材料",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200701-1065592"
     }
   ]
 }
