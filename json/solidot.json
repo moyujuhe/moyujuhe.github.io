@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-02 10:12:13",
+  "time":"2020-07-02 10:16:25",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"群体免疫背后的棘手数学问题",
+      "url":"https://www.solidot.org/story?sid=64826"
+    },
     {
       "name":"研究称中国实施的社交隔离有助于控制疫情",
       "url":"https://www.solidot.org/story?sid=64825"
@@ -77,10 +81,6 @@
     {
       "name":"中国新发现的猪流感具有大流行的潜力",
       "url":"https://www.solidot.org/story?sid=64807"
-    },
-    {
-      "name":"Reddit 正式封杀特朗普粉丝论坛",
-      "url":"https://www.solidot.org/story?sid=64806"
     }
   ]
 }
