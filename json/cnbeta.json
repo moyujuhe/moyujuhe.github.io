@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-02 12:05:44",
+  "time":"2020-07-02 12:09:54",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"历史性的阿波罗11号任务的飞行控制装置将被拍卖",
+      "url":"https://www.cnbeta.com/articles/science/998241.htm"
     },
     {
       "name":"iCloud门户网站周三出现短时无法访问的故障",
@@ -237,10 +241,6 @@
     {
       "name":"苹果CEO本月将出席美国科技反垄断调查听证会",
       "url":"https://www.cnbeta.com/articles/tech/998123.htm"
-    },
-    {
-      "name":"微软解释 Edge 为何静默导入 Firefox 和 Chrome 数据",
-      "url":"https://www.cnbeta.com/articles/tech/998121.htm"
     }
   ]
 }
