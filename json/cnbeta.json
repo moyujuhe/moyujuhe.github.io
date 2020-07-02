@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-02 19:00:44",
+  "time":"2020-07-02 19:05:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"老干妈在多家电商平台销量大涨：订单量大致延迟发货",
+      "url":"https://www.cnbeta.com/articles/tech/998411.htm"
+    },
+    {
+      "name":"避免盲区误撞行人 德国公司推转弯辅助系统",
+      "url":"https://www.cnbeta.com/articles/tech/998409.htm"
     },
     {
       "name":"网店上架“1000瓶辣椒酱”又下架 老干妈称与其无关",
@@ -233,14 +241,6 @@
     {
       "name":"详解宝马有史最大更新系统OS 7",
       "url":"https://www.cnbeta.com/articles/tech/998291.htm"
-    },
-    {
-      "name":"IBM宣布向Linux AI基金会贡献一系列AI工具包",
-      "url":"https://www.cnbeta.com/articles/tech/998289.htm"
-    },
-    {
-      "name":"南山法院回应“腾讯老干妈案”：正在审理，以合议庭意见为准",
-      "url":"https://www.cnbeta.com/articles/tech/998287.htm"
     }
   ]
 }
