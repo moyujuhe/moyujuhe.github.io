@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-07-03 00:05:26",
+  "time":"2020-07-03 00:10:08",
   "data":[
+    {
+      "name":"20200703 TGIF",
+      "url":"https://hacpai.com/article/1593706148648"
+    },
     {
       "name":"【Chrome 插件蝴蝶主页 v1.0.0】写了一个 Chrome 插件 蝴蝶主页 更新在这！",
       "url":"https://hacpai.com/article/1593654443045"
@@ -177,10 +181,6 @@
     {
       "name":"20200501 TGIF",
       "url":"https://hacpai.com/article/1588298809995"
-    },
-    {
-      "name":"一个 IT 小短剧，黑了华语和 IT 界内部分人",
-      "url":"https://hacpai.com/article/1588136257448"
     },
     {
       "name":"塞尔达传说：旷野之息 cemu 版本安装记录",
