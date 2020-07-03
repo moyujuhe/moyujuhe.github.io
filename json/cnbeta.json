@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-03 12:51:58",
+  "time":"2020-07-03 12:57:18",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"SpaceX成功部署美国GPS III三号卫星",
+      "url":"https://www.cnbeta.com/articles/tech/998709.htm"
     },
     {
       "name":"中国成功发射高分多模卫星和“西柏坡号”青少年科普卫星",
@@ -237,10 +241,6 @@
     {
       "name":"[图]视频游戏行业正酝酿新一轮涨价 《NBA 2K21》定价69.99美元",
       "url":"https://hot.cnbeta.com/articles/game/998591.htm"
-    },
-    {
-      "name":"瑞典研究称对COVID-19的免疫力可能高于检测结果",
-      "url":"https://www.cnbeta.com/articles/science/998589.htm"
     }
   ]
 }
