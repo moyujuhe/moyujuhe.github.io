@@ -1,6 +1,6 @@
 {
   "title":"AppStore免费排行榜(美区)",
-  "time":"2020-07-04 03:12:55",
+  "time":"2020-07-04 03:17:02",
   "data":[
     {
       "name":"Finger On The App",
@@ -48,7 +48,7 @@
       "name":"Tangle Master 3D",
       "url":"https://apps.apple.com/us/app/tangle-master-3d/id1512799121?uo=4",
       "num":"Games",
-      "description":"最新版本:  9.1\n更新时间:  2020-07-04 00:52:50 (北京时间)\n\n-Performance Improvements"
+      "description":"最新版本:  9.0\n更新时间:  2020-06-29 14:01:26 (北京时间)\n\n- Sound effects\n- Performance Improvements"
     },
     {
       "name":"Messenger",
@@ -75,16 +75,22 @@
       "description":"最新版本:  5.1.1\n更新时间:  2020-07-02 09:22:35 (北京时间)\n\nMeeting/Webinar Features:\n- Support for account managed Virtual Backgrounds\n\nChat Features:\n- External Contact Invitation Privacy Disclosure\n- Push notifications for file downloads\n\nGeneral Features:\n- Italian and Vietnamese language support\n- Sign in with Apple\n\nResolved Issues:\n- Fixes an issue where active speaker view did not update to the latest speaker when a participant is sharing their screen\n- Minor bug fixes"
     },
     {
+      "name":"Cash App",
+      "url":"https://apps.apple.com/us/app/cash-app/id711923939?uo=4",
+      "num":"Finance",
+      "description":"最新版本:  3.17\n更新时间:  2020-06-24 03:34:27 (北京时间)\n\nThis release includes bug fixes & performance improvements"
+    },
+    {
       "name":"Trivia Royale™",
       "url":"https://apps.apple.com/us/app/trivia-royale/id1506822846?uo=4",
       "num":"Games",
       "description":"最新版本:  1.1.0\n更新时间:  2020-06-28 05:05:48 (北京时间)\n\nTopic communities are here! Play and climb the leaderboards of your favorite topic. Join a community, spill the tea and make new friends"
     },
     {
-      "name":"Cash App",
-      "url":"https://apps.apple.com/us/app/cash-app/id711923939?uo=4",
-      "num":"Finance",
-      "description":"最新版本:  3.17\n更新时间:  2020-06-24 03:34:27 (北京时间)\n\nThis release includes bug fixes & performance improvements"
+      "name":"Disney+",
+      "url":"https://apps.apple.com/us/app/disney/id1446075923?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  1.6.1\n更新时间:  2020-06-04 23:04:34 (北京时间)\n\nThe latest version of Disney+ includes fixes and updates that should make your streaming experience better."
     },
     {
       "name":"Gmail - Email by Google",
@@ -103,12 +109,6 @@
       "url":"https://apps.apple.com/us/app/good-slice/id1506180378?uo=4",
       "num":"Games",
       "description":"最新版本:  1.3\n更新时间:  2020-07-03 22:12:56 (北京时间)\n\n- Minor bug fixes and improvements"
-    },
-    {
-      "name":"Disney+",
-      "url":"https://apps.apple.com/us/app/disney/id1446075923?uo=4",
-      "num":"Entertainment",
-      "description":"最新版本:  1.6.1\n更新时间:  2020-06-04 23:04:34 (北京时间)\n\nThe latest version of Disney+ includes fixes and updates that should make your streaming experience better."
     },
     {
       "name":"Amazon - Shopping made easy",
@@ -159,28 +159,22 @@
       "description":"最新版本:  1.7.1\n更新时间:  2020-06-29 20:26:24 (北京时间)\n\n-Critical Bug Fix"
     },
     {
+      "name":"Doctor Care!",
+      "url":"https://apps.apple.com/us/app/doctor-care/id1520462164?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.2\n更新时间:  2020-07-02 22:08:57 (北京时间)\n\n- New mini-games.\n- Bug fixes and improvements."
+    },
+    {
       "name":"Venmo",
       "url":"https://apps.apple.com/us/app/venmo/id351727428?uo=4",
       "num":"Finance",
       "description":"最新版本:  8.0.1\n更新时间:  2020-07-01 09:51:19 (北京时间)\n\nWe worked on various improvements and bug fixes"
     },
     {
-      "name":"Property Brothers Home Design",
-      "url":"https://apps.apple.com/us/app/property-brothers-home-design/id1466332776?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.7.1\n更新时间:  2020-06-26 23:59:16 (北京时间)\n\nNew levels! New makeovers!"
-    },
-    {
       "name":"SHEIN-Fashion Shopping Online",
       "url":"https://apps.apple.com/us/app/shein-fashion-shopping-online/id878577184?uo=4",
       "num":"Shopping",
       "description":"最新版本:  7.1.6\n更新时间:  2020-07-03 07:49:10 (北京时间)\n\n1. Logistics timeline added to user center, predict package delivery time for you.\n2. Product detail page supports adding single items in sets, easier to purcahse sets.\n3. More functions waiting for you to explore."
-    },
-    {
-      "name":"Just Draw - Drawing Puzzles",
-      "url":"https://apps.apple.com/us/app/just-draw-drawing-puzzles/id1511594765?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.9\n更新时间:  2020-07-03 04:20:06 (北京时间)\n\nMinor fixes"
     },
     {
       "name":"Pinterest",
@@ -195,16 +189,22 @@
       "description":"最新版本:  1.6\n更新时间:  2020-06-28 10:04:36 (北京时间)\n\nFix bugs."
     },
     {
+      "name":"Property Brothers Home Design",
+      "url":"https://apps.apple.com/us/app/property-brothers-home-design/id1466332776?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.7.1\n更新时间:  2020-06-26 23:59:16 (北京时间)\n\nNew levels! New makeovers!"
+    },
+    {
+      "name":"Just Draw - Drawing Puzzles",
+      "url":"https://apps.apple.com/us/app/just-draw-drawing-puzzles/id1511594765?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.9\n更新时间:  2020-07-03 04:20:06 (北京时间)\n\nMinor fixes"
+    },
+    {
       "name":"Twitter",
       "url":"https://apps.apple.com/us/app/twitter/id333903271?uo=4",
       "num":"News",
       "description":"最新版本:  8.25\n更新时间:  2020-07-03 06:26:01 (北京时间)\n\nWe made improvements and squashed bugs so Twitter is even better for you."
-    },
-    {
-      "name":"Roblox",
-      "url":"https://apps.apple.com/us/app/roblox/id431946152?uo=4",
-      "num":"Games",
-      "description":"最新版本:  2.438.407206\n更新时间:  2020-06-29 23:15:47 (北京时间)\n\nTo make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
     },
     {
       "name":"Subway Surfers",
@@ -213,10 +213,10 @@
       "description":"最新版本:  2.2.1\n更新时间:  2020-06-25 22:26:57 (北京时间)\n\n- The Subway Surfers World Tour goes to historic Zurich\n- Expand your surfer crew with Hugo, the curious inventor\n- Unlock Hugo’s new Pirate Outfit\n- Explore new and amazing streets of Zurich\n- Unlock the Clockwork board"
     },
     {
-      "name":"Discord - Talk, Chat & Hangout",
-      "url":"https://apps.apple.com/us/app/discord-talk-chat-hangout/id985746746?uo=4",
-      "num":"Social Networking",
-      "description":"最新版本:  28.0\n更新时间:  2020-06-30 23:15:19 (北京时间)\n\nWe’ve been hard at work making Discord better for you. For this version we’ve made a bunch of bug fixes and performance enhancements to make sure everything’s running as smooth as possible."
+      "name":"Roblox",
+      "url":"https://apps.apple.com/us/app/roblox/id431946152?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.438.407206\n更新时间:  2020-06-29 23:15:47 (北京时间)\n\nTo make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
     },
     {
       "name":"Hulu: Stream TV shows & movies",
@@ -225,10 +225,10 @@
       "description":"最新版本:  7.3\n更新时间:  2020-06-30 01:39:21 (北京时间)\n\nIn this latest update, we got rid of a few bugs to make sure your summer is full of smooth streaming! We also made some accessibility improvements to our Sign Up feature. Download the latest Hulu app to start watching your favorite content!"
     },
     {
-      "name":"MSCHF",
-      "url":"https://apps.apple.com/us/app/mschf/id1500457154?uo=4",
-      "num":"Lifestyle",
-      "description":"最新版本:  1.1.7\n更新时间:  2020-06-03 16:27:13 (北京时间)\n\nbug fixes and performance updates related to drops"
+      "name":"Discord - Talk, Chat & Hangout",
+      "url":"https://apps.apple.com/us/app/discord-talk-chat-hangout/id985746746?uo=4",
+      "num":"Social Networking",
+      "description":"最新版本:  28.0\n更新时间:  2020-06-30 23:15:19 (北京时间)\n\nWe’ve been hard at work making Discord better for you. For this version we’ve made a bunch of bug fixes and performance enhancements to make sure everything’s running as smooth as possible."
     },
     {
       "name":"Randonautica",
@@ -237,10 +237,10 @@
       "description":"最新版本:  1.0.6\n更新时间:  2020-06-12 11:19:59 (北京时间)\n\nLocalize the app in Chinese, Korean, Japanese, Russian, German, French, Spanish and Italian."
     },
     {
-      "name":"Doctor Care!",
-      "url":"https://apps.apple.com/us/app/doctor-care/id1520462164?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.2\n更新时间:  2020-07-02 22:08:57 (北京时间)\n\n- New mini-games.\n- Bug fixes and improvements."
+      "name":"MSCHF",
+      "url":"https://apps.apple.com/us/app/mschf/id1500457154?uo=4",
+      "num":"Lifestyle",
+      "description":"最新版本:  1.1.7\n更新时间:  2020-06-03 16:27:13 (北京时间)\n\nbug fixes and performance updates related to drops"
     },
     {
       "name":"Shop: delivery & order tracker",
@@ -255,16 +255,28 @@
       "description":"最新版本:  114.0\n更新时间:  2020-06-30 02:56:13 (北京时间)\n\n• Bug fixes and performance improvements.\n \nWe fixed user-reported issues and added new features to provide a better search experience."
     },
     {
+      "name":"Google Chrome",
+      "url":"https://apps.apple.com/us/app/google-chrome/id535886823?uo=4",
+      "num":"Utilities",
+      "description":"最新版本:  83.0.4103.88\n更新时间:  2020-05-29 01:03:38 (北京时间)\n\nThanks for choosing Chrome! This version includes:\n•If you're signed in with your Google account, you can see your last 5 search queries by tapping the address bar in a new tab.\n•Prompts and messages from Chrome have a refreshed look.\n•On your iPhone, you can change webpage text to a comfortable size by opening Chrome's menu and tapping \"Zoom Text...\" or by going to your Accessibility settings.\n•Chrome updated its Terms of Service. To view them, go to Chrome's Settings  Google Chrome  Terms of Service.\n•Fixes for crash related to tab switcher rotation and Incognito tab switcher."
+    },
+    {
       "name":"Speak to the Manager",
       "url":"https://apps.apple.com/us/app/speak-to-the-manager/id1514927350?uo=4",
       "num":"Games",
       "description":"最新版本:  2.3\n更新时间:  2020-06-28 04:12:33 (北京时间)\n\nBug Fixes"
     },
     {
-      "name":"Google Chrome",
-      "url":"https://apps.apple.com/us/app/google-chrome/id535886823?uo=4",
-      "num":"Utilities",
-      "description":"最新版本:  83.0.4103.88\n更新时间:  2020-05-29 01:03:38 (北京时间)\n\nThanks for choosing Chrome! This version includes:\n•If you're signed in with your Google account, you can see your last 5 search queries by tapping the address bar in a new tab.\n•Prompts and messages from Chrome have a refreshed look.\n•On your iPhone, you can change webpage text to a comfortable size by opening Chrome's menu and tapping \"Zoom Text...\" or by going to your Accessibility settings.\n•Chrome updated its Terms of Service. To view them, go to Chrome's Settings  Google Chrome  Terms of Service.\n•Fixes for crash related to tab switcher rotation and Incognito tab switcher."
+      "name":"Murder Hornet!",
+      "url":"https://apps.apple.com/us/app/murder-hornet/id1517461736?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.0.3\n更新时间:  2020-07-03 10:12:15 (北京时间)\n\nInitial Release!\nBug fix on Ruins map"
+    },
+    {
+      "name":"Tie Dye",
+      "url":"https://apps.apple.com/us/app/tie-dye/id1514604864?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.1.0\n更新时间:  2020-07-01 00:00:43 (北京时间)\n\n- New levels - there is no end to the fun\n- New outfits\n- New folding patterns\n- New Tie Dye colors\n- Tie Dye Beach Shop - build your own amazing Tie Dye"
     },
     {
       "name":"Roku - Official remote",
@@ -279,16 +291,10 @@
       "description":"最新版本:  1.0.15\n更新时间:  2020-06-11 10:45:51 (北京时间)\n\nCall Of Duty Mobile Season 7: RADIOACTIVE AGENT. Get ready to go nuclear as radioactive agents descend. Season 7 brings brand new updates with the much anticipated Battle Royale map expansion - 7 new zones, new BR class, and new Tank. Ghost and Price will be equipped with new gear to battle radioactive danger. Unlock new weapons to play in Tunisia and fan-favorite Gulag maps, plus Attack of the Undead mode. Accelerate your game with the Season 7 Battle Pass."
     },
     {
-      "name":"Murder Hornet!",
-      "url":"https://apps.apple.com/us/app/murder-hornet/id1517461736?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.0.3\n更新时间:  2020-07-03 10:12:15 (北京时间)\n\nInitial Release!\nBug fix on Ruins map"
-    },
-    {
-      "name":"Sneaker Art!",
-      "url":"https://apps.apple.com/us/app/sneaker-art/id1515696634?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.2.00\n更新时间:  2020-06-30 04:57:17 (北京时间)\n\nNew painting tutorial, minor bug fixes and improvements! If you experience any issues please email us at sneakers@majorfrank.com!"
+      "name":"Pandora: Music & Podcasts",
+      "url":"https://apps.apple.com/us/app/pandora-music-podcasts/id284035177?uo=4",
+      "num":"Music",
+      "description":"最新版本:  2006.2\n更新时间:  2020-06-30 07:28:15 (北京时间)\n\nBug fixes and feature improvements to reduce crashes and improve your overall listening experience."
     },
     {
       "name":"Amazon Prime Video",
@@ -297,16 +303,34 @@
       "description":"最新版本:  8.9\n更新时间:  2020-06-29 19:17:18 (北京时间)\n\nBug fixes and performance improvements"
     },
     {
-      "name":"Pandora: Music & Podcasts",
-      "url":"https://apps.apple.com/us/app/pandora-music-podcasts/id284035177?uo=4",
-      "num":"Music",
-      "description":"最新版本:  2006.2\n更新时间:  2020-06-30 07:28:15 (北京时间)\n\nBug fixes and feature improvements to reduce crashes and improve your overall listening experience."
+      "name":"Sneaker Art!",
+      "url":"https://apps.apple.com/us/app/sneaker-art/id1515696634?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.2.00\n更新时间:  2020-06-30 04:57:17 (北京时间)\n\nNew painting tutorial, minor bug fixes and improvements! If you experience any issues please email us at sneakers@majorfrank.com!"
     },
     {
       "name":"Cube Surfer!",
       "url":"https://apps.apple.com/us/app/cube-surfer/id1499118002?uo=4",
       "num":"Games",
       "description":"最新版本:  2.1.5\n更新时间:  2020-06-26 17:37:50 (北京时间)\n\n-Bug Fixes."
+    },
+    {
+      "name":"Wish - Shopping Made Fun",
+      "url":"https://apps.apple.com/us/app/wish-shopping-made-fun/id530621395?uo=4",
+      "num":"Shopping",
+      "description":"最新版本:  4.28.3\n更新时间:  2020-06-22 23:00:36 (北京时间)\n\nThank you for using Wish!\nNew in this version\n- Redesigned product details screen\n- Bug fixes and performances improvement on the main product feed"
+    },
+    {
+      "name":"Walmart - shopping & grocery",
+      "url":"https://apps.apple.com/us/app/walmart-shopping-grocery/id338137227?uo=4",
+      "num":"Shopping",
+      "description":"最新版本:  20.25\n更新时间:  2020-06-30 03:00:51 (北京时间)\n\nThis version contains stability fixes, making your shopping experience more seamless."
+    },
+    {
+      "name":"Braindom: Brain Games Test",
+      "url":"https://apps.apple.com/us/app/braindom-brain-games-test/id1513009813?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.2.8\n更新时间:  2020-07-02 14:58:02 (北京时间)\n\n-Bug fix"
     },
     {
       "name":"Fortnite",
@@ -321,52 +345,16 @@
       "description":"最新版本:  9.2.2\n更新时间:  2020-06-25 08:51:49 (北京时间)\n\nBug fixes, stability fixes, and app optimizations"
     },
     {
-      "name":"Wish - Shopping Made Fun",
-      "url":"https://apps.apple.com/us/app/wish-shopping-made-fun/id530621395?uo=4",
-      "num":"Shopping",
-      "description":"最新版本:  4.28.3\n更新时间:  2020-06-22 23:00:36 (北京时间)\n\nThank you for using Wish!\nNew in this version\n- Redesigned product details screen\n- Bug fixes and performances improvement on the main product feed"
-    },
-    {
-      "name":"Tie Dye",
-      "url":"https://apps.apple.com/us/app/tie-dye/id1514604864?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.1.0\n更新时间:  2020-07-01 00:00:43 (北京时间)\n\n- New levels - there is no end to the fun\n- New outfits\n- New folding patterns\n- New Tie Dye colors\n- Tie Dye Beach Shop - build your own amazing Tie Dye"
-    },
-    {
-      "name":"Braindom: Brain Games Test",
-      "url":"https://apps.apple.com/us/app/braindom-brain-games-test/id1513009813?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.2.8\n更新时间:  2020-07-02 14:58:02 (北京时间)\n\n-Bug fix"
-    },
-    {
       "name":"Google Duo",
       "url":"https://apps.apple.com/us/app/google-duo/id1096918571?uo=4",
       "num":"Social Networking",
       "description":"最新版本:  93.0\n更新时间:  2020-06-27 07:24:19 (北京时间)\n\n• Make group video calls with up to 12 people\n• Send video and voice messages, photos and notes to a group\n• Quickly react to video messages with emojis\n• Create personalized notes when you can't call or record a message"
     },
     {
-      "name":"Walmart - shopping & grocery",
-      "url":"https://apps.apple.com/us/app/walmart-shopping-grocery/id338137227?uo=4",
-      "num":"Shopping",
-      "description":"最新版本:  20.25\n更新时间:  2020-06-30 03:00:51 (北京时间)\n\nThis version contains stability fixes, making your shopping experience more seamless."
-    },
-    {
       "name":"SoundCloud - Music & Audio",
       "url":"https://apps.apple.com/us/app/soundcloud-music-audio/id336353151?uo=4",
       "num":"Music",
       "description":"最新版本:  5.99.0\n更新时间:  2020-06-29 20:01:08 (北京时间)\n\nWe constantly update SoundCloud to keep the tunes flowing and beats bumping. In this version:\n\n- We improved performance and fixed bugs.\n\nLoving the app? Rate us to make it official. Have questions or suggestions? Find us on Twitter @SoundCloud or the SoundCloud Help Center. We're always listening."
-    },
-    {
-      "name":"Google Photos",
-      "url":"https://apps.apple.com/us/app/google-photos/id962194608?uo=4",
-      "num":"Photo & Video",
-      "description":"最新版本:  5.0\n更新时间:  2020-06-25 22:08:02 (北京时间)\n\nIntroducing a new, simplified Google Photos to help you find and relive your memories. As part of this, we’ve refreshed the Photos icon to reflect the new, simplified product experience."
-    },
-    {
-      "name":"OfferUp - Buy. Sell. Simple.",
-      "url":"https://apps.apple.com/us/app/offerup-buy-sell-simple/id468996152?uo=4",
-      "num":"Shopping",
-      "description":"最新版本:  3.58.0\n更新时间:  2020-05-08 02:21:30 (北京时间)\n\nThanks for using OfferUp! We've made updates to many of our existing features to make the app faster and more fun to use than ever before.\nWhat's new?\n- Minor bug fixes."
     },
     {
       "name":"OH MY CAR!",
@@ -381,6 +369,18 @@
       "description":"最新版本:  0.16.0\n更新时间:  2020-06-22 03:35:36 (北京时间)\n\nMany stability and performance updates."
     },
     {
+      "name":"Google Photos",
+      "url":"https://apps.apple.com/us/app/google-photos/id962194608?uo=4",
+      "num":"Photo & Video",
+      "description":"最新版本:  5.0\n更新时间:  2020-06-25 22:08:02 (北京时间)\n\nIntroducing a new, simplified Google Photos to help you find and relive your memories. As part of this, we’ve refreshed the Photos icon to reflect the new, simplified product experience."
+    },
+    {
+      "name":"OfferUp - Buy. Sell. Simple.",
+      "url":"https://apps.apple.com/us/app/offerup-buy-sell-simple/id468996152?uo=4",
+      "num":"Shopping",
+      "description":"最新版本:  3.58.0\n更新时间:  2020-05-08 02:21:30 (北京时间)\n\nThanks for using OfferUp! We've made updates to many of our existing features to make the app faster and more fun to use than ever before.\nWhat's new?\n- Minor bug fixes."
+    },
+    {
       "name":"HBO Max: Stream TV & Movies",
       "url":"https://apps.apple.com/us/app/hbo-max-stream-tv-movies/id971265422?uo=4",
       "num":"Entertainment",
@@ -393,16 +393,16 @@
       "description":"最新版本:  1.8\n更新时间:  2020-06-26 03:26:59 (北京时间)\n\n- Critical Bug Fixes\n- NEXT UPDATE - new worlds , stronger bosses , more outfits ...\n\nAre you ready ?"
     },
     {
+      "name":"Uber - Request a ride",
+      "url":"https://apps.apple.com/us/app/uber-request-a-ride/id368677368?uo=4",
+      "num":"Travel",
+      "description":"最新版本:  3.411.10005\n更新时间:  2020-06-30 02:29:19 (北京时间)\n\nWe update the Uber app as often as possible to make it faster and more reliable for you. Here are a couple of the enhancements you'll find in the latest update:\n\n- Updates to improve localization across the app\n- Various bug fixes & improvements\n  \nLove the app? Rate us! Your feedback keeps the Uber engine running.\nHave a question? Tap Help in the Uber app or visit help.uber.com."
+    },
+    {
       "name":"Fetch Rewards: Shop Snap Save",
       "url":"https://apps.apple.com/us/app/fetch-rewards-shop-snap-save/id1182474649?uo=4",
       "num":"Shopping",
       "description":"最新版本:  2.34.0\n更新时间:  2020-06-17 22:31:39 (北京时间)\n\nHave you ever taken your car in for a tune-up? Think of this latest update as a tune-up of the Fetch app. We've made some adjustments across the board that will improve its performance, stability, and ease of use, which all add up to a more consistent experience for you."
-    },
-    {
-      "name":"Uber Eats: Order Food Delivery",
-      "url":"https://apps.apple.com/us/app/uber-eats-order-food-delivery/id1058959277?uo=4",
-      "num":"Food & Drink",
-      "description":"最新版本:  1.246.10001\n更新时间:  2020-06-23 04:45:41 (北京时间)\n\nWe update the Uber Eats app as often as possible to make it faster and more reliable for you. Here are a couple of the enhancements you'll find in the latest update:\n\n- Performance improvements\n- Localization updates\n\nLove the app? Rate us! Your feedback keeps the Uber Eats engine running.\nHave a question? Tap Help in the Uber Eats app or visit help.uber.com."
     },
     {
       "name":"Tinder",
@@ -411,10 +411,10 @@
       "description":"最新版本:  11.18.0\n更新时间:  2020-06-19 06:26:45 (北京时间)\n\nPesky bugs have been exterminated. Continue as you were."
     },
     {
-      "name":"Uber - Request a ride",
-      "url":"https://apps.apple.com/us/app/uber-request-a-ride/id368677368?uo=4",
-      "num":"Travel",
-      "description":"最新版本:  3.411.10005\n更新时间:  2020-06-30 02:29:19 (北京时间)\n\nWe update the Uber app as often as possible to make it faster and more reliable for you. Here are a couple of the enhancements you'll find in the latest update:\n\n- Updates to improve localization across the app\n- Various bug fixes & improvements\n  \nLove the app? Rate us! Your feedback keeps the Uber engine running.\nHave a question? Tap Help in the Uber app or visit help.uber.com."
+      "name":"Uber Eats: Order Food Delivery",
+      "url":"https://apps.apple.com/us/app/uber-eats-order-food-delivery/id1058959277?uo=4",
+      "num":"Food & Drink",
+      "description":"最新版本:  1.246.10001\n更新时间:  2020-06-23 04:45:41 (北京时间)\n\nWe update the Uber Eats app as often as possible to make it faster and more reliable for you. Here are a couple of the enhancements you'll find in the latest update:\n\n- Performance improvements\n- Localization updates\n\nLove the app? Rate us! Your feedback keeps the Uber Eats engine running.\nHave a question? Tap Help in the Uber Eats app or visit help.uber.com."
     },
     {
       "name":"Magic Tiles 3: Piano Game",
@@ -429,6 +429,12 @@
       "description":"最新版本:  15.0\n更新时间:  2020-07-03 16:10:29 (北京时间)\n\nCheck out all these new additions in PicsArt’s latest update:\n• Font – added search and hashtag functionality for fonts.\n• Video Editor – now you can add photos to the timeline bar and edit them as a video layer.\n• Now you can select Shutterstock images when choosing a photo to edit.\n• ICY3 – a new filter in the FLTR category.\n• ICY4 – a new filter in the FX category."
     },
     {
+      "name":"My Talking Tom Friends",
+      "url":"https://apps.apple.com/us/app/my-talking-tom-friends/id1473424857?uo=4",
+      "num":"Games",
+      "description":"最新版本:  1.0.12\n更新时间:  2020-06-11 18:00:58 (北京时间)\n\nMy Talking Tom Friends game is now live world-wide!\nNew activities, items and mini-games available!\nCheck the calendar for special rewards!"
+    },
+    {
       "name":"Curvy Punch 3D",
       "url":"https://apps.apple.com/us/app/curvy-punch-3d/id1504719576?uo=4",
       "num":"Games",
@@ -441,34 +447,28 @@
       "description":"最新版本:  1.0.3\n更新时间:  2020-06-19 15:14:36 (北京时间)\n\nPerformance improvements\nImprovements in menus to indicate bonus of objects added\nError with builders corrected\nBug correction and optimization."
     },
     {
-      "name":"Taco Bell",
-      "url":"https://apps.apple.com/us/app/taco-bell/id497387361?uo=4",
-      "num":"Food & Drink",
-      "description":"最新版本:  5.31.1\n更新时间:  2020-06-23 04:39:35 (北京时间)\n\nMinor enhancements and bug fixes"
-    },
-    {
-      "name":"My Talking Tom Friends",
-      "url":"https://apps.apple.com/us/app/my-talking-tom-friends/id1473424857?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.0.12\n更新时间:  2020-06-11 18:00:58 (北京时间)\n\nMy Talking Tom Friends game is now live world-wide!\nNew activities, items and mini-games available!\nCheck the calendar for special rewards!"
-    },
-    {
       "name":"eBay",
       "url":"https://apps.apple.com/us/app/ebay/id282614216?uo=4",
       "num":"Shopping",
       "description":"最新版本:  6.3.0\n更新时间:  2020-06-22 03:43:15 (北京时间)\n\nDark Mode\nFixed an issue which could cause the keyboard to not work properly\n\nYour feedback is important to us. Please contact us by tweeting @askebay or visiting www.ebay.com/ios"
     },
     {
-      "name":"YOLO: Anonymous Q&A",
-      "url":"https://apps.apple.com/us/app/yolo-anonymous-q-a/id1462082664?uo=4",
-      "num":"Social Networking",
-      "description":"最新版本:  4.0.5\n更新时间:  2020-05-30 01:47:55 (北京时间)\n\n(New) Add friends to your yolo and receive anonymous messages together!\nBug fixes"
+      "name":"Wayfair – Shop All Things Home",
+      "url":"https://apps.apple.com/us/app/wayfair-shop-all-things-home/id836767708?uo=4",
+      "num":"Shopping",
+      "description":"最新版本:  5.52.2\n更新时间:  2020-07-03 03:46:45 (北京时间)\n\nThank you for updating the Wayfair app! This version has more performance improvements and bug fixes than ever before!"
     },
     {
-      "name":"Tiles Hop - EDM Rush",
-      "url":"https://apps.apple.com/us/app/tiles-hop-edm-rush/id1344702806?uo=4",
-      "num":"Games",
-      "description":"最新版本:  3.2.0\n更新时间:  2020-06-24 05:28:31 (北京时间)\n\nWe update regularly to improve the game quality\n\nAwesome songs added:\n- Dance Monkey - Tones and I\n- Happier - Marshmello\n- bad guy\n- Don't Let Me Down\n- Faded - Alan Walker\n- Alone - Marshmello\n- Girls Like You\n- TheFatRat\n- And much more!!!\n\n- Hot fix issue: fail on download song\nSome random players will receive new features"
+      "name":"Telegram Messenger",
+      "url":"https://apps.apple.com/us/app/telegram-messenger/id686449807?uo=4",
+      "num":"Social Networking",
+      "description":"最新版本:  6.2.1\n更新时间:  2020-06-12 15:09:44 (北京时间)\n\nNEW MEDIA EDITOR, BETTER GIFS, AND MORE\n\nMedia Editor\n• Tap the brush icon when sending a photo or video to access the media editor.\n• Enhance media quality, tweak parameters like brightness or saturation.\n• Add drawings, text, or stickers to media.\n• Put animated stickers on photos or videos. Photos with animated stickers automatically turn into GIFs.\n• Zoom in on photos or videos for high-precision drawing.\n\nBetter GIFs\n• Enjoy greatly enhanced loading times for GIFs.\n• Quickly find GIFs in emoji-based sections covering the most popular emotions.\n• Check the Trending Tab for the top reactions of the day.\n• Press and hold on any GIF in search results to save it to your collection.\n\nAnd More\n• Hold on a chat in your chat list to add it to a folder.\n• Access all GIFs or Voice Messages in a chat from their new dedicated sections in Shared Media."
+    },
+    {
+      "name":"Taco Bell",
+      "url":"https://apps.apple.com/us/app/taco-bell/id497387361?uo=4",
+      "num":"Food & Drink",
+      "description":"最新版本:  5.31.1\n更新时间:  2020-06-23 04:39:35 (北京时间)\n\nMinor enhancements and bug fixes"
     },
     {
       "name":"Pull Him Out",
@@ -483,22 +483,28 @@
       "description":"最新版本:  2020.24.0\n更新时间:  2020-06-30 01:56:32 (北京时间)\n\n• Bug Fix: The index bar in the communities tab stays centered while scrolling gain \n• Bug Fix: You’ll see an empty state instead of an error while viewing your inbox while logged out again"
     },
     {
+      "name":"YOLO: Anonymous Q&A",
+      "url":"https://apps.apple.com/us/app/yolo-anonymous-q-a/id1462082664?uo=4",
+      "num":"Social Networking",
+      "description":"最新版本:  4.0.5\n更新时间:  2020-05-30 01:47:55 (北京时间)\n\n(New) Add friends to your yolo and receive anonymous messages together!\nBug fixes"
+    },
+    {
       "name":"Google Drive",
       "url":"https://apps.apple.com/us/app/google-drive/id507874739?uo=4",
       "num":"Productivity",
       "description":"最新版本:  4.2020.26200\n更新时间:  2020-06-30 00:02:43 (北京时间)\n\n* Bug fixes and performance improvements"
     },
     {
-      "name":"Telegram Messenger",
-      "url":"https://apps.apple.com/us/app/telegram-messenger/id686449807?uo=4",
-      "num":"Social Networking",
-      "description":"最新版本:  6.2.1\n更新时间:  2020-06-12 15:09:44 (北京时间)\n\nNEW MEDIA EDITOR, BETTER GIFS, AND MORE\n\nMedia Editor\n• Tap the brush icon when sending a photo or video to access the media editor.\n• Enhance media quality, tweak parameters like brightness or saturation.\n• Add drawings, text, or stickers to media.\n• Put animated stickers on photos or videos. Photos with animated stickers automatically turn into GIFs.\n• Zoom in on photos or videos for high-precision drawing.\n\nBetter GIFs\n• Enjoy greatly enhanced loading times for GIFs.\n• Quickly find GIFs in emoji-based sections covering the most popular emotions.\n• Check the Trending Tab for the top reactions of the day.\n• Press and hold on any GIF in search results to save it to your collection.\n\nAnd More\n• Hold on a chat in your chat list to add it to a folder.\n• Access all GIFs or Voice Messages in a chat from their new dedicated sections in Shared Media."
+      "name":"Waze Navigation & Live Traffic",
+      "url":"https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106?uo=4",
+      "num":"Navigation",
+      "description":"最新版本:  4.64\n更新时间:  2020-06-28 22:45:42 (北京时间)\n\nSaving time & avoiding traffic is even easier with this update:\n\nFixed a bug that caused the app to close after searching for a saved location."
     },
     {
-      "name":"Wayfair – Shop All Things Home",
-      "url":"https://apps.apple.com/us/app/wayfair-shop-all-things-home/id836767708?uo=4",
-      "num":"Shopping",
-      "description":"最新版本:  5.52.2\n更新时间:  2020-07-03 03:46:45 (北京时间)\n\nThank you for updating the Wayfair app! This version has more performance improvements and bug fixes than ever before!"
+      "name":"Tiles Hop - EDM Rush",
+      "url":"https://apps.apple.com/us/app/tiles-hop-edm-rush/id1344702806?uo=4",
+      "num":"Games",
+      "description":"最新版本:  3.2.0\n更新时间:  2020-06-24 05:28:31 (北京时间)\n\nWe update regularly to improve the game quality\n\nAwesome songs added:\n- Dance Monkey - Tones and I\n- Happier - Marshmello\n- bad guy\n- Don't Let Me Down\n- Faded - Alan Walker\n- Alone - Marshmello\n- Girls Like You\n- TheFatRat\n- And much more!!!\n\n- Hot fix issue: fail on download song\nSome random players will receive new features"
     },
     {
       "name":"Coin Master",
@@ -507,16 +513,16 @@
       "description":"最新版本:  3.5.120\n更新时间:  2020-06-09 15:25:30 (北京时间)\n\nThanks for playing Coin Master!\n\nIn this version, we’ve implemented updates to improve your overall experience.\n\nEnjoy a world of fun, thrills, and huge rewards right at your fingertips. Be sure your game is up to date so you can truly experience all there is to offer. \n\nInvite your friends to play Coin Master & get your FREE REWARDS! We also recommend joining our community on Facebook, Twitter, and Instagram for more fun & excitement.\n\nEnjoying Coin Master? Leave a review :)"
     },
     {
+      "name":"Zelle",
+      "url":"https://apps.apple.com/us/app/zelle/id1260755201?uo=4",
+      "num":"Finance",
+      "description":"最新版本:  4.5.1\n更新时间:  2020-06-22 23:00:25 (北京时间)\n\nThis version features several usability and feature enhancements."
+    },
+    {
       "name":"SpongeBob: Krusty Cook-Off",
       "url":"https://apps.apple.com/us/app/spongebob-krusty-cook-off/id1433784188?uo=4",
       "num":"Games",
       "description":"最新版本:  1.0.18\n更新时间:  2020-06-14 22:59:45 (北京时间)\n\nSummertime is here and SpongeBob is ready to serve up some refreshing treats to help you beat the heat in the all-new restaurant – the Juice Bar! Plus, everyone’s favorite Texan, Sandy Cheeks is available for customization, now you can dress her up in fun themed costumes inspired by the show! We’ve also made great new behind-the-scenes enhancements to help you serve up snacks with speed! Stay tuned, more restaurants, costumes and features are coming soon!!"
-    },
-    {
-      "name":"Pluto TV - Live TV and Movies",
-      "url":"https://apps.apple.com/us/app/pluto-tv-live-tv-and-movies/id751712884?uo=4",
-      "num":"Entertainment",
-      "description":"最新版本:  5.3\n更新时间:  2020-07-01 00:23:32 (北京时间)\n\nOur team is dedicated to constantly improving the Pluto TV experience with new features, product enhancements and improvements.\n\nIn addition to various fixes, we’ve brought back the Channel Guide Timeline View. You can now see programming up to 4 hours ahead, so you can plan more of your viewing day! We have also made a number of improvements to the Now Playing integration within Apple TV and improved the linear navigation experience, so you can find your favorite channels, movies and TV shows even easier.\n\nStay tuned for more exciting updates & out of this world features coming soon!"
     },
     {
       "name":"Color Flow 3D",
@@ -531,10 +537,16 @@
       "description":"最新版本:  4.42.1\n更新时间:  2020-06-20 06:48:54 (北京时间)\n\nSee something fishy? Report spam and phishing messages to keep your inbox safe. Find the new Report Junk option right where you find other actions like Archive and Delete. Available on Office 365 and Outlook.com accounts.\n\nFeel free to send us any comments or questions by going to Settings  Help & Feedback – we’d love to hear from you."
     },
     {
-      "name":"Zelle",
-      "url":"https://apps.apple.com/us/app/zelle/id1260755201?uo=4",
-      "num":"Finance",
-      "description":"最新版本:  4.5.1\n更新时间:  2020-06-22 23:00:25 (北京时间)\n\nThis version features several usability and feature enhancements."
+      "name":"Pluto TV - Live TV and Movies",
+      "url":"https://apps.apple.com/us/app/pluto-tv-live-tv-and-movies/id751712884?uo=4",
+      "num":"Entertainment",
+      "description":"最新版本:  5.3\n更新时间:  2020-07-01 00:23:32 (北京时间)\n\nOur team is dedicated to constantly improving the Pluto TV experience with new features, product enhancements and improvements.\n\nIn addition to various fixes, we’ve brought back the Channel Guide Timeline View. You can now see programming up to 4 hours ahead, so you can plan more of your viewing day! We have also made a number of improvements to the Now Playing integration within Apple TV and improved the linear navigation experience, so you can find your favorite channels, movies and TV shows even easier.\n\nStay tuned for more exciting updates & out of this world features coming soon!"
+    },
+    {
+      "name":"Lyft",
+      "url":"https://apps.apple.com/us/app/lyft/id529379082?uo=4",
+      "num":"Travel",
+      "description":"最新版本:  6.38.3\n更新时间:  2020-06-30 00:13:47 (北京时间)\n\nThanks for using Lyft! We update our app regularly to make your rides even better. Every update of our Lyft app includes improvements in speed and reliability. As new features are released, we’ll highlight those for you in the app.\n\nHere is what you will find in our latest update:\n- Bug and performance fixes"
     },
     {
       "name":"Musi - Simple Music Streaming",
@@ -547,18 +559,6 @@
       "url":"https://apps.apple.com/us/app/fitness-coach/id1472638797?uo=4",
       "num":"Health & Fitness",
       "description":"最新版本:  1.4.16\n更新时间:  2020-06-04 21:25:43 (北京时间)\n\nNew app icon"
-    },
-    {
-      "name":"Lyft",
-      "url":"https://apps.apple.com/us/app/lyft/id529379082?uo=4",
-      "num":"Travel",
-      "description":"最新版本:  6.38.3\n更新时间:  2020-06-30 00:13:47 (北京时间)\n\nThanks for using Lyft! We update our app regularly to make your rides even better. Every update of our Lyft app includes improvements in speed and reliability. As new features are released, we’ll highlight those for you in the app.\n\nHere is what you will find in our latest update:\n- Bug and performance fixes"
-    },
-    {
-      "name":"Waze Navigation & Live Traffic",
-      "url":"https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106?uo=4",
-      "num":"Navigation",
-      "description":"最新版本:  4.64\n更新时间:  2020-06-28 22:45:42 (北京时间)\n\nSaving time & avoiding traffic is even easier with this update:\n\nFixed a bug that caused the app to close after searching for a saved location."
     },
     {
       "name":"Solitaire·",
