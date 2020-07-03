@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-07-03 18:10:23",
+  "time":"2020-07-03 18:14:36",
   "data":[
     {
       "name":"一个看上去，让你觉得眼前一亮随后深思熟虑的话题。",
@@ -211,6 +211,10 @@
       "url":"https://hacpai.com/article/1591250008527"
     },
     {
+      "name":"solo 使用 docker 镜像部署的，怎样才能被收录出现在榜单上啊？",
+      "url":"https://hacpai.com/article/1593760424785"
+    },
+    {
       "name":"记录一次博客被人恶意复制以及应对的过程",
       "url":"https://hacpai.com/article/1593333701380"
     },
@@ -237,10 +241,6 @@
     {
       "name":"Java 社区论坛系统 Sym v3.6.3 发布，编辑器支持类似 Typora 的即时渲染模式",
       "url":"https://hacpai.com/article/1591922629093"
-    },
-    {
-      "name":"请教一个关于 Solo 通过 NGINX 反代的问题",
-      "url":"https://hacpai.com/article/1591890932642"
     }
   ]
 }
