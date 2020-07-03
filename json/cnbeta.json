@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-03 11:10:05",
+  "time":"2020-07-03 11:14:28",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"P2P爱钱进出事前代言人汪涵道歉 明星代言要不要担责？",
+      "url":"https://www.cnbeta.com/articles/tech/998667.htm"
     },
     {
       "name":"美国一些州的医院因新冠确诊病例数激增而不堪重负",
@@ -23,8 +27,8 @@
       "url":"https://www.cnbeta.com/articles/tech/998659.htm"
     },
     {
-      "name":"美国出现巨型圆盘状陆架云 场面震撼：宛如巨型外星飞船",
-      "url":"https://www.cnbeta.com/articles/tech/998657.htm"
+      "name":"继高管被控性骚扰女员工后 育碧承诺将展开结构性改革",
+      "url":"https://hot.cnbeta.com/articles/game/998657.htm"
     },
     {
       "name":"宝马将推出远程升级服务：座椅加热等功能付费才能用",
@@ -237,10 +241,6 @@
     {
       "name":"腾讯员工：三骗子最多获利150万 腾讯和老干妈都赢了",
       "url":"https://www.cnbeta.com/articles/tech/998551.htm"
-    },
-    {
-      "name":"Fedora 开发者讨论放弃支持 Legacy BIOS 的可能性",
-      "url":"https://www.cnbeta.com/articles/tech/998549.htm"
     }
   ]
 }
