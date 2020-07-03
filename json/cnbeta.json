@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-03 10:10:55",
+  "time":"2020-07-03 10:15:07",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"三角形ROV StealthCleaner可被用于清理养鱼场的渔网",
+      "url":"https://www.cnbeta.com/articles/tech/998611.htm"
     },
     {
       "name":"[图]开源生产力套件LibreOffice 6.4.5发布：带来100多处修复和改进",
@@ -237,10 +241,6 @@
     {
       "name":"摩根大通停用“黑名单”等术语 避免种族歧视",
       "url":"https://www.cnbeta.com/articles/tech/998495.htm"
-    },
-    {
-      "name":"印度封禁中国应用72小时后：微信还能使用 QQ邮箱被墙",
-      "url":"https://www.cnbeta.com/articles/tech/998493.htm"
     }
   ]
 }
