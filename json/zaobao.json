@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-03 22:01:14",
+  "time":"2020-07-03 22:05:29",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"英特尔暂停向中国最大服务器制造商供货",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066076"
+    },
     {
       "name":"中国20多地已推独生子女带薪护理父母假",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066102"
@@ -77,10 +81,6 @@
     {
       "name":"中国央行：中国债券市场余额位居世界第二",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066131"
-    },
-    {
-      "name":"林郑欢迎中国国务院做出香港国安法有关的任命安排",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066128"
     }
   ]
 }
