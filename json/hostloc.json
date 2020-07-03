@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-03 12:22:26",
+  "time":"2020-07-03 12:26:41",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"寻找创梦网络老板李 志 森疑似失联",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711234&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"问大佬：在a地北岸了，然后想用阿里云的vps",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711233&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"【慢出】不把站放国内了，出几个景安国内虚拟主机",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711202&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"8.wtf的单数字域名要续费了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711201&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
