@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-03 14:29:16",
+  "time":"2020-07-03 14:33:56",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"格力在中国移动招标中弄虚作假被取消资格",
+      "url":"https://www.cnbeta.com/articles/tech/998775.htm"
     },
     {
       "name":"专家谈腾讯诉老干妈案：裁定查封老干妈财产值得商榷",
@@ -237,10 +241,6 @@
     {
       "name":"继高管被控性骚扰女员工后 育碧承诺将展开结构性改革",
       "url":"https://hot.cnbeta.com/articles/game/998657.htm"
-    },
-    {
-      "name":"宝马将推出远程升级服务：座椅加热等功能付费才能用",
-      "url":"https://www.cnbeta.com/articles/tech/998655.htm"
     }
   ]
 }
