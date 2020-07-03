@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-03 09:07:31",
+  "time":"2020-07-03 09:11:42",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"新维基项目Abstract Wikipedia推动跨语言内容发展",
+      "url":"https://www.cnbeta.com/articles/tech/998581.htm"
+    },
+    {
+      "name":"报道称特斯拉不会按原计划在德国超级工厂生产电池",
+      "url":"https://www.cnbeta.com/articles/tech/998579.htm"
     },
     {
       "name":"新金属芯片能提高存储速度百倍",
@@ -233,14 +241,6 @@
     {
       "name":"美国宇航局研究人员表示月球金属含量比之前认为的要高",
       "url":"https://www.cnbeta.com/articles/science/998465.htm"
-    },
-    {
-      "name":"PC搭配AirPods用起来太头疼？你需要这款神器",
-      "url":"https://www.cnbeta.com/articles/tech/998463.htm"
-    },
-    {
-      "name":"Apple TV 6概念图曝光 采用白色外观设计遥控器带有显示屏",
-      "url":"https://www.cnbeta.com/articles/tech/998461.htm"
     }
   ]
 }
