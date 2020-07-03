@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-03 11:57:01",
+  "time":"2020-07-03 12:01:14",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"研究人员开发新型氟化膜  或更适合被用于捕获二氧化碳",
+      "url":"https://www.cnbeta.com/articles/science/998701.htm"
     },
     {
       "name":"NASA Mars 2020发射窗口即将截止：若错过将要等到2022年",
@@ -237,10 +241,6 @@
     {
       "name":"[图]维珍银河预告：7月29日直播展示SpaceShipTwo内部设计",
       "url":"https://www.cnbeta.com/articles/science/998583.htm"
-    },
-    {
-      "name":"新维基项目Abstract Wikipedia推动跨语言内容发展",
-      "url":"https://www.cnbeta.com/articles/tech/998581.htm"
     }
   ]
 }
