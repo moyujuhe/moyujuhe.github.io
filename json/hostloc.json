@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-03 10:36:24",
+  "time":"2020-07-03 10:40:42",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"最近TROJAN的速度好像变慢了很多呀 还是GCP的原因呢？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711191&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"MJJ们的 E3/E5开发者 试用 存活多久了？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711189&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"开放注册的第一天，第一位被封的小号",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711158&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"重新注册一个小号，因为ID太销魂，居然被秒封",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711157&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
