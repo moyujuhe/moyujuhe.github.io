@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 05:34:27",
+  "time":"2020-07-04 05:38:43",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美国累计新冠确诊病例超278万例，死亡病例超12.9万例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8121854"
+    },
     {
       "name":"塞尔维亚首都宣布进入紧急状态以遏制疫情蔓延",
       "url":"https://www.thepaper.cn/newsDetail_forward_8118896"
@@ -77,10 +81,6 @@
     {
       "name":"水利部：全国已全面进入主汛期，北方未来可能发生洪水",
       "url":"https://www.thepaper.cn/newsDetail_forward_8111886"
-    },
-    {
-      "name":"基于区块链技术的电子封条来了：可实时监控、一键报警",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8112061"
     }
   ]
 }
