@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 00:43:29",
+  "time":"2020-07-04 00:47:42",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美国至少19个州发布“口罩强制令”",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8112156"
+    },
     {
       "name":"国家防总、应急管理部有关负责人就当前防汛救灾答记者问",
       "url":"https://www.thepaper.cn/newsDetail_forward_8112130"
@@ -77,10 +81,6 @@
     {
       "name":"全球疫情新动向：美国疫情仍处第一波，欧盟批准使用瑞德西韦",
       "url":"https://www.thepaper.cn/newsDetail_forward_8111892"
-    },
-    {
-      "name":"长三角一体化示范区建用地指标周转机制，保障重大项目落地",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8111729"
     }
   ]
 }
