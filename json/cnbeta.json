@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-03 17:44:37",
+  "time":"2020-07-03 17:48:55",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"日本公司推出游戏专用护套：玩FPS游戏舒服多了",
+      "url":"https://www.cnbeta.com/articles/tech/998851.htm"
     },
     {
       "name":"Windows 10 20H1存在OneDrive问题 用故障排除工具可临时解决",
@@ -237,10 +241,6 @@
     {
       "name":"科学家开发通过药物使细菌发光的新技术  帮助对抗抗生素耐药性",
       "url":"https://www.cnbeta.com/articles/science/998735.htm"
-    },
-    {
-      "name":"NVIDIA谎报10亿美元矿卡收入？官方紧急声明",
-      "url":"https://www.cnbeta.com/articles/tech/998733.htm"
     }
   ]
 }
