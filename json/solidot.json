@@ -1,7 +1,19 @@
 {
-  "time":"2020-07-03 22:45:50",
+  "time":"2020-07-03 22:50:26",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"亚马逊制作《辐射》电视剧",
+      "url":"https://www.solidot.org/story?sid=64847"
+    },
+    {
+      "name":"摩根大通从内部代码和材料中替换术语  Master 和 Slave",
+      "url":"https://www.solidot.org/story?sid=64846"
+    },
+    {
+      "name":"《死亡搁浅》PC 版测试显示 AMD 的开源 FidelityFX CAS 表现强于英伟达的 DLSS",
+      "url":"https://www.solidot.org/story?sid=64845"
+    },
     {
       "name":"123456 是最常用的密码",
       "url":"https://www.solidot.org/story?sid=64844"
@@ -69,18 +81,6 @@
     {
       "name":"群体免疫背后的棘手数学问题",
       "url":"https://www.solidot.org/story?sid=64826"
-    },
-    {
-      "name":"研究称中国实施的社交隔离有助于控制疫情",
-      "url":"https://www.solidot.org/story?sid=64825"
-    },
-    {
-      "name":"英特尔暂停向浪潮供应服务器芯片",
-      "url":"https://www.solidot.org/story?sid=64824"
-    },
-    {
-      "name":"警方通报腾讯被骗签署老干妈合作协议",
-      "url":"https://www.solidot.org/story?sid=64823"
     }
   ]
 }
