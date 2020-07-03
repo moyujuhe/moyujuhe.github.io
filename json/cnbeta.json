@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-03 10:23:29",
+  "time":"2020-07-03 10:27:41",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"Linux 内核维护者难寻：“我不想被 Linus 喷”",
+      "url":"https://www.cnbeta.com/articles/tech/998621.htm"
     },
     {
       "name":"[图]联合国发布报告称全球电子垃圾激增 5年内增长21%",
@@ -237,10 +241,6 @@
     {
       "name":"Twitter：所有人戴上口罩 我们就推出推文编辑功能",
       "url":"https://www.cnbeta.com/articles/tech/998505.htm"
-    },
-    {
-      "name":"[图]Panay再晒Surface Duo：边缘更圆润 机身更纤薄",
-      "url":"https://www.cnbeta.com/articles/tech/998503.htm"
     }
   ]
 }
