@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-04 01:39:22",
+  "time":"2020-07-04 01:43:39",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"传台积电准备在2020年向苹果出货8000万颗 A14芯片",
+      "url":"https://www.cnbeta.com/articles/tech/998941.htm"
     },
     {
       "name":"欧洲消费者组织向苹果公司施压 要求其就iPhone电池门进行赔偿",
@@ -237,10 +241,6 @@
     {
       "name":"想在周末补觉？研究发现75%睡眠严重缺乏的人做不到",
       "url":"https://www.cnbeta.com/articles/science/998823.htm"
-    },
-    {
-      "name":"总分83分 DXOMARK公布小米10 Pro前置相机得分",
-      "url":"https://www.cnbeta.com/articles/tech/998821.htm"
     }
   ]
 }
