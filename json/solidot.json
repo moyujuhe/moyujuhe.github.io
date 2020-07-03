@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-03 17:23:04",
+  "time":"2020-07-03 17:27:18",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"山东通报苟晶被冒名顶替上学事件",
+      "url":"https://www.solidot.org/story?sid=64843"
+    },
+    {
+      "name":"openSUSE Leap 15.2 发布",
+      "url":"https://www.solidot.org/story?sid=64842"
+    },
     {
       "name":"欧洲警方破解犯罪组织使用的加密通讯网络数百人被捕",
       "url":"https://www.solidot.org/story?sid=64841"
@@ -73,14 +81,6 @@
     {
       "name":"NASA 毅力号漫游车发射时间再次推迟",
       "url":"https://www.solidot.org/story?sid=64822"
-    },
-    {
-      "name":"亚马逊免费网游 Crucible 回炉重造",
-      "url":"https://www.solidot.org/story?sid=64821"
-    },
-    {
-      "name":"有人转移了价值 10 亿美元的比特币",
-      "url":"https://www.solidot.org/story?sid=64820"
     }
   ]
 }
