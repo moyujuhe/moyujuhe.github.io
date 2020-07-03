@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-03 12:18:06",
+  "time":"2020-07-03 12:22:17",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"中国成功发射高分多模卫星和“西柏坡号”青少年科普卫星",
+      "url":"https://www.cnbeta.com/articles/tech/998707.htm"
     },
     {
       "name":"美国独立日假期邻近 GlobalEpidemics网站推出疫病风险警示地图",
@@ -237,10 +241,6 @@
     {
       "name":"瑞典研究称对COVID-19的免疫力可能高于检测结果",
       "url":"https://www.cnbeta.com/articles/science/998589.htm"
-    },
-    {
-      "name":"为遏制未经授权的派对 Airbnb颁布新规限制25岁以下用户",
-      "url":"https://www.cnbeta.com/articles/tech/998587.htm"
     }
   ]
 }
