@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-03 20:02:19",
+  "time":"2020-07-03 20:06:39",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"123456 是最常用的密码",
+      "url":"https://www.solidot.org/story?sid=64844"
+    },
     {
       "name":"山东通报苟晶被冒名顶替上学事件",
       "url":"https://www.solidot.org/story?sid=64843"
@@ -77,10 +81,6 @@
     {
       "name":"警方通报腾讯被骗签署老干妈合作协议",
       "url":"https://www.solidot.org/story?sid=64823"
-    },
-    {
-      "name":"NASA 毅力号漫游车发射时间再次推迟",
-      "url":"https://www.solidot.org/story?sid=64822"
     }
   ]
 }
