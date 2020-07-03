@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-03 20:10:53",
+  "time":"2020-07-03 20:15:07",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"欧盟委员会给瑞德西韦发放“有条件”上市许可",
+      "url":"https://www.cnbeta.com/articles/tech/998893.htm"
+    },
+    {
+      "name":"全球5G设备商最新排名：华为市占35.7% 稳居第一",
+      "url":"https://www.cnbeta.com/articles/tech/998891.htm"
     },
     {
       "name":"特斯拉增加订单 LG化学拟在韩国为其生产电池",
@@ -233,14 +241,6 @@
     {
       "name":"雷克沙推出SL200系列USB-C移动固态硬盘",
       "url":"https://www.cnbeta.com/articles/tech/998777.htm"
-    },
-    {
-      "name":"格力在中国移动招标中弄虚作假被取消资格",
-      "url":"https://www.cnbeta.com/articles/tech/998775.htm"
-    },
-    {
-      "name":"专家谈腾讯诉老干妈案：裁定查封老干妈财产值得商榷",
-      "url":"https://www.cnbeta.com/articles/tech/998773.htm"
     }
   ]
 }
