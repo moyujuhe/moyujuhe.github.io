@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 07:42:00",
+  "time":"2020-07-04 07:46:12",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"驻加拿大使馆发言人就加方涉香港错误言行发表谈话",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8121891"
+    },
     {
       "name":"上海人工智能这一年：姚期智等顶级AI专家落户上海发展",
       "url":"https://www.thepaper.cn/newsDetail_forward_8089992"
@@ -77,10 +81,6 @@
     {
       "name":"单日新增确诊逾5.6万例，美国确诊病例累计超278万例",
       "url":"https://www.thepaper.cn/newsDetail_forward_8121854"
-    },
-    {
-      "name":"塞尔维亚首都宣布进入紧急状态以遏制疫情蔓延",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8118896"
     }
   ]
 }
