@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-03 08:21:29",
+  "time":"2020-07-03 08:25:40",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"[图]主打隐私保护：Purism推出14吋Librem 14 Linux笔记本电脑",
+      "url":"https://www.cnbeta.com/articles/tech/998529.htm"
     },
     {
       "name":"JavaScript 引擎 V8 发布 8.4 版本",
@@ -237,10 +241,6 @@
     {
       "name":"老干妈在多家电商平台销量大涨：订单量大致延迟发货",
       "url":"https://www.cnbeta.com/articles/tech/998411.htm"
-    },
-    {
-      "name":"避免盲区误撞行人 德国公司推转弯辅助系统",
-      "url":"https://www.cnbeta.com/articles/tech/998409.htm"
     }
   ]
 }
