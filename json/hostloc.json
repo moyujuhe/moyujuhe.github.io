@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-03 17:27:21",
+  "time":"2020-07-03 17:31:55",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"消息称腾讯云与阿里竞争激烈，销售团队积极争取每一笔...",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711360&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"GAE，AWS，github之类的有没有提供免费的可以运行sh脚本的服务",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711359&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"（又见梨园）一朋友被骗   反而还被被封号。梨园管理牛皮",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711329&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"你们的512内存能不能装宝塔 LNMP？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711328&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
