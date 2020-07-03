@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-03 11:05:52",
+  "time":"2020-07-03 11:10:05",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"美国一些州的医院因新冠确诊病例数激增而不堪重负",
+      "url":"https://www.cnbeta.com/articles/tech/998665.htm"
     },
     {
       "name":"研究：跟面部更服帖的口罩防护新冠病毒效果更佳",
@@ -237,10 +241,6 @@
     {
       "name":"Fedora 开发者讨论放弃支持 Legacy BIOS 的可能性",
       "url":"https://www.cnbeta.com/articles/tech/998549.htm"
-    },
-    {
-      "name":"波音公关负责人辞职 33年前歧视女性文章被挖出",
-      "url":"https://www.cnbeta.com/articles/tech/998547.htm"
     }
   ]
 }
