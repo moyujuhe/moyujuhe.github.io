@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-03 11:48:09",
+  "time":"2020-07-03 11:52:34",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"NASA Mars 2020发射窗口即将截止：若错过将要等到2022年",
+      "url":"https://www.cnbeta.com/articles/science/998699.htm"
+    },
+    {
+      "name":"8旬老人装空调越吹越热 快递小哥一看无语：外机装客厅",
+      "url":"https://hot.cnbeta.com/articles/funny/998697.htm"
     },
     {
       "name":"EMPA科学家开发基于气凝胶的世界最轻电磁屏蔽装置",
@@ -233,14 +241,6 @@
     {
       "name":"新维基项目Abstract Wikipedia推动跨语言内容发展",
       "url":"https://www.cnbeta.com/articles/tech/998581.htm"
-    },
-    {
-      "name":"报道称特斯拉不会按原计划在德国超级工厂生产电池",
-      "url":"https://www.cnbeta.com/articles/tech/998579.htm"
-    },
-    {
-      "name":"新金属芯片能提高存储速度百倍",
-      "url":"https://www.cnbeta.com/articles/science/998577.htm"
     }
   ]
 }
