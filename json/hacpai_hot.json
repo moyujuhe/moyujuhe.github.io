@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-07-03 08:29:53",
+  "time":"2020-07-03 08:34:03",
   "data":[
     {
       "name":"主持人系统",
@@ -93,10 +93,6 @@
     {
       "name":"把你们觉得有深度有趣有思想的书丢过来吧",
       "url":"https://hacpai.com/article/1591710126767"
-    },
-    {
-      "name":"面包与理想（又辞职了，让我感慨一下吧）",
-      "url":"https://hacpai.com/article/1591143787117"
     },
     {
       "name":"终于决定学 html 了",
@@ -241,6 +237,10 @@
     {
       "name":"Java 社区论坛系统 Sym v3.6.3 发布，编辑器支持类似 Typora 的即时渲染模式",
       "url":"https://hacpai.com/article/1591922629093"
+    },
+    {
+      "name":"请教一个关于 Solo 通过 NGINX 反代的问题",
+      "url":"https://hacpai.com/article/1591890932642"
     }
   ]
 }
