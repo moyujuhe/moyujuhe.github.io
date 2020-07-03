@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-03 19:05:47",
+  "time":"2020-07-03 19:10:01",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"手里的有个剩余的服务器拿来搭cloudflare转发",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711393&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"A1又自动续订咯，第五年",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711392&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"就这要消失吧！跟风删号！",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711364&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"cf自选IP，被封域名或者被封账号的机会大吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711363&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
