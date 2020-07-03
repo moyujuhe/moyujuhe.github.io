@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-03 10:02:28",
+  "time":"2020-07-03 10:06:40",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"[图]开源生产力套件LibreOffice 6.4.5发布：带来100多处修复和改进",
+      "url":"https://www.cnbeta.com/articles/tech/998609.htm"
     },
     {
       "name":"微软支持网站新增数个移动业务相关社区板块 不过Edge缺席",
@@ -237,10 +241,6 @@
     {
       "name":"印度封禁中国应用72小时后：微信还能使用 QQ邮箱被墙",
       "url":"https://www.cnbeta.com/articles/tech/998493.htm"
-    },
-    {
-      "name":"贾跃亭“脱壳”：“重启人生”",
-      "url":"https://www.cnbeta.com/articles/tech/998491.htm"
     }
   ]
 }
