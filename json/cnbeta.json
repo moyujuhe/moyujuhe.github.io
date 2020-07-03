@@ -1,10 +1,26 @@
 {
-  "time":"2020-07-03 14:02:14",
+  "time":"2020-07-03 14:06:26",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"新冠病例激增 福奇再发警告：美国走在错误方向上",
+      "url":"https://www.cnbeta.com/articles/tech/998743.htm"
+    },
+    {
+      "name":"节能30%+噪声更小 中国地铁迎来永磁时代",
+      "url":"https://www.cnbeta.com/articles/tech/998741.htm"
+    },
+    {
+      "name":"北京健康宝微信端上午故障2小时 北京市经信局致歉",
+      "url":"https://www.cnbeta.com/articles/tech/998739.htm"
+    },
+    {
+      "name":"罢免陆正耀失败，瑞幸内斗大局已定？",
+      "url":"https://www.cnbeta.com/articles/tech/998737.htm"
     },
     {
       "name":"科学家开发通过药物使细菌发光的新技术  帮助对抗抗生素耐药性",
@@ -225,22 +241,6 @@
     {
       "name":"最新实验表明：海王星和天王星内部存在钻石雨",
       "url":"https://www.cnbeta.com/articles/science/998625.htm"
-    },
-    {
-      "name":"网友制网络迷因回顾2020年上半年“艰苦岁月”",
-      "url":"https://hot.cnbeta.com/articles/funny/998623.htm"
-    },
-    {
-      "name":"Linux 内核维护者难寻：“我不想被 Linus 喷”",
-      "url":"https://www.cnbeta.com/articles/tech/998621.htm"
-    },
-    {
-      "name":"[图]联合国发布报告称全球电子垃圾激增 5年内增长21%",
-      "url":"https://www.cnbeta.com/articles/tech/998619.htm"
-    },
-    {
-      "name":"Solo Cinebot：可通过远程操作的机器人摄影系统",
-      "url":"https://www.cnbeta.com/articles/tech/998617.htm"
     }
   ]
 }
