@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-04 07:25:01",
+  "time":"2020-07-04 07:29:16",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"贾跃亭这回又是虚晃一枪？",
+      "url":"https://www.cnbeta.com/articles/tech/998965.htm"
     },
     {
       "name":"腾讯起诉老干妈事件追踪：检察机关为何提前介入？",
@@ -237,10 +241,6 @@
     {
       "name":"Windows 10 20H1存在OneDrive问题 用故障排除工具可临时解决",
       "url":"https://www.cnbeta.com/articles/tech/998849.htm"
-    },
-    {
-      "name":"长虹成功研发首款国产超小体积5G通信模组",
-      "url":"https://www.cnbeta.com/articles/tech/998847.htm"
     }
   ]
 }
