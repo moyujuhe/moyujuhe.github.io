@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-03 09:20:04",
+  "time":"2020-07-03 09:24:15",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"瑞典研究称对COVID-19的免疫力可能高于检测结果",
+      "url":"https://www.cnbeta.com/articles/science/998589.htm"
     },
     {
       "name":"为遏制未经授权的派对 Airbnb颁布新规限制25岁以下用户",
@@ -237,10 +241,6 @@
     {
       "name":"扎克伯格：抵制Facebook的广告主很快就会回归",
       "url":"https://www.cnbeta.com/articles/tech/998473.htm"
-    },
-    {
-      "name":"瑞幸咖啡董事会宣布投票结果：陆正耀继续担任董事和董事长",
-      "url":"https://www.cnbeta.com/articles/tech/998471.htm"
     }
   ]
 }
