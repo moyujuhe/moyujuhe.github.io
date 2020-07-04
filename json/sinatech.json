@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 18:15:55",
+  "time":"2020-07-04 19:02:00",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"苹果公司想将iPhone打造成“身份证”",
+      "url":"https://tech.sina.com.cn/roll/2020-07-04/doc-iirczymm0530523.shtml"
+    },
     {
       "name":"因造假被中国移动取消中标资格？格力：同行恶意诽谤攻击！",
       "url":"https://tech.sina.com.cn/it/2020-07-04/doc-iirczymm0531934.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"欧洲消费者向苹果公施压 要求其就iPhone电池门进行赔偿",
       "url":"https://tech.sina.com.cn/roll/2020-07-04/doc-iircuyvk1886660.shtml"
-    },
-    {
-      "name":"5G第一个演进版本标准完成 支持1微秒同步精度",
-      "url":"https://tech.sina.com.cn/roll/2020-07-04/doc-iircuyvk1885991.shtml"
     }
   ]
 }
