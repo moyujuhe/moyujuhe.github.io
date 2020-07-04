@@ -1,10 +1,26 @@
 {
-  "time":"2020-07-04 10:37:13",
+  "time":"2020-07-04 10:41:31",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"受疫情影响 法航确认将裁减7850个工作岗位",
+      "url":"https://www.cnbeta.com/articles/tech/999029.htm"
+    },
+    {
+      "name":"瑞德西韦获欧盟有条件批准，如何发挥它的最大潜力？",
+      "url":"https://www.cnbeta.com/articles/science/999027.htm"
+    },
+    {
+      "name":"absoluteBlack推出自行车用石墨烯增强润滑油 宣称可耐受1800公里",
+      "url":"https://www.cnbeta.com/articles/tech/999025.htm"
+    },
+    {
+      "name":"HDMI 2.0已落后 HDMI 2.1才是以后买电视的必备选项",
+      "url":"https://www.cnbeta.com/articles/tech/999023.htm"
     },
     {
       "name":"F1仲裁委员会判定梅赛德斯AMG车队DAS系统合法",
@@ -225,22 +241,6 @@
     {
       "name":"全球第二款Intel 11代酷睿轻薄本现身：加速频率达4.7GHz",
       "url":"https://www.cnbeta.com/articles/tech/998913.htm"
-    },
-    {
-      "name":"华为1996年员工招聘广告曝光：年龄35岁以下、本科/硕士以上",
-      "url":"https://www.cnbeta.com/articles/tech/998911.htm"
-    },
-    {
-      "name":"印度亚马逊上预告OnePlus Nord设计 三摄系统有望实现",
-      "url":"https://www.cnbeta.com/articles/tech/998909.htm"
-    },
-    {
-      "name":"测试显示AMD的开源FidelityFX CAS表现强于英伟达的DLSS",
-      "url":"https://www.cnbeta.com/articles/tech/998907.htm"
-    },
-    {
-      "name":"App该不该读取用户剪贴板？这件事苹果想得比你更复杂",
-      "url":"https://www.cnbeta.com/articles/tech/998905.htm"
     }
   ]
 }
