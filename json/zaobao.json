@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 09:02:51",
+  "time":"2020-07-04 09:07:05",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国大陆昨日新增三例病例 其中北京一例",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066337"
+    },
     {
       "name":"港教育局发全港通告：将支援学校加强国安教育",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066333"
@@ -77,10 +81,6 @@
     {
       "name":"虽因力挺国安法被批 汇丰仍将新增中国内地投资",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066143"
-    },
-    {
-      "name":"被告涉嫌驾电单车撞伤警员 涉及香港国安法首案今天过堂",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066141"
     }
   ]
 }
