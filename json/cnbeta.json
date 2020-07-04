@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-05 07:44:27",
+  "time":"2020-07-05 07:48:44",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"Windows 10 内置照片应用正在测试新的索引选项",
+      "url":"https://www.cnbeta.com/articles/tech/999193.htm"
     },
     {
       "name":"世卫组织停止羟氯喹、洛匹那韦/利托那韦分支试验",
@@ -237,10 +241,6 @@
     {
       "name":"TikTok在印度遭禁后 当地竞争应用大举抢占市场",
       "url":"https://www.cnbeta.com/articles/tech/999077.htm"
-    },
-    {
-      "name":"微软解释为何移除推迟Windows 10 2004功能更新的选项",
-      "url":"https://www.cnbeta.com/articles/tech/999075.htm"
     }
   ]
 }
