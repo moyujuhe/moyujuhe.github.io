@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-04 23:11:00",
+  "time":"2020-07-04 23:16:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"因造假被中国移动取消中标资格？格力：同行恶意诽谤攻击",
+      "url":"https://www.cnbeta.com/articles/tech/999167.htm"
+    },
+    {
+      "name":"央视曝光斗鱼快手涉黄直播 女主播公开要求用户刷火箭",
+      "url":"https://www.cnbeta.com/articles/tech/999165.htm"
     },
     {
       "name":"三星Galaxy Note 20和Note 20 Ultra可能成为史上最贵的Note机型",
@@ -233,14 +241,6 @@
     {
       "name":"新冠D614G突变席卷全球：感染力超2.6倍，与毒性无关",
       "url":"https://www.cnbeta.com/articles/science/999051.htm"
-    },
-    {
-      "name":"顽皮狗曾计划把《最后的生还者2》做成完全开放世界",
-      "url":"https://hot.cnbeta.com/articles/game/999049.htm"
-    },
-    {
-      "name":"Facebook研制神经超采样技术 用以抗衡DLSS",
-      "url":"https://www.cnbeta.com/articles/tech/999047.htm"
     }
   ]
 }
