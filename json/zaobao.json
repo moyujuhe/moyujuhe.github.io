@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 12:04:08",
+  "time":"2020-07-04 12:08:34",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"经济复苏强于预期 中国北上资金本周净流入近60亿",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066362"
+    },
     {
       "name":"美报告指中国或用印中边境冲突警告印美结盟",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066360"
@@ -77,10 +81,6 @@
     {
       "name":"中国数字经济占GPD比重去年达到36.2%",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066153"
-    },
-    {
-      "name":"印度将审查进口自中国的电力设备和部件",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066149"
     }
   ]
 }
