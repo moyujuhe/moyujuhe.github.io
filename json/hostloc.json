@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 20:44:47",
+  "time":"2020-07-04 20:49:01",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"Hyper-V可以dd吗？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711863&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"现在新闻都是这么夸张的嘛？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711862&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"为什么中间路由节点的延迟会比最终节点还高？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711829&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"腾讯云，金山云，ucloud，华为云",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711828&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
