@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-04 14:27:03",
+  "time":"2020-07-04 14:31:17",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"Core i9-10850K出现在Geekbench数据库 仅频率比10900K低100MHz",
+      "url":"https://www.cnbeta.com/articles/tech/999103.htm"
+    },
+    {
+      "name":"《指环王》剧集开拍",
+      "url":"https://hot.cnbeta.com/articles/movie/999101.htm"
     },
     {
       "name":"微信出现这个界面千万要当心：这15分钟很关键",
@@ -233,14 +241,6 @@
     {
       "name":"微软推出Pylance 改善VS Code中的Python体验",
       "url":"https://www.cnbeta.com/articles/tech/998987.htm"
-    },
-    {
-      "name":"医生警告：新冠大流行期间人们可能犯的最糟糕错误是与他人共享空气",
-      "url":"https://www.cnbeta.com/articles/tech/998985.htm"
-    },
-    {
-      "name":"梅赛德斯-AMG GT R F1安全车带着“团结的光环”回归",
-      "url":"https://www.cnbeta.com/articles/tech/998983.htm"
     }
   ]
 }
