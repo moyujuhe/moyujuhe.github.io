@@ -1,10 +1,22 @@
 {
-  "time":"2020-07-04 08:37:23",
+  "time":"2020-07-04 08:41:43",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"外媒调查发现：新冠大流行期间并非所有酒店都在遵循新的清洁协议",
+      "url":"https://www.cnbeta.com/articles/tech/998991.htm"
+    },
+    {
+      "name":"Ubuntu 19.10 将于本月结束生命周期",
+      "url":"https://www.cnbeta.com/articles/tech/998989.htm"
+    },
+    {
+      "name":"微软推出Pylance 改善VS Code中的Python体验",
+      "url":"https://www.cnbeta.com/articles/tech/998987.htm"
     },
     {
       "name":"医生警告：新冠大流行期间人们可能犯的最糟糕错误是与他人共享空气",
@@ -229,18 +241,6 @@
     {
       "name":"《NBA2K21》致敬科比：将推出“曼巴永恒版”",
       "url":"https://hot.cnbeta.com/articles/game/998875.htm"
-    },
-    {
-      "name":"郎朗妻子吉娜全程东北话代言三星Galaxy Z Flip",
-      "url":"https://www.cnbeta.com/articles/tech/998873.htm"
-    },
-    {
-      "name":"AMD StoreMI幕后公司首发SSD：128GB SLC永久缓存",
-      "url":"https://www.cnbeta.com/articles/tech/998871.htm"
-    },
-    {
-      "name":"10斤氢气能跑650公里 丰田全新一代Mirai 10月发布",
-      "url":"https://www.cnbeta.com/articles/tech/998869.htm"
     }
   ]
 }
