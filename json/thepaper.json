@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-05 05:58:22",
+  "time":"2020-07-05 06:02:28",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"巴西新冠肺炎累计确诊逾157万例，总统部分否决口罩强制令",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8134316"
+    },
     {
       "name":"美国累计新冠确诊病例超283万例，死亡超12.9万例",
       "url":"https://www.thepaper.cn/newsDetail_forward_8134314"
@@ -77,10 +81,6 @@
     {
       "name":"央视热评：刑法修正案草案公开征求意见，以良法致善治",
       "url":"https://www.thepaper.cn/newsDetail_forward_8126823"
-    },
-    {
-      "name":"感动中国为港警颁奖：修例风波以来5百多名港警在执法中负伤",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8126816"
     }
   ]
 }
