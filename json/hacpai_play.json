@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-07-04 17:50:00",
+  "time":"2020-07-04 17:54:14",
   "data":[
+    {
+      "name":"Task Manage 更新日志",
+      "url":"https://hacpai.com/article/1593856336427"
+    },
     {
       "name":"我喜欢的 和 营销号音乐",
       "url":"https://hacpai.com/article/1593846836394"
@@ -181,10 +185,6 @@
     {
       "name":"哈士奇社区用 django 写了仿 A 岛手机版的匿名论坛",
       "url":"https://hacpai.com/article/1588512107958"
-    },
-    {
-      "name":"20200501 TGIF",
-      "url":"https://hacpai.com/article/1588298809995"
     },
     {
       "name":"塞尔达传说：旷野之息 cemu 版本安装记录",
