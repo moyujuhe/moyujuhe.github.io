@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 10:33:03",
+  "time":"2020-07-04 10:37:15",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"洪涝灾害已致中国1938万人次受灾",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066350"
+    },
     {
       "name":"中国海警船在钓鱼岛海域连续航行时间创纪录",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066347"
@@ -77,10 +81,6 @@
     {
       "name":"中国外交部：西沙军演是中国主权范围内的事且无可非议",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066148"
-    },
-    {
-      "name":"中国A股持续走强 沪指四连涨突破3100点",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066147"
     }
   ]
 }
