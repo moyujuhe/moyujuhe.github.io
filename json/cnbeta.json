@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-04 17:54:13",
+  "time":"2020-07-04 17:58:27",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"腾讯、阿里入局 云计算数据中心建设遍地开花",
+      "url":"https://www.cnbeta.com/articles/tech/999149.htm"
+    },
+    {
+      "name":"腾讯内部人士爆与老干妈合作多个环节有漏洞 却没人察觉",
+      "url":"https://www.cnbeta.com/articles/tech/999147.htm"
     },
     {
       "name":"整装待发？！日本新高达建造情况报告",
@@ -233,14 +241,6 @@
     {
       "name":"这只“天眼”能在太空看清小轿车挡风玻璃",
       "url":"https://www.cnbeta.com/articles/science/999033.htm"
-    },
-    {
-      "name":"\"注销校园贷\"诈骗模式如出一辙 为何仍轻易上当受骗？",
-      "url":"https://www.cnbeta.com/articles/tech/999031.htm"
-    },
-    {
-      "name":"受疫情影响 法航确认将裁减7850个工作岗位",
-      "url":"https://www.cnbeta.com/articles/tech/999029.htm"
     }
   ]
 }
