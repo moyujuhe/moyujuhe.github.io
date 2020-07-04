@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-05 07:31:42",
+  "time":"2020-07-05 07:35:55",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"iOS 14 iCloud 云钥匙串改进网站弱密码建议与提醒功能",
+      "url":"https://www.cnbeta.com/articles/tech/999185.htm"
     },
     {
       "name":"Epic首席技术官：次世代主机能实现电影级别画面",
@@ -237,10 +241,6 @@
     {
       "name":"三星在印度推出更实惠的Galaxy Forever和Galaxy Assured新机体验政策",
       "url":"https://www.cnbeta.com/articles/tech/999069.htm"
-    },
-    {
-      "name":"迟到半年！5G标准第一个演进版本Rel-16终于冻结",
-      "url":"https://www.cnbeta.com/articles/tech/999067.htm"
     }
   ]
 }
