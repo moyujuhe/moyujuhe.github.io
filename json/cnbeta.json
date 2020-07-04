@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-04 12:51:10",
+  "time":"2020-07-04 12:55:27",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"传闻称英伟达为RTX 3090的Ampere GPU选用了三星8nm制程",
+      "url":"https://www.cnbeta.com/articles/tech/999073.htm"
     },
     {
       "name":"[视频]iPhone 6s升级iOS 14有惊喜 流畅度令人满意",
@@ -237,10 +241,6 @@
     {
       "name":"终于“不限速” 百度网盘这个开关一定要打开",
       "url":"https://www.cnbeta.com/articles/tech/998957.htm"
-    },
-    {
-      "name":"马斯克72岁超模老妈与邓文迪同框:我从不怕老",
-      "url":"https://www.cnbeta.com/articles/tech/998955.htm"
     }
   ]
 }
