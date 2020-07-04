@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-04 09:11:17",
+  "time":"2020-07-04 09:15:31",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"华为HMS全球应用创新大赛AppsUP已在全球启动",
+      "url":"https://www.cnbeta.com/articles/tech/998997.htm"
     },
     {
       "name":"苹果或为iPhone 12 Pro Max推出新金配色 与古铜色Note 20 Ultra相得益彰",
@@ -237,10 +241,6 @@
     {
       "name":"腾讯首个百万级数据中心正式开服：采用自研服务器",
       "url":"https://www.cnbeta.com/articles/tech/998881.htm"
-    },
-    {
-      "name":"富士康称印度海关清关延误问题已得到部分解决",
-      "url":"https://www.cnbeta.com/articles/tech/998879.htm"
     }
   ]
 }
