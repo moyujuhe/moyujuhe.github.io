@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 09:24:03",
+  "time":"2020-07-04 09:28:15",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"格力回应被中移动取消中标资格：材料整理失误",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066344"
+    },
     {
       "name":"中国大陆昨日新增三例病例 其中北京一例",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066337"
@@ -77,10 +81,6 @@
     {
       "name":"苟晶被顶替上大学事件：公安对前高中班主任与其女儿立案侦查",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066144"
-    },
-    {
-      "name":"虽因力挺国安法被批 汇丰仍将新增中国内地投资",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066143"
     }
   ]
 }
