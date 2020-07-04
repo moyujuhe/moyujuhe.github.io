@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 09:53:46",
+  "time":"2020-07-04 09:58:01",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"【出】出一个hetzner账户",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711605&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"各位mjj们献过血没？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711604&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"想买一张联通卡",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711569&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"硬盘变read only，三秒警报一声，这是要挂了吗？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711568&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
