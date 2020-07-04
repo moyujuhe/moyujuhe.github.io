@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 12:55:31",
+  "time":"2020-07-04 12:59:51",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"林丹宣布退役 无缘下次奥运",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066366"
+    },
     {
       "name":"港议员涂谨申：加国停引渡协议是对港法治投不信任票",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066364"
@@ -77,10 +81,6 @@
     {
       "name":"重庆半年近200万人遭受自然灾害 为近三年同期均值的六倍",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066136"
-    },
-    {
-      "name":"默克尔表示担心香港自治受侵蚀 认为欧洲对华立场须统一口径",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066163"
     }
   ]
 }
