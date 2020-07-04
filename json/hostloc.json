@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 13:30:27",
+  "time":"2020-07-04 13:34:58",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"Windows一键重装Linux失效！求大佬解决",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711689&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"大佬们都喜欢什么非Nginx or Apache的服务器？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711686&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"GIA站群大概什么价位",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711654&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"大清早就这样，怎么说你们也是CN2啊",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711652&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
