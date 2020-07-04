@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-05 05:49:55",
+  "time":"2020-07-05 05:54:11",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美国累计新冠确诊病例超283万例，死亡超12.9万例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8134314"
+    },
     {
       "name":"香港市民请愿限制乱港美国政客入境：美国霸权可耻",
       "url":"https://www.thepaper.cn/newsDetail_forward_8127006"
@@ -77,10 +81,6 @@
     {
       "name":"感动中国为港警颁奖：修例风波以来5百多名港警在执法中负伤",
       "url":"https://www.thepaper.cn/newsDetail_forward_8126816"
-    },
-    {
-      "name":"国际年中观察：“疫”言难尽的世界，人们“见屏如面”",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8126812"
     }
   ]
 }
