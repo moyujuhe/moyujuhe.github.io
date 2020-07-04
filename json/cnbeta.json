@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-04 10:19:46",
+  "time":"2020-07-04 10:24:01",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"领英称自家iOS应用频繁访问用户剪贴板是个Bug",
+      "url":"https://www.cnbeta.com/articles/tech/999013.htm"
     },
     {
       "name":"新研究称饮酒或有助于保护大脑健康",
@@ -237,10 +241,6 @@
     {
       "name":"《微软飞行模拟》Alpha版加入现实交通数据",
       "url":"https://hot.cnbeta.com/articles/game/998897.htm"
-    },
-    {
-      "name":"Facebook遭股东起诉：支持种族多样性就是做样子",
-      "url":"https://www.cnbeta.com/articles/tech/998895.htm"
     }
   ]
 }
