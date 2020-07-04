@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 14:03:36",
+  "time":"2020-07-04 15:19:33",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"云旅游从直播种草 走向杂草丛生",
+      "url":"https://tech.sina.com.cn/i/2020-07-04/doc-iirczymm0499488.shtml"
+    },
     {
       "name":"腾讯内部人士爆与老干妈合作多个环节有漏洞 却没人察觉",
       "url":"https://tech.sina.com.cn/i/2020-07-04/doc-iirczymm0490448.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"5G第一个演进版本标准完成：3GPP宣布R16标准冻结",
       "url":"https://tech.sina.com.cn/roll/2020-07-03/doc-iircuyvk1879242.shtml"
-    },
-    {
-      "name":"3GPP宣布R16标准冻结 5G第一个演进版本标准完成",
-      "url":"https://tech.sina.com.cn/5g/i/2020-07-03/doc-iircuyvk1878467.shtml"
     }
   ]
 }
