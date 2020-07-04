@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 22:30:31",
+  "time":"2020-07-04 22:35:30",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"cf每月限制多少流量",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711912&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"试着收一台吃灰锐角云",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711911&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"我看有人要cf扫节点的工具，我用这个不闪退放出来了！",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711884&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"求个韩国的vps，要网络稳定一点",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711882&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
