@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-04 08:16:07",
+  "time":"2020-07-04 08:20:21",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"医生警告：新冠大流行期间人们可能犯的最糟糕错误是与他人共享空气",
+      "url":"https://www.cnbeta.com/articles/tech/998985.htm"
     },
     {
       "name":"梅赛德斯-AMG GT R F1安全车带着“团结的光环”回归",
@@ -237,10 +241,6 @@
     {
       "name":"10斤氢气能跑650公里 丰田全新一代Mirai 10月发布",
       "url":"https://www.cnbeta.com/articles/tech/998869.htm"
-    },
-    {
-      "name":"直接跳过4nm转向3nm 三星或将反超台积电",
-      "url":"https://www.cnbeta.com/articles/tech/998867.htm"
     }
   ]
 }
