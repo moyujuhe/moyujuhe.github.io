@@ -1,10 +1,10 @@
 {
-  "time":"2020-07-04 23:42:20",
+  "time":"2020-07-04 23:46:35",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"Linux 下删点日志也能搞死人",
-      "url":"https://www.v2ex.com/t/687093#reply103"
+      "url":"https://www.v2ex.com/t/687093#reply104"
     },
     {
       "name":"如何看看深圳同一路段(明明好好是路), 却天天修路,永远在挖路嘟嘟嘟",
@@ -68,19 +68,19 @@
     },
     {
       "name":"整理了 2019 年一二线城市的月平均工资，发现大家的工资收入还是挺可观的",
-      "url":"https://www.v2ex.com/t/687101#reply26"
+      "url":"https://www.v2ex.com/t/687101#reply27"
+    },
+    {
+      "name":"用 Zerotier 的进。",
+      "url":"https://www.v2ex.com/t/687070#reply26"
     },
     {
       "name":"有什么平台可以直接找到持有某支股票的基金吗？",
       "url":"https://www.v2ex.com/t/687056#reply25"
     },
     {
-      "name":"用 Zerotier 的进。",
-      "url":"https://www.v2ex.com/t/687070#reply25"
-    },
-    {
       "name":"个人网站究竟应该怎么推广呢",
-      "url":"https://www.v2ex.com/t/687179#reply20"
+      "url":"https://www.v2ex.com/t/687179#reply21"
     },
     {
       "name":"想买笔记本电脑，但是找不到满足需求的",
@@ -96,7 +96,7 @@
     },
     {
       "name":"印象笔记的超级笔记是否可代替 notion？",
-      "url":"https://www.v2ex.com/t/687181#reply18"
+      "url":"https://www.v2ex.com/t/687181#reply19"
     },
     {
       "name":"求小米下次推新系统能先跑跑内测吗",
@@ -104,7 +104,7 @@
     },
     {
       "name":"我发现删了 brew 后省心多了，以前为了 brew 而 brew ，结果出现好几个 Python",
-      "url":"https://www.v2ex.com/t/687139#reply16"
+      "url":"https://www.v2ex.com/t/687139#reply17"
     },
     {
       "name":"电信宽带“允许同时上网终端台数”是什么意思？",
@@ -141,6 +141,10 @@
     {
       "name":"万事都在寻找最佳实践，是没有创造力还是不自信自己太菜",
       "url":"https://www.v2ex.com/t/687091#reply13"
+    },
+    {
+      "name":"内核态用户态的数据拷贝,有点不明白",
+      "url":"https://www.v2ex.com/t/687113#reply12"
     }
   ]
 }
