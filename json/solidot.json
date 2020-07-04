@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 16:37:29",
+  "time":"2020-07-04 16:41:40",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"中国被指未及时向 WHO 通报疫情，国家卫健委否认",
+      "url":"https://www.solidot.org/story?sid=64849"
+    },
     {
       "name":"Android 11 引入多个系统安全加固",
       "url":"https://www.solidot.org/story?sid=64848"
@@ -77,10 +81,6 @@
     {
       "name":"特斯拉成为最有价值的汽车公司",
       "url":"https://www.solidot.org/story?sid=64828"
-    },
-    {
-      "name":"印度命令 ISP 屏蔽被禁止的中国应用",
-      "url":"https://www.solidot.org/story?sid=64827"
     }
   ]
 }
