@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-04 14:31:17",
+  "time":"2020-07-04 14:35:36",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"马斯克72岁超模母亲与邓文迪谈保养秘诀：不吸烟、规划饮食",
+      "url":"https://www.cnbeta.com/articles/tech/999107.htm"
+    },
+    {
+      "name":"三星确认明年开始生产基于量子点技术的OLED大型面板",
+      "url":"https://www.cnbeta.com/articles/tech/999105.htm"
     },
     {
       "name":"Core i9-10850K出现在Geekbench数据库 仅频率比10900K低100MHz",
@@ -233,14 +241,6 @@
     {
       "name":"外媒调查发现：新冠大流行期间并非所有酒店都在遵循新的清洁协议",
       "url":"https://www.cnbeta.com/articles/tech/998991.htm"
-    },
-    {
-      "name":"Ubuntu 19.10 将于本月结束生命周期",
-      "url":"https://www.cnbeta.com/articles/tech/998989.htm"
-    },
-    {
-      "name":"微软推出Pylance 改善VS Code中的Python体验",
-      "url":"https://www.cnbeta.com/articles/tech/998987.htm"
     }
   ]
 }
