@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 10:46:08",
+  "time":"2020-07-04 10:50:20",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"年内中国75家公募高管频繁变动",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066352"
+    },
     {
       "name":"洪涝灾害已致中国1938万人次受灾",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066350"
@@ -77,10 +81,6 @@
     {
       "name":"上汽拟以19亿港元买下神州租车近三成股权",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066139"
-    },
-    {
-      "name":"中国外交部：西沙军演是中国主权范围内的事且无可非议",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200703-1066148"
     }
   ]
 }
