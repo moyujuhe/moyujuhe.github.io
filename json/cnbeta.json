@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-04 21:05:52",
+  "time":"2020-07-04 21:10:08",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"三星Galaxy Note 20和Note 20 Ultra可能成为史上最贵的Note机型",
+      "url":"https://www.cnbeta.com/articles/tech/999163.htm"
     },
     {
       "name":"华为Mate 40系列外观爆料：双曲面设计",
@@ -237,10 +241,6 @@
     {
       "name":"Facebook研制神经超采样技术 用以抗衡DLSS",
       "url":"https://www.cnbeta.com/articles/tech/999047.htm"
-    },
-    {
-      "name":"我国人均月流量首次超10GB 你每月用多少？",
-      "url":"https://www.cnbeta.com/articles/tech/999045.htm"
     }
   ]
 }
