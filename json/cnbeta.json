@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-04 10:24:01",
+  "time":"2020-07-04 10:28:39",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"哈勃拍摄到引人注目的遥远星系NGC 2775的图像",
+      "url":"https://www.cnbeta.com/articles/science/999017.htm"
+    },
+    {
+      "name":"抖音响彻校园 - 一场毕业季的“云上狂欢”",
+      "url":"https://www.cnbeta.com/articles/tech/999015.htm"
     },
     {
       "name":"领英称自家iOS应用频繁访问用户剪贴板是个Bug",
@@ -233,14 +241,6 @@
     {
       "name":"Mozilla通用语音更新 将帮助训练基于语音的网页浏览",
       "url":"https://www.cnbeta.com/articles/tech/998901.htm"
-    },
-    {
-      "name":"李子柒进语文试卷 漠视了孩子的“无知权”",
-      "url":"https://www.cnbeta.com/articles/tech/998899.htm"
-    },
-    {
-      "name":"《微软飞行模拟》Alpha版加入现实交通数据",
-      "url":"https://hot.cnbeta.com/articles/game/998897.htm"
     }
   ]
 }

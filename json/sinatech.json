@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 10:10:17",
+  "time":"2020-07-04 10:25:48",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"世卫：新冠病毒D614G变异可能加强病毒传播性",
+      "url":"https://tech.sina.com.cn/d/i/2020-07-04/doc-iircuyvk1931529.shtml"
+    },
     {
       "name":"特斯拉在中国启动电动皮卡Cybertruck预订 订金1000元",
       "url":"https://tech.sina.com.cn/it/2020-07-04/doc-iircuyvk1928410.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"中移动“手撕”格力：竞标弄虚作假，取消中标资格！",
       "url":"https://tech.sina.com.cn/it/2020-07-03/doc-iircuyvk1855744.shtml"
-    },
-    {
-      "name":"诺基亚指控联想侵权 在美提起337调查申请",
-      "url":"https://tech.sina.com.cn/it/2020-07-03/doc-iircuyvk1852567.shtml"
     }
   ]
 }
