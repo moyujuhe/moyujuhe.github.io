@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-07-05 01:41:25",
+  "time":"2020-07-05 01:45:47",
   "data":[
+    {
+      "name":"Task Manage 执行策略的思考",
+      "url":"https://hacpai.com/article/1593884143987"
+    },
     {
       "name":"Task Manage 分布式 ID 的思考",
       "url":"https://hacpai.com/article/1593882776693"
@@ -213,10 +217,6 @@
     {
       "name":"泰国 API",
       "url":"https://hacpai.com/article/1570268410480"
-    },
-    {
-      "name":"一个简单好用的网站指纹信息扫描工具",
-      "url":"https://hacpai.com/article/1569553650070"
     },
     {
       "name":"把你们的血小板搬上桌面啦 写了个血小板桌面精灵",
