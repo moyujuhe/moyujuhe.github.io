@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-04 18:11:17",
+  "time":"2020-07-04 18:15:30",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"笨牛新面板咋火了，比宝塔好在哪？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711809&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"【异闻录】出碳云小鸡遭遇诈骗",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711808&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"建议想抢杯子的抓紧时间学脚本",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711777&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"求推荐合适的流量卡",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=711776&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
