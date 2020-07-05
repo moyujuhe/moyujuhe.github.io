@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-06 03:14:07",
+  "time":"2020-07-06 03:18:16",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"佛州单日新增确诊病例数创美国疫情以来最高纪录",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8140858"
+    },
+    {
+      "name":"土耳其新增新冠肺炎确诊病例1148例，累计205758例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8140856"
+    },
     {
       "name":"美国巴尔的摩市抗议者推倒哥伦布雕像",
       "url":"https://www.thepaper.cn/newsDetail_forward_8138738"
@@ -73,14 +81,6 @@
     {
       "name":"辽宁高考首次使用人工智能术检测疑似违规行为",
       "url":"https://www.thepaper.cn/newsDetail_forward_8138519"
-    },
-    {
-      "name":"印度北方邦一工厂爆炸致7死4伤",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8138516"
-    },
-    {
-      "name":"刘国梁就“爱钱进”事件致歉：内心愧疚痛心",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8138517"
     }
   ]
 }
