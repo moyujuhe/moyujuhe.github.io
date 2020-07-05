@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-05 09:26:46",
+  "time":"2020-07-05 09:30:56",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国新增八例确诊 其中两例本土病例均在北京",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066570"
+    },
     {
       "name":"中国公安部：全力支持配合驻港国家安全公署工作",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066569"
@@ -77,10 +81,6 @@
     {
       "name":"中国经济生活调查：吉林男性最爱做家务",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066385"
-    },
-    {
-      "name":"中国银保监会首次公开38名重大违法违规股东",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066382"
     }
   ]
 }
