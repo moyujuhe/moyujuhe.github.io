@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-05 16:57:06",
+  "time":"2020-07-05 17:01:25",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京连续七天本地新增病例数在个位数",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066633"
+    },
     {
       "name":"澳门明起开放3000公商务免隔离名额",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066630"
@@ -77,10 +81,6 @@
     {
       "name":"香港图书馆覆检陈云等人著作 康文署：免犯《国安法》",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066577"
-    },
-    {
-      "name":"共同社：日本就香港问题与美国保持距离",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066572"
     }
   ]
 }
