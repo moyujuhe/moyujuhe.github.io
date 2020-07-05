@@ -1,10 +1,26 @@
 {
-  "time":"2020-07-05 08:01:30",
+  "time":"2020-07-05 08:06:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"数据显示：过去十年美国人口增长全部来自少数族裔",
+      "url":"https://www.cnbeta.com/articles/tech/999203.htm"
+    },
+    {
+      "name":"李佳琦落“沪”：电商平台称其销售额可抵单体商场",
+      "url":"https://www.cnbeta.com/articles/tech/999201.htm"
+    },
+    {
+      "name":"[图]Rocket Lab第13次发射任务以失败告终",
+      "url":"https://www.cnbeta.com/articles/science/999199.htm"
+    },
+    {
+      "name":"杭州警方通报：“微贷网”涉嫌非法吸收公众存款被立案侦查",
+      "url":"https://www.cnbeta.com/articles/tech/999197.htm"
     },
     {
       "name":"渡尽劫波，如期而至：R16再掀5G建设热潮",
@@ -225,22 +241,6 @@
     {
       "name":"NASA两名宇航员升空1个月 准备搭乘SpaceX飞船返航",
       "url":"https://www.cnbeta.com/articles/science/999087.htm"
-    },
-    {
-      "name":"谷歌收购Fitbit交易引发数据收集担忧",
-      "url":"https://www.cnbeta.com/articles/tech/999085.htm"
-    },
-    {
-      "name":"新研究称月球陨坑内的金属含量略高",
-      "url":"https://www.cnbeta.com/articles/science/999083.htm"
-    },
-    {
-      "name":"乘火车离京已不查核酸证明 大数据限制中高风险地区购票",
-      "url":"https://www.cnbeta.com/articles/tech/999081.htm"
-    },
-    {
-      "name":"不只是肥胖 英国科学家揭秘长期居家办公可能带来的“恶果”",
-      "url":"https://www.cnbeta.com/articles/tech/999079.htm"
     }
   ]
 }
