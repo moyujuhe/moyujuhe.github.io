@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-05 13:06:38",
+  "time":"2020-07-05 13:10:50",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"英媒：英国今年起或逐步淘汰华为5G设备",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066599"
+    },
     {
       "name":"谭耀宗呼吁港人勿挑战《香港国安法》",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066593"
@@ -77,10 +81,6 @@
     {
       "name":"中国农业部：贪夜蛾害虫北扩速度慢于去年",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066353"
-    },
-    {
-      "name":"据悉估值约80亿美元的柔宇科技搁置美上市改中国IPO",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200704-1066357"
     }
   ]
 }
