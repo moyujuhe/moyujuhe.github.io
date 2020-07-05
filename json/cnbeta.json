@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-05 08:57:01",
+  "time":"2020-07-05 09:01:15",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"一封永逸！北京首次使用电子封条查封涉案房产",
+      "url":"https://www.cnbeta.com/articles/tech/999221.htm"
     },
     {
       "name":"[图]Eurocom推MXM-to-PCIe x16适配器 移动GPU秒变桌面PCI-e显卡",
@@ -87,6 +91,10 @@
       "url":"https://hot.cnbeta.com/articles/game/999181.htm"
     },
     {
+      "name":"央视曝光斗鱼快手涉黄直播 女主播公开要求用户刷火箭",
+      "url":"https://www.cnbeta.com/articles/tech/999165.htm"
+    },
+    {
       "name":"《使命召唤16：现代战争》PC版体积已超过200GB",
       "url":"https://hot.cnbeta.com/articles/game/999179.htm"
     },
@@ -113,10 +121,6 @@
     {
       "name":"因造假被中国移动取消中标资格？格力：同行恶意诽谤攻击",
       "url":"https://www.cnbeta.com/articles/tech/999167.htm"
-    },
-    {
-      "name":"央视曝光斗鱼快手涉黄直播 女主播公开要求用户刷火箭",
-      "url":"https://www.cnbeta.com/articles/tech/999165.htm"
     },
     {
       "name":"三星Galaxy Note 20和Note 20 Ultra可能成为史上最贵的Note机型",
@@ -237,10 +241,6 @@
     {
       "name":"三星确认明年开始生产基于量子点技术的OLED大型面板",
       "url":"https://www.cnbeta.com/articles/tech/999105.htm"
-    },
-    {
-      "name":"Core i9-10850K出现在Geekbench数据库 仅频率比10900K低100MHz",
-      "url":"https://www.cnbeta.com/articles/tech/999103.htm"
     }
   ]
 }
