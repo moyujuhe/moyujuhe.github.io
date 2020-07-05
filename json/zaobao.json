@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-05 14:29:21",
+  "time":"2020-07-05 14:33:33",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国气象局启动重大气象灾害暴雨三级应急响应",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066603"
+    },
     {
       "name":"郑若骅：会考虑所有因素以裁决行为是否分裂国家",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066601"
@@ -77,10 +81,6 @@
     {
       "name":"日媒称北京将派200至300名武警以观察员名义驻港",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066552"
-    },
-    {
-      "name":"特朗普在独立日致辞中把冠病形容为“来自中国的可怕瘟疫”",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066551"
     }
   ]
 }
