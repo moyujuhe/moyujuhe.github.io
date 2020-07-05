@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 01:36:47",
+  "time":"2020-07-06 01:40:58",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"欢迎各路大佬前来指教！",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712362&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"请问有没有办法再腾讯云上安装mac(OS)?",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712359&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"如何搞到WINDWOS版正版锐速？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712332&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"Discuz!Q的UI比loc现在用的Discuz好看哎 我也免费给大家开个Discuz!Q使用",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712331&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
