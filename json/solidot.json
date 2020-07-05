@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-05 20:10:42",
+  "time":"2020-07-05 20:15:13",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"英国政府和印度巴帝收购 OneWeb",
+      "url":"https://www.solidot.org/story?sid=64853"
+    },
     {
       "name":"Rocket Lab 第 13 次发射失利",
       "url":"https://www.solidot.org/story?sid=64852"
@@ -77,10 +81,6 @@
     {
       "name":"美国中小型 ISP 对 FCC 封杀华为中兴的决定表示震惊",
       "url":"https://www.solidot.org/story?sid=64834"
-    },
-    {
-      "name":"Sci-Hub 效应",
-      "url":"https://www.solidot.org/story?sid=64833"
     }
   ]
 }
