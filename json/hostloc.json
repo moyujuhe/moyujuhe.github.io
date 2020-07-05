@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 01:23:59",
+  "time":"2020-07-06 01:28:15",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"请问有没有办法再腾讯云上安装mac(OS)?",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712359&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"TG两步验证密码忘记了怎么办",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712358&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"Discuz!Q的UI比loc现在用的Discuz好看哎 我也免费给大家开个Discuz!Q使用",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712331&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"脚本不好用",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712330&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
