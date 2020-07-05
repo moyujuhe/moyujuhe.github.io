@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-05 19:39:58",
+  "time":"2020-07-05 19:44:39",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国上半年铁路固定资产投资完成3258亿人民币",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066609"
+    },
     {
       "name":"《少年的你》获意大利远东电影节观众票选金桑树奖",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066621"
@@ -77,10 +81,6 @@
     {
       "name":"中国成功发射试验六号02星",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066575"
-    },
-    {
-      "name":"张建宗：港公务员应全面配合履行维护国安责任",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066579"
     }
   ]
 }

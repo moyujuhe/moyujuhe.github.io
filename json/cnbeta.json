@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-05 19:39:55",
+  "time":"2020-07-05 19:44:36",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"Intel i9-10850K首次曝光：i9-10900K降频、迎战锐龙3000XT",
+      "url":"https://www.cnbeta.com/articles/tech/999343.htm"
+    },
+    {
+      "name":"Linux之父Linus Torvalds：我早就不编程了、工作就是说不",
+      "url":"https://www.cnbeta.com/articles/tech/999341.htm"
     },
     {
       "name":"一次丢失7颗卫星 美私人公司火箭发射失败CEO道歉",
@@ -233,14 +241,6 @@
     {
       "name":"知名UP主“敖厂长”回归B站",
       "url":"https://hot.cnbeta.com/articles/movie/999227.htm"
-    },
-    {
-      "name":"[多图]乔思伯推出V8 ITX机箱 独特抽拉式结构 售价599元",
-      "url":"https://www.cnbeta.com/articles/tech/999225.htm"
-    },
-    {
-      "name":"月亮木星土星5日6日晚上演“三英会”",
-      "url":"https://www.cnbeta.com/articles/science/999223.htm"
     }
   ]
 }
