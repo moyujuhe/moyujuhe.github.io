@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-07-05 23:18:13",
+  "time":"2020-07-05 23:22:36",
   "data":[
+    {
+      "name":"每周电影 EP21《海街日记》",
+      "url":"https://hacpai.com/article/1593961533399"
+    },
     {
       "name":"又一款开源图标库 CSS.GG，值得一用",
       "url":"https://hacpai.com/article/1593953434382"
@@ -193,10 +197,6 @@
     {
       "name":"第二个轮子来了——使用 Vue + Markdown 完成的一个在线 Markdown 简历项目——1024 RESUME",
       "url":"https://hacpai.com/article/1588544633003"
-    },
-    {
-      "name":"哈士奇社区用 django 写了仿 A 岛手机版的匿名论坛",
-      "url":"https://hacpai.com/article/1588512107958"
     },
     {
       "name":"塞尔达传说：旷野之息 cemu 版本安装记录",
