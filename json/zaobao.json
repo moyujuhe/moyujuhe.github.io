@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-05 20:28:13",
+  "time":"2020-07-05 20:32:30",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"北京美发美容行业7万余人完成核酸检测",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066598"
+    },
     {
       "name":"中国上半年铁路固定资产投资完成3258亿人民币",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066609"
@@ -77,10 +81,6 @@
     {
       "name":"林郑：香港自行完成立法的意见是痴人说梦话",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066584"
-    },
-    {
-      "name":"中国成功发射试验六号02星",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066575"
     }
   ]
 }
