@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-06 07:17:06",
+  "time":"2020-07-06 07:21:17",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"巴菲特终于出手 伯克希尔100亿美元收购道明尼能源天然气资产",
+      "url":"https://www.cnbeta.com/articles/tech/999393.htm"
+    },
+    {
+      "name":"国内特供版软件防不胜防？还有这些靠谱的选择",
+      "url":"https://www.cnbeta.com/articles/tech/999391.htm"
     },
     {
       "name":"花15年时间：苹果的“黑历史”要结束了？",
@@ -233,14 +241,6 @@
     {
       "name":"史上最短命表情 腾讯突然下线QQ牌辣酱表情",
       "url":"https://www.cnbeta.com/articles/tech/999277.htm"
-    },
-    {
-      "name":"Intel改变营销风格：邀请搞笑漫画作者参与文案创作",
-      "url":"https://www.cnbeta.com/articles/tech/999275.htm"
-    },
-    {
-      "name":"索尼PS5发售时间确认：游戏阵容强大",
-      "url":"https://hot.cnbeta.com/articles/game/999273.htm"
     }
   ]
 }
