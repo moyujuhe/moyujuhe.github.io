@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-06 05:36:08",
+  "time":"2020-07-06 05:40:22",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"塞尔维亚议会选举结果出炉：总统武契奇所在党的得票率超六成",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8142276"
+    },
+    {
+      "name":"南非新增新冠肺炎确诊病例8773例，累计196750例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8142274"
+    },
     {
       "name":"佛州单日新增确诊病例数创美国疫情以来最高纪录",
       "url":"https://www.thepaper.cn/newsDetail_forward_8140858"
@@ -73,14 +81,6 @@
     {
       "name":"重庆市水文监测总站解除綦江洪水蓝色预警",
       "url":"https://www.thepaper.cn/newsDetail_forward_8138532"
-    },
-    {
-      "name":"美国南卡罗来纳州枪击案已致2死8伤",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8138529"
-    },
-    {
-      "name":"辽宁高考首次使用人工智能术检测疑似违规行为",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8138519"
     }
   ]
 }
