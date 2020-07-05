@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-06 02:27:36",
+  "time":"2020-07-06 02:31:55",
   "title":"知乎全站热榜",
   "data":[
     {
@@ -119,16 +119,12 @@
       "url":"https://www.zhihu.com/question/405096298"
     },
     {
-      "name":"怎么看待张翰回应「没联系，没复合」？",
-      "url":"https://www.zhihu.com/question/405095040"
-    },
-    {
       "name":"如何看待孔雪儿没有把票投给刘雨昕，而是选择投给了安崎?",
       "url":"https://www.zhihu.com/question/405007891"
     },
     {
-      "name":"「华为」的工资真的有传说中那么高吗？",
-      "url":"https://www.zhihu.com/question/387986278"
+      "name":"怎么看待张翰回应「没联系，没复合」？",
+      "url":"https://www.zhihu.com/question/405095040"
     },
     {
       "name":"分手后很快找到新欢的人，有哪些心理？",
@@ -137,6 +133,10 @@
     {
       "name":"网易云音乐上看到过最触动的热评是什么？",
       "url":"https://www.zhihu.com/question/323985794"
+    },
+    {
+      "name":"「华为」的工资真的有传说中那么高吗？",
+      "url":"https://www.zhihu.com/question/387986278"
     },
     {
       "name":"能和我说说复读的坏处吗？",
@@ -183,10 +183,6 @@
       "url":"https://www.zhihu.com/question/404898833"
     },
     {
-      "name":"赵匡胤为什么要以宋为国号？他不知道以前已经有过一个宋了吗？",
-      "url":"https://www.zhihu.com/question/402687252"
-    },
-    {
       "name":"如何把西方名著翻译出东北大碴子味儿？",
       "url":"https://www.zhihu.com/question/404741975"
     },
@@ -195,12 +191,16 @@
       "url":"https://www.zhihu.com/question/24886476"
     },
     {
-      "name":"如何看待人气很高，文笔却不是很好的写手？",
-      "url":"https://www.zhihu.com/question/404715938"
+      "name":"赵匡胤为什么要以宋为国号？他不知道以前已经有过一个宋了吗？",
+      "url":"https://www.zhihu.com/question/402687252"
     },
     {
       "name":"可以为 2020 年高考生预测一道生物题吗？",
       "url":"https://www.zhihu.com/question/399385310"
+    },
+    {
+      "name":"如何看待人气很高，文笔却不是很好的写手？",
+      "url":"https://www.zhihu.com/question/404715938"
     }
   ]
 }
