@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-05 08:44:18",
+  "time":"2020-07-05 08:48:33",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"中国成功发射试验六号02星",
+      "url":"https://www.cnbeta.com/articles/tech/999215.htm"
     },
     {
       "name":"[图]AMD Ryzen 7 4700G跑分曝光：8核16线程 睿频4.45GHz",
@@ -237,10 +241,6 @@
     {
       "name":"微信出现这个界面千万要当心：这15分钟很关键",
       "url":"https://www.cnbeta.com/articles/tech/999099.htm"
-    },
-    {
-      "name":"国产车顶级旗舰：全新一代红旗H5路试曝光",
-      "url":"https://www.cnbeta.com/articles/tech/999097.htm"
     }
   ]
 }
