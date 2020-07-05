@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-05 08:06:03",
+  "time":"2020-07-05 08:10:25",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"AMD B550主板大涨价引消费者不满 高玩解释为何这么贵",
+      "url":"https://www.cnbeta.com/articles/tech/999205.htm"
     },
     {
       "name":"数据显示：过去十年美国人口增长全部来自少数族裔",
@@ -237,10 +241,6 @@
     {
       "name":"韦德布什分析师：特斯拉股价12个月内或涨到2000美元",
       "url":"https://www.cnbeta.com/articles/tech/999089.htm"
-    },
-    {
-      "name":"NASA两名宇航员升空1个月 准备搭乘SpaceX飞船返航",
-      "url":"https://www.cnbeta.com/articles/science/999087.htm"
     }
   ]
 }
