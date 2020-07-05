@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-05 18:09:15",
+  "time":"2020-07-05 18:13:25",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"收个.cn 或者.com北岸米",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712205&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"有没有出PP余额，100刀左右，带价",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712203&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"扫到一个不错的cloudflare ip 延迟低",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712177&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"资质太贵了，太麻烦了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712176&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
