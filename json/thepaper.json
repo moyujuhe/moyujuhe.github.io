@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 06:01:15",
+  "time":"2020-07-06 06:05:26",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美国新增新冠确诊病例37632例，累计2874396例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8142282"
+    },
     {
       "name":"塞尔维亚议会选举结果出炉：总统武契奇所在党的得票率超六成",
       "url":"https://www.thepaper.cn/newsDetail_forward_8142276"
@@ -77,10 +81,6 @@
     {
       "name":"胡春华强调：切实加大对城镇困难群众就业援助力度",
       "url":"https://www.thepaper.cn/newsDetail_forward_8138552"
-    },
-    {
-      "name":"重庆市水文监测总站解除綦江洪水蓝色预警",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8138532"
     }
   ]
 }
