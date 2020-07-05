@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-05 19:17:48",
+  "time":"2020-07-05 19:22:17",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"LVM如何设置呢，在UBUNTU下",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712228&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"想收一个能充到自己账号的京东PLUS",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712227&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"T楼--新一代挂机宝发车了，白票1-2个月",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712199&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"ubuntu20的系统盘可以识别大于2T的硬盘吗",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712198&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
