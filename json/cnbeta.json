@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-06 00:23:42",
+  "time":"2020-07-06 00:28:06",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"英特尔Xe集成显卡被认为是NVIDIA GeForce MX350强大对手",
+      "url":"https://www.cnbeta.com/articles/tech/999379.htm"
     },
     {
       "name":"7nm ARM国产最强芯 华为鲲鹏920台式机实测结果令人喜忧参半",
@@ -237,10 +241,6 @@
     {
       "name":"[图]微软提议改善Chrome在Windows 10上性能表现：精简冗余代码",
       "url":"https://www.cnbeta.com/articles/tech/999263.htm"
-    },
-    {
-      "name":"向游戏看齐？宝马计划在车载电脑系统中加入微交易",
-      "url":"https://www.cnbeta.com/articles/tech/999261.htm"
     }
   ]
 }
