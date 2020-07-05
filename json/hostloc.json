@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-05 19:22:17",
+  "time":"2020-07-05 19:26:43",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"Frantech突然被停机",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712229&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"LVM如何设置呢，在UBUNTU下",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712228&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"家用软路由选购最大问题就是功耗和性能二选一",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712200&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"T楼--新一代挂机宝发车了，白票1-2个月",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712199&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
