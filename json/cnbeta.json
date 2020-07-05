@@ -1,10 +1,22 @@
 {
-  "time":"2020-07-05 22:14:34",
+  "time":"2020-07-05 22:18:44",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"《少年的你》获意大利远东电影节金桑树奖",
+      "url":"https://hot.cnbeta.com/articles/movie/999365.htm"
+    },
+    {
+      "name":"三大国际机构研判“新冠衰退” 全球经济复苏将如何展开？",
+      "url":"https://www.cnbeta.com/articles/tech/999363.htm"
+    },
+    {
+      "name":"欧盟加快太空探索步伐 欲与Space X竞争",
+      "url":"https://www.cnbeta.com/articles/science/999361.htm"
     },
     {
       "name":"vivo Y70s规格和价格曝光：1798元起售",
@@ -229,18 +241,6 @@
     {
       "name":"高盛：中芯国际2024年下半年升级到5nm工艺",
       "url":"https://www.cnbeta.com/articles/tech/999249.htm"
-    },
-    {
-      "name":"现代汽车推出智能手动变速箱 没有离合器也不是AMT",
-      "url":"https://www.cnbeta.com/articles/tech/999247.htm"
-    },
-    {
-      "name":"索尼印度研究院启动运营 将在应用AI和数据分析领域提供就业机会",
-      "url":"https://www.cnbeta.com/articles/tech/999245.htm"
-    },
-    {
-      "name":"观点称美国无法在电信技术上与中国脱钩",
-      "url":"https://www.cnbeta.com/articles/tech/999243.htm"
     }
   ]
 }
