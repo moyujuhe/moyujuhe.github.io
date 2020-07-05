@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-05 18:51:42",
+  "time":"2020-07-05 18:55:53",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Rocket Lab 第 13 次发射失利",
+      "url":"https://www.solidot.org/story?sid=64852"
+    },
     {
       "name":"宇宙射线或能解释生命对右手分子 DNA 的偏见",
       "url":"https://www.solidot.org/story?sid=64851"
@@ -77,10 +81,6 @@
     {
       "name":"Sci-Hub 效应",
       "url":"https://www.solidot.org/story?sid=64833"
-    },
-    {
-      "name":"微软通过 Microsoft Store 释出安全补丁",
-      "url":"https://www.solidot.org/story?sid=64832"
     }
   ]
 }
