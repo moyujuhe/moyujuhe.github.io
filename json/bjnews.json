@@ -1,11 +1,7 @@
 {
-  "time":"2020-07-05 10:00:15",
+  "time":"2020-07-05 10:04:23",
   "title":"新京报-排行",
   "data":[
-    {
-      "name":"世卫组织：新冠病毒样本D614G变异非新的变异",
-      "url":"http://www.bjnews.com.cn/world/2020/07/04/745190.html"
-    },
     {
       "name":"乘火车离京已不查核酸证明 大数据限制中高风险地区购票",
       "url":"http://www.bjnews.com.cn/news/2020/07/04/745204.html"
@@ -27,16 +23,20 @@
       "url":"http://www.bjnews.com.cn/video/2020/07/04/745296.html"
     },
     {
-      "name":"天津新增1例境外输入病例：从美国抵达天津",
-      "url":"http://www.bjnews.com.cn/news/2020/07/04/745220.html"
-    },
-    {
       "name":"一图速览丨7月5日北京疫情早报",
       "url":"http://www.bjnews.com.cn/feature/2020/07/05/745336.html"
     },
     {
+      "name":"天津新增1例境外输入病例：从美国抵达天津",
+      "url":"http://www.bjnews.com.cn/news/2020/07/04/745220.html"
+    },
+    {
       "name":"北京今日三地风险等级降低，现有2地高风险26地中风险",
       "url":"http://www.bjnews.com.cn/news/2020/07/04/745270.html"
+    },
+    {
+      "name":"北京昨日新增报告2例确诊病例，均在丰台",
+      "url":"http://www.bjnews.com.cn/feature/2020/07/05/745343.html"
     },
     {
       "name":"北京7月3日新增确诊病例：曾到草桥永辉、物美超市购物",
@@ -83,10 +83,6 @@
       "url":"http://www.bjnews.com.cn/finance/2020/07/01/744038.html"
     },
     {
-      "name":"美国“黑人之死”4名涉事警察均被捕 指控罪名升级",
-      "url":"http://www.bjnews.com.cn/video/2020/06/04/734699.html"
-    },
-    {
       "name":"五楼住户上班开门发现楼梯没了！当事人现身解答网友疑惑",
       "url":"http://www.bjnews.com.cn/wevideo/2020/06/15/738511.html"
     },
@@ -121,6 +117,10 @@
     {
       "name":"国际丨停靠韩国的运输船暴发疫情：16人感染上百人隔离",
       "url":"http://www.bjnews.com.cn/wevideo/2020/06/23/741274.html"
+    },
+    {
+      "name":"梅州文旅局局长朱瑛及其丈夫去世 警方立为刑事案件",
+      "url":"http://www.bjnews.com.cn/feature/2020/06/24/742051.html"
     }
   ]
 }
