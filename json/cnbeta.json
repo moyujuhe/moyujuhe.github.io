@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-05 15:30:24",
+  "time":"2020-07-05 15:34:47",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"印度电信部长称已决定将华为移出该国的5G网络建设计划",
+      "url":"https://www.cnbeta.com/articles/tech/999307.htm"
+    },
+    {
+      "name":"小米金融澄清：与涉案的“山东小米金融服务外包有限公司”无任何关系",
+      "url":"https://www.cnbeta.com/articles/tech/999305.htm"
     },
     {
       "name":"辽宁首台“天玥”国产计算机在沈下线",
@@ -233,14 +241,6 @@
     {
       "name":"世卫组织停止羟氯喹、洛匹那韦/利托那韦分支试验",
       "url":"https://www.cnbeta.com/articles/tech/999191.htm"
-    },
-    {
-      "name":"[图]Windows Update故障导致部分设备循环安装旧版驱动程序",
-      "url":"https://www.cnbeta.com/articles/tech/999189.htm"
-    },
-    {
-      "name":"“老板”QQ要求转账98万 出纳被骗了……",
-      "url":"https://www.cnbeta.com/articles/tech/999187.htm"
     }
   ]
 }
