@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 15:04:46",
+  "time":"2020-07-06 15:09:40",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"港教育局促学校审查图书和教材 移除触犯国安法内容",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066871"
+    },
     {
       "name":"梁振英：高喊“香港独立”可以国安法定罪",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066866"
@@ -77,10 +81,6 @@
     {
       "name":"中国大陆新增四例确诊病例",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066807"
-    },
-    {
-      "name":"英官员：正密切关注华为5G设备的使用",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066797"
     }
   ]
 }
