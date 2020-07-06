@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-07 07:23:57",
+  "time":"2020-07-07 07:28:08",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"美国多地官员承认经济重启过早",
+      "url":"https://www.cnbeta.com/articles/tech/999851.htm"
+    },
+    {
+      "name":"瑞德西韦在欧盟获批有条件上市 欧股周一收盘上涨",
+      "url":"https://www.cnbeta.com/articles/tech/999849.htm"
     },
     {
       "name":"新冠病例数居高不下 高盛下调美国三季度GDP预期",
@@ -233,14 +241,6 @@
     {
       "name":"火焰背后 电商直播需拨烟散雾",
       "url":"https://www.cnbeta.com/articles/tech/999735.htm"
-    },
-    {
-      "name":"小米POCO M2 Pro明天发布：骁龙720G+单挖孔直屏",
-      "url":"https://www.cnbeta.com/articles/tech/999733.htm"
-    },
-    {
-      "name":"239名专家致信WHO称新冠病毒可空气传播：疫苗开发或回到起点",
-      "url":"https://www.cnbeta.com/articles/tech/999731.htm"
     }
   ]
 }
