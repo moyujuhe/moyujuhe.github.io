@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-06 08:32:35",
+  "time":"2020-07-06 08:37:11",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"马斯克：全力支持“侃爷”竞选美国总统",
+      "url":"https://www.cnbeta.com/articles/tech/999451.htm"
     },
     {
       "name":"Windows 10新开始菜单设计更多信息曝光",
@@ -237,10 +241,6 @@
     {
       "name":"Android版Firefox浏览器移除Preview版以解决混乱的版本号",
       "url":"https://www.cnbeta.com/articles/tech/999335.htm"
-    },
-    {
-      "name":"甄子丹主演游戏改编电影《热血无赖》疑将开拍",
-      "url":"https://hot.cnbeta.com/articles/movie/999333.htm"
     }
   ]
 }
