@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 07:19:44",
+  "time":"2020-07-07 07:24:00",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"各位，还记得微软之前搞的学生还是开发者的活动",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712786&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"请问dd-wrt 的radvd.conf怎么设置啊？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712784&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"这个什么发卡程序？挺漂亮的。",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712753&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"新用户专用 一元域名xyz 23元com",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712752&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
