@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 18:47:12",
+  "time":"2020-07-06 18:51:27",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"江苏发生袭警事件致两警员死亡 嫌犯在逃",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066905"
+    },
     {
       "name":"北京市疾控中心谈内蒙鼠疫 提醒市民勿在草原露营过夜",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066904"
@@ -77,10 +81,6 @@
     {
       "name":"港交所推17只全新MSCI期货合约 首批今上市",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066851"
-    },
-    {
-      "name":"罗冠聪英报撰文：离港因自己已成北京目标",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066844"
     }
   ]
 }
