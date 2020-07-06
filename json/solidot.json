@@ -1,7 +1,19 @@
 {
-  "time":"2020-07-06 23:20:12",
+  "time":"2020-07-06 23:25:00",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"美国人用微波尝试给图书馆借书消毒",
+      "url":"https://www.solidot.org/story?sid=64867"
+    },
+    {
+      "name":"遥感数据显示中国湖泊整体变清",
+      "url":"https://www.solidot.org/story?sid=64866"
+    },
+    {
+      "name":"巴克莱银行把互联网档案馆作为 JS 文件的 CDN",
+      "url":"https://www.solidot.org/story?sid=64865"
+    },
     {
       "name":"荷兰国家电视台称非个性化广告一样有效",
       "url":"https://www.solidot.org/story?sid=64864"
@@ -69,18 +81,6 @@
     {
       "name":"Android 11 引入多个系统安全加固",
       "url":"https://www.solidot.org/story?sid=64848"
-    },
-    {
-      "name":"亚马逊制作《辐射》电视剧",
-      "url":"https://www.solidot.org/story?sid=64847"
-    },
-    {
-      "name":"摩根大通从内部代码和材料中替换术语  Master 和 Slave",
-      "url":"https://www.solidot.org/story?sid=64846"
-    },
-    {
-      "name":"《死亡搁浅》PC 版测试显示 AMD 的开源 FidelityFX CAS 表现强于英伟达的 DLSS",
-      "url":"https://www.solidot.org/story?sid=64845"
     }
   ]
 }
