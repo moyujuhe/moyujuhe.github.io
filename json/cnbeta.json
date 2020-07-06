@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-06 11:47:05",
+  "time":"2020-07-06 11:51:16",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"近两年一个女乘客都没接到 司机怒找媒体投诉",
+      "url":"https://www.cnbeta.com/articles/tech/999571.htm"
     },
     {
       "name":"Smart法国工厂将被出售 未来吉利负责生产",
@@ -237,10 +241,6 @@
     {
       "name":"微软优化 chrome.exe 被固定到任务栏的过程 可降低 CPU 使用率",
       "url":"https://www.cnbeta.com/articles/tech/999465.htm"
-    },
-    {
-      "name":"安恒信息回应被中国移动禁入市场3年：合作伙伴擅自修改投标文件",
-      "url":"https://www.cnbeta.com/articles/tech/999463.htm"
     }
   ]
 }
