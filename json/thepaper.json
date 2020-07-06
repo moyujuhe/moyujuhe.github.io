@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 05:42:13",
+  "time":"2020-07-07 05:46:20",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"新疆哈密市巴里坤县发生4.2级地震，震源深度10千米",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8155906"
+    },
     {
       "name":"加罗林群岛地区发生6.2级地震，震源深度20千米",
       "url":"https://www.thepaper.cn/newsDetail_forward_8152791"
@@ -77,10 +81,6 @@
     {
       "name":"中国一周图片精选｜第12期（6月29日-7月5日）",
       "url":"https://www.thepaper.cn/newsDetail_forward_8146123"
-    },
-    {
-      "name":"联合国艾滋病规划署：今年目标无法实现，疫情影响抗艾工作",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8149634"
     }
   ]
 }
