@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 10:10:10",
+  "time":"2020-07-06 10:14:20",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"据悉英国拟最早今年起逐步停用华为设备",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066808"
+    },
     {
       "name":"中国因担心疫情又暂停从两家巴西企业进口猪肉",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066817"
@@ -77,10 +81,6 @@
     {
       "name":"中国工程院副院长：疫情不会倏然消失 未来风险依然很大",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066623"
-    },
-    {
-      "name":"江启臣称“九二共识”已被扭曲",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066622"
     }
   ]
 }
