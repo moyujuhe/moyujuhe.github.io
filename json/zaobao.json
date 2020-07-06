@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 15:26:56",
+  "time":"2020-07-06 15:31:00",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"德国更新旅游警示 呼吁在港国民注意言论",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066878"
+    },
     {
       "name":"港教育局促学校审查图书和教材 移除触犯国安法内容",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066871"
@@ -77,10 +81,6 @@
     {
       "name":"中国公安部长助理聂福如离任",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066811"
-    },
-    {
-      "name":"中国大陆新增四例确诊病例",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066807"
     }
   ]
 }
