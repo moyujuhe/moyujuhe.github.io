@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 15:00:34",
+  "time":"2020-07-06 15:04:43",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"金星轨道内发现的第一颗小行星可能提供失踪地幔小行星线索",
+      "url":"https://www.solidot.org/story?sid=64860"
+    },
     {
       "name":"京都大学利用富岳搜寻新冠治疗药物",
       "url":"https://www.solidot.org/story?sid=64859"
@@ -77,10 +81,6 @@
     {
       "name":"欧洲警方破解犯罪组织使用的加密通讯网络数百人被捕",
       "url":"https://www.solidot.org/story?sid=64841"
-    },
-    {
-      "name":"美国买光新冠药物瑞德西韦的库存",
-      "url":"https://www.solidot.org/story?sid=64840"
     }
   ]
 }

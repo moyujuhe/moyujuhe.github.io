@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-06 15:00:32",
+  "time":"2020-07-06 15:04:43",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"Uber以26.5亿美元收购外卖服务竞争对手Postmates",
+      "url":"https://www.cnbeta.com/articles/tech/999629.htm"
     },
     {
       "name":"巴菲特为何瞄准这家能源公司？",
@@ -237,10 +241,6 @@
     {
       "name":"特斯拉质保服务突然缩水？官方回应称仅限于自费升级MCU配件的质保时间",
       "url":"https://www.cnbeta.com/articles/tech/999513.htm"
-    },
-    {
-      "name":"全球数码相机销量十年跌九成 “千机一面”或成往事​​​​",
-      "url":"https://www.cnbeta.com/articles/tech/999511.htm"
     }
   ]
 }
