@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-06 09:10:52",
+  "time":"2020-07-06 09:15:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"小米电视棒获Google Play Console认证：最高或可支持1080p分辨率",
+      "url":"https://www.cnbeta.com/articles/tech/999457.htm"
     },
     {
       "name":"阿拉巴马大学生举办派对只为看看谁会先感染新冠病毒",
@@ -237,10 +241,6 @@
     {
       "name":"Linux之父Linus Torvalds：我早就不编程了、工作就是说不",
       "url":"https://www.cnbeta.com/articles/tech/999341.htm"
-    },
-    {
-      "name":"Rocket Lab第13次火箭发射失利 一次丢失7颗卫星",
-      "url":"https://www.cnbeta.com/articles/science/999339.htm"
     }
   ]
 }
