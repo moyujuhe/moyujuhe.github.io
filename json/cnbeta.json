@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-06 08:45:39",
+  "time":"2020-07-06 08:49:50",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"研究：每天吃树莓能缓解皮肤过敏引发的发痒等自身免疫症状",
+      "url":"https://www.cnbeta.com/articles/science/999453.htm"
     },
     {
       "name":"马斯克：全力支持“侃爷”竞选美国总统",
@@ -237,10 +241,6 @@
     {
       "name":"马斯克列出他最喜欢的7款游戏 坦诚自己是个PC玩家",
       "url":"https://hot.cnbeta.com/articles/game/999337.htm"
-    },
-    {
-      "name":"Android版Firefox浏览器移除Preview版以解决混乱的版本号",
-      "url":"https://www.cnbeta.com/articles/tech/999335.htm"
     }
   ]
 }
