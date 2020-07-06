@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 02:39:11",
+  "time":"2020-07-07 02:43:17",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"欧盟针对科技巨头制定新的税收和内容规则",
+      "url":"https://www.cnbeta.com/articles/tech/999825.htm"
     },
     {
       "name":"尽管批准停滞不前 SpaceX仍继续提交Starlink地面站的申请",
@@ -237,10 +241,6 @@
     {
       "name":"用户发现MacBook会自动禁用所有USB端口 以防止连接的设备导致整体损坏",
       "url":"https://www.cnbeta.com/articles/tech/999709.htm"
-    },
-    {
-      "name":"在TikTok在印度被禁后 Instagram迅速将Reels功能扩展到该市场",
-      "url":"https://www.cnbeta.com/articles/tech/999707.htm"
     }
   ]
 }
