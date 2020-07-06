@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-06 14:08:01",
+  "time":"2020-07-06 14:12:12",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"中国遥感卫星地面站成功接收高分多模卫星数据",
+      "url":"https://www.cnbeta.com/articles/tech/999589.htm"
     },
     {
       "name":"格力质疑美的弄虚作假：重庆美的相关技术参数不合标准",
@@ -237,10 +241,6 @@
     {
       "name":"iOS 14 iCloud钥匙串新功能：对可能会遭泄的弱密码发出警告",
       "url":"https://www.cnbeta.com/articles/tech/999483.htm"
-    },
-    {
-      "name":"发现火星生命或将揭晓地球生命起源之谜",
-      "url":"https://www.cnbeta.com/articles/science/999481.htm"
     }
   ]
 }
