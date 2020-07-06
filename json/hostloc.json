@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 08:24:18",
+  "time":"2020-07-06 08:28:27",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"股折价600出一个aws1000刀",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712395&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"kimsufi的独服我在服务器离按了关机，然后点重启没用了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712393&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -101,10 +105,6 @@
     {
       "name":"请问有没有办法再腾讯云上安装mac(OS)?",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712359&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"TG两步验证密码忘记了怎么办",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712358&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
