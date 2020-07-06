@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-06 18:05:17",
+  "time":"2020-07-06 18:09:28",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"用户发现MacBook会自动禁用所有USB端口 以防止连接的设备导致整体损坏",
+      "url":"https://www.cnbeta.com/articles/tech/999709.htm"
     },
     {
       "name":"在TikTok在印度被禁后 Instagram迅速将Reels功能扩展到该市场",
@@ -237,10 +241,6 @@
     {
       "name":"配备6800 mAh电池的三星Galaxy手机通过认证",
       "url":"https://www.cnbeta.com/articles/tech/999593.htm"
-    },
-    {
-      "name":"搭载Intel Core i7的RedmiBook 16将于7月8日发布",
-      "url":"https://www.cnbeta.com/articles/tech/999591.htm"
     }
   ]
 }
