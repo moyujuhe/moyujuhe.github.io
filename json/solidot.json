@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-06 13:59:25",
+  "time":"2020-07-06 14:03:43",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"印度的封禁行动和网络主权",
+      "url":"https://www.solidot.org/story?sid=64857"
+    },
+    {
+      "name":"入侵 6000 账号的前雅虎工程师被判缓刑",
+      "url":"https://www.solidot.org/story?sid=64856"
+    },
     {
       "name":"Chrome for Android 将正式提供 64 位版本",
       "url":"https://www.solidot.org/story?sid=64855"
@@ -73,14 +81,6 @@
     {
       "name":"全球电子垃圾五年增长五分之一",
       "url":"https://www.solidot.org/story?sid=64838"
-    },
-    {
-      "name":"印度封禁 59 款中国应用的背后",
-      "url":"https://www.solidot.org/story?sid=64837"
-    },
-    {
-      "name":"迪士尼研究院演示照片视频的高分辨率人脸替换",
-      "url":"https://www.solidot.org/story?sid=64836"
     }
   ]
 }
