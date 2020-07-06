@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 14:24:56",
+  "time":"2020-07-06 14:30:13",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"据悉瑞信股东大会通过陆正耀罢免议案",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066856"
+    },
     {
       "name":"中国上半年自然灾害致近五千万人次受灾 同比升逾四成",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066853"
@@ -77,10 +81,6 @@
     {
       "name":"港警务处长：立法具震摄力 警方将全力配合执法",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066793"
-    },
-    {
-      "name":"法国不封杀华为但鼓励电信商避免采用",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066791"
     }
   ]
 }

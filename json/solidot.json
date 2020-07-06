@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-06 14:24:50",
+  "time":"2020-07-06 14:30:08",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"京都大学利用富岳搜寻新冠治疗药物",
+      "url":"https://www.solidot.org/story?sid=64859"
+    },
+    {
+      "name":"印度解除了对 DuckDuckGo 的屏蔽",
+      "url":"https://www.solidot.org/story?sid=64858"
+    },
     {
       "name":"印度的封禁行动和网络主权",
       "url":"https://www.solidot.org/story?sid=64857"
@@ -73,14 +81,6 @@
     {
       "name":"美国买光新冠药物瑞德西韦的库存",
       "url":"https://www.solidot.org/story?sid=64840"
-    },
-    {
-      "name":"苹果中国应用商店冻结数千未获版号的应用",
-      "url":"https://www.solidot.org/story?sid=64839"
-    },
-    {
-      "name":"全球电子垃圾五年增长五分之一",
-      "url":"https://www.solidot.org/story?sid=64838"
     }
   ]
 }
