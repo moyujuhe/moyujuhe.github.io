@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 09:40:45",
+  "time":"2020-07-06 09:44:51",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中芯确定A股发行价 有望创10年来A股最大IPO",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066821"
+    },
     {
       "name":"据悉法国不会完全禁用华为 但鼓励5G运营商避免使用",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066816"
@@ -77,10 +81,6 @@
     {
       "name":"王毅：坚决反对将人权问题政治化",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066620"
-    },
-    {
-      "name":"中国高校毕业生就业统计新指标纳入打电竞、开网店等",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066608"
     }
   ]
 }
