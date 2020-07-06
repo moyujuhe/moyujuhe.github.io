@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-07-07 05:13:01",
+  "time":"2020-07-07 05:17:11",
   "data":[
     {
       "name":"时间规划局 - 倒计时与提醒事项",
@@ -61,12 +61,6 @@
       "url":"https://apps.apple.com/cn/app/nba-2k20/id1471692155?uo=4",
       "num":"游戏",
       "description":"最新版本:  1.04\n更新时间:  2020-03-28 09:12:43 (北京时间)\n\n•   更新球队阵容\n•   修复若干问题"
-    },
-    {
-      "name":"OneClock - 翻页时钟与极简时钟",
-      "url":"https://apps.apple.com/cn/app/oneclock-%E7%BF%BB%E9%A1%B5%E6%97%B6%E9%92%9F%E4%B8%8E%E6%9E%81%E7%AE%80%E6%97%B6%E9%92%9F/id1257395357?uo=4",
-      "num":"工具",
-      "description":"最新版本:  2.3.0\n更新时间:  2020-07-02 22:51:00 (北京时间)\n\n1. 修复AM/PM设置\n2. 修复12/24小时制"
     },
     {
       "name":"斗罗主宰 唐门传说",
@@ -601,6 +595,12 @@
       "url":"https://apps.apple.com/cn/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A1-%E9%98%B2%E9%AA%9A%E6%89%B0/id1319191852?uo=4",
       "num":"工具",
       "description":"最新版本:  1.9.2\n更新时间:  2020-05-20 23:47:11 (北京时间)\n\n更新机器学习模型，包含了五月份的短信样本。"
+    },
+    {
+      "name":"论如何建立一个修仙门派",
+      "url":"https://apps.apple.com/cn/app/%E8%AE%BA%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E4%BF%AE%E4%BB%99%E9%97%A8%E6%B4%BE/id1498859517?uo=4",
+      "num":"游戏",
+      "description":"最新版本:  1.202\n更新时间:  2020-06-15 05:17:30 (北京时间)\n\n1.202\n修正部分玩家回档问题"
     }
   ]
 }
