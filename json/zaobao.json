@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 11:34:36",
+  "time":"2020-07-06 11:38:45",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"【视频】驻港部队举行实弹训练",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066834"
+    },
     {
       "name":"分析：外国加强监管或打断中国矿商并购热潮",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066828"
@@ -77,10 +81,6 @@
     {
       "name":"北京连续七天本地新增病例数在个位数",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066633"
-    },
-    {
-      "name":"澳门明起开放3000公商务免隔离名额",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066630"
     }
   ]
 }
