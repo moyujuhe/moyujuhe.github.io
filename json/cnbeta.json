@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-06 11:51:16",
+  "time":"2020-07-06 11:55:27",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"玩家参与非官方PS5价格调查：询问435美元是否满意",
+      "url":"https://hot.cnbeta.com/articles/game/999575.htm"
+    },
+    {
+      "name":"格力质疑美的弄虚作假：重庆美的相关技术参数不合标准",
+      "url":"https://www.cnbeta.com/articles/tech/999573.htm"
     },
     {
       "name":"近两年一个女乘客都没接到 司机怒找媒体投诉",
@@ -233,14 +241,6 @@
     {
       "name":"携号转网乱局，几时才能休？",
       "url":"https://www.cnbeta.com/articles/tech/999469.htm"
-    },
-    {
-      "name":"马斯克开卖特斯拉牌“做空短裤”：性感美女火辣上身",
-      "url":"https://hot.cnbeta.com/articles/funny/999467.htm"
-    },
-    {
-      "name":"微软优化 chrome.exe 被固定到任务栏的过程 可降低 CPU 使用率",
-      "url":"https://www.cnbeta.com/articles/tech/999465.htm"
     }
   ]
 }
