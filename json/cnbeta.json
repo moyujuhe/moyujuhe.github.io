@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-06 11:55:27",
+  "time":"2020-07-06 11:59:44",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"一加维修发票系统安全漏洞已修复：可能曝光用户敏感信息",
+      "url":"https://www.cnbeta.com/articles/tech/999579.htm"
+    },
+    {
+      "name":"三星德国官网泄露Galaxy Tab S7系列：骁龙865 Plus+10090mAh",
+      "url":"https://www.cnbeta.com/articles/tech/999577.htm"
     },
     {
       "name":"玩家参与非官方PS5价格调查：询问435美元是否满意",
@@ -233,14 +241,6 @@
     {
       "name":"烧光84亿造不出量产车 拜腾的钱都去哪了？",
       "url":"https://www.cnbeta.com/articles/tech/999473.htm"
-    },
-    {
-      "name":"新版Windows 10体验：新开始菜单配合重绘图标让系统焕然一新",
-      "url":"https://www.cnbeta.com/articles/tech/999471.htm"
-    },
-    {
-      "name":"携号转网乱局，几时才能休？",
-      "url":"https://www.cnbeta.com/articles/tech/999469.htm"
     }
   ]
 }
