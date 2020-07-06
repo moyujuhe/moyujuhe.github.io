@@ -1,10 +1,10 @@
 {
-  "time":"2020-07-06 09:27:36",
+  "time":"2020-07-06 09:32:16",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"程序员应该这样解读《隐秘的角落》",
-      "url":"https://www.v2ex.com/t/687429#reply17"
+      "url":"https://www.v2ex.com/t/687429#reply19"
     },
     {
       "name":"感觉自己好病态……",
@@ -19,6 +19,10 @@
       "url":"https://www.v2ex.com/t/687427#reply9"
     },
     {
+      "name":"有人知道郝斌老师吗？为什么现在只有他的视频，却没有任何他这个人的消息",
+      "url":"https://www.v2ex.com/t/687440#reply6"
+    },
+    {
       "name":"怎样使生成的打印条码分辨率变低但不影响使用？",
       "url":"https://www.v2ex.com/t/687428#reply5"
     },
@@ -27,16 +31,12 @@
       "url":"https://www.v2ex.com/t/687431#reply5"
     },
     {
-      "name":"有人知道郝斌老师吗？为什么现在只有他的视频，却没有任何他这个人的消息",
-      "url":"https://www.v2ex.com/t/687440#reply5"
+      "name":"各位现在常用 id 生成方案有哪些，使用策略是怎样的？",
+      "url":"https://www.v2ex.com/t/687435#reply5"
     },
     {
       "name":"青桔电单车吃相真难看",
       "url":"https://www.v2ex.com/t/687430#reply4"
-    },
-    {
-      "name":"各位现在常用 id 生成方案有哪些，使用策略是怎样的？",
-      "url":"https://www.v2ex.com/t/687435#reply3"
     },
     {
       "name":"广州哪里有比较专业的喷漆的地方",
@@ -47,12 +47,12 @@
       "url":"https://www.v2ex.com/t/687438#reply2"
     },
     {
-      "name":"使用 graphql 与 serverless 写了一个简单的 markdown-to-html-api 服务",
-      "url":"https://www.v2ex.com/t/687434#reply1"
+      "name":"idea 2020.2 占用内存，比 2019.3 多一倍？",
+      "url":"https://www.v2ex.com/t/687442#reply2"
     },
     {
-      "name":"idea 2020.2 占用内存，比 2019.3 多一倍？",
-      "url":"https://www.v2ex.com/t/687442#reply1"
+      "name":"使用 graphql 与 serverless 写了一个简单的 markdown-to-html-api 服务",
+      "url":"https://www.v2ex.com/t/687434#reply1"
     },
     {
       "name":"zend stuido 安装了中文语言包，远程 ftp 自动上传失效了。",
@@ -69,6 +69,18 @@
     {
       "name":"分享一个 vscode 中文首拼插件，英语不好的可以进来看看",
       "url":"https://www.v2ex.com/t/687444#reply0"
+    },
+    {
+      "name":"按下一个键不松开，不会重复输入了。这个是设定么？还是可以设置的？",
+      "url":"https://www.v2ex.com/t/687446#reply0"
+    },
+    {
+      "name":"（推荐成功有实物答谢，详见帖子）蚂蚁金服，技术风险数据中台， Java /大数据/流计算， P678， base 上海",
+      "url":"https://www.v2ex.com/t/687447#reply0"
+    },
+    {
+      "name":"苹果系统 安装不了浙政钉，求阿里大佬指点啊",
+      "url":"https://www.v2ex.com/t/687448#reply0"
     }
   ]
 }
