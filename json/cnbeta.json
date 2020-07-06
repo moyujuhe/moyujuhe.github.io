@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-06 18:09:28",
+  "time":"2020-07-06 18:13:39",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"美团\"安心餐厅\"标准升级 面向北京餐厅上线\"已核酸检测\"标签",
+      "url":"https://www.cnbeta.com/articles/tech/999713.htm"
+    },
+    {
+      "name":"雷军祝福高考学子：考的都会 会的都对",
+      "url":"https://www.cnbeta.com/articles/tech/999711.htm"
     },
     {
       "name":"用户发现MacBook会自动禁用所有USB端口 以防止连接的设备导致整体损坏",
@@ -233,14 +241,6 @@
     {
       "name":"奔驰全新GLC渲染图曝光：轴距增加内饰大变",
       "url":"https://www.cnbeta.com/articles/tech/999597.htm"
-    },
-    {
-      "name":"国产远程控制工具向日葵Mac X重磅首发：全新UI，主被控合一",
-      "url":"https://www.cnbeta.com/articles/soft/999595.htm"
-    },
-    {
-      "name":"配备6800 mAh电池的三星Galaxy手机通过认证",
-      "url":"https://www.cnbeta.com/articles/tech/999593.htm"
     }
   ]
 }
