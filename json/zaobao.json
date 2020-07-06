@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 08:28:27",
+  "time":"2020-07-06 08:32:37",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"英官员：正密切关注华为5G设备的使用",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066797"
+    },
     {
       "name":"中国国安部：坚决保障香港国安法有效实施",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066794"
@@ -77,10 +81,6 @@
     {
       "name":"郑若骅：会考虑所有因素以裁决行为是否分裂国家",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066601"
-    },
-    {
-      "name":"香港三周以来首现本土确诊病例",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066600"
     }
   ]
 }
