@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 08:49:52",
+  "time":"2020-07-06 08:54:04",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国大陆新增四例确诊病例 其中北京一例",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066807"
+    },
     {
       "name":"英官员：正密切关注华为5G设备的使用",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066797"
@@ -77,10 +81,6 @@
     {
       "name":"中国气象局启动重大气象灾害暴雨三级应急响应",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066603"
-    },
-    {
-      "name":"郑若骅：会考虑所有因素以裁决行为是否分裂国家",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066601"
     }
   ]
 }
