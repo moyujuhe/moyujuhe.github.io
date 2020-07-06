@@ -1,7 +1,11 @@
 {
-  "time":"今天00:00",
+  "time":"1小时前",
   "title":"果壳-科学人",
   "data":[
+    {
+      "name":"明天高考，你的智商还能做出我们押的题吗？",
+      "url":"http://www.guokr.com/article/456753/"
+    },
     {
       "name":"旅鼠：你们以为我想自杀，其实我只是社恐",
       "url":"http://www.guokr.com/article/456752/"
@@ -71,8 +75,8 @@
       "url":"http://www.guokr.com/article/456739/"
     },
     {
-      "name":"你以为企鹅憨憨被骗了1600万就是大案了？美国人一搞就是百亿美元骗局",
-      "url":"http://www.guokr.com/article/456734/"
+      "name":"明天高考，你的智商还能做出我们押的题吗？",
+      "url":"https://www.guokr.com/article/456753/"
     },
     {
       "name":"旅鼠：你们以为我想自杀，其实我只是社恐",
@@ -149,10 +153,6 @@
     {
       "name":"得了“牛皮癣”，我才知道迷信小广告并非因为无知，还因为无助",
       "url":"https://www.guokr.com/article/456735/"
-    },
-    {
-      "name":"鲸头顶喷的“水柱”，是它脑袋里进的水吗？",
-      "url":"https://www.guokr.com/article/456733/"
     }
   ]
 }
