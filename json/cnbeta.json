@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 07:06:40",
+  "time":"2020-07-07 07:11:11",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"foobar2000 1.6 Beta 3 / 1.5.5 正式版发布",
+      "url":"https://www.cnbeta.com/articles/soft/999827.htm"
     },
     {
       "name":"欧盟针对科技巨头制定新的税收和内容规则",
@@ -237,10 +241,6 @@
     {
       "name":"雷军祝福高考学子：考的都会 会的都对",
       "url":"https://www.cnbeta.com/articles/tech/999711.htm"
-    },
-    {
-      "name":"用户发现MacBook会自动禁用所有USB端口 以防止连接的设备导致整体损坏",
-      "url":"https://www.cnbeta.com/articles/tech/999709.htm"
     }
   ]
 }
