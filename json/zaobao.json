@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 11:00:55",
+  "time":"2020-07-06 11:04:59",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"分析：外国加强监管或打断中国矿商并购热潮",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066828"
+    },
     {
       "name":"内蒙古发现一例鼠疫病例",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066824"
@@ -77,10 +81,6 @@
     {
       "name":"澳门明起开放3000公商务免隔离名额",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066630"
-    },
-    {
-      "name":"瑞幸咖啡将再度审议解除陆正耀等多位董事",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066629"
     }
   ]
 }
