@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 20:39:51",
+  "time":"2020-07-06 20:44:00",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"香港国安委今天召开首次会议",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066919"
+    },
     {
       "name":"中国外交部：中国就冠病第一时间通报WHO",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066918"
@@ -77,10 +81,6 @@
     {
       "name":"梁振英：高喊“香港独立”可以国安法定罪",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066866"
-    },
-    {
-      "name":"英媒：冠病病毒与七年前送至武汉研究所的样本非常相似",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066859"
     }
   ]
 }
