@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 17:36:01",
+  "time":"2020-07-06 17:40:13",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国大使馆提醒民众近期谨慎前往加拿大",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066901"
+    },
     {
       "name":"中国外交部：美国派航母到南中国海军演别有用心",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066899"
@@ -77,10 +81,6 @@
     {
       "name":"中国沪深300指数跳涨3%至五年高点",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066839"
-    },
-    {
-      "name":"浙江卫视总编室原主任陶燕因受贿获刑五年",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066836"
     }
   ]
 }
