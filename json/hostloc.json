@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 11:38:46",
+  "time":"2020-07-06 11:43:00",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"出一个续费1元的台湾NAT",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712482&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"Google Voice批发~零售价15 GV",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712481&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"大家不能换IP的鸡开cloudflare吗？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712451&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"现在新开阿里新加坡机器，用EIP是什么网段啊",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712449&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
