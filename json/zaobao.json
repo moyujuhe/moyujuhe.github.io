@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-06 13:42:16",
+  "time":"2020-07-06 13:46:31",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国上半年自然灾害致近五千万人次受灾 同比升逾四成",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066853"
+    },
     {
       "name":"冠病D614G突变成传播的主要基因型 专家：不太可能对疫苗疗效产生重大影响",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066852"
@@ -77,10 +81,6 @@
     {
       "name":"法国不封杀华为但鼓励电信商避免采用",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066791"
-    },
-    {
-      "name":"与林丹有关联的一家公司已注销 还剩四家",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200705-1066585"
     }
   ]
 }
