@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-06 09:15:03",
+  "time":"2020-07-06 09:19:14",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Chrome for Android 将正式提供 64 位版本",
+      "url":"https://www.solidot.org/story?sid=64855"
+    },
+    {
+      "name":"英国将禁止华为参与 5G",
+      "url":"https://www.solidot.org/story?sid=64854"
+    },
     {
       "name":"英国政府和印度巴帝收购 OneWeb",
       "url":"https://www.solidot.org/story?sid=64853"
@@ -73,14 +81,6 @@
     {
       "name":"迪士尼研究院演示照片视频的高分辨率人脸替换",
       "url":"https://www.solidot.org/story?sid=64836"
-    },
-    {
-      "name":"新 Mac 勒索软件具有间谍软件功能",
-      "url":"https://www.solidot.org/story?sid=64835"
-    },
-    {
-      "name":"美国中小型 ISP 对 FCC 封杀华为中兴的决定表示震惊",
-      "url":"https://www.solidot.org/story?sid=64834"
     }
   ]
 }
