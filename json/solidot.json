@@ -1,7 +1,23 @@
 {
-  "time":"2020-07-06 20:59:10",
+  "time":"2020-07-06 21:04:17",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"荷兰国家电视台称非个性化广告一样有效",
+      "url":"https://www.solidot.org/story?sid=64864"
+    },
+    {
+      "name":"Linus Torvalds 称他不再写代码了",
+      "url":"https://www.solidot.org/story?sid=64863"
+    },
+    {
+      "name":"今年手游收入预计将达到千亿美元",
+      "url":"https://www.solidot.org/story?sid=64862"
+    },
+    {
+      "name":"中国的黑客行动杀死了北电？",
+      "url":"https://www.solidot.org/story?sid=64861"
+    },
     {
       "name":"金星轨道内发现的第一颗小行星可能提供失踪地幔小行星线索",
       "url":"https://www.solidot.org/story?sid=64860"
@@ -65,22 +81,6 @@
     {
       "name":"《死亡搁浅》PC 版测试显示 AMD 的开源 FidelityFX CAS 表现强于英伟达的 DLSS",
       "url":"https://www.solidot.org/story?sid=64845"
-    },
-    {
-      "name":"123456 是最常用的密码",
-      "url":"https://www.solidot.org/story?sid=64844"
-    },
-    {
-      "name":"山东通报苟晶被冒名顶替上学事件",
-      "url":"https://www.solidot.org/story?sid=64843"
-    },
-    {
-      "name":"openSUSE Leap 15.2 发布",
-      "url":"https://www.solidot.org/story?sid=64842"
-    },
-    {
-      "name":"欧洲警方破解犯罪组织使用的加密通讯网络数百人被捕",
-      "url":"https://www.solidot.org/story?sid=64841"
     }
   ]
 }
