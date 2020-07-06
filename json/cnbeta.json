@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-06 09:36:27",
+  "time":"2020-07-06 09:40:37",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"TIOBE 7 月榜单：易于学习使用的统计编程语言开始流行",
+      "url":"https://www.cnbeta.com/articles/tech/999461.htm"
+    },
+    {
+      "name":"OPPO宣布参与英国首个5G SA网络搭建",
+      "url":"https://www.cnbeta.com/articles/tech/999459.htm"
     },
     {
       "name":"小米电视棒获Google Play Console认证：最高或可支持1080p分辨率",
@@ -233,14 +241,6 @@
     {
       "name":"美国疫情严重程度被大幅低估 实际感染人数或是现有数据10到24倍",
       "url":"https://www.cnbeta.com/articles/tech/999345.htm"
-    },
-    {
-      "name":"Intel i9-10850K首次曝光：i9-10900K降频、迎战锐龙3000XT",
-      "url":"https://www.cnbeta.com/articles/tech/999343.htm"
-    },
-    {
-      "name":"Linux之父Linus Torvalds：我早就不编程了、工作就是说不",
-      "url":"https://www.cnbeta.com/articles/tech/999341.htm"
     }
   ]
 }
