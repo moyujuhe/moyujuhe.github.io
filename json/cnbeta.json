@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-06 23:25:00",
+  "time":"2020-07-06 23:29:19",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"遥感数据显示中国湖泊整体变清",
+      "url":"https://www.cnbeta.com/articles/tech/999789.htm"
+    },
+    {
+      "name":"HYPER推出“HyperJuice”紧凑型100W USB-C氮化镓充电器",
+      "url":"https://www.cnbeta.com/articles/tech/999787.htm"
     },
     {
       "name":"雅达利Atari 800 VCS主机发行日/售价公布",
@@ -233,14 +241,6 @@
     {
       "name":"中芯国际股价突破40港元 涨幅超20%",
       "url":"https://www.cnbeta.com/articles/tech/999673.htm"
-    },
-    {
-      "name":"研究发现恐怖片迷比大多数人能更好地应对COVID-19",
-      "url":"https://www.cnbeta.com/articles/science/999671.htm"
-    },
-    {
-      "name":"董明珠转发格力公司声明：企业要遵纪守法",
-      "url":"https://www.cnbeta.com/articles/tech/999669.htm"
     }
   ]
 }
