@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 00:39:08",
+  "time":"2020-07-07 00:43:24",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"约翰斯·霍普金斯大学：美国新冠死亡病例超13万例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8149905"
+    },
     {
       "name":"菲律宾连续两天新增新冠确诊病例破2000例",
       "url":"https://www.thepaper.cn/newsDetail_forward_8149901"
@@ -77,10 +81,6 @@
     {
       "name":"湖北沙市高三班为备考解压：教室里K歌",
       "url":"https://www.thepaper.cn/newsDetail_forward_8149779"
-    },
-    {
-      "name":"江西景德镇一城管与摊贩起冲突，官方：执法不当停岗",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8149775"
     }
   ]
 }
