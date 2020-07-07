@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-07 17:03:06",
+  "time":"2020-07-07 17:07:17",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"大头贴之父世嘉时隔20余年再推新品 新机器fiz今秋发售",
+      "url":"https://www.cnbeta.com/articles/tech/1000211.htm"
+    },
+    {
+      "name":"Intel加速淘汰14nm处理器 4核6W奔腾/赛扬退役",
+      "url":"https://www.cnbeta.com/articles/tech/1000209.htm"
     },
     {
       "name":"Voxan展示Wattman高性能电动摩托 明年7月冲击极速纪录",
@@ -233,14 +241,6 @@
     {
       "name":"2020年二季度Dapp市场报告：以太网活跃用户数翻番",
       "url":"https://www.cnbeta.com/articles/tech/1000093.htm"
-    },
-    {
-      "name":"FKIE发布2020版《家用路由器安全性报告》结果很不乐观",
-      "url":"https://www.cnbeta.com/articles/tech/1000091.htm"
-    },
-    {
-      "name":"新鲜出炉 2020年全国高考语文试卷作文题全汇总",
-      "url":"https://www.cnbeta.com/articles/tech/1000089.htm"
     }
   ]
 }
