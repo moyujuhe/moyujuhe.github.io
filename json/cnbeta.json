@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-08 00:03:56",
+  "time":"2020-07-08 00:08:50",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"巴西总统博索纳罗确认新冠病毒检测呈阳性",
+      "url":"https://www.cnbeta.com/articles/tech/1000311.htm"
+    },
+    {
+      "name":"因祸得福：新冠肺炎让PC游戏硬件大涨250亿元",
+      "url":"https://hot.cnbeta.com/articles/game/1000309.htm"
     },
     {
       "name":"AMD CEO苏姿丰：Zen 3年底如期发布 表现棒极了",
@@ -233,14 +241,6 @@
     {
       "name":"Poco M2 Pro正式登陆印度市场 13999卢比起售",
       "url":"https://www.cnbeta.com/articles/tech/1000193.htm"
-    },
-    {
-      "name":"[图]Surface Duo开发为何比Neo顺畅？Movial团队功不可没",
-      "url":"https://www.cnbeta.com/articles/tech/1000191.htm"
-    },
-    {
-      "name":"华为一大批鸿蒙商标等待审查 下半年或迎来发力期",
-      "url":"https://www.cnbeta.com/articles/tech/1000189.htm"
     }
   ]
 }
