@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-08 03:52:54",
+  "time":"2020-07-08 03:57:10",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"免费cdn求测速",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713320&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"BTCO插件，优化宝塔面板移动端  炫酷！",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713319&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"感谢大佬wooxiaowei   送的fr码子",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713291&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"我怎么感觉新顶域名像骗人的？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713289&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
