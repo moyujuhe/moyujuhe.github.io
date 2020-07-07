@@ -1,10 +1,26 @@
 {
-  "time":"2020-07-08 02:09:05",
+  "time":"2020-07-08 02:13:16",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"美国FDA召回近19000瓶洗手液 因可能含有毒成分甲醇",
+      "url":"https://www.cnbeta.com/articles/tech/1000341.htm"
+    },
+    {
+      "name":"对标亚马逊Prime 沃尔玛Walmart+服务据称将于本月推出",
+      "url":"https://www.cnbeta.com/articles/tech/1000339.htm"
+    },
+    {
+      "name":"三个理由解释为何疫情汹汹之际股市依然高奏凯歌",
+      "url":"https://www.cnbeta.com/articles/tech/1000337.htm"
+    },
+    {
+      "name":"瑞幸咖啡股东特别大会决议结果遭部分投资者质疑",
+      "url":"https://www.cnbeta.com/articles/tech/1000335.htm"
     },
     {
       "name":"前微软高管佩吉·约翰逊加盟Magic Leap担任CEO",
@@ -225,22 +241,6 @@
     {
       "name":"当当好书年中榜单发布 《三体》登电子书畅销榜首",
       "url":"https://www.cnbeta.com/articles/tech/1000225.htm"
-    },
-    {
-      "name":"传尼康Z5相机套机售价或为1400美元",
-      "url":"https://www.cnbeta.com/articles/tech/1000223.htm"
-    },
-    {
-      "name":"五条新高铁线路即将开通 快看看经过你家吗？",
-      "url":"https://www.cnbeta.com/articles/tech/1000221.htm"
-    },
-    {
-      "name":"沉寂三年后 Android恶意软件FakeSpy又出来作祟了",
-      "url":"https://www.cnbeta.com/articles/tech/1000219.htm"
-    },
-    {
-      "name":"苹果自研PC处理器架构细节曝光：ARM大小核设计、集成NPU",
-      "url":"https://www.cnbeta.com/articles/tech/1000217.htm"
     }
   ]
 }
