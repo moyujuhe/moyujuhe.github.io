@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 12:26:12",
+  "time":"2020-07-07 12:30:26",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"FKIE发布2020版《家用路由器安全性报告》结果很不乐观",
+      "url":"https://www.cnbeta.com/articles/tech/1000091.htm"
     },
     {
       "name":"新鲜出炉 2020年全国高考语文试卷作文题全汇总",
@@ -237,10 +241,6 @@
     {
       "name":"8BitDo推出Project xCloud专用游戏手柄 附带手机支架",
       "url":"https://hot.cnbeta.com/articles/game/999975.htm"
-    },
-    {
-      "name":"科学家发现宇宙中质量增长最快的黑洞：约是太阳质量的340亿倍",
-      "url":"https://www.cnbeta.com/articles/science/999973.htm"
     }
   ]
 }
