@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 23:22:44",
+  "time":"2020-07-07 23:27:02",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"智能包裹问世 内建电子墨水标签传感器摄像头扬声器和麦克风",
+      "url":"https://www.cnbeta.com/articles/tech/1000299.htm"
     },
     {
       "name":"苹果获得新折叠屏iPhone专利：采用非对称折叠",
@@ -237,10 +241,6 @@
     {
       "name":"转发这个高分卫星，助你高考得高分",
       "url":"https://www.cnbeta.com/articles/science/1000181.htm"
-    },
-    {
-      "name":"SpaceX星际飞船原型完成压力测试 即将进行发动机静态点火",
-      "url":"https://www.cnbeta.com/articles/science/1000179.htm"
     }
   ]
 }
