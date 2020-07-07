@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 20:22:58",
+  "time":"2020-07-07 20:27:10",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"越南恐怖片票房冠军《阴阳眼》曝中字预告",
+      "url":"https://hot.cnbeta.com/articles/movie/1000275.htm"
     },
     {
       "name":"微软HoloLens 2现开始支持新的“研究模式”",
@@ -237,10 +241,6 @@
     {
       "name":"AMD锐龙7 4700G常温超频新纪录曝光 全核4.75GHz",
       "url":"https://www.cnbeta.com/articles/tech/1000157.htm"
-    },
-    {
-      "name":"[图]Android端Chrome即将允许生物认证来自动填写支付信息",
-      "url":"https://www.cnbeta.com/articles/tech/1000155.htm"
     }
   ]
 }
