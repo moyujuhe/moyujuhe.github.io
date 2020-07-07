@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 16:58:43",
+  "time":"2020-07-07 17:03:06",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"Voxan展示Wattman高性能电动摩托 明年7月冲击极速纪录",
+      "url":"https://www.cnbeta.com/articles/tech/1000205.htm"
     },
     {
       "name":"安六高铁明日开通：超7成线路均为隧道桥梁 设计时速250KM",
@@ -237,10 +241,6 @@
     {
       "name":"新鲜出炉 2020年全国高考语文试卷作文题全汇总",
       "url":"https://www.cnbeta.com/articles/tech/1000089.htm"
-    },
-    {
-      "name":"报道称苹果将从macOS ARM64中移除对AMD GPU的支持",
-      "url":"https://www.cnbeta.com/articles/tech/1000087.htm"
     }
   ]
 }
