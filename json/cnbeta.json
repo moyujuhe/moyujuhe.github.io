@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 13:34:41",
+  "time":"2020-07-07 13:39:01",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"一边大幅裁员一边巨额收购：Uber吹响外卖市场冲锋号",
+      "url":"https://www.cnbeta.com/articles/tech/1000103.htm"
     },
     {
       "name":"Zen 3霄龙ES处理器曝光 基础频率1.5 GHz，加速频率2.2 GHz",
@@ -237,10 +241,6 @@
     {
       "name":"[图]Galaxy Note 20真机谍照曝光：S Pen和扬声器挪到USB-C端口左侧",
       "url":"https://www.cnbeta.com/articles/tech/999987.htm"
-    },
-    {
-      "name":"哈佛大学宣布秋季将让部分学生返校学习",
-      "url":"https://www.cnbeta.com/articles/tech/999985.htm"
     }
   ]
 }
