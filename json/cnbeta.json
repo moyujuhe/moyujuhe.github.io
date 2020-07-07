@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 17:07:17",
+  "time":"2020-07-07 17:11:28",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"研究人员利用夹层材料大幅提高导电塑料透光率",
+      "url":"https://www.cnbeta.com/articles/science/1000213.htm"
     },
     {
       "name":"大头贴之父世嘉时隔20余年再推新品 新机器fiz今秋发售",
@@ -237,10 +241,6 @@
     {
       "name":"日本科学家发布企鹅“屎量动力学”新研究",
       "url":"https://hot.cnbeta.com/articles/funny/1000095.htm"
-    },
-    {
-      "name":"2020年二季度Dapp市场报告：以太网活跃用户数翻番",
-      "url":"https://www.cnbeta.com/articles/tech/1000093.htm"
     }
   ]
 }
