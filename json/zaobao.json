@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-08 07:16:15",
+  "time":"2020-07-08 07:20:25",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"港多间学校因有学生或密切接触者确诊停课",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067382"
+    },
     {
       "name":"海航旗下美国子公司获美国政府冠病救助贷款",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067229"
@@ -77,10 +81,6 @@
     {
       "name":"中国发布九个新职业 直播销售员为新工种",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067180"
-    },
-    {
-      "name":"成都两只出生仅七月的大熊猫病亡",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067178"
     }
   ]
 }
