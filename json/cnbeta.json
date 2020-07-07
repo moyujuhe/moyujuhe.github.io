@@ -1,10 +1,22 @@
 {
-  "time":"2020-07-07 16:50:15",
+  "time":"2020-07-07 16:54:28",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"安六高铁明日开通：超7成线路均为隧道桥梁 设计时速250KM",
+      "url":"https://www.cnbeta.com/articles/tech/1000203.htm"
+    },
+    {
+      "name":"Mate V？华为翻盖折叠屏手机外形出炉",
+      "url":"https://www.cnbeta.com/articles/tech/1000201.htm"
+    },
+    {
+      "name":"微软Your Phone新功能：用户可直接在手机管理来自PC的图片",
+      "url":"https://www.cnbeta.com/articles/tech/1000199.htm"
     },
     {
       "name":"[技巧]Windows 10如何卸载基于Chromium的新版Edge浏览器",
@@ -229,18 +241,6 @@
     {
       "name":"报道称苹果将从macOS ARM64中移除对AMD GPU的支持",
       "url":"https://www.cnbeta.com/articles/tech/1000087.htm"
-    },
-    {
-      "name":"兼具液态/固态电池优点 科学家发明室温工作的全液态金属电池",
-      "url":"https://www.cnbeta.com/articles/science/1000085.htm"
-    },
-    {
-      "name":"科学家开发“注水”窗户  既能供暖又能降温",
-      "url":"https://www.cnbeta.com/articles/tech/1000083.htm"
-    },
-    {
-      "name":"大众正将德国另一工厂转换为电动汽车工厂 投资约10亿欧元",
-      "url":"https://www.cnbeta.com/articles/tech/1000081.htm"
     }
   ]
 }
