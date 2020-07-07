@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 15:13:19",
+  "time":"2020-07-07 15:17:31",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"AMD锐龙7 4700G常温超频新纪录曝光 全核4.75GHz",
+      "url":"https://www.cnbeta.com/articles/tech/1000157.htm"
     },
     {
       "name":"[图]Android端Chrome即将允许生物认证来自动填写支付信息",
@@ -237,10 +241,6 @@
     {
       "name":"吴彦祖爆改老爷车获奖：车牌是亮点",
       "url":"https://www.cnbeta.com/articles/tech/1000043.htm"
-    },
-    {
-      "name":"类太阳恒星中锂的秘密：毁灭亦有新生",
-      "url":"https://www.cnbeta.com/articles/science/1000041.htm"
     }
   ]
 }
