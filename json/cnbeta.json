@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-07 09:50:20",
+  "time":"2020-07-07 09:54:32",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"8BitDo推出Project xCloud专用手柄支架",
+      "url":"https://hot.cnbeta.com/articles/game/999975.htm"
+    },
+    {
+      "name":"科学家发现宇宙中质量增长最快的黑洞：约是太阳质量的340亿倍",
+      "url":"https://www.cnbeta.com/articles/science/999973.htm"
     },
     {
       "name":"新发现的“小虫子杀手”或为恐龙起源提供线索：比一部iPhone还小",
@@ -233,14 +241,6 @@
     {
       "name":"若学校完全网上授课 旅美国际学生的签证将面临风险",
       "url":"https://www.cnbeta.com/articles/tech/999859.htm"
-    },
-    {
-      "name":"德国检方逮捕Wirecard迪拜部门负责人",
-      "url":"https://www.cnbeta.com/articles/tech/999857.htm"
-    },
-    {
-      "name":"周一收盘 蔚来汽车股价大涨22.71%",
-      "url":"https://www.cnbeta.com/articles/tech/999855.htm"
     }
   ]
 }
