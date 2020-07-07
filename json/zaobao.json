@@ -1,13 +1,17 @@
 {
-  "time":"2020-07-07 08:26:42",
+  "time":"2020-07-07 08:30:56",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"白宫幕僚长：特朗普在准备针对中国颁布命令",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067098"
+    },
     {
       "name":"瑞丽航空客机紧急备降重庆 无人员伤亡",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067083"
     },
     {
-      "name":"多个社交平台或通信软件暂缓处理港府索用户资料要求",
+      "name":"面簿谷歌等暂缓处理港府索取用户资料要求",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067082"
     },
     {
@@ -77,10 +81,6 @@
     {
       "name":"沪指收高逾5.7% 创五年最大单日涨幅",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066889"
-    },
-    {
-      "name":"中国外交部谴责加拿大涉港举措：保留进一步反应的权利",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066890"
     }
   ]
 }
