@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 19:02:12",
+  "time":"2020-07-07 19:06:30",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"LinkedIn、Reddit 和 Google News 等都被发现监视用户剪贴板",
+      "url":"https://www.solidot.org/story?sid=64875"
+    },
     {
       "name":"Google、Facebook 和 Twitter 暂停香港的政府数据请求",
       "url":"https://www.solidot.org/story?sid=64873"
@@ -77,10 +81,6 @@
     {
       "name":"宇宙射线或能解释生命对右手分子 DNA 的偏见",
       "url":"https://www.solidot.org/story?sid=64851"
-    },
-    {
-      "name":"Google 机器人程序模拟购物但不清空购物车",
-      "url":"https://www.solidot.org/story?sid=64850"
     }
   ]
 }
