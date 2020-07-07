@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-08 02:30:02",
+  "time":"2020-07-08 02:34:09",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"美国正式退出世卫组织",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8165700"
+    },
     {
       "name":"塞尔维亚总统武契奇：首都贝尔格莱德本周末宵禁",
       "url":"https://www.thepaper.cn/newsDetail_forward_8163934"
@@ -77,10 +81,6 @@
     {
       "name":"日本新增确诊病例211例，累计确诊达20209例",
       "url":"https://www.thepaper.cn/newsDetail_forward_8163802"
-    },
-    {
-      "name":"全球疫情晚报｜印度累计确诊超70万，印媒称十天内或破百万",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8163574"
     }
   ]
 }
