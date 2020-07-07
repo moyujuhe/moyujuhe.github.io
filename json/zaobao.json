@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 14:38:56",
+  "time":"2020-07-07 14:43:29",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"贵州载有学生的巴士冲进水库 伤亡情况未知",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067157"
+    },
     {
       "name":"蓬佩奥称美国考虑禁用TikTok等中国社交媒体应用程序",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067155"
@@ -77,10 +81,6 @@
     {
       "name":"林郑称国安法条文温和 市场反应正面",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067122"
-    },
-    {
-      "name":"北京26天来首次确诊病例零新增",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067110"
     }
   ]
 }
