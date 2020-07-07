@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 22:29:17",
+  "time":"2020-07-07 22:33:45",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"苹果获得新折叠屏iPhone专利：采用非对称折叠",
+      "url":"https://www.cnbeta.com/articles/tech/1000297.htm"
     },
     {
       "name":"华为携手统信UOS国产系统：EulerOS开源迈出一大步",
@@ -237,10 +241,6 @@
     {
       "name":"SpaceX星际飞船原型完成压力测试 即将进行发动机静态点火",
       "url":"https://www.cnbeta.com/articles/science/1000179.htm"
-    },
-    {
-      "name":"美研究说羟氯喹可降低新冠死亡率 特朗普：民主党之前还因我贬低它",
-      "url":"https://www.cnbeta.com/articles/science/1000177.htm"
     }
   ]
 }
