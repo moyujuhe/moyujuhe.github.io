@@ -1,10 +1,22 @@
 {
-  "time":"2020-07-07 11:35:47",
+  "time":"2020-07-07 11:39:58",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"全国5名全盲考生参加高考：盲文试卷原来长这样",
+      "url":"https://www.cnbeta.com/articles/tech/1000067.htm"
+    },
+    {
+      "name":"抢到赚 “海航随心飞”今日开抢：限量发售8000套",
+      "url":"https://www.cnbeta.com/articles/tech/1000065.htm"
+    },
+    {
+      "name":"北京高考作文题二选一：聚焦北斗卫星、“当今时代”",
+      "url":"https://www.cnbeta.com/articles/tech/1000063.htm"
     },
     {
       "name":"网飞《变形金刚：塞伯坦之战三部曲 围城》公开中文正式预告片",
@@ -229,18 +241,6 @@
     {
       "name":"今年每部智能机平均配3.5个镜头 多摄镜头组件出货将达50亿",
       "url":"https://www.cnbeta.com/articles/tech/999951.htm"
-    },
-    {
-      "name":"MySQL 删除 master、黑名单白名单等术语",
-      "url":"https://www.cnbeta.com/articles/tech/999949.htm"
-    },
-    {
-      "name":"更低码率/更高画质：新一代H.266/VCC视频编码标准正式发布",
-      "url":"https://www.cnbeta.com/articles/tech/999947.htm"
-    },
-    {
-      "name":"Linux 内核编码规范将添加“包容性术语”准则",
-      "url":"https://www.cnbeta.com/articles/tech/999945.htm"
     }
   ]
 }
