@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 13:30:30",
+  "time":"2020-07-07 13:34:41",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"Zen 3霄龙ES处理器曝光 基础频率1.5 GHz，加速频率2.2 GHz",
+      "url":"https://www.cnbeta.com/articles/tech/1000101.htm"
     },
     {
       "name":"独游乐园苹果Arcade面临生存危机：苹果退产品、要求提高游戏参与度",
@@ -237,10 +241,6 @@
     {
       "name":"哈佛大学宣布秋季将让部分学生返校学习",
       "url":"https://www.cnbeta.com/articles/tech/999985.htm"
-    },
-    {
-      "name":"[图]打开这个功能 能够让新版Edge浏览器的续航明显增加",
-      "url":"https://www.cnbeta.com/articles/tech/999983.htm"
     }
   ]
 }
