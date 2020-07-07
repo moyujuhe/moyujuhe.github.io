@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-08 00:31:33",
+  "time":"2020-07-08 00:35:47",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"研究显示许多家用路由器未打补丁容易受漏洞影响",
+      "url":"https://www.cnbeta.com/articles/tech/1000315.htm"
     },
     {
       "name":"最新泄露的iPhone 12包装托盘图像提示随机不附带EarPods与电源适配器",
@@ -237,10 +241,6 @@
     {
       "name":"[技巧]Windows 10如何卸载基于Chromium的新版Edge浏览器",
       "url":"https://www.cnbeta.com/articles/tech/1000197.htm"
-    },
-    {
-      "name":"新型纳米晶体治疗方法可保护细胞免受辐射损伤",
-      "url":"https://www.cnbeta.com/articles/science/1000195.htm"
     }
   ]
 }
