@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 10:15:54",
+  "time":"2020-07-07 10:20:06",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"哈佛大学宣布秋季将让部分学生返校学习",
+      "url":"https://www.cnbeta.com/articles/tech/999985.htm"
     },
     {
       "name":"[图]打开这个功能 能够让新版Edge浏览器的续航明显增加",
@@ -237,10 +241,6 @@
     {
       "name":"宇航员从国际空间站捕捉到罕见明亮彗星Neowise的景象",
       "url":"https://www.cnbeta.com/articles/science/999869.htm"
-    },
-    {
-      "name":"你方唱罢我登台：空调企业招标事件上演二虎斗",
-      "url":"https://www.cnbeta.com/articles/tech/999867.htm"
     }
   ]
 }
