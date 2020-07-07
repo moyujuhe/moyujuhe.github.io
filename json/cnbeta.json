@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 22:24:28",
+  "time":"2020-07-07 22:29:17",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"华为携手统信UOS国产系统：EulerOS开源迈出一大步",
+      "url":"https://www.cnbeta.com/articles/tech/1000295.htm"
     },
     {
       "name":"Moto G 5G Plus现身Geekbench 采用骁龙芯片组和4GB内存",
@@ -237,10 +241,6 @@
     {
       "name":"美研究说羟氯喹可降低新冠死亡率 特朗普：民主党之前还因我贬低它",
       "url":"https://www.cnbeta.com/articles/science/1000177.htm"
-    },
-    {
-      "name":"尼泊尔计划为珠峰南坡大本营提供高速无线上网服务",
-      "url":"https://www.cnbeta.com/articles/tech/1000175.htm"
     }
   ]
 }
