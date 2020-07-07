@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-08 01:06:04",
+  "time":"2020-07-08 01:10:23",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"xMEMS发布全球首款单片式MEMS扬声器",
+      "url":"https://www.cnbeta.com/articles/tech/1000325.htm"
     },
     {
       "name":"罗技推出Mac版MX Keys键盘K380键盘和MX Master 3鼠标。",
@@ -237,10 +241,6 @@
     {
       "name":"Intel加速淘汰14nm处理器 4核6W奔腾/赛扬退役",
       "url":"https://www.cnbeta.com/articles/tech/1000209.htm"
-    },
-    {
-      "name":"Voxan展示Wattman高性能电动摩托 明年7月冲击极速纪录",
-      "url":"https://www.cnbeta.com/articles/tech/1000205.htm"
     }
   ]
 }
