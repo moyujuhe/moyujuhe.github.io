@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 12:47:47",
+  "time":"2020-07-07 12:51:58",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"2020年二季度Dapp市场报告：以太网活跃用户数翻番",
+      "url":"https://www.cnbeta.com/articles/tech/1000093.htm"
     },
     {
       "name":"FKIE发布2020版《家用路由器安全性报告》结果很不乐观",
@@ -237,10 +241,6 @@
     {
       "name":"[图]秉承Google+遗志 谷歌面向G Suite用户推出Currents应用",
       "url":"https://www.cnbeta.com/articles/tech/999977.htm"
-    },
-    {
-      "name":"8BitDo推出Project xCloud专用游戏手柄 附带手机支架",
-      "url":"https://hot.cnbeta.com/articles/game/999975.htm"
     }
   ]
 }
