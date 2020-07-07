@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-08 00:44:30",
+  "time":"2020-07-08 00:48:59",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"来看看Gandi的活动域名的续费价格情况",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713303&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"今晚APPLE在TPIX的BGP Down了半小时了",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713302&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"求七八个tg进群验证bot",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713274&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"gandi战利品统计",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713273&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
