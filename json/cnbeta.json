@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 20:31:22",
+  "time":"2020-07-07 20:35:34",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"国内首架高速卫星互联网飞机成功首航",
+      "url":"https://www.cnbeta.com/articles/tech/1000277.htm"
     },
     {
       "name":"越南恐怖片票房冠军《阴阳眼》曝中字预告",
@@ -237,10 +241,6 @@
     {
       "name":"英伟达GeForce RTX 3070 Ti与RTX 3070显卡规格曝光",
       "url":"https://www.cnbeta.com/articles/tech/1000159.htm"
-    },
-    {
-      "name":"AMD锐龙7 4700G常温超频新纪录曝光 全核4.75GHz",
-      "url":"https://www.cnbeta.com/articles/tech/1000157.htm"
     }
   ]
 }
