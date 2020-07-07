@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-08 02:04:59",
+  "time":"2020-07-08 02:09:05",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"前微软高管佩吉·约翰逊加盟Magic Leap担任CEO",
+      "url":"https://www.cnbeta.com/articles/tech/1000333.htm"
     },
     {
       "name":"一场网络宣传活动利用AI生成的头像制造假记者",
@@ -237,10 +241,6 @@
     {
       "name":"苹果自研PC处理器架构细节曝光：ARM大小核设计、集成NPU",
       "url":"https://www.cnbeta.com/articles/tech/1000217.htm"
-    },
-    {
-      "name":"B站UP主带外国女子违规踩踏丹霞地貌 涉事者回应",
-      "url":"https://www.cnbeta.com/articles/tech/1000215.htm"
     }
   ]
 }
