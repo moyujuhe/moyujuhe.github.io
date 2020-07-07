@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 15:00:46",
+  "time":"2020-07-07 15:04:58",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国交行：中国GDP增速料在2.5%左右",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067159"
+    },
     {
       "name":"贵州载有学生的巴士冲进水库 伤亡情况未知",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067157"
@@ -77,10 +81,6 @@
     {
       "name":"专家：台海军意外翻船凸显登陆演习不切实",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067124"
-    },
-    {
-      "name":"林郑称国安法条文温和 市场反应正面",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067122"
     }
   ]
 }
