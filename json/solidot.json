@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 13:43:30",
+  "time":"2020-07-07 13:47:41",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"TikTok 表示将退出香港",
+      "url":"https://www.solidot.org/story?sid=64868"
+    },
     {
       "name":"美国人用微波尝试给图书馆书籍消毒",
       "url":"https://www.solidot.org/story?sid=64867"
@@ -77,10 +81,6 @@
     {
       "name":"中国被指未及时向 WHO 通报疫情，国家卫健委否认",
       "url":"https://www.solidot.org/story?sid=64849"
-    },
-    {
-      "name":"Android 11 引入多个系统安全加固",
-      "url":"https://www.solidot.org/story?sid=64848"
     }
   ]
 }
