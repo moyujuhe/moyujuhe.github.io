@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 14:30:14",
+  "time":"2020-07-07 14:34:31",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"蓬佩奥称美国考虑禁用TikTok等中国社交媒体应用程序",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067155"
+    },
     {
       "name":"专家谈中国金融体系风险：资本与透明度不足并重",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067154"
@@ -77,10 +81,6 @@
     {
       "name":"北京26天来首次确诊病例零新增",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067110"
-    },
-    {
-      "name":"英官员：允许华为参与5G非牢不可破 22日前公布最新决定",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067109"
     }
   ]
 }
