@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 13:17:43",
+  "time":"2020-07-07 13:21:56",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"有没有法学专业的大佬？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712957&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"哪里可以买到大量长效 IP 代理？看了半天都是动态爬虫用的",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712956&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"准备用azure搭建个网站，安装BT后，只要请求BT面板网站就...",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712928&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"除了一键GHOST还有哪款类似备份系统的软件？",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=712927&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
