@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 18:49:11",
+  "time":"2020-07-07 18:53:36",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"gandi活动网站404了？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713124&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"xiuno跑了，我把买的那些模板插件分享出来是否违反开源精神",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713123&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"花2500买surface pro5还是花5000买surface pro7",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713091&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"出个域名 我爱你",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713090&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
