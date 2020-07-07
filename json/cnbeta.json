@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 15:46:51",
+  "time":"2020-07-07 15:51:04",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"英伟达GeForce RTX 3070 Ti与RTX 3070显卡规格曝光",
+      "url":"https://www.cnbeta.com/articles/tech/1000159.htm"
     },
     {
       "name":"AMD锐龙7 4700G常温超频新纪录曝光 全核4.75GHz",
@@ -237,10 +241,6 @@
     {
       "name":"研究：受疫情冲击 英国近10%高校或面临破产风险",
       "url":"https://www.cnbeta.com/articles/tech/1000045.htm"
-    },
-    {
-      "name":"吴彦祖爆改老爷车获奖：车牌是亮点",
-      "url":"https://www.cnbeta.com/articles/tech/1000043.htm"
     }
   ]
 }
