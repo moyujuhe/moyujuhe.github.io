@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-07 14:25:41",
+  "time":"2020-07-07 14:30:11",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"饿了么加速升级在校生服务 超500家高校食堂可点外卖到宿舍",
+      "url":"https://www.cnbeta.com/articles/tech/1000135.htm"
     },
     {
       "name":"上汽集团上半年成绩公布：大众汽车成最惨 累计销量骤降37%",
@@ -237,10 +241,6 @@
     {
       "name":"优麒麟 20.04 LTS发布：优化高清屏支持 上架6款新应用",
       "url":"https://www.cnbeta.com/articles/soft/1000021.htm"
-    },
-    {
-      "name":"特斯拉要开杂货铺？ 除了卖车还要卖短裤和酒水",
-      "url":"https://www.cnbeta.com/articles/tech/1000019.htm"
     }
   ]
 }
