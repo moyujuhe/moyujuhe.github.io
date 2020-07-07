@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 11:48:26",
+  "time":"2020-07-07 11:52:34",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"香港一所学校有职员亲属确诊 另一所因教师与病患接触而停课一天",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067131"
+    },
     {
       "name":"英智库：若百万港人移居英国将带来700亿经济效益",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067129"
@@ -77,10 +81,6 @@
     {
       "name":"香港国安委今天召开首次会议",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066919"
-    },
-    {
-      "name":"中国外交部：中国就冠病第一时间通报WHO",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066918"
     }
   ]
 }
