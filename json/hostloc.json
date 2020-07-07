@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-08 00:48:59",
+  "time":"2020-07-08 00:53:08",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"gsuite公益版全局 由谁出",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713304&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"来看看Gandi的活动域名的续费价格情况",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713303&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"此时最后悔的一件事就是在硬盘存了一堆nodejs相关项目",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713275&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"求七八个tg进群验证bot",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=713274&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
