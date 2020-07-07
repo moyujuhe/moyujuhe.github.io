@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 19:36:03",
+  "time":"2020-07-07 19:40:31",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"世卫官员：中国鼠疫不属于高风险情况",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067218"
+    },
     {
       "name":"内蒙向外界保证草原旅游是安全的",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067216"
@@ -77,10 +81,6 @@
     {
       "name":"蓬佩奥称美国考虑禁用TikTok等中国社交媒体应用程序",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067155"
-    },
-    {
-      "name":"专家谈中国金融体系风险：资本与透明度不足并重",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067154"
     }
   ]
 }
