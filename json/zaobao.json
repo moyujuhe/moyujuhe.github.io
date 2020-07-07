@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 16:16:17",
+  "time":"2020-07-07 16:20:32",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"视频会议平台Zoom也决定暂停受理港府获取数据请求",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067184"
+    },
     {
       "name":"疫苗玻璃瓶产量跟不上 中国玻璃制造企业已新增2万家",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067183"
@@ -77,10 +81,6 @@
     {
       "name":"朱立伦争党魁？江启臣：绿营见缝插针",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067132"
-    },
-    {
-      "name":"据报TikTok将在数日内退出香港市场",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067134"
     }
   ]
 }
