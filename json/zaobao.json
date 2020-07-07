@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 12:01:00",
+  "time":"2020-07-07 12:05:11",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"朱立伦争党魁？江启臣：绿营见缝插针",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067132"
+    },
     {
       "name":"香港一所学校有职员亲属确诊 另一所因教师与病患接触而停课一天",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067131"
@@ -77,10 +81,6 @@
     {
       "name":"民众再到香港商场示威 港媒：至少三人被警员带走",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066924"
-    },
-    {
-      "name":"香港国安委今天召开首次会议",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066919"
     }
   ]
 }
