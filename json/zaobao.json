@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-07 12:38:52",
+  "time":"2020-07-07 12:43:05",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"强降雨致安徽黄山500年大桥被冲毁",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067138"
+    },
     {
       "name":"台股随美股大涨至30多年盘中新高后被拉回",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067135"
@@ -77,10 +81,6 @@
     {
       "name":"面簿谷歌等暂缓处理港府索取用户资料要求",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067082"
-    },
-    {
-      "name":"因乘客对检测呈阳性 中国民航局暂停首个外航赴华航班",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200706-1066929"
     }
   ]
 }
