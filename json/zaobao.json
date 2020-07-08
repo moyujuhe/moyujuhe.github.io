@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-09 07:49:15",
+  "time":"2020-07-09 07:53:25",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"江西湖南局部地区今天将有特大暴雨",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067661"
+    },
     {
       "name":"蓬佩奥谴责中国领土争端上的“霸凌”行为",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067660"
@@ -77,10 +81,6 @@
     {
       "name":"华为或取代三星登上4至6月手机出货份额首位",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067437"
-    },
-    {
-      "name":"中国首架高速卫星互联网飞机成功首航",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067435"
     }
   ]
 }
