@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-08 10:21:30",
+  "time":"2020-07-08 10:25:41",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"白矮星研究揭示了对宇宙中碳起源的新见解",
+      "url":"https://www.cnbeta.com/articles/science/1000479.htm"
+    },
+    {
+      "name":"抓住难得的彗星观赏机会：C/2020 F3加速冲向地球",
+      "url":"https://www.cnbeta.com/articles/science/1000477.htm"
     },
     {
       "name":"联想发布ThinkVision M14t便携式触控显示器：九月上市 售449美元",
@@ -233,14 +241,6 @@
     {
       "name":"《无限试驾》新作正式公布 开放世界、支持中文",
       "url":"https://hot.cnbeta.com/articles/game/1000361.htm"
-    },
-    {
-      "name":"《广东之路》8月28日登陆全平台 实体版赠送小礼物",
-      "url":"https://hot.cnbeta.com/articles/game/1000359.htm"
-    },
-    {
-      "name":"有证据显示Apple Pay未来可以用二维码进行支付",
-      "url":"https://www.cnbeta.com/articles/tech/1000357.htm"
     }
   ]
 }
