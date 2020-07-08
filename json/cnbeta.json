@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-08 14:27:40",
+  "time":"2020-07-08 14:32:03",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"现代首批10辆Xcient燃料电池卡车将被运往瑞士",
+      "url":"https://www.cnbeta.com/articles/tech/1000627.htm"
+    },
+    {
+      "name":"长租公寓要求业主降租 不同意就解约",
+      "url":"https://www.cnbeta.com/articles/tech/1000625.htm"
     },
     {
       "name":"我国首台500千瓦波浪能发电装置“舟山号”交付",
@@ -233,14 +241,6 @@
     {
       "name":"开发者开源了一款工具，可将 Ubuntu 转变为滚动更新版本",
       "url":"https://www.cnbeta.com/articles/tech/1000511.htm"
-    },
-    {
-      "name":"AppGet作者：WSL是一个神奇之举 Windows 7开源永远不可能",
-      "url":"https://www.cnbeta.com/articles/tech/1000509.htm"
-    },
-    {
-      "name":"三星Galaxy A71 5G UW机型将为Verizon用户普及毫米波体验",
-      "url":"https://www.cnbeta.com/articles/tech/1000507.htm"
     }
   ]
 }
