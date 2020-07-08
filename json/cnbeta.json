@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-08 08:06:20",
+  "time":"2020-07-08 08:10:31",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"Zoom宣布在美国推出硬件订阅服务",
+      "url":"https://www.cnbeta.com/articles/tech/1000403.htm"
     },
     {
       "name":"纯电版Macan呼之欲出 保时捷莱比锡工厂新车间完成外部施工",
@@ -237,10 +241,6 @@
     {
       "name":"三星Galaxy Note 20 Ultra通过FCC认证 确认骁龙865等关键细节",
       "url":"https://www.cnbeta.com/articles/tech/1000287.htm"
-    },
-    {
-      "name":"AMD锐龙3000XT系列加速升级版正式开卖 售价3899元",
-      "url":"https://www.cnbeta.com/articles/tech/1000285.htm"
     }
   ]
 }
