@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-09 02:11:15",
+  "time":"2020-07-09 02:15:31",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"受推出Gryphon付费订阅服务的预期刺激 推特股价劲升9%",
+      "url":"https://www.cnbeta.com/articles/tech/1000837.htm"
     },
     {
       "name":"USB4接口分USB4 40与20俩版本 后者残血半速20Gbps",
@@ -19,7 +23,7 @@
       "url":"https://hot.cnbeta.com/articles/game/1000831.htm"
     },
     {
-      "name":"哈佛和麻省理工学院就国际学生签证新政策起诉特朗普政府",
+      "name":"哈佛大学与麻省理工学院就国际学生签证新政策起诉特朗普政府",
       "url":"https://www.cnbeta.com/articles/tech/1000829.htm"
     },
     {
@@ -237,10 +241,6 @@
     {
       "name":"甘薇被上海法院限制出境 涉及执行金额5.33亿元",
       "url":"https://www.cnbeta.com/articles/tech/1000721.htm"
-    },
-    {
-      "name":"微星联手锐龙3000XT打破3项超频记录：全面突破6.1GHz",
-      "url":"https://www.cnbeta.com/articles/tech/1000719.htm"
     }
   ]
 }
