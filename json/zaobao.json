@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-09 07:10:54",
+  "time":"2020-07-09 07:15:08",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"蓬佩奥谴责中国领土争端上的“霸凌”行为",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067660"
+    },
     {
       "name":"中兴通讯：5G首个演进版本标准正式完成",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067436"
@@ -77,10 +81,6 @@
     {
       "name":"中国首架高速卫星互联网飞机成功首航",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067435"
-    },
-    {
-      "name":"贵州铜仁发生山体滑坡 已有七人失联六人被困",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067438"
     }
   ]
 }
