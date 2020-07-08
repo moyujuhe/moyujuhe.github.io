@@ -1,7 +1,27 @@
 {
-  "time":"2020-07-08 11:38:20",
+  "time":"2020-07-08 11:42:43",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"埃塞俄比亚断网一周",
+      "url":"https://www.solidot.org/story?sid=64880"
+    },
+    {
+      "name":"北京要求新公租房建人脸识别系统",
+      "url":"https://www.solidot.org/story?sid=64879"
+    },
+    {
+      "name":"外交部回应主要社交媒体暂停向香港政府提供用户数据",
+      "url":"https://www.solidot.org/story?sid=64878"
+    },
+    {
+      "name":"MSI CEO 坠楼身亡",
+      "url":"https://www.solidot.org/story?sid=64877"
+    },
+    {
+      "name":"新 H.266 VCC 编解码器效率比上一代提升 50%",
+      "url":"https://www.solidot.org/story?sid=64876"
+    },
     {
       "name":"LinkedIn、Reddit 和 Google News 等都被发现监视用户剪贴板",
       "url":"https://www.solidot.org/story?sid=64875"
@@ -61,26 +81,6 @@
     {
       "name":"中国的黑客行动杀死了北电？",
       "url":"https://www.solidot.org/story?sid=64861"
-    },
-    {
-      "name":"金星轨道内发现的第一颗小行星可能提供失踪地幔小行星线索",
-      "url":"https://www.solidot.org/story?sid=64860"
-    },
-    {
-      "name":"京都大学利用富岳搜寻新冠治疗药物",
-      "url":"https://www.solidot.org/story?sid=64859"
-    },
-    {
-      "name":"印度解除了对 DuckDuckGo 的屏蔽",
-      "url":"https://www.solidot.org/story?sid=64858"
-    },
-    {
-      "name":"印度的封禁行动和网络主权",
-      "url":"https://www.solidot.org/story?sid=64857"
-    },
-    {
-      "name":"入侵 6000 账号的前雅虎工程师被判缓刑",
-      "url":"https://www.solidot.org/story?sid=64856"
     }
   ]
 }
