@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-08 14:22:22",
+  "time":"2020-07-08 14:27:40",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"我国首台500千瓦波浪能发电装置“舟山号”交付",
+      "url":"https://www.cnbeta.com/articles/tech/1000623.htm"
     },
     {
       "name":"新型纳米纤维具有兼顾防弹+隔热的超强性质",
@@ -237,10 +241,6 @@
     {
       "name":"三星Galaxy A71 5G UW机型将为Verizon用户普及毫米波体验",
       "url":"https://www.cnbeta.com/articles/tech/1000507.htm"
-    },
-    {
-      "name":"iPhone 12系列保护壳曝光：外观设计复刻苹果4",
-      "url":"https://www.cnbeta.com/articles/tech/1000505.htm"
     }
   ]
 }
