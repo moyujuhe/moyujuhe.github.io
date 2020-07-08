@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-08 08:23:03",
+  "time":"2020-07-08 08:27:17",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"ARM计划将物联网业务分拆到软银旗下 继续专注于核心芯片设计业务",
+      "url":"https://www.cnbeta.com/articles/tech/1000405.htm"
     },
     {
       "name":"Zoom宣布在美国推出硬件订阅服务",
@@ -237,10 +241,6 @@
     {
       "name":"训练时间有望缩短至几分钟 台积电或将生产Cerebras“超级AI芯片”",
       "url":"https://www.cnbeta.com/articles/tech/1000289.htm"
-    },
-    {
-      "name":"三星Galaxy Note 20 Ultra通过FCC认证 确认骁龙865等关键细节",
-      "url":"https://www.cnbeta.com/articles/tech/1000287.htm"
     }
   ]
 }
