@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-08 17:34:09",
+  "time":"2020-07-08 17:38:51",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"新浪微博实行外链白名单",
+      "url":"https://www.solidot.org/story?sid=64886"
+    },
     {
       "name":"美国政府正式开始退出 WHO",
       "url":"https://www.solidot.org/story?sid=64885"
@@ -77,10 +81,6 @@
     {
       "name":"美国人用微波尝试给图书馆书籍消毒",
       "url":"https://www.solidot.org/story?sid=64867"
-    },
-    {
-      "name":"遥感数据显示中国湖泊整体变清",
-      "url":"https://www.solidot.org/story?sid=64866"
     }
   ]
 }
