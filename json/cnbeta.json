@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-08 15:41:23",
+  "time":"2020-07-08 15:45:37",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"当当：李国庆社保已于去年10月停缴 劳动关系亦解除",
+      "url":"https://www.cnbeta.com/articles/tech/1000671.htm"
+    },
+    {
+      "name":"动画剧《日本沉没》新预告 逆境中用RAP发出呐喊",
+      "url":"https://hot.cnbeta.com/articles/comic/1000669.htm"
     },
     {
       "name":"科学家利用特制纳米颗粒视网膜帮助失明老鼠恢复视力",
@@ -233,14 +241,6 @@
     {
       "name":"“山东小米金融”上诉被驳回 一审判赔小米30万并停用现企业名称",
       "url":"https://www.cnbeta.com/articles/tech/1000555.htm"
-    },
-    {
-      "name":"谷歌AI部门主管谈AI领域问题：包容度不够",
-      "url":"https://www.cnbeta.com/articles/tech/1000553.htm"
-    },
-    {
-      "name":"[图]PowerToys 0.19.1发布：修复内存泄漏在内的六个问题",
-      "url":"https://www.cnbeta.com/articles/tech/1000551.htm"
     }
   ]
 }
