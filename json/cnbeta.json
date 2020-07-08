@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-09 01:01:30",
+  "time":"2020-07-09 01:05:44",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"招聘信息显示推特正在开发新的订阅平台",
+      "url":"https://www.cnbeta.com/articles/tech/1000825.htm"
     },
     {
       "name":"谷歌Chrome 浏览器出现 Status_Access_Violation 错误而崩溃",
@@ -237,10 +241,6 @@
     {
       "name":"[图]微软推出Project Freta服务 可在系统内存快照中查找恶意软件",
       "url":"https://www.cnbeta.com/articles/tech/1000709.htm"
-    },
-    {
-      "name":"放弃骁龙875？三星或为Galaxy S21全系配备Exynos 1000芯片组",
-      "url":"https://www.cnbeta.com/articles/tech/1000707.htm"
     }
   ]
 }
