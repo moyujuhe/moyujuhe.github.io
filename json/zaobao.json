@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-08 08:39:58",
+  "time":"2020-07-08 08:44:08",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国今年高考报名人数创新高 达1071万",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067402"
+    },
     {
       "name":"驻港国安公署今早开幕 林郑、骆惠宁等出席",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067401"
@@ -77,10 +81,6 @@
     {
       "name":"蔡英文：若香港国安法对台造成伤害 台湾会考虑反制措施",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067185"
-    },
-    {
-      "name":"视频会议平台Zoom也决定暂停受理港府获取数据请求",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067184"
     }
   ]
 }
