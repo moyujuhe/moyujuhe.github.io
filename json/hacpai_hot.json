@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-07-08 11:17:22",
+  "time":"2020-07-08 11:21:33",
   "data":[
     {
       "name":"20200703 TGIF",
@@ -67,6 +67,10 @@
       "url":"https://hacpai.com/article/1593309661571"
     },
     {
+      "name":"Solo 可以部署在 K8S 上面么？",
+      "url":"https://hacpai.com/article/1592023518233"
+    },
+    {
       "name":"solo 怎么才能跑起来？",
       "url":"https://hacpai.com/article/1591611215614"
     },
@@ -89,10 +93,6 @@
     {
       "name":"求科普：ssrf 和 Reverse proxy misrouting 的区别",
       "url":"https://hacpai.com/article/1592313039720"
-    },
-    {
-      "name":"Solo 可以部署在 K8S 上面么？",
-      "url":"https://hacpai.com/article/1592023518233"
     },
     {
       "name":"把你们觉得有深度有趣有思想的书丢过来吧",
