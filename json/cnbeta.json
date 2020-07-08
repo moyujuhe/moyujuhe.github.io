@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-08 23:00:20",
+  "time":"2020-07-08 23:05:25",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"高通发布骁龙865 Plus 5G平台 频率突破3GHz 性能提升10%",
       "url":"https://www.cnbeta.com/articles/tech/1000781.htm"
+    },
+    {
+      "name":"李国庆喊话俞渝：意图陷我于囹圄 你良心安否？",
+      "url":"https://www.cnbeta.com/articles/tech/1000797.htm"
+    },
+    {
+      "name":"LGBTQ社区蓝城兄弟上市：希望更多人有勇气面对自己",
+      "url":"https://www.cnbeta.com/articles/tech/1000795.htm"
     },
     {
       "name":"SuSE 已就收购 Rancher 事宜正式达成最终协议",
@@ -233,14 +241,6 @@
     {
       "name":"Android 11用户现可在Gboard 9.6 beta版上访问Emoji 13.0",
       "url":"https://www.cnbeta.com/articles/tech/1000679.htm"
-    },
-    {
-      "name":"2020年长江第1号洪水安然通过三峡大坝",
-      "url":"https://www.cnbeta.com/articles/tech/1000677.htm"
-    },
-    {
-      "name":"微博：采用外链白名单机制 对政府、新闻、认证企业等以外网址均不再支持跳转",
-      "url":"https://www.cnbeta.com/articles/tech/1000675.htm"
     }
   ]
 }
