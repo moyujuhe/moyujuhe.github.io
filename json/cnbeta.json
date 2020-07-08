@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-08 10:00:23",
+  "time":"2020-07-08 10:04:37",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"索尼最早有望于下周公布PS5的发售价格和预购日期等详情",
+      "url":"https://hot.cnbeta.com/articles/game/1000469.htm"
     },
     {
       "name":"NASA的洞察号探测器铲子变通方法为“鼹鼠”的成功带来希望",
@@ -237,10 +241,6 @@
     {
       "name":"iOS 14第二个测试版发布：提升系统流畅性 减少Bug",
       "url":"https://www.cnbeta.com/articles/tech/1000351.htm"
-    },
-    {
-      "name":"5G 关键时刻 谁能“弯道”赶超华为？",
-      "url":"https://www.cnbeta.com/articles/tech/1000349.htm"
     }
   ]
 }
