@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-08 08:56:53",
+  "time":"2020-07-08 09:01:05",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"耿爽履新中国常驻联合国副代表",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067406"
+    },
+    {
+      "name":"美国对涉及西藏政策的中国官员实施签证限制",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067408"
+    },
     {
       "name":"中国今年高考报名人数创新高 达1071万",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067402"
@@ -73,14 +81,6 @@
     {
       "name":"据报德国电讯加强与华为的合作",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067197"
-    },
-    {
-      "name":"高盛料中国A股未来一至三个月上行空间可达15%",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067188"
-    },
-    {
-      "name":"蔡英文：若香港国安法对台造成伤害 台湾会考虑反制措施",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067185"
     }
   ]
 }
