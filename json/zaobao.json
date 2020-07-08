@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-08 10:17:23",
+  "time":"2020-07-08 10:21:33",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"华为警告巴西：若屈于美国压力将延迟5G部署",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067413"
+    },
+    {
+      "name":"贵州公交车坠湖事件已有五名学生遇难",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067419"
+    },
     {
       "name":"特朗普顾问正考虑削弱香港挂钩汇率制度",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067411"
@@ -73,14 +81,6 @@
     {
       "name":"香港新增14宗确诊 五宗未找到源头",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067196"
-    },
-    {
-      "name":"海底捞上半年收入料降两成 恢复仍不确定",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067194"
-    },
-    {
-      "name":"知情人士：中美经贸磋商代表团计划8月中进行电话交谈",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067192"
     }
   ]
 }
