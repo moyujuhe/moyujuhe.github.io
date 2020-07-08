@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-08 13:39:12",
+  "time":"2020-07-08 13:43:27",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"华为或取代三星登上4至6月手机出货份额首位",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067437"
+    },
     {
       "name":"中国首架高速卫星互联网飞机成功首航",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067435"
@@ -77,10 +81,6 @@
     {
       "name":"港多间学校因有学生或密切接触者确诊停课",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067382"
-    },
-    {
-      "name":"海航旗下美国子公司获美国政府冠病救助贷款",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200707-1067229"
     }
   ]
 }
