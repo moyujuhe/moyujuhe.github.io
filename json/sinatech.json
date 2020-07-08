@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-08 10:27:03",
+  "time":"2020-07-08 10:31:09",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"量子纠缠真的很怪异吗？",
+      "url":"https://tech.sina.com.cn/d/i/2020-07-08/doc-iirczymm1158316.shtml"
+    },
+    {
+      "name":"李国庆被警车带离警局 俞渝呼吁员工保卫当当",
+      "url":"https://tech.sina.com.cn/i/2020-07-08/doc-iircuyvk2634496.shtml"
+    },
     {
       "name":"我们终于知道，蛇是怎么“飞行”的了",
       "url":"https://tech.sina.com.cn/d/a/2020-07-08/doc-iircuyvk2633391.shtml"
@@ -119,6 +127,10 @@
       "url":"http://tech.sina.com.cn/csj/2020-07-08/doc-iirczymm1132093.shtml"
     },
     {
+      "name":"商场开业影院仍被禁止复工，美国6家连锁院线起诉新泽西州州长",
+      "url":"https://tech.sina.com.cn/roll/2020-07-08/doc-iircuyvk2608096.shtml"
+    },
+    {
       "name":"瑞幸退市后的三种命运",
       "url":"http://tech.sina.com.cn/csj/2020-07-08/doc-iircuyvk2607242.shtml"
     },
@@ -145,6 +157,10 @@
     {
       "name":"工人日报刊评：李子柒怎么就带偏了价值观？",
       "url":"https://tech.sina.com.cn/i/2020-07-08/doc-iirczymm1128261.shtml"
+    },
+    {
+      "name":"高盛：阿里巴巴目标价276港元 维持确信买入评级",
+      "url":"https://tech.sina.com.cn/i/2020-07-08/doc-iircuyvk2635887.shtml"
     },
     {
       "name":"英特尔梁雅莉:AI、5G、智能边缘交织将带来新拐点|5G大家谈",
@@ -185,22 +201,6 @@
     {
       "name":"抢章后撬保险柜，李国庆誓还当当辉煌但宫斗戏几时休",
       "url":"https://tech.sina.com.cn/i/2020-07-08/doc-iircuyvk2598797.shtml"
-    },
-    {
-      "name":"iPhone 12包装盒渲染图曝光：没有耳机和电源的位置",
-      "url":"https://tech.sina.com.cn/mobile/n/n/2020-07-08/doc-iirczymm1121873.shtml"
-    },
-    {
-      "name":"一部iPhone便宜2000，代购杀向海南岛？海关总署出手",
-      "url":"https://tech.sina.com.cn/i/2020-07-08/doc-iircuyvk2598114.shtml"
-    },
-    {
-      "name":"沃尔玛挑战亚马逊：将于7月推出Walmart+会员计划",
-      "url":"https://tech.sina.com.cn/i/2020-07-08/doc-iirczymm1121382.shtml"
-    },
-    {
-      "name":"Zoom推出硬件订阅服务 价格每月75美元至200美元",
-      "url":"https://tech.sina.com.cn/i/2020-07-08/doc-iircuyvk2597821.shtml"
     }
   ]
 }
