@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-08 15:58:38",
+  "time":"2020-07-08 16:02:57",
   "title":"cnBeta",
   "data":[
     {
@@ -7,11 +7,15 @@
       "url":"http://click.aliyun.com/m/1000148583/"
     },
     {
+      "name":"Android 11用户现可在Gboard 9.6 beta版上访问Emoji 13.0",
+      "url":"https://www.cnbeta.com/articles/tech/1000679.htm"
+    },
+    {
       "name":"2020年长江第1号洪水安然通过三峡大坝",
       "url":"https://www.cnbeta.com/articles/tech/1000677.htm"
     },
     {
-      "name":"微博：采用外链白名单机制，对政府、新闻、认证企业等以外网址均不再支持跳转",
+      "name":"微博：采用外链白名单机制 对政府、新闻、认证企业等以外网址均不再支持跳转",
       "url":"https://www.cnbeta.com/articles/tech/1000675.htm"
     },
     {
@@ -237,10 +241,6 @@
     {
       "name":"[图]Windows 10新Alt+Tab体验：可切换应用窗口和Edge标签页",
       "url":"https://www.cnbeta.com/articles/tech/1000563.htm"
-    },
-    {
-      "name":"科学家打造分形空隙立方体  可被用于制造更好的减震装甲",
-      "url":"https://www.cnbeta.com/articles/science/1000561.htm"
     }
   ]
 }
