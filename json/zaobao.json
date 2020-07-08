@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-08 18:39:22",
+  "time":"2020-07-08 18:43:52",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国上半年地方债发行规模大增且利率下降",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067483"
+    },
     {
       "name":"港府建议7月后入职公务员须签文件拥护《基本法》",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067486"
@@ -77,10 +81,6 @@
     {
       "name":"港府将启动会议展览业资助计划",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067426"
-    },
-    {
-      "name":"美高级卫生官员称中国应提供冠病关键讯息",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200708-1067412"
     }
   ]
 }
