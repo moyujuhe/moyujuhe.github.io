@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-08 09:56:09",
+  "time":"2020-07-08 10:00:23",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"NASA的洞察号探测器铲子变通方法为“鼹鼠”的成功带来希望",
+      "url":"https://www.cnbeta.com/articles/science/1000467.htm"
     },
     {
       "name":"自动驾驶警卫船AGV或能接手离岸设施保护工作",
@@ -237,10 +241,6 @@
     {
       "name":"5G 关键时刻 谁能“弯道”赶超华为？",
       "url":"https://www.cnbeta.com/articles/tech/1000349.htm"
-    },
-    {
-      "name":"Uber CEO：收购Postmates后 公司将于明年盈利",
-      "url":"https://www.cnbeta.com/articles/tech/1000347.htm"
     }
   ]
 }
