@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-08 21:45:36",
+  "time":"2020-07-08 21:50:29",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"高通发布骁龙865 Plus 5G平台 频率突破3GHz 性能提升10%",
+      "url":"https://www.cnbeta.com/articles/tech/1000781.htm"
+    },
+    {
+      "name":"传三星效仿苹果 部分智能手机包装不带充电器",
+      "url":"https://www.cnbeta.com/articles/tech/1000779.htm"
     },
     {
       "name":"世界首个开源PDK 谷歌做到了",
@@ -233,14 +241,6 @@
     {
       "name":"安以轩身怀六甲点麦当劳外卖被烫伤：麦当劳官方回应",
       "url":"https://www.cnbeta.com/articles/tech/1000663.htm"
-    },
-    {
-      "name":"政府补贴+偶像带货，韩国掀起特斯拉热潮",
-      "url":"https://www.cnbeta.com/articles/tech/1000661.htm"
-    },
-    {
-      "name":"Synergy：全球超大规模数据中心升至541个，176个在建",
-      "url":"https://www.cnbeta.com/articles/tech/1000659.htm"
     }
   ]
 }
