@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-08 19:26:28",
+  "time":"2020-07-08 19:30:53",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"Facebook独立审计曝光：打击歧视不力 部分决定是民权上的倒退",
+      "url":"https://www.cnbeta.com/articles/tech/1000733.htm"
+    },
+    {
+      "name":"《钢铁飞龙之再见奥特曼》侵权案一审判决 圆谷公司胜诉",
+      "url":"https://hot.cnbeta.com/articles/comic/1000731.htm"
     },
     {
       "name":"伯克希尔哈撒韦：巴菲特希望去世后将股票捐赠慈善组织",
@@ -23,7 +31,7 @@
       "url":"https://www.cnbeta.com/articles/tech/1000723.htm"
     },
     {
-      "name":"甘薇被法院限制出境 涉及执行金额5.3亿元",
+      "name":"甘薇被上海法院限制出境 涉及执行金额5.33亿元",
       "url":"https://www.cnbeta.com/articles/tech/1000721.htm"
     },
     {
@@ -233,14 +241,6 @@
     {
       "name":"谷歌开始在Android用户中测试Google Maps交通信号灯功能",
       "url":"https://www.cnbeta.com/articles/tech/1000615.htm"
-    },
-    {
-      "name":"[图]微软宣布收购Orions Systems公司：拓展Dynamics 365业务能力",
-      "url":"https://www.cnbeta.com/articles/tech/1000613.htm"
-    },
-    {
-      "name":"城市噪音环境下蝙蝠吃得更多，体重也增加了",
-      "url":"https://www.cnbeta.com/articles/science/1000611.htm"
     }
   ]
 }
