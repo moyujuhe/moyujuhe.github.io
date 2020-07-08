@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-08 11:34:09",
+  "time":"2020-07-08 11:38:20",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"[图]PowerToys 0.19.1发布：修复内存泄漏在内的六个问题",
+      "url":"https://www.cnbeta.com/articles/tech/1000551.htm"
+    },
+    {
+      "name":"吉祥航空推“无限升舱卡”：不到千元 国内不限次数升舱",
+      "url":"https://www.cnbeta.com/articles/tech/1000549.htm"
     },
     {
       "name":"角逐5G焦点：诺基亚正为其电信设备添加OpenRAN开放式接口",
@@ -233,14 +241,6 @@
     {
       "name":"外媒调查发现：达美航空可能是新冠大流行期间最安全的美航司",
       "url":"https://www.cnbeta.com/articles/tech/1000435.htm"
-    },
-    {
-      "name":"微软宣布将拦截新冠疫情相关欺诈信息 已获美法院批准",
-      "url":"https://www.cnbeta.com/articles/tech/1000433.htm"
-    },
-    {
-      "name":"三星官宣Galaxy新旗舰发布会8月5日举办：Note20系列敬请期待",
-      "url":"https://www.cnbeta.com/articles/tech/1000431.htm"
     }
   ]
 }
