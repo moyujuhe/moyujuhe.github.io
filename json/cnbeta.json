@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-08 15:32:43",
+  "time":"2020-07-08 15:36:58",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"科学家利用特制纳米颗粒视网膜帮助失明老鼠恢复视力",
+      "url":"https://www.cnbeta.com/articles/science/1000667.htm"
+    },
+    {
+      "name":"科学家发现氮化硼催化剂能摧毁有毒的“永久化学品”PFAS",
+      "url":"https://www.cnbeta.com/articles/science/1000665.htm"
     },
     {
       "name":"安以轩身怀六甲点麦当劳外卖被烫伤：麦当劳官方回应",
@@ -233,14 +241,6 @@
     {
       "name":"[图]PowerToys 0.19.1发布：修复内存泄漏在内的六个问题",
       "url":"https://www.cnbeta.com/articles/tech/1000551.htm"
-    },
-    {
-      "name":"吉祥航空推“无限升舱卡”：不到千元 国内不限次数升舱",
-      "url":"https://www.cnbeta.com/articles/tech/1000549.htm"
-    },
-    {
-      "name":"角逐5G焦点：诺基亚正为其电信设备添加OpenRAN开放式接口",
-      "url":"https://www.cnbeta.com/articles/tech/1000547.htm"
     }
   ]
 }
