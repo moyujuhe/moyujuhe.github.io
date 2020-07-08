@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-08 08:31:28",
+  "time":"2020-07-08 08:35:39",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"Facebook整合WhatsApp/Messenger/Instagram消息服务的进度加快",
+      "url":"https://www.cnbeta.com/articles/tech/1000415.htm"
     },
     {
       "name":"Binance完成对Swipe收购：将推动加密借记卡计划展开",
@@ -237,10 +241,6 @@
     {
       "name":"智能包裹问世 内建电子墨水标签传感器摄像头扬声器和麦克风",
       "url":"https://www.cnbeta.com/articles/tech/1000299.htm"
-    },
-    {
-      "name":"苹果获得新折叠屏iPhone专利：采用非对称折叠",
-      "url":"https://www.cnbeta.com/articles/tech/1000297.htm"
     }
   ]
 }
