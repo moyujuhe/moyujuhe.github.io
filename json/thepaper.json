@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-10 01:58:16",
+  "time":"2020-07-10 02:02:30",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"约翰斯·霍普金斯大学：全球新冠死亡病例超过55万例",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8198862"
+    },
     {
       "name":"阿联酋沙迦副酋长去世",
       "url":"https://www.thepaper.cn/newsDetail_forward_8198857"
@@ -77,10 +81,6 @@
     {
       "name":"33年前杀害女友潜逃终落网，上海警方半年破命案积案22起",
       "url":"https://www.thepaper.cn/newsDetail_forward_8198533"
-    },
-    {
-      "name":"韩国首尔市长失联：警方第一轮搜索未发现朴元淳",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8198611"
     }
   ]
 }
