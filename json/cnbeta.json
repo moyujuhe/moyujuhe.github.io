@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-09 09:18:25",
+  "time":"2020-07-09 09:22:40",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"[图]苹果启动返校季促销：购买指定款免费赠送AirPods",
       "url":"https://apple.pvxt.net/41eYG"
+    },
+    {
+      "name":"[图]微软新提案：修复Chrome在Windows 10上的通知行为",
+      "url":"https://www.cnbeta.com/articles/tech/1000939.htm"
     },
     {
       "name":"英伟达RTX 3000系列Ampere旗舰GPU或具有627mm²的芯片尺寸",
@@ -237,10 +241,6 @@
     {
       "name":"Google Chrome浏览器意外出现Status_Access_Violation错误而崩溃",
       "url":"https://www.cnbeta.com/articles/tech/1000823.htm"
-    },
-    {
-      "name":"Garmin发布一系列智能手表新产品 添加太阳能充电功能",
-      "url":"https://www.cnbeta.com/articles/tech/1000821.htm"
     }
   ]
 }
