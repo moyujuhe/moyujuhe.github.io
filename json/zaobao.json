@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-09 16:11:14",
+  "time":"2020-07-09 16:15:30",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"TikTok推出自助广告平台 但因美政府压力前途未卜",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067700"
+    },
     {
       "name":"中国大陆昨日新增确诊病例九例 无北京确诊者",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067750"
@@ -77,10 +81,6 @@
     {
       "name":"中国人权机构批美国残酷对待移民",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067702"
-    },
-    {
-      "name":"消息：美官员考虑削弱香港联系汇率制的提议未被推进",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067689"
     }
   ]
 }
