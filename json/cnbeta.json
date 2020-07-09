@@ -1,10 +1,18 @@
 {
-  "time":"2020-07-09 21:53:34",
+  "time":"2020-07-09 21:57:56",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"世界罕见的红豆山“毒气”隧道终于挖通了",
+      "url":"https://www.cnbeta.com/articles/tech/1001319.htm"
+    },
+    {
+      "name":"木马程序借助游戏下载站再次传播 可云控投放恶意模块",
+      "url":"https://www.cnbeta.com/articles/tech/1001317.htm"
     },
     {
       "name":"传联发科高频毫米波5G芯片推迟量产",
@@ -233,14 +241,6 @@
     {
       "name":"Android 11新功能Auto-Connect：无需再为自动连接Wi-Fi烦恼",
       "url":"https://www.cnbeta.com/articles/tech/1001201.htm"
-    },
-    {
-      "name":"Uplay+试玩上线 7月27日前可免费体验百余款育碧游戏",
-      "url":"https://hot.cnbeta.com/articles/game/1001199.htm"
-    },
-    {
-      "name":"魅族超充GaN充电器明日开售：三口均可达到65W",
-      "url":"https://www.cnbeta.com/articles/tech/1001197.htm"
     }
   ]
 }
