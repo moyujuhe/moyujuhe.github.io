@@ -1,10 +1,22 @@
 {
-  "time":"2020-07-09 21:44:24",
+  "time":"2020-07-09 21:49:02",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"传联发科高频毫米波5G芯片推迟量产",
+      "url":"https://www.cnbeta.com/articles/tech/1001315.htm"
+    },
+    {
+      "name":"苹果在32国招募独立维修供应商 用官方配件维修",
+      "url":"https://www.cnbeta.com/articles/tech/1001313.htm"
+    },
+    {
+      "name":"富士康的财务状况正开始从冠状病毒大流行中恢复",
+      "url":"https://www.cnbeta.com/articles/tech/1001311.htm"
     },
     {
       "name":"佳能发布EOS R5全画幅专微相机：首发8K录制 售价25999元",
@@ -229,18 +241,6 @@
     {
       "name":"魅族超充GaN充电器明日开售：三口均可达到65W",
       "url":"https://www.cnbeta.com/articles/tech/1001197.htm"
-    },
-    {
-      "name":"加速撞向渣土车、FSD疑似减配 特斯拉Model 3车主维权有多难？",
-      "url":"https://www.cnbeta.com/articles/tech/1001195.htm"
-    },
-    {
-      "name":"Google放弃在部分敏感国家提供云服务的“Isolated Region”计划",
-      "url":"https://www.cnbeta.com/articles/tech/1001193.htm"
-    },
-    {
-      "name":"让分享菜单变更简洁：Android 11 Beta 2将应用的多个分享选项合并",
-      "url":"https://www.cnbeta.com/articles/tech/1001191.htm"
     }
   ]
 }
