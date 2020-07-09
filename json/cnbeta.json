@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 03:05:22",
+  "time":"2020-07-10 03:09:31",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"苹果推出新的教育课程 让每个人都可以用Swift进行编程开发",
+      "url":"https://www.cnbeta.com/articles/tech/1001379.htm"
     },
     {
       "name":"警方正在购买对黑客窃取数据的访问权 希望能产生调查线索",
@@ -237,10 +241,6 @@
     {
       "name":"《对马岛之鬼》创意总监谈黑白模式：更具电影艺术性",
       "url":"https://hot.cnbeta.com/articles/game/1001265.htm"
-    },
-    {
-      "name":"福布斯2020年韩国富豪榜：三星李健熙居首",
-      "url":"https://www.cnbeta.com/articles/tech/1001263.htm"
     }
   ]
 }
