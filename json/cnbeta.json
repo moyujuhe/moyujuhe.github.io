@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 03:09:31",
+  "time":"2020-07-10 03:13:45",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"科学家发现体型庞大的灭绝海豚 是一种具有鲸鱼特征的顶级掠食者",
+      "url":"https://www.cnbeta.com/articles/science/1001381.htm"
     },
     {
       "name":"苹果推出新的教育课程 让每个人都可以用Swift进行编程开发",
@@ -237,10 +241,6 @@
     {
       "name":"2019届中国本科毕业生平均月收入5440元 你达标没？",
       "url":"https://www.cnbeta.com/articles/tech/1001267.htm"
-    },
-    {
-      "name":"《对马岛之鬼》创意总监谈黑白模式：更具电影艺术性",
-      "url":"https://hot.cnbeta.com/articles/game/1001265.htm"
     }
   ]
 }
