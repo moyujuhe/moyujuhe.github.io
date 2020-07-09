@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-09 19:00:19",
+  "time":"2020-07-09 19:04:36",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"英国大学为中国学生设立不含敏感内容的远程教学系统",
+      "url":"https://www.solidot.org/story?sid=64898"
+    },
     {
       "name":"Google 发起 Open Usage Commons，IBM 对商标转让有异议",
       "url":"https://www.solidot.org/story?sid=64897"
@@ -77,10 +81,6 @@
     {
       "name":"MSI CEO 坠楼身亡",
       "url":"https://www.solidot.org/story?sid=64877"
-    },
-    {
-      "name":"新 H.266 VCC 编解码器效率比上一代提升 50%",
-      "url":"https://www.solidot.org/story?sid=64876"
     }
   ]
 }
