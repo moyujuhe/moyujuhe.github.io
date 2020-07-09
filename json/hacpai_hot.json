@@ -1,6 +1,6 @@
 {
   "title":"黑客派-热议",
-  "time":"2020-07-09 21:27:05",
+  "time":"2020-07-09 21:31:21",
   "data":[
     {
       "name":"20200703 TGIF",
@@ -89,10 +89,6 @@
     {
       "name":"求科普：ssrf 和 Reverse proxy misrouting 的区别",
       "url":"https://hacpai.com/article/1592313039720"
-    },
-    {
-      "name":"把你们觉得有深度有趣有思想的书丢过来吧",
-      "url":"https://hacpai.com/article/1591710126767"
     },
     {
       "name":"野生客户端 V1.3 欢迎大家来玩聊天室和好友圈",
@@ -241,6 +237,10 @@
     {
       "name":"solo 头像问题求解",
       "url":"https://hacpai.com/article/1591778875045"
+    },
+    {
+      "name":"Github Daily - Taro 实战网易云音乐项目",
+      "url":"https://hacpai.com/article/1594150220338"
     }
   ]
 }

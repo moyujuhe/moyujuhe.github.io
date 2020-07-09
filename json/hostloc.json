@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-09 21:27:12",
+  "time":"2020-07-09 21:31:24",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"问一下你们套了cf以后大概能跑多少？",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=714209&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"腾讯云服务器什么时候有活动，想入手一台",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=714208&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -105,10 +109,6 @@
     {
       "name":"套路国际开了T5怎么是轻量的IP",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=714182&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"独服高峰期下载测速。MJJ来测速了。",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=714181&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
