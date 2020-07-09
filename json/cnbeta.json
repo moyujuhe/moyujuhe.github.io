@@ -1,10 +1,14 @@
 {
-  "time":"2020-07-09 20:08:41",
+  "time":"2020-07-09 20:12:53",
   "title":"cnBeta",
   "data":[
     {
       "name":"阿里云新用户福利专场 云服务器ECS低至102元/年",
       "url":"http://click.aliyun.com/m/1000148583/"
+    },
+    {
+      "name":"大数据绘出中国股民画像：43.6%在用华为手机",
+      "url":"https://www.cnbeta.com/articles/tech/1001287.htm"
     },
     {
       "name":"喜剧电影《温暖的抱抱》预告片发布 常远沈腾主演",
@@ -237,10 +241,6 @@
     {
       "name":"macOS版Fujifilm X Webcam工具上线：让X系列无反相机当网络摄像头",
       "url":"https://www.cnbeta.com/articles/tech/1001169.htm"
-    },
-    {
-      "name":"专为大型企业网络打造：谷歌发布开源漏洞扫描仪“海啸”",
-      "url":"https://www.cnbeta.com/articles/tech/1001167.htm"
     }
   ]
 }
