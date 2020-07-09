@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-09 14:57:02",
+  "time":"2020-07-09 15:01:23",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"民调：66%受访港民支持国安法",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067727"
+    },
+    {
+      "name":"中国6月居民消费价格同比上涨2.5%",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067728"
+    },
     {
       "name":"中国武术协会倡议习武者不得自封大师等称号",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067720"
@@ -73,14 +81,6 @@
     {
       "name":"中俄领导人通话 俄方在香港问题上支持中国",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067688"
-    },
-    {
-      "name":"华为高管：美国制裁未立即影响其向英国供应5G设备",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067686"
-    },
-    {
-      "name":"河南考试撕毁他人答题卡 被取消全科成绩",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067684"
     }
   ]
 }
