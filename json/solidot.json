@@ -1,7 +1,19 @@
 {
-  "time":"2020-07-09 15:18:53",
+  "time":"2020-07-09 15:23:12",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Google 和 Canonical 合作将 Flutter Apps 带到 Linux",
+      "url":"https://www.solidot.org/story?sid=64895"
+    },
+    {
+      "name":"Google 放弃在政治敏感国家提供云服务",
+      "url":"https://www.solidot.org/story?sid=64894"
+    },
+    {
+      "name":"Tor 规避审查团队发布六月份的月度报告",
+      "url":"https://www.solidot.org/story?sid=64893"
+    },
     {
       "name":"哈佛 MIT 起诉美国政府",
       "url":"https://www.solidot.org/story?sid=64891"
@@ -69,18 +81,6 @@
     {
       "name":"LinkedIn、Reddit 和 Google News 等都被发现监视用户剪贴板",
       "url":"https://www.solidot.org/story?sid=64875"
-    },
-    {
-      "name":"美国移民局要求只上网课的国际学生必须离开",
-      "url":"https://www.solidot.org/story?sid=64874"
-    },
-    {
-      "name":"Google、Facebook 和 Twitter 暂停香港的政府数据请求",
-      "url":"https://www.solidot.org/story?sid=64873"
-    },
-    {
-      "name":"哈佛秋季学期将采用网络授课，在校学生需接受新冠测试",
-      "url":"https://www.solidot.org/story?sid=64872"
     }
   ]
 }
