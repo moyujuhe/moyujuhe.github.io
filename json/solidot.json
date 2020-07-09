@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-09 18:43:23",
+  "time":"2020-07-09 18:47:37",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"Google 发起 Open Usage Commons，IBM 对商标转让有异议",
+      "url":"https://www.solidot.org/story?sid=64897"
+    },
     {
       "name":"研究称需要几十年才能看到减排的效果",
       "url":"https://www.solidot.org/story?sid=64896"
@@ -77,10 +81,6 @@
     {
       "name":"新 H.266 VCC 编解码器效率比上一代提升 50%",
       "url":"https://www.solidot.org/story?sid=64876"
-    },
-    {
-      "name":"LinkedIn、Reddit 和 Google News 等都被发现监视用户剪贴板",
-      "url":"https://www.solidot.org/story?sid=64875"
     }
   ]
 }
