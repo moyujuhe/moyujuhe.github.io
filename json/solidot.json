@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-09 10:09:26",
+  "time":"2020-07-09 10:13:40",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"KeePassXC 2.6.0 释出",
+      "url":"https://www.solidot.org/story?sid=64888"
+    },
+    {
+      "name":"Chrome 新实验设置将大幅减少耗电",
+      "url":"https://www.solidot.org/story?sid=64887"
+    },
     {
       "name":"新浪微博实行外链白名单",
       "url":"https://www.solidot.org/story?sid=64886"
@@ -73,14 +81,6 @@
     {
       "name":"美国考虑封杀中国社交应用",
       "url":"https://www.solidot.org/story?sid=64869"
-    },
-    {
-      "name":"TikTok 表示将退出香港",
-      "url":"https://www.solidot.org/story?sid=64868"
-    },
-    {
-      "name":"美国人用微波尝试给图书馆书籍消毒",
-      "url":"https://www.solidot.org/story?sid=64867"
     }
   ]
 }
