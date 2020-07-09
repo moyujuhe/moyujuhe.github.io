@@ -1,7 +1,19 @@
 {
-  "time":"2020-07-09 11:22:44",
+  "time":"2020-07-09 11:26:58",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"哈佛 MIT 起诉美国政府",
+      "url":"https://www.solidot.org/story?sid=64891"
+    },
+    {
+      "name":"LibreOffice 考虑付费企业版引发争议",
+      "url":"https://www.solidot.org/story?sid=64890"
+    },
+    {
+      "name":"PS 游戏机的秘密武器：全自动工厂",
+      "url":"https://www.solidot.org/story?sid=64889"
+    },
     {
       "name":"KeePassXC 2.6.0 释出",
       "url":"https://www.solidot.org/story?sid=64888"
@@ -69,18 +81,6 @@
     {
       "name":"哈佛秋季学期将采用网络授课，在校学生需接受新冠测试",
       "url":"https://www.solidot.org/story?sid=64872"
-    },
-    {
-      "name":"富士通宣布了永久性的远程办公计划",
-      "url":"https://www.solidot.org/story?sid=64871"
-    },
-    {
-      "name":"中国半导体企业半年融资 1440 亿",
-      "url":"https://www.solidot.org/story?sid=64870"
-    },
-    {
-      "name":"美国考虑封杀中国社交应用",
-      "url":"https://www.solidot.org/story?sid=64869"
     }
   ]
 }
