@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-09 22:25:59",
+  "time":"2020-07-09 22:30:35",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"英伟达市值超过英特尔",
+      "url":"https://www.solidot.org/story?sid=64900"
+    },
+    {
+      "name":"研究称隐性传播为新冠主要人际传播方式",
+      "url":"https://www.solidot.org/story?sid=64899"
+    },
     {
       "name":"英国大学为中国学生设立不含敏感内容的远程教学系统",
       "url":"https://www.solidot.org/story?sid=64898"
@@ -73,14 +81,6 @@
     {
       "name":"北京要求新公租房建人脸识别系统",
       "url":"https://www.solidot.org/story?sid=64879"
-    },
-    {
-      "name":"外交部回应主要社交媒体暂停向香港政府提供用户数据",
-      "url":"https://www.solidot.org/story?sid=64878"
-    },
-    {
-      "name":"MSI CEO 坠楼身亡",
-      "url":"https://www.solidot.org/story?sid=64877"
     }
   ]
 }
