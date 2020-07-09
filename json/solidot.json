@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-09 23:24:03",
+  "time":"2020-07-09 23:28:18",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"美国科技巨头面临重塑业务的艰难选择",
+      "url":"https://www.solidot.org/story?sid=64901"
+    },
     {
       "name":"英伟达市值超过英特尔",
       "url":"https://www.solidot.org/story?sid=64900"
@@ -77,10 +81,6 @@
     {
       "name":"埃塞俄比亚断网一周",
       "url":"https://www.solidot.org/story?sid=64880"
-    },
-    {
-      "name":"北京要求新公租房建人脸识别系统",
-      "url":"https://www.solidot.org/story?sid=64879"
     }
   ]
 }
