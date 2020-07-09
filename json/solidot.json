@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-09 16:24:46",
+  "time":"2020-07-09 16:29:07",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"研究称需要几十年才能看到减排的效果",
+      "url":"https://www.solidot.org/story?sid=64896"
+    },
     {
       "name":"Google 和 Canonical 合作将 Flutter Apps 带到 Linux",
       "url":"https://www.solidot.org/story?sid=64895"
@@ -77,10 +81,6 @@
     {
       "name":"MSI CEO 坠楼身亡",
       "url":"https://www.solidot.org/story?sid=64877"
-    },
-    {
-      "name":"新 H.266 VCC 编解码器效率比上一代提升 50%",
-      "url":"https://www.solidot.org/story?sid=64876"
     }
   ]
 }
