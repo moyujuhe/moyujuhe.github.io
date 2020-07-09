@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-07-09 09:01:29",
+  "time":"2020-07-09 09:05:42",
   "data":[
     {
       "name":"Minecraft",
@@ -576,7 +576,7 @@
       "name":"GoodNotes 5",
       "url":"https://apps.apple.com/us/app/goodnotes-5/id1444383602?uo=4",
       "num":"Productivity",
-      "description":"最新版本:  5.4.32\n更新时间:  2020-07-09 08:31:10 (北京时间)\n\n- Improved the position of new pages when adding them via the “Add Page” button in vertical scrolling direction\n- Fixed a problem where the auto-backup feature would sometimes require more device storage than necessary"
+      "description":"最新版本:  5.4.31\n更新时间:  2020-07-06 08:42:22 (北京时间)\n\n- fixed a crash affecting a lot of users\n\nRelease notes of 5.4.30\n- improved the visibility of the highlighter on dark paper\n- fixed the bug that caused text boxes to become non-editable after pasting text from websites\n- fixed a bug that affected resizing text boxes after duplicating them\n- included some minor visual changes and improvements"
     },
     {
       "name":"RadarScope",
