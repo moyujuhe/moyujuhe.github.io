@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-10 01:01:32",
+  "time":"2020-07-10 01:05:47",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"巴西“高考”将推迟两个月至明年1月举行",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8198854"
+    },
     {
       "name":"2020高考｜安徽歙县补考语文数学，考生含笑走出考场",
       "url":"https://www.thepaper.cn/newsDetail_forward_8198842"
@@ -77,10 +81,6 @@
     {
       "name":"福奇：美国确诊病例急剧增长的州应该认真考虑关闭",
       "url":"https://www.thepaper.cn/newsDetail_forward_8198535"
-    },
-    {
-      "name":"美国国防部指责中方导致南海局势不稳定，国防部回应",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8198660"
     }
   ]
 }
