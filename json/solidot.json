@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-09 16:46:16",
+  "time":"2020-07-09 16:50:59",
   "title":"奇客的资讯",
   "data":[
     {
@@ -9,10 +9,6 @@
     {
       "name":"Google 和 Canonical 合作将 Flutter Apps 带到 Linux",
       "url":"https://www.solidot.org/story?sid=64895"
-    },
-    {
-      "name":"Google 放弃在政治敏感国家提供云服务",
-      "url":"https://www.solidot.org/story?sid=64894"
     },
     {
       "name":"Tor 规避审查团队发布六月份的月度报告",
@@ -81,6 +77,10 @@
     {
       "name":"MSI CEO 坠楼身亡",
       "url":"https://www.solidot.org/story?sid=64877"
+    },
+    {
+      "name":"新 H.266 VCC 编解码器效率比上一代提升 50%",
+      "url":"https://www.solidot.org/story?sid=64876"
     }
   ]
 }
