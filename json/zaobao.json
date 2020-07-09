@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-09 16:02:44",
+  "time":"2020-07-09 16:06:53",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"中国大陆昨日新增确诊病例九例 无北京确诊者",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067750"
+    },
     {
       "name":"全球最佳护照榜出炉 香港护照排19名",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067745"
@@ -77,10 +81,6 @@
     {
       "name":"消息：美官员考虑削弱香港联系汇率制的提议未被推进",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067689"
-    },
-    {
-      "name":"食品价格持续上涨 中国6月官方CPI同比增幅扩大至2.5%",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067698"
     }
   ]
 }
