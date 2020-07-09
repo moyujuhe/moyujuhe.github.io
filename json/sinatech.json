@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-10 01:04:26",
+  "time":"2020-07-10 01:07:26",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"百度创始人李彦宏：AI是堪比工业革命的技术浪潮",
+      "url":"https://tech.sina.com.cn/i/2020-07-10/doc-iircuyvk2983487.shtml"
+    },
     {
       "name":"特斯拉首席执行官马斯克：会在工厂中用更多AI软件",
       "url":"https://tech.sina.com.cn/it/2020-07-10/doc-iircuyvk2983294.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"工信部部长苗圩：加快人工智能发展是产业优化升级的重要抓手",
       "url":"https://tech.sina.com.cn/it/2020-07-09/doc-iirczymm1449351.shtml"
-    },
-    {
-      "name":"特斯拉：车机系统已能识别交通信号灯、停车标志和自行车标志",
-      "url":"https://tech.sina.com.cn/it/2020-07-09/doc-iircuyvk2926116.shtml"
     }
   ]
 }
