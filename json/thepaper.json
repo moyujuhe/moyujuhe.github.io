@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-10 01:20:07",
+  "time":"2020-07-10 01:24:21",
   "title":"澎湃新闻",
   "data":[
+    {
+      "name":"阿联酋沙迦副酋长去世",
+      "url":"https://www.thepaper.cn/newsDetail_forward_8198857"
+    },
     {
       "name":"巴西“高考”将推迟两个月至明年1月举行",
       "url":"https://www.thepaper.cn/newsDetail_forward_8198854"
@@ -77,10 +81,6 @@
     {
       "name":"韩国首尔市长失联：警方第一轮搜索未发现朴元淳",
       "url":"https://www.thepaper.cn/newsDetail_forward_8198611"
-    },
-    {
-      "name":"福奇：美国确诊病例急剧增长的州应该认真考虑关闭",
-      "url":"https://www.thepaper.cn/newsDetail_forward_8198535"
     }
   ]
 }
