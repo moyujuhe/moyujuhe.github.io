@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 00:16:50",
+  "time":"2020-07-10 00:21:14",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"消息称加密货币交易所Coinbase计划最早于今年上市",
+      "url":"https://www.cnbeta.com/articles/tech/1001339.htm"
     },
     {
       "name":"欧盟拟对Fitbit交易展开全面反垄断调查 除非谷歌让步",
@@ -237,10 +241,6 @@
     {
       "name":"李彦宏：现在AI就像2000年左右的互联网",
       "url":"https://www.cnbeta.com/articles/tech/1001221.htm"
-    },
-    {
-      "name":"[图]三星豆型无线耳机Galaxy Buds Beans通过FCC认证",
-      "url":"https://www.cnbeta.com/articles/tech/1001219.htm"
     }
   ]
 }
