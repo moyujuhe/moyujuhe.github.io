@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-07-10 16:56:04",
+  "time":"2020-07-10 17:00:15",
   "data":[
+    {
+      "name":"Caps Wirter 发布：按住大写锁定键，进行语音识别输入",
+      "url":"https://hacpai.com/article/1594371212477"
+    },
     {
       "name":"一个支持 markdown 语法的思维导图和大纲工具—MarkMind",
       "url":"https://hacpai.com/article/1594349215113"
@@ -201,10 +205,6 @@
     {
       "name":"塞尔达传说：旷野之息 cemu 版本安装记录",
       "url":"https://hacpai.com/article/1588129011542"
-    },
-    {
-      "name":"使用 Egg + Vue 的第一个线上小产品——远程工作职位信息收集站点 yuancheng.works",
-      "url":"https://hacpai.com/article/1587115780863"
     },
     {
       "name":"一个 golang HTTP 客户端",
