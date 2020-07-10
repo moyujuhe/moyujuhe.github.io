@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 11:57:07",
+  "time":"2020-07-10 12:01:18",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"[图]Android 11将强制OEM厂商部署虚拟A/B 以更快更无缝升级系统",
+      "url":"https://www.cnbeta.com/articles/tech/1001609.htm"
     },
     {
       "name":"红旗中大型轿车H9正式量产下线 预计7月15日公布价格",
@@ -237,10 +241,6 @@
     {
       "name":"美法院拒绝Uniloc在与苹果专利案中提出的封存文件请求",
       "url":"https://www.cnbeta.com/articles/tech/1001495.htm"
-    },
-    {
-      "name":"Linux基金会发布白皮书：公开发布给全世界的开源技术不受EAR约束",
-      "url":"https://www.cnbeta.com/articles/tech/1001493.htm"
     }
   ]
 }
