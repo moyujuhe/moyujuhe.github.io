@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 10:24:17",
+  "time":"2020-07-10 10:28:31",
   "title":"V2EX热帖",
   "data":[
     {
@@ -8,11 +8,11 @@
     },
     {
       "name":"老哥们，八万左右落地买什么车呢，是不是下探到诸位的知识下盲区了~~~",
-      "url":"https://www.v2ex.com/t/688762#reply39"
+      "url":"https://www.v2ex.com/t/688762#reply41"
     },
     {
       "name":"网线弯折成直角影响网速吗？",
-      "url":"https://www.v2ex.com/t/688740#reply31"
+      "url":"https://www.v2ex.com/t/688740#reply33"
     },
     {
       "name":"除了计科和软件工程，学计算机高考志愿还能报哪些专业？",
@@ -28,7 +28,7 @@
     },
     {
       "name":"离职该怎么提？",
-      "url":"https://www.v2ex.com/t/688750#reply18"
+      "url":"https://www.v2ex.com/t/688750#reply19"
     },
     {
       "name":"android studio 新建安卓项目，最小 api 等级，现在你们都选多少？",
@@ -39,12 +39,16 @@
       "url":"https://www.v2ex.com/t/688739#reply10"
     },
     {
+      "name":"一套提供免费私有服务程序的协同办公软件",
+      "url":"https://www.v2ex.com/t/688741#reply9"
+    },
+    {
       "name":"高防服务器真的可以防住攻击？如果防得住市场为啥需求那么低？",
       "url":"https://www.v2ex.com/t/688768#reply9"
     },
     {
-      "name":"一套提供免费私有服务程序的协同办公软件",
-      "url":"https://www.v2ex.com/t/688741#reply8"
+      "name":"支付宝申请的 etc，发来的设备是九州高速通，山东地区可以用吗？",
+      "url":"https://www.v2ex.com/t/688771#reply9"
     },
     {
       "name":"钱少事少和钱多事多选哪个",
@@ -60,11 +64,7 @@
     },
     {
       "name":"你会推荐朋友买国行游戏主机还是水货游戏机呢？",
-      "url":"https://www.v2ex.com/t/688766#reply6"
-    },
-    {
-      "name":"支付宝申请的 etc，发来的设备是九州高速通，山东地区可以用吗？",
-      "url":"https://www.v2ex.com/t/688771#reply6"
+      "url":"https://www.v2ex.com/t/688766#reply7"
     },
     {
       "name":"如果你的产品被喷了，你一般如何面对",
@@ -75,12 +75,12 @@
       "url":"https://www.v2ex.com/t/688749#reply5"
     },
     {
-      "name":"请教 Python 中 xml 转 dict 格式--不懂就问",
-      "url":"https://www.v2ex.com/t/688758#reply5"
+      "name":"idea 双击 shift 搜索， xml 文件中字符串如数据库名字搜索不到？尝试了 invalidate cache/restart 也没用，是什么原因呢？",
+      "url":"https://www.v2ex.com/t/688756#reply5"
     },
     {
-      "name":"idea 双击 shift 搜索， xml 文件中字符串如数据库名字搜索不到？尝试了 invalidate cache/restart 也没用，是什么原因呢？",
-      "url":"https://www.v2ex.com/t/688756#reply4"
+      "name":"请教 Python 中 xml 转 dict 格式--不懂就问",
+      "url":"https://www.v2ex.com/t/688758#reply5"
     },
     {
       "name":"「北京-蚂蚁金服社招-前端」蚂蚁森林、庄园、运动、教育、消息线招同事了~",
@@ -89,6 +89,14 @@
     {
       "name":"人工智能专业学生的困惑<求解答>",
       "url":"https://www.v2ex.com/t/688747#reply3"
+    },
+    {
+      "name":"Spring boot 2.2 打成 war 包 过滤器或者拦截器 注入失败",
+      "url":"https://www.v2ex.com/t/688757#reply3"
+    },
+    {
+      "name":"安卓开发收费会员系统，被反编译，一个用户的返回数据无数人嫖用！",
+      "url":"https://www.v2ex.com/t/688777#reply3"
     },
     {
       "name":"实际生活中遇到的 [WEB 迎新会上和最多人见面的小组分配] 的算法问题 求思路",
@@ -103,10 +111,6 @@
       "url":"https://www.v2ex.com/t/688755#reply2"
     },
     {
-      "name":"Spring boot 2.2 打成 war 包 过滤器或者拦截器 注入失败",
-      "url":"https://www.v2ex.com/t/688757#reply2"
-    },
-    {
       "name":"有没有收到 DTK 的老哥讲一下 Rosetta 翻译 x86 的实用性和 bug？",
       "url":"https://www.v2ex.com/t/688759#reply2"
     },
@@ -117,6 +121,10 @@
     {
       "name":"mbp16 装 windows 日常使用体验怎么样",
       "url":"https://www.v2ex.com/t/688773#reply2"
+    },
+    {
+      "name":"apple watch5 蜂窝板 可以脱离手机播放音乐不",
+      "url":"https://www.v2ex.com/t/688776#reply2"
     },
     {
       "name":"windows 下替换正在运行的进程的可执行文件,会自动重命名",
@@ -131,12 +139,12 @@
       "url":"https://www.v2ex.com/t/688753#reply1"
     },
     {
-      "name":"医疗信息化+互联网医疗 信息互通",
-      "url":"https://www.v2ex.com/t/688764#reply0"
+      "name":"开发的一套东西 使用且修改了 lgpl 协议的软件，可以申请软著和发论文吗",
+      "url":"https://www.v2ex.com/t/688765#reply1"
     },
     {
-      "name":"开发的一套东西 使用且修改了 lgpl 协议的软件，可以申请软著和发论文吗",
-      "url":"https://www.v2ex.com/t/688765#reply0"
+      "name":"兴趣使然还是目的使然",
+      "url":"https://www.v2ex.com/t/688778#reply1"
     }
   ]
 }

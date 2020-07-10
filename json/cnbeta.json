@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 10:24:16",
+  "time":"2020-07-10 10:28:30",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"研究：佩戴口罩能将新冠病毒感染风险降低65%",
+      "url":"https://www.cnbeta.com/articles/tech/1001527.htm"
     },
     {
       "name":"[技巧]如何强制Windows 10始终选用指定的浏览器和搜索引擎",
@@ -237,10 +241,6 @@
     {
       "name":"马克龙同意巴黎圣母院塔尖原样重建",
       "url":"https://www.cnbeta.com/articles/tech/1001413.htm"
-    },
-    {
-      "name":"美国拟公布反制法国数字税计划的行动细节",
-      "url":"https://www.cnbeta.com/articles/tech/1001411.htm"
     }
   ]
 }
