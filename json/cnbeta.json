@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 13:00:25",
+  "time":"2020-07-10 13:04:36",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"SpaceX“猎鹰9号”着陆腿回收后意外坠落",
+      "url":"https://www.cnbeta.com/articles/science/1001619.htm"
     },
     {
       "name":"谷歌证实新款Nest智能扬声器并放出官方照片",
@@ -237,10 +241,6 @@
     {
       "name":"准备就绪：NASA“毅力号”已被绑上Atlas V火箭",
       "url":"https://www.cnbeta.com/articles/science/1001505.htm"
-    },
-    {
-      "name":"爆料称SE将推出《古墓丽影》合集 8月27日发售",
-      "url":"https://hot.cnbeta.com/articles/game/1001503.htm"
     }
   ]
 }
