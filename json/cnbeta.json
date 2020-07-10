@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 13:56:47",
+  "time":"2020-07-10 14:01:02",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"App Annie：居家隔离助推2020年2季度移动应用消费创新高",
+      "url":"https://www.cnbeta.com/articles/tech/1001629.htm"
     },
     {
       "name":"单霁翔：故宫背后的AI力量 让文物“活起来”",
@@ -237,10 +241,6 @@
     {
       "name":"微软介绍Windows 10即将迎来的KDP内核数据保护功能",
       "url":"https://www.cnbeta.com/articles/tech/1001515.htm"
-    },
-    {
-      "name":"Seafloat：为保护海洋生物而设计的海上浮动系泊系统",
-      "url":"https://www.cnbeta.com/articles/tech/1001513.htm"
     }
   ]
 }
