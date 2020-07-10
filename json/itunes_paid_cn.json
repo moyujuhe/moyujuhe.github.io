@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-07-10 08:38:20",
+  "time":"2020-07-10 08:42:34",
   "data":[
     {
       "name":"时间规划局 - 倒计时与提醒事项",
@@ -306,7 +306,7 @@
       "name":"Notability",
       "url":"https://apps.apple.com/cn/app/notability/id360593530?uo=4",
       "num":"效率",
-      "description":"最新版本:  9.4.4\n更新时间:  2020-07-10 08:06:31 (北京时间)\n\n*** What's New in Notability 9.4.4 ***\n• Fixed an issue with small ink strokes disappearing\n• Fixed an issue with styling rotated text boxes\n• Miscellaneous bug fixes and improvements\n\n*** Notability 9.4 更新***\n我们很兴奋地宣布对我们的音频系统做出了更新和改进！ \n\n音频录制现在可以：\n• 重命名\n• 重新排序\n• 修剪\n• 合并\n• 分割\n\n此次更新还包括：\n• 录制界面更新 \n• 所有主题均支持主题弹窗\n• 支持 iPadOS 鼠标指针\n• 能够将便捷说明和文本框背景设置为自定义颜色"
+      "description":"最新版本:  9.4.3\n更新时间:  2020-06-29 23:21:20 (北京时间)\n\n*** What's New in Notability 9.4.3 ***\n- When rotating ink with the rectangular selection tool, the rotation will snap at 90 degree intervals\n- Fixes a crash on iPhone when using the color picker\n- Fixes searching for a recording name\n- Minor recording related bug fixes\n\n*** Notability 9.4新内容 ***\n我们很高兴宣布，已对音频系统进行更新和改进！\n\n录音现在可以：\n• 重命名\n• 重新排序\n• 裁剪\n• 合并\n• 拆分\n\n本次更新同时还包括：\n• 录音界面更新\n• 支持所有主题的主题弹出窗口\n• 支持iPadOS鼠标指针\n• 能够将便签和文本框背景设置为自定义颜色"
     },
     {
       "name":"地下城堡2: 黑暗觉醒",
