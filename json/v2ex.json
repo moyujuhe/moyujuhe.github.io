@@ -1,46 +1,46 @@
 {
-  "time":"2020-07-10 09:46:13",
+  "time":"2020-07-10 09:50:23",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"抽奖送书！《Visual Studio Code 权威指南》",
-      "url":"https://www.v2ex.com/t/688735#reply42"
+      "url":"https://www.v2ex.com/t/688735#reply45"
     },
     {
       "name":"网线弯折成直角影响网速吗？",
-      "url":"https://www.v2ex.com/t/688740#reply23"
+      "url":"https://www.v2ex.com/t/688740#reply25"
+    },
+    {
+      "name":"老哥们，八万左右落地买什么车呢，是不是下探到诸位的知识下盲区了~~~",
+      "url":"https://www.v2ex.com/t/688762#reply18"
     },
     {
       "name":"新拿 offer 和目前工作比较，要不要走？",
-      "url":"https://www.v2ex.com/t/688746#reply14"
+      "url":"https://www.v2ex.com/t/688746#reply16"
     },
     {
       "name":"是什么样的操作能让 Docker 容器挂掉",
       "url":"https://www.v2ex.com/t/688737#reply13"
     },
     {
-      "name":"老哥们，八万左右落地买什么车呢，是不是下探到诸位的知识下盲区了~~~",
-      "url":"https://www.v2ex.com/t/688762#reply13"
-    },
-    {
       "name":"android studio 新建安卓项目，最小 api 等级，现在你们都选多少？",
-      "url":"https://www.v2ex.com/t/688752#reply10"
-    },
-    {
-      "name":"这款 cpu 能换什么 cpu?",
-      "url":"https://www.v2ex.com/t/688739#reply9"
-    },
-    {
-      "name":"离职该怎么提？",
-      "url":"https://www.v2ex.com/t/688750#reply9"
+      "url":"https://www.v2ex.com/t/688752#reply11"
     },
     {
       "name":"除了计科和软件工程，学计算机高考志愿还能报哪些专业？",
-      "url":"https://www.v2ex.com/t/688760#reply6"
+      "url":"https://www.v2ex.com/t/688760#reply11"
+    },
+    {
+      "name":"这款 cpu 能换什么 cpu?",
+      "url":"https://www.v2ex.com/t/688739#reply10"
+    },
+    {
+      "name":"离职该怎么提？",
+      "url":"https://www.v2ex.com/t/688750#reply10"
     },
     {
       "name":"一直在等 debian 官方支持树莓派 4，不知道还要等多久",
-      "url":"https://www.v2ex.com/t/688734#reply5"
+      "url":"https://www.v2ex.com/t/688734#reply6"
     },
     {
       "name":"如果你的产品被喷了，你一般如何面对",
@@ -55,6 +55,10 @@
       "url":"https://www.v2ex.com/t/688749#reply4"
     },
     {
+      "name":"idea 双击 shift 搜索， xml 文件中字符串如数据库名字搜索不到？尝试了 invalidate cache/restart 也没用，是什么原因呢？",
+      "url":"https://www.v2ex.com/t/688756#reply3"
+    },
+    {
       "name":"「北京-蚂蚁金服社招-前端」蚂蚁森林、庄园、运动、教育、消息线招同事了~",
       "url":"https://www.v2ex.com/t/688738#reply2"
     },
@@ -63,8 +67,12 @@
       "url":"https://www.v2ex.com/t/688747#reply2"
     },
     {
-      "name":"idea 双击 shift 搜索， xml 文件中字符串如数据库名字搜索不到？尝试了 invalidate cache/restart 也没用，是什么原因呢？",
-      "url":"https://www.v2ex.com/t/688756#reply2"
+      "name":"有没有这样一款旅行类的 app？",
+      "url":"https://www.v2ex.com/t/688751#reply2"
+    },
+    {
+      "name":"请教 Python 中 xml 转 dict 格式--不懂就问",
+      "url":"https://www.v2ex.com/t/688758#reply2"
     },
     {
       "name":"有没有收到 DTK 的老哥讲一下 Rosetta 翻译 x86 的实用性和 bug？",
@@ -83,10 +91,6 @@
       "url":"https://www.v2ex.com/t/688748#reply1"
     },
     {
-      "name":"有没有这样一款旅行类的 app？",
-      "url":"https://www.v2ex.com/t/688751#reply1"
-    },
-    {
       "name":"现在使用“用爱发电”做东西，会被当作白嫖吗？",
       "url":"https://www.v2ex.com/t/688753#reply1"
     },
@@ -99,10 +103,6 @@
       "url":"https://www.v2ex.com/t/688757#reply1"
     },
     {
-      "name":"请教 Python 中 xml 转 dict 格式--不懂就问",
-      "url":"https://www.v2ex.com/t/688758#reply1"
-    },
-    {
       "name":"Epic 本周喜加一 《杀戮空间 2》",
       "url":"https://www.v2ex.com/t/688742#reply0"
     },
@@ -113,6 +113,14 @@
     {
       "name":"开发的一套东西 使用且修改了 lgpl 协议的软件，可以申请软著和发论文吗",
       "url":"https://www.v2ex.com/t/688765#reply0"
+    },
+    {
+      "name":"你会推荐朋友买国行游戏主机还是水货游戏机呢？",
+      "url":"https://www.v2ex.com/t/688766#reply0"
+    },
+    {
+      "name":"高防服务器真的可以防住攻击？如果防得住市场为啥需求那么低？",
+      "url":"https://www.v2ex.com/t/688768#reply0"
     }
   ]
 }
