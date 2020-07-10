@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 08:46:48",
+  "time":"2020-07-10 08:51:03",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"外媒：美将禁止联邦政府合同方使用华为等5家企业产品",
+      "url":"https://www.cnbeta.com/articles/tech/1001453.htm"
     },
     {
       "name":"虚幻引擎推出借助Face ID捕获3D动画的《Live Link Face》应用",
@@ -237,10 +241,6 @@
     {
       "name":"欧盟拟对Fitbit交易展开全面反垄断调查 除非谷歌让步",
       "url":"https://www.cnbeta.com/articles/tech/1001337.htm"
-    },
-    {
-      "name":"国际电信联盟：3GPP系标准成为唯一被认可的5G标准",
-      "url":"https://www.cnbeta.com/articles/tech/1001335.htm"
     }
   ]
 }
