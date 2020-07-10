@@ -1,18 +1,18 @@
 {
-  "time":"2020-07-10 19:16:48",
+  "time":"2020-07-10 19:20:59",
   "title":"V2EX热帖",
   "data":[
     {
       "name":"「上新福利+抽奖」一个半小时充满的移动电源 BLOCK 30",
-      "url":"https://www.v2ex.com/t/688850#reply274"
+      "url":"https://www.v2ex.com/t/688850#reply278"
+    },
+    {
+      "name":"应届 杭州 9.6k 青岛 7k 选哪个？",
+      "url":"https://www.v2ex.com/t/688787#reply127"
     },
     {
       "name":"老哥们，八万左右落地买什么车呢，是不是下探到诸位的知识下盲区了~~~",
       "url":"https://www.v2ex.com/t/688762#reply126"
-    },
-    {
-      "name":"应届 杭州 9.6k 青岛 7k 选哪个？",
-      "url":"https://www.v2ex.com/t/688787#reply126"
     },
     {
       "name":"外甥女读大学，舅舅我要送电脑啦，求推荐（1W2 以内，有玩游戏的要求），先谢谢大家啦~",
@@ -24,7 +24,7 @@
     },
     {
       "name":"现在上大学只用 iPad 能否应付？",
-      "url":"https://www.v2ex.com/t/688813#reply89"
+      "url":"https://www.v2ex.com/t/688813#reply90"
     },
     {
       "name":"怎么样才能说服自己“单休也挺好的”",
@@ -68,7 +68,7 @@
     },
     {
       "name":"你们平时上班肩膀疼吗?",
-      "url":"https://www.v2ex.com/t/688843#reply34"
+      "url":"https://www.v2ex.com/t/688843#reply35"
     },
     {
       "name":"android studio 新建安卓项目，最小 api 等级，现在你们都选多少？",
@@ -145,6 +145,10 @@
     {
       "name":"为何开放的 Android 不支持 MIMT，反而封闭的 iOS 支持呢？",
       "url":"https://www.v2ex.com/t/688805#reply18"
+    },
+    {
+      "name":"mysql update 库存解决并发卖超的问题失败了 where and 真的可行吗？",
+      "url":"https://www.v2ex.com/t/688947#reply17"
     }
   ]
 }
