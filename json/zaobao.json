@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-10 10:45:34",
+  "time":"2020-07-10 10:49:45",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"据悉意大利电信在5G核心设备招标中排除华为",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200710-1067950"
+    },
     {
       "name":"中国大陆新增四例确诊病例 均为境外输入",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200710-1067947"
@@ -77,10 +81,6 @@
     {
       "name":"摩根大通：香港现行金融制度不变",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067759"
-    },
-    {
-      "name":"香港增至少42例确诊病例 政府将收紧管控",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067763"
     }
   ]
 }
