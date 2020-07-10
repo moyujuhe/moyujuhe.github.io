@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 14:31:09",
+  "time":"2020-07-10 14:35:21",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"天文学家发现一类无法辨识的新型射电天体",
+      "url":"https://www.cnbeta.com/articles/science/1001637.htm"
     },
     {
       "name":"继苹果之后 又一手机厂商不再附赠充电器",
@@ -237,10 +241,6 @@
     {
       "name":"研究称一千多年前人类就把猫咪当作宠物来照顾",
       "url":"https://www.cnbeta.com/articles/science/1001523.htm"
-    },
-    {
-      "name":"Debian 8 LTS 生命周期已结束",
-      "url":"https://www.cnbeta.com/articles/tech/1001521.htm"
     }
   ]
 }

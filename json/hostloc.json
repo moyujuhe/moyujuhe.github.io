@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-10 14:31:12",
+  "time":"2020-07-10 14:35:24",
   "title":"全球主机交流论坛",
   "data":[
+    {
+      "name":"GitHub Actions自动签到获取积分的脚本更新说明-20200710",
+      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=714443&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
+    },
     {
       "name":"有做罗曼蒂克AFF的大佬吗？",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=714442&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
@@ -101,10 +105,6 @@
     {
       "name":"发现国外PC网站还是很主流 也不会看个新闻下面让你下载APP",
       "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=714411&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
-    },
-    {
-      "name":"哪位老哥帮我看看为什么target注册不了",
-      "url":"https://www.hostloc.com/forum.php?mod=viewthread&tid=714406&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline"
     }
   ]
 }
