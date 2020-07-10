@@ -1,7 +1,15 @@
 {
-  "time":"2020-07-10 14:48:05",
+  "time":"2020-07-10 14:52:16",
   "title":"奇客的资讯",
   "data":[
+    {
+      "name":"SEC 表示难以确保中国上市公司审计质量",
+      "url":"https://www.solidot.org/story?sid=64903"
+    },
+    {
+      "name":"中国驻哈萨克警告不明费用，哈萨克称这是假新闻",
+      "url":"https://www.solidot.org/story?sid=64902"
+    },
     {
       "name":"美国科技巨头面临重塑业务的艰难选择",
       "url":"https://www.solidot.org/story?sid=64901"
@@ -73,14 +81,6 @@
     {
       "name":"诺基亚将在其电信设备加入开放接口",
       "url":"https://www.solidot.org/story?sid=64882"
-    },
-    {
-      "name":"数学家罗纳德·葛立恒去世",
-      "url":"https://www.solidot.org/story?sid=64881"
-    },
-    {
-      "name":"埃塞俄比亚断网一周",
-      "url":"https://www.solidot.org/story?sid=64880"
     }
   ]
 }

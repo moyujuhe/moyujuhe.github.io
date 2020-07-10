@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 14:48:05",
+  "time":"2020-07-10 14:52:16",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,18 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"韩国5G用户在5月底已超过690万 年底有望达到1000万",
+      "url":"https://www.cnbeta.com/articles/tech/1001643.htm"
+    },
+    {
+      "name":"我国学者揭示“量子柴郡猫”独特量子特性",
+      "url":"https://www.cnbeta.com/articles/science/1001641.htm"
+    },
+    {
+      "name":"快舟十一号运载火箭首飞失利",
+      "url":"https://www.cnbeta.com/articles/science/1001639.htm"
     },
     {
       "name":"天文学家发现一类无法辨识的新型射电天体",
@@ -229,18 +241,6 @@
     {
       "name":"[图]原生滚动截屏功能将不会出现在 Android 11 最终版本中",
       "url":"https://www.cnbeta.com/articles/tech/1001529.htm"
-    },
-    {
-      "name":"研究：佩戴口罩能将新冠病毒感染风险降低65%",
-      "url":"https://www.cnbeta.com/articles/tech/1001527.htm"
-    },
-    {
-      "name":"[技巧]如何强制Windows 10始终选用指定的浏览器和搜索引擎",
-      "url":"https://www.cnbeta.com/articles/tech/1001525.htm"
-    },
-    {
-      "name":"研究称一千多年前人类就把猫咪当作宠物来照顾",
-      "url":"https://www.cnbeta.com/articles/science/1001523.htm"
     }
   ]
 }
