@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 09:12:11",
+  "time":"2020-07-10 09:16:25",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"新冠大流行期间入住酒店安全吗？",
+      "url":"https://www.cnbeta.com/articles/tech/1001479.htm"
+    },
+    {
+      "name":"[图]仍无法升级Windows 10 20H1功能更新？试试卸载OneDrive吧",
+      "url":"https://www.cnbeta.com/articles/tech/1001477.htm"
     },
     {
       "name":"贝克汉姆拥有15年的阿斯顿·马丁敞篷车：如今挂牌出售",
@@ -233,14 +241,6 @@
     {
       "name":"虚幻引擎现在可以通过官方iOS应用捕捉面部表情",
       "url":"https://www.cnbeta.com/articles/tech/1001365.htm"
-    },
-    {
-      "name":"N卡驱动纯净安装工具NVCleanstall升级：不支持的显卡也能玩",
-      "url":"https://www.cnbeta.com/articles/soft/1001363.htm"
-    },
-    {
-      "name":"iOS 14 首个Public Beta发布 订阅公测项目后即可下载安装",
-      "url":"https://www.cnbeta.com/articles/tech/1001361.htm"
     }
   ]
 }
