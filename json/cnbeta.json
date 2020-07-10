@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 16:13:54",
+  "time":"2020-07-10 16:18:05",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"医学奇迹 2岁连体双胞胎在意大利成功分离：此前头骨相连",
+      "url":"https://www.cnbeta.com/articles/science/1001707.htm"
     },
     {
       "name":"民航局第四份“熔断指令”：暂停国航CA910（莫斯科至北京）航班运行1周",
@@ -237,10 +241,6 @@
     {
       "name":"研究发现辐射似乎有助于某些合金自愈",
       "url":"https://www.cnbeta.com/articles/science/1001593.htm"
-    },
-    {
-      "name":"[图]初探iOS 14主屏幕体验：小部件、App Library、隐藏应用等",
-      "url":"https://www.cnbeta.com/articles/tech/1001591.htm"
     }
   ]
 }
