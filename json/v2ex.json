@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 13:00:26",
+  "time":"2020-07-10 13:08:58",
   "title":"V2EX热帖",
   "data":[
     {
@@ -16,7 +16,7 @@
     },
     {
       "name":"应届 杭州 9.6k 青岛 7k 选哪个？",
-      "url":"https://www.v2ex.com/t/688787#reply47"
+      "url":"https://www.v2ex.com/t/688787#reply49"
     },
     {
       "name":"网线弯折成直角影响网速吗？",
@@ -24,11 +24,11 @@
     },
     {
       "name":"是什么样的操作能让 Docker 容器挂掉",
-      "url":"https://www.v2ex.com/t/688737#reply37"
+      "url":"https://www.v2ex.com/t/688737#reply40"
     },
     {
       "name":"现在上大学只用 iPad 能否应付？",
-      "url":"https://www.v2ex.com/t/688813#reply34"
+      "url":"https://www.v2ex.com/t/688813#reply37"
     },
     {
       "name":"新拿 offer 和目前工作比较，要不要走？",
@@ -36,11 +36,11 @@
     },
     {
       "name":"有什么小玩意儿是可以放在办公室桌面上的",
-      "url":"https://www.v2ex.com/t/688804#reply30"
+      "url":"https://www.v2ex.com/t/688804#reply31"
     },
     {
       "name":"android studio 新建安卓项目，最小 api 等级，现在你们都选多少？",
-      "url":"https://www.v2ex.com/t/688752#reply28"
+      "url":"https://www.v2ex.com/t/688752#reply29"
     },
     {
       "name":"离职该怎么提？",
@@ -72,7 +72,7 @@
     },
     {
       "name":"关于容器构建方式优劣的疑惑",
-      "url":"https://www.v2ex.com/t/688791#reply17"
+      "url":"https://www.v2ex.com/t/688791#reply18"
     },
     {
       "name":"你们有没有遇到公司产品直接管理开发人员，还自作聪明的给开发提供开发方案的经历？",
@@ -84,15 +84,15 @@
     },
     {
       "name":"大佬们来解答一下这个面试题（语言不限）",
-      "url":"https://www.v2ex.com/t/688786#reply13"
+      "url":"https://www.v2ex.com/t/688786#reply14"
     },
     {
       "name":"还有用 quiver 记笔记的伙伴吗…文件全丢失了",
-      "url":"https://www.v2ex.com/t/688794#reply13"
+      "url":"https://www.v2ex.com/t/688794#reply14"
     },
     {
       "name":"一套提供免费私有服务程序的协同办公软件",
-      "url":"https://www.v2ex.com/t/688741#reply12"
+      "url":"https://www.v2ex.com/t/688741#reply13"
     },
     {
       "name":"怎么样才能说服自己“单休也挺好的”",
@@ -103,16 +103,16 @@
       "url":"https://www.v2ex.com/t/688749#reply11"
     },
     {
+      "name":"一直在等 debian 官方支持树莓派 4，不知道还要等多久",
+      "url":"https://www.v2ex.com/t/688734#reply10"
+    },
+    {
       "name":"这款 cpu 能换什么 cpu?",
       "url":"https://www.v2ex.com/t/688739#reply10"
     },
     {
       "name":"请教 Python 中 xml 转 dict 格式--不懂就问",
       "url":"https://www.v2ex.com/t/688758#reply10"
-    },
-    {
-      "name":"一直在等 debian 官方支持树莓派 4，不知道还要等多久",
-      "url":"https://www.v2ex.com/t/688734#reply9"
     },
     {
       "name":"人工智能专业学生的困惑<求解答>",
@@ -123,16 +123,20 @@
       "url":"https://www.v2ex.com/t/688782#reply9"
     },
     {
+      "name":"我想去 北上广深 目前 15k-10k Java 开发什么水平 要掌握哪些技术",
+      "url":"https://www.v2ex.com/t/688784#reply9"
+    },
+    {
       "name":"受不了 MBP 16 的休眠中自动重启 bug，请问 big sur 还有这个虫子吗？",
       "url":"https://www.v2ex.com/t/688798#reply9"
     },
     {
-      "name":"我想去 北上广深 目前 15k-10k Java 开发什么水平 要掌握哪些技术",
-      "url":"https://www.v2ex.com/t/688784#reply8"
+      "name":"新手如何当好一个韭菜？",
+      "url":"https://www.v2ex.com/t/688814#reply9"
     },
     {
-      "name":"新手如何当好一个韭菜？",
-      "url":"https://www.v2ex.com/t/688814#reply8"
+      "name":"现在使用“用爱发电”做东西，会被当作白嫖吗？",
+      "url":"https://www.v2ex.com/t/688753#reply8"
     },
     {
       "name":"虽然暂时没攒啥钱，但想提前买台 osmo pocket，没打过白条、大伙推荐用白条免息吗？",
@@ -141,10 +145,6 @@
     {
       "name":"如果你的产品被喷了，你一般如何面对",
       "url":"https://www.v2ex.com/t/688745#reply7"
-    },
-    {
-      "name":"现在使用“用爱发电”做东西，会被当作白嫖吗？",
-      "url":"https://www.v2ex.com/t/688753#reply7"
     },
     {
       "name":"C++ queue 中不可以存放 vector<int>吗？",
