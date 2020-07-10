@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-10 13:48:10",
+  "time":"2020-07-10 13:52:25",
   "title":"联合早报-中港台",
   "data":[
+    {
+      "name":"日本拟放宽中韩等国家的出入境限制",
+      "url":"https://www.zaobao.com.sg/realtime/china/story20200710-1067974"
+    },
     {
       "name":"消息：中国国有银行正调整应急计划以防美国制裁",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200710-1067973"
@@ -77,10 +81,6 @@
     {
       "name":"港媒：天主教教宗周日谈话未提香港课题",
       "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067726"
-    },
-    {
-      "name":"中国足协：已设卡拉OK等保障中超球员封闭管理期间的身心健康",
-      "url":"https://www.zaobao.com.sg/realtime/china/story20200709-1067748"
     }
   ]
 }
