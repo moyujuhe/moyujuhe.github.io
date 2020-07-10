@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-07-10 09:33:22",
+  "time":"2020-07-10 09:37:37",
   "data":[
     {
       "name":"Minecraft",
@@ -531,12 +531,6 @@
       "description":"最新版本:  3.3.2\n更新时间:  2020-06-10 22:26:52 (北京时间)\n\nWhat's New 3.3.2\n\n* Bugfixes and stability improvements\n\nPreviously in 3.3.1\n\n* Auto-Pitch - Realtime pitch correction and shifting plugin module\n* Tuner - Guitar and instrument tuning plugin module\n\nNOTE: If you need help or experience bugs, please tap the HELP button and let us know in the USERS & SUPPORT FORUM. If you don't report bugs, they are less likely to be fixed. Thanks!"
     },
     {
-      "name":"Dark Mist",
-      "url":"https://apps.apple.com/us/app/dark-mist/id1516045248?uo=4",
-      "num":"Games",
-      "description":"最新版本:  1.0.4\n更新时间:  2020-07-10 00:53:52 (北京时间)\n\nOptimized performance.\nMinor bug fixes."
-    },
-    {
       "name":"Papa's Wingeria To Go!",
       "url":"https://apps.apple.com/us/app/papas-wingeria-to-go/id1451873044?uo=4",
       "num":"Games",
@@ -595,6 +589,12 @@
       "url":"https://apps.apple.com/us/app/iverify-secure-your-phone/id1466120520?uo=4",
       "num":"Utilities",
       "description":"最新版本:  12.0\n更新时间:  2020-06-25 00:57:43 (北京时间)\n\n* New guide: Review trusted devices\n* We made way for a new badge! We'll notify you if iVerify is out of date. We did this by removing the redundant \"Device Scan\" badge, which would just mirror what was reported directly above it.\n* News articles would sometimes stick to the bottom or be improperly sized.\n* For some devices like the new iPad Pro and the new iPhone SE, we reported the wrong biometric device (Face ID vs Touch ID). This has been fixed.\n* A couple random bug fixes and code cleanups!"
+    },
+    {
+      "name":"Heads Up! Kids",
+      "url":"https://apps.apple.com/us/app/heads-up-kids/id937976391?uo=4",
+      "num":"Games",
+      "description":"最新版本:  2.2\n更新时间:  2019-09-19 04:51:41 (北京时间)\n\nThis update contains bug fixes and improved screen compatibility for iPhone X and above. Happy Playing!"
     }
   ]
 }
