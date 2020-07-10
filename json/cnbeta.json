@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 12:09:38",
+  "time":"2020-07-10 12:14:07",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"Volta展示纯电动卡车Zero：采用更环保复合材料 减震效果比碳纤维好三倍",
+      "url":"https://www.cnbeta.com/articles/tech/1001613.htm"
     },
     {
       "name":"2020年6月数据：TikTok在非游戏类应用下载量榜单中再次登顶",
@@ -237,10 +241,6 @@
     {
       "name":"冲马桶真的会传播新冠病毒吗？",
       "url":"https://www.cnbeta.com/articles/science/1001499.htm"
-    },
-    {
-      "name":"[图]Chrome新增Lite Video功能：播放低分辨率视频以节省流量",
-      "url":"https://www.cnbeta.com/articles/tech/1001497.htm"
     }
   ]
 }
