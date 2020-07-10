@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 09:41:52",
+  "time":"2020-07-10 09:46:12",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"美法院拒绝Uniloc在与苹果专利案中提出的封存文件请求",
+      "url":"https://www.cnbeta.com/articles/tech/1001495.htm"
     },
     {
       "name":"Linux基金会发布白皮书：公开发布给全世界的开源技术不受EAR约束",
@@ -237,10 +241,6 @@
     {
       "name":"科学家发现体型庞大的灭绝海豚 是一种具有鲸鱼特征的顶级掠食者",
       "url":"https://www.cnbeta.com/articles/science/1001381.htm"
-    },
-    {
-      "name":"苹果推出新的教育课程 让每个人都可以用Swift进行编程开发",
-      "url":"https://www.cnbeta.com/articles/tech/1001379.htm"
     }
   ]
 }
