@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 14:22:27",
+  "time":"2020-07-10 14:26:46",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"继苹果之后 又一手机厂商不再附赠充电器",
+      "url":"https://www.cnbeta.com/articles/tech/1001635.htm"
+    },
+    {
+      "name":"[图]三星Galaxy Tab S7 Plus现身韩国认证网站 实物图曝光",
+      "url":"https://www.cnbeta.com/articles/tech/1001633.htm"
     },
     {
       "name":"IGN评选游戏中最佳开放世界 《GTA5》洛圣都第一",
@@ -233,14 +241,6 @@
     {
       "name":"Debian 8 LTS 生命周期已结束",
       "url":"https://www.cnbeta.com/articles/tech/1001521.htm"
-    },
-    {
-      "name":"Flutter 开始支持构建 Linux 桌面应用，Snap 格式却惹质疑",
-      "url":"https://www.cnbeta.com/articles/tech/1001519.htm"
-    },
-    {
-      "name":"[图]上市5个月装机量破1亿台 Android 10成适配率最快的Android版本",
-      "url":"https://www.cnbeta.com/articles/tech/1001517.htm"
     }
   ]
 }
