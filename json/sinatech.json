@@ -1,7 +1,11 @@
 {
-  "time":"2020-07-10 15:55:50",
+  "time":"2020-07-10 16:10:24",
   "title":"新浪科技",
   "data":[
+    {
+      "name":"快舟十一号运载火箭首飞异常，发射任务失利",
+      "url":"https://tech.sina.com.cn/d/i/2020-07-10/doc-iirczymm1626180.shtml"
+    },
     {
       "name":"何积丰院士：智能制造仍面临AI无法解决的挑战",
       "url":"https://tech.sina.com.cn/roll/2020-07-10/doc-iirczymm1623214.shtml"
@@ -197,10 +201,6 @@
     {
       "name":"柯洁：羡慕现在通过AI学棋，能比我那时候少走很多很多弯路",
       "url":"https://tech.sina.com.cn/roll/2020-07-10/doc-iircuyvk3051626.shtml"
-    },
-    {
-      "name":"饿了么升级：提供同城生活全方位服务 加码本地零售快送",
-      "url":"https://tech.sina.com.cn/i/2020-07-10/doc-iirczymm1570438.shtml"
     }
   ]
 }
