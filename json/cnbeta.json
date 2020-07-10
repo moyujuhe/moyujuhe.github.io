@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 12:01:18",
+  "time":"2020-07-10 12:05:29",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,10 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"2020年6月数据：TikTok在非游戏类应用下载量榜单中再次登顶",
+      "url":"https://www.cnbeta.com/articles/tech/1001611.htm"
     },
     {
       "name":"[图]Android 11将强制OEM厂商部署虚拟A/B 以更快更无缝升级系统",
@@ -237,10 +241,6 @@
     {
       "name":"[图]Chrome新增Lite Video功能：播放低分辨率视频以节省流量",
       "url":"https://www.cnbeta.com/articles/tech/1001497.htm"
-    },
-    {
-      "name":"美法院拒绝Uniloc在与苹果专利案中提出的封存文件请求",
-      "url":"https://www.cnbeta.com/articles/tech/1001495.htm"
     }
   ]
 }
