@@ -1,5 +1,5 @@
 {
-  "time":"2020-07-10 10:15:47",
+  "time":"2020-07-10 10:20:01",
   "title":"cnBeta",
   "data":[
     {
@@ -9,6 +9,14 @@
     {
       "name":"微软官方商城启动7月促销活动 Surface最高直降2189元",
       "url":"https://url.cnbetacdn.com/HBVU1d"
+    },
+    {
+      "name":"Debian 8 LTS 生命周期已结束",
+      "url":"https://www.cnbeta.com/articles/tech/1001521.htm"
+    },
+    {
+      "name":"Flutter 开始支持构建 Linux 桌面应用，Snap 格式却惹质疑",
+      "url":"https://www.cnbeta.com/articles/tech/1001519.htm"
     },
     {
       "name":"[图]上市5个月装机量破1亿台 Android 10成适配率最快的Android版本",
@@ -233,14 +241,6 @@
     {
       "name":"索尼首次公布PS5游戏封面设计 竟再找不到重要标识",
       "url":"https://hot.cnbeta.com/articles/game/1001407.htm"
-    },
-    {
-      "name":"《纸片马力欧：折纸国王》开场试玩 兄弟二人开赛车",
-      "url":"https://hot.cnbeta.com/articles/game/1001405.htm"
-    },
-    {
-      "name":"世卫组织成立独立小组评估全球疫情应对工作",
-      "url":"https://www.cnbeta.com/articles/tech/1001403.htm"
     }
   ]
 }
